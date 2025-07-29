@@ -19,6 +19,96 @@ http://115.69.40.212:55555/10HD%20Newcastle
 http://115.69.40.212:55555/10Bold
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/10_Comedy.svg/revision/latest?cb=20250629224211",10 Comedy
 http://115.69.40.212:55555/10Peach
+#EXTINF:-1 group-title="Czechia" tvg-id="Disney.Channel.cz",Disney Channel
+https://webstream.odjezdy.online/CZ/Disney/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1200px-%C4%8CT1_logo_2012.svg.png" group-title="Czechia" tvg-id="ČT1.cz",ČT 1
+http://90.178.86.156:9981/stream/channelid/574223968?ticket=2C37D67F2A43D811DCA66C4AF667BDE8989DDC74&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1200px-%C4%8CT2_logo_2012.svg.png" group-title="Czechia" tvg-id="ČT2.cz",ČT 2
+http://90.178.86.156:9981/stream/channelid/731740024?ticket=0A146335289D148963B7BA1177242FFD361777D4&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/%C4%8CT-D_logo.svg" group-title="Czechia" tvg-id="ČT.Déčko.cz",ČT :D (06-20h CET)
+http://90.178.86.156:9981/stream/channelid/1455409598?ticket=ABBD25BF4229B38A07E72DA59CC4D27CB144DC51&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/%C4%8CT_art.svg/250px-%C4%8CT_art.svg.png" group-title="Czechia" tvg-id="ČT.art.cz",ČT Art (20-04h CET)
+http://90.178.86.156:9981/stream/channelid/1455409598?ticket=ABBD25BF4229B38A07E72DA59CC4D27CB144DC51&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/1200px-%C4%8CT24_logo.png" group-title="Czechia" tvg-id="ČT24.cz",ČT 24
+http://90.178.86.156:9981/stream/channelid/966280265?ticket=835C00092C70977AB01308019867D6FD8DB88810&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="Czechia" tvg-id="ČT.Sport.cz",ČT Sport
+http://90.178.86.156:9981/stream/channelid/1745304008?ticket=ACF82485DC378262BD28880929F9F185FB17865F&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prima_2013.svg/250px-Prima_2013.svg.png" group-title="Czechia" tvg-id="Prima.cz",CZ | TV Prima
+http://90.178.86.156:9981/stream/channelid/1669214446?ticket=BDA09228D9A1E3C5444CB168C684A21C7FE37A29&profile=pass
+#EXTINF:-1 group-title="Czechia" tvg-id="Prima.COOL.cz",Prima COOL
+https://webstream.odjezdy.online/CZ/PrimaCool/video.m3u8
+#EXTINF:-1 group-title="Czechia" tvg-id="Prima.Krimi.cz",Prima KRIMI
+http://90.178.86.156:9981/stream/channelid/434374074?ticket=7C393BCECE5427E6BEB3714B4C4B220EC2D33EB5&profile=pass
+#EXTINF:-1 group-title="Czechia" tvg-id="Prima.Show.cz",Prima SHOW
+http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass
+#EXTINF:-1 group-title="Czechia" tvg-id="Óčko.cz",OCKO
+http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass
+#EXTINF:-1 group-title="Czechia" tvg-id="Óčko.STAR.cz",OCKO STAR
+http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass
+#EXTINF:-1 group-title="Czechia" tvg-id="CNN.Prima.News.cz"CNN Prima News
+http://90.178.86.156:9981/stream/channelid/1443888704?ticket=B2AC43F9C197099EE2A723A8B5D26A8402094755&profile=pass
+#EXTINF:-1 group-title="Czechia" tvg-id="TV.Barrandov.cz",TV Barrandov
+http://90.178.86.156:9981/stream/channelid/1149773228?ticket=56A407B3D9D49568B131C27B70C4B903FD070FE5&profile=pass
+#EXTINF:-1 group-title="Czechia" tvg-id="Barrandov.Krimi.cz",Barrandov KRIMI
+http://90.178.86.156:9981/stream/channelid/63674077?ticket=3DD9B00FA8EDFD57654A69FCCB425D310F46D234&profile=pass
+#EXTINF:-1 group-title="Czechia" tvg-id="Kino.Barrandov.cz",Barrandov KINO
+http://90.178.86.156:9981/stream/channelid/468144232?ticket=08EE87AD25F9FBE538875ECAE79A083364326C74&profile=pass
+#EXTINF:-1 group-title="Czechia" tvg-id="JOJ.Family.cz",JOJ Family
+http://90.178.86.156:9981/stream/channelid/1138027461?ticket=6A7B4233441D336AE4221924FDB9BA9BD8FCFA37&profile=pass
+#EXTINF:-1 group-title="Czechia" tvg-id="AMC.cz",AMC
+http://185.236.230.212:9981/play/a0bb
+#EXTINF:-1 group-title="Czechia" tvg-id="Auto.Motor.Sport.cz",AUTOMOTORSPORT HD 
+https://webstream.odjezdy.online/EU/AMSTV/video.m3u8
+#EXTINF:-1 group-title="Czechia"CANAL+ ACTION HD
+http://185.236.230.212:9981/play/a0bw
+#EXTINF:-1 group-title="Czechia",CANAL+ SPORT
+http://185.236.230.212:9981/play/a0bu
+#EXTINF:-1 group-title="Czechia",CARTOON NETWORK 
+http://185.236.230.212:9981/play/a0b7
+#EXTINF:-1 group-title="Czechia",CINEMAX HD 
+http://185.236.230.212:9981/play/a0c0
+#EXTINF:-1 group-title="Czechia" tvg-id="CNN.Prima.News.cz",CNN PRIMA NEWS HD
+http://185.236.230.212:9981/play/a0bf
+#EXTINF:-1 group-title="Czechia" tvg-id="CS.Film.cz",CS FILM
+http://185.236.230.212:9981/play/a0ay
+#EXTINF:-1 group-title="Czechia" tvg-id="CS.History.cz",CS HISTORY
+http://185.236.230.212:9981/play/a0cm
+#EXTINF:-1 group-title="Czechia" tvg-id="CS.Mystery.cz",CS MYSTERY
+http://185.236.230.212:9981/play/a0ch
+#EXTINF:-1 group-title="Czechia",EPIC DRAMA HD CZ/HU/VO
+http://185.236.230.212:9981/play/a0bg
+#EXTINF:-1 group-title="Czechia",FILM EUROPE HD
+http://185.236.230.212:9981/play/a0c1
+#EXTINF:-1 group-title="Czechia",FILMBOX EXTRA HD
+http://185.236.230.212:9981/play/a0c2
+#EXTINF:-1 group-title="Czechia",FILMBOX FAMILY
+http://185.236.230.212:9981/play/a0c5
+#EXTINF:-1 group-title="Czechia",FILMBOX HD
+http://185.236.230.212:9981/play/a0ax
+#EXTINF:-1 group-title="Czechia",HOBBY TV
+http://185.236.230.212:9981/play/a0c4
+#EXTINF:-1 group-title="Czechia",JIMJAM 
+http://185.236.230.212:9981/play/a0c6
+#EXTINF:-1 group-title="Czechia" tvg-id="JOJ.Cinema.cz",JOJ CINEMA HD
+http://185.236.230.212:9981/play/a0cl
+#EXTINF:-1 group-title="Czechia" tvg-id="JOJ.Family.cz",JOJ FAMILY HD
+http://185.236.230.212:9981/play/a0ck
+#EXTINF:-1 group-title="Czechia",j,LALA TV 
+http://185.236.230.212:9981/play/a0by
+#EXTINF:-1 group-title="Czechia",NICK JR 
+http://185.236.230.212:9981/play/a0b4
+#EXTINF:-1 group-title="Czechia" tvg-id="Nickelodeon.cz",NICKELODEON 
+http://185.236.230.212:9981/play/a0co
+#EXTINF:-1 group-title="Czechia" tvg-id="Nicktoons.cz",NICKTOONS 
+http://185.236.230.212:9981/play/a0b9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png" group-title="Czechia",NOVA FUN HD
+http://185.236.230.212:9981/play/a0bk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" group-title="Czechia",NOVA GOLD
+http://185.236.230.212:9981/play/a0bj
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png" group-title="Czechia",NOVA LADY
+http://185.236.230.212:9981/play/a0bl
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Czechia",NOVA SPORT 2 HD
+http://185.236.230.212:9981/play/a0bh
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",IRTÉ One +1
