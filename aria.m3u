@@ -45,5 +45,13 @@ http://185.99.136.50:9981/stream/channelid/339855765?profile=pass
 http://92.114.85.72:8000/play/a0ns
 #EXTINF:-1 group-title="Ireland",Oireachtas TV
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
-#EXTINF:-1 group-title="Ireland",Dublin City TV
+#EXTINF:-1 tvg-logo="" group-title="Ireland",Dublin City TV
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/60029feb-6cd3-892e-165c-1f6b6bc47017.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/2560px-RTL_Luxembourg_2023.svg.png" group-title="Luxembourg",RTL
+https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s" group-title="Luxembourg",RTL ZWEE
+https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/RTL_Gold_LU_%282023%29.svg/revision/latest?cb=20230427131803" group-title="Luxembourg",RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 group-title="Luxembourg",RTL Web Radio TV
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
