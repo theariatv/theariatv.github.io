@@ -27,3 +27,23 @@ http://185.99.136.50:9981/stream/channelid/270592809?profile=pass
 http://185.99.136.50:9981/stream/channelid/996548096?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest?cb=20220529161203" group-title="Ireland",RTÉ Two +1
 http://185.99.136.50:9981/stream/channelid/1549988349?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/RTEjr.svg/revision/latest?cb=20230614135913" group-title="Ireland",IE | RTÉ Jr.
+http://206.212.244.26/live/vasconeves/1742766045/47809.ts
+#EXTINF:-1 group-title="Ireland",TG4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+#EXTINF:-1 group-title="Ireland",Cúla4
+https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main_3000_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-one-ie.png" group-title="Ireland",Virgin Media One
+http://185.99.136.50:9981/stream/channelid/278150264?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-two-ie.png" group-title="Ireland",Virgin Media Two
+http://185.99.136.50:9981/stream/channelid/249903168?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-three-ie.png" group-title="Ireland",Virgin Media Three
+http://185.99.136.50:9981/stream/channelid/458878078?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-four-ie.png" group-title="Ireland",Virgin Media Four
+http://185.99.136.50:9981/stream/channelid/339855765?profile=pass
+#EXTINF:-1 group-title="Ireland",UTV Ireland
+http://92.114.85.72:8000/play/a0ns
+#EXTINF:-1 group-title="Ireland",Oireachtas TV
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:-1 group-title="Ireland",Dublin City TV
+https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/60029feb-6cd3-892e-165c-1f6b6bc47017.m3u8
