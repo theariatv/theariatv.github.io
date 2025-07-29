@@ -109,6 +109,32 @@ http://185.236.230.212:9981/play/a0bj
 http://185.236.230.212:9981/play/a0bl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Czechia",NOVA SPORT 2 HD
 http://185.236.230.212:9981/play/a0bh
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c5/KVF_logo_2019.png/revision/latest?cb=20240211201557" group-title="Faroe Islands",KVF 1
+https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w676428681_b804000_slfao.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="Finland",YLE TV1
+http://87.92.167.221:55555/Yle%20TV1%20HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535" group-title="Finland",YLE TV2
+http://80.221.20.81:9981/stream/channelid/456220597?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1200px-Yle_Teema_%26_Fem.svg.png" group-title="Finland",YLE Teema & Fam
+http://80.221.20.81:9981/stream/channelid/49694262?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MTV3_logo_2019.svg/1200px-MTV3_logo_2019.svg.png" group-title="Finland",mtv3
+https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MTV_Ava_Logo_2022.svg/250px-MTV_Ava_Logo_2022.svg.png" group-title="Finland",MTV Ava
+https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MTV_Sub_Logo_2022.svg/1200px-MTV_Sub_Logo_2022.svg.png" group-title="Finland",MTV Sub
+https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
+#EXTINF:-1 group-title="Finland",Star Channel
+https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/6%27eren_%26_Kutonen_Logo_2024.svg/1200px-6%27eren_%26_Kutonen_Logo_2024.svg.png" group-title="Finland",Kutonen
+https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Kanal_5_%26_TV5_Logo_2024.svg" group-title="Finland",TV5
+https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Frii_Logo_2024.svg" group-title="Finland",Frii
+https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Hero_Finland.svg/revision/latest/scale-to-width-down/300?cb=20210103105806" group-title="Finland",Hero
+https://live-fi.tvkaista.net/hero/live.m3u8?src=freetv
+#EXTINF:-1 group-title="Finland",TLC
+http://80.221.20.81:9981/stream/channelid/22525729?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",IRTÉ One +1
@@ -117,8 +143,6 @@ http://185.99.136.50:9981/stream/channelid/270592809?profile=pass
 http://185.99.136.50:9981/stream/channelid/996548096?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest?cb=20220529161203" group-title="Ireland",RTÉ Two +1
 http://185.99.136.50:9981/stream/channelid/1549988349?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/RTEjr.svg/revision/latest?cb=20230614135913" group-title="Ireland",IE | RTÉ Jr.
-http://206.212.244.26/live/vasconeves/1742766045/47809.ts
 #EXTINF:-1 group-title="Ireland",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:-1 group-title="Ireland",Cúla4
