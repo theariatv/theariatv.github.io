@@ -173,9 +173,33 @@ https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 http://86.85.245.213:9981/stream/channelid/228930093?profile=pass
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo2-nl.png",NL | NPO 2
 http://86.85.245.213:9981/stream/channelid/1091595793?profile=pass
-#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo-zapp-nl.png",NL | NPO Zapp/NPO 3
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/280398
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl4-nl.png",NL | RTL 4
 http://185.236.230.212:9981/play/a0a7
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl5-nl.png",NL | RTL 5
 http://185.236.230.212:9981/play/a0a8
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl7-nl.png",NL | RTL 7
+http://185.236.230.212:9981/play/a0a9
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl8-nl.png",NL | RTL 8
+http://185.236.230.212:9981/play/a0ab
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtlz-nl.png",NL | RTL Z
+http://185.236.230.212:9981/play/a0ae
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-lounge-nl.png",NL | RTL Lounge
+http://130.162.32.84/NL/RTLLounge/index.m3u8
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8616" tvg-id="2873775b4b455d688ceebe2b2ed817dc",TVNZ 1
+https://tv.wyatts-server.com/stream/channelid/1534554920?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8617" tvg-id="be943e8f6dac2667f09eeaeb308e6c62",TVNZ 2
+https://tv.wyatts-server.com/stream/channelid/255759550?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/6816" tvg-id="e76db0e276ca6c0872144209face3fa6",Three
+https://tv.wyatts-server.com/stream/channelid/1655729639?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8619" tvg-id="0af7b5c937da72624ae1ef92d00484bb",TVNZ DUKE
+https://tv.wyatts-server.com/stream/channelid/1236662026?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/6814" tvg-id="2034e0f575394d30879986db918eb064",Sky Open
+https://tv.wyatts-server.com/stream/channelid/1977627680?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8621" tvg-id="cc02633c8f0d0f7c0945de5160e4afd5",Rush
+https://tv.wyatts-server.com/stream/channelid/1013121740?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/6815" tvg-id="f52cf6d5294321bb94a2adcb30ca2d0e",Bravo
+https://tv.wyatts-server.com/stream/channelid/1442196725?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8623" tvg-id="60ead8a7f72119acb3449cf2746e1832",eden
+https://tv.wyatts-server.com/stream/channelid/668527200?profile=pass
+#EXTINF:-1 group-title="New Zealand",Bravo +1
+https://i.mjh.nz/.r/bravo-plus1.m3u8
