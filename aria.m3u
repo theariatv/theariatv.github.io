@@ -19,3 +19,11 @@ http://115.69.40.212:55555/10HD%20Newcastle
 http://115.69.40.212:55555/10Bold
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/10_Comedy.svg/revision/latest?cb=20250629224211",10 Comedy
 http://115.69.40.212:55555/10Peach
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
+http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",IRTÉ One +1
+http://185.99.136.50:9981/stream/channelid/270592809?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest?cb=20220529161203" group-title="Ireland",RTÉ Two
+http://185.99.136.50:9981/stream/channelid/996548096?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest?cb=20220529161203" group-title="Ireland",RTÉ Two +1
+http://185.99.136.50:9981/stream/channelid/1549988349?profile=pass
