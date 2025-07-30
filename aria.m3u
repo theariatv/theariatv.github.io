@@ -231,5 +231,5 @@ https://tv.wyatts-server.com/stream/channelid/668527200?profile=pass
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/a/ab/RTS_1_2014.svg/revision/latest?cb=20230617140939" group-title="Serbia",RTS 1
 https://mob.webtvstream.bhtelecom.ba/rts1.m3u8
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telepedia/images/f/f2/RTS2.png/revision/latest?cb=20221218135017&path-prefix=sr" group-title="Serbia",RTS 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/RTS_2_2014.svg/revision/latest?cb=20180130131828" group-title="Serbia",RTS 2
 https://mob.webtvstream.bhtelecom.ba/rts2.m3u8
