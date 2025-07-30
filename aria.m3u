@@ -19,6 +19,32 @@ http://115.69.40.212:55555/10HD%20Newcastle
 http://115.69.40.212:55555/10Bold
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/10_Comedy.svg/revision/latest?cb=20250629224211",10 Comedy
 http://115.69.40.212:55555/10Peach
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-3-hr.png?raw=true",HRT 3 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-4-hr.png?raw=true",HRT 4 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-hr.png?raw=true",RTL Televizija HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl2-hr.png?raw=true",RTL 2 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/nova-hr.png?raw=true",Nova HD
+https://live.s2.cyn.cz/Nova/video.m3u8
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/doma-hr.png?raw=true",Doma HD
+https://live.s2.cyn.cz/Doma/video.m3u8
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true",Doma HD
+https://live.s2.cyn.cz/RTL_Living_HR/video.m3u8
+#EXTINF:-1 group-title="Croatia" tvg-logo="",MAXtv Promo HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/Promo/default/index.mpd
+#EXTINF:-1 group-title="Croatia" tvg-logo="",N1 info HR (CNN Croatia)
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 #EXTINF:-1 group-title="Czechia" tvg-id="Disney.Channel.cz",Disney Channel
 https://webstream.odjezdy.online/CZ/Disney/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1200px-%C4%8CT1_logo_2012.svg.png" group-title="Czechia" tvg-id="ČT1.cz",ČT 1
@@ -203,26 +229,7 @@ https://tv.wyatts-server.com/stream/channelid/1442196725?profile=pass
 https://tv.wyatts-server.com/stream/channelid/668527200?profile=pass
 #EXTINF:-1 group-title="New Zealand",Bravo +1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-3-hr.png?raw=true",HRT 3 HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-4-hr.png?raw=true",HRT 4 HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-hr.png?raw=true",RTL Televizija HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl2-hr.png?raw=true",RTL 2 HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/nova-hr.png?raw=true",Nova HD
-https://live.s2.cyn.cz/Nova/video.m3u8
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/doma-hr.png?raw=true",Doma HD
-https://live.s2.cyn.cz/Doma/video.m3u8
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true",Doma HD
-https://live.s2.cyn.cz/RTL_Living_HR/video.m3u8
-#EXTINF:-1 group-title="Croatia" tvg-logo="",MAXtv Promo HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/Promo/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="",N1 info HR (CNN Croatia)
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/a/ab/RTS_1_2014.svg/revision/latest?cb=20230617140939" group-title="Serbia",RTS 1
+https://mob.webtvstream.bhtelecom.ba/rts1.m3u8
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telepedia/images/f/f2/RTS2.png/revision/latest?cb=20221218135017&path-prefix=sr" group-title="Serbia",RTS 2
+https://mob.webtvstream.bhtelecom.ba/rts2.m3u8
