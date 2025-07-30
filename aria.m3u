@@ -1,4 +1,20 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png",First Channel America
+https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/hRQwSwnr/1000024588-removebg-preview.png",First Channel News
+https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/1GhzFH2F/1000024586-removebg-preview.png",First Channel International
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 group-title="Austria",Servus Wetterpanorama HD 
+https://dms.redbull.tv/v5/destination/stv/PN2C35800228344/personal_computer/http/at/de_AT/playlist.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/atv-at.png",ATV 
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png",ORF 1 
+https://strm.hdtvizlecanli.com/live/orf1.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png",ORF 2 
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-kids-at.png",ORF Kids 
+https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="ABCAustralia.au",ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png",ABC TV
