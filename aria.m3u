@@ -259,6 +259,46 @@ https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/RTL_Gold_LU_%282023%29.svg/revision/latest?cb=20230427131803" group-title="Luxembourg",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 group-title="Japan",NHK G (Tokyo)
+https://vthanh.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="Japan",NHK G (Osaka)
+https://vthanh.utako.moe/NHKG_Osaka_original/index.m3u8
+#EXTINF:-1 group-title="Japan",NHK E
+https://vthanh.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="Japan",NTV
+https://vthanh.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="Japan",TBS
+https://vthanh.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="Japan",Fuji TV
+https://vthanh.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="Japan",TV Asahi
+https://vthanh.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="Japan",TV Tokyo
+https://vthanh.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Japan",DLife
+https://vthanh.utako.moe/dlife/index.m3u8
+#EXTINF:-1 group-title="Japan",Toei Channel
+https://vthanh.utako.moe/toei/index.m3u8
+#EXTINF:-1 group-title="Japan",Space Shower TV
+https://vthanh.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="Japan",Kayo Pops
+https://vthanh.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 group-title="Japan",MTV
+https://vthanh.utako.moe/mtv/index.m3u
+#EXTINF:-1 group-title="Japan",JSport 1
+https://vthanh.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="Japan",JSport 2
+https://vthanh.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="Japan",JSport 3
+https://vthanh.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="Japan",JSport 4
+https://vthanh.utako.moe/js4/index.m3u8
+#EXTINF:-1 group-title="Japan",Cartoon Network
+https://vthanh.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="Japan",Animax
+https://vthanh.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="Japan",Disney Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4
 #EXTINF:-1 group-title="Luxembourg",RTL Web Radio TV
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Moldova_1_2025.svg/1200px-TV_Moldova_1_2025.svg.png" group-title="Moldova",Moldova 1
@@ -307,11 +347,35 @@ https://tv.wyatts-server.com/stream/channelid/1442196725?profile=pass
 https://tv.wyatts-server.com/stream/channelid/668527200?profile=pass
 #EXTINF:-1 group-title="New Zealand",Bravo +1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-1-pt.png",RTP 1
+http://94.61.151.242:9981/stream/channelid/1661493381?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-2-pt.png",RTP 2
+http://94.61.151.242:9981/stream/channelid/1538805164?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.3.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-3-pt.png",RTP 3
+http://94.61.151.242:9981/stream/channelid/1289785289?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.Maderia.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-maderia-pt.png",RTP Maderia
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48488.ts
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.Memoria.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-memoria-pt.png",RTP Memoria
+http://94.61.151.242:9981/stream/channelid/2112311547?profile=pass
+#EXTINF:-1 tvg-id="AXN.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/axn-pt.png" group-title="Portugal",AXN
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1469
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-pt.png",SIC
+http://94.61.151.242:9981/stream/channelid/937468567?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.K.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-k-pt.png",SIC K
+http://94.61.151.242:9981/stream/channelid/1241709159?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.Radical.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-radical-pt.png",SIC Radical
+http://94.61.151.242:9981/stream/channelid/1379380866?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.Caras.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-caras-pt.png",SIC Caras
+http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.Mulher.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-mulher-pt.png",SIC Mulher
+http://94.61.151.242:9981/stream/channelid/16607114?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.Noticais.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-noticias-pt.png",SIC Noticias
+http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="Globo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/globo-pt.png",Globo
+http://94.61.151.242:9981/stream/channelid/1131975227?profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/a/ab/RTS_1_2014.svg/revision/latest?cb=20230617140939" group-title="Serbia",RTS 1
-#EXTVLCOPT:http-user-agent=Chrome
 https://webtvstream.bhtelecom.ba/hls19/rts1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/RTS_2_2014.svg/revision/latest?cb=20180130131828" group-title="Serbia",RTS 2
-#EXTVLCOPT:http-user-agent=Chrome
 https://webtvstream.bhtelecom.ba/hls19/rts2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/RTS_Svet.svg/revision/latest?cb=20200327134807" group-title="Serbia",RTS Svet
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
@@ -327,3 +391,49 @@ https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Switzerland",RSI La 2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 group-title="Thailand",TH | Boom 
+https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",BBC One
+http://31.121.110.30:4000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",BBC Two
+http://31.121.110.30:4000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="ITV1.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",ITV 1
+http://31.121.110.30:4000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="Channel.4.hd.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png",Channel 4
+http://31.121.110.30:4000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png",5
+http://31.121.110.30:4000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png",BBC Four
+http://31.121.110.30:4000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="ITV2.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png",ITV 2
+http://31.121.110.30:4000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="ITV3.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png",ITV 3
+http://31.121.110.30:4000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="ITV4.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png",ITV 4
+http://31.121.110.30:4000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="ITV.Quiz.HD.uk" group-title="United Kingdom" tvg-logo="https://i.ibb.co/TDtF2ycb/ITV-Quiz-2025.png",ITV Quiz
+http://31.121.110.30:4000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="E4.hd.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-uk.png" group-title="United Kingdom",E4
+http://31.121.110.30:4000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="E4.Extra.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-extra-uk.png" group-title="United Kingdom",E4 Extra
+http://31.121.110.30:4000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/film-4-uk.png" group-title="United Kingdom",Film4
+http://31.121.110.30:4000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/4-seven-uk.png"  group-title="United Kingdom",4seven
+http://31.121.110.30:4000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="Challange.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/challange-uk.png" group-title="United Kingdom",Challange
+http://31.121.110.30:4000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-action-uk.png" group-title="United Kingdom",5ACTION
+http://31.121.110.30:4000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-usa-uk.png" group-title="United Kingdom",5USA
+http://31.121.110.30:4000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="Sky.News.HD.uk" "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png"group-title="United Kingdom",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="United Kingdom",BBC News
+http://31.121.110.30:4000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="GB.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" group-title="United Kingdom",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="TalkTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png" group-title="United Kingdom",Talk TV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-star-uk.png" group-title="United Kingdom",5STAR
+http://31.121.110.30:4000/play/a00r/index.m3u8
