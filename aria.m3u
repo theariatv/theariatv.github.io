@@ -161,6 +161,8 @@ https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
 https://live-fi.tvkaista.net/hero/live.m3u8?src=freetv
 #EXTINF:-1 group-title="Finland",TLC
 http://80.221.20.81:9981/stream/channelid/22525729?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png" group-title="Hungary",Duna
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",IRTÉ One +1
@@ -245,3 +247,15 @@ https://webtvstream.bhtelecom.ba/hls19/rts1.m3u8
 https://webtvstream.bhtelecom.ba/hls19/rts2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/RTS_Svet.svg/revision/latest?cb=20200327134807" group-title="Serbia",RTS Svet
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1200px-Logo_SRF_1.svg.png" group-title="Switzerland",SRF 1
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/250px-Logo_SRF_zwei.svg.png" group-title="Switzerland",SRF 2
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTS_1_Logo_2023.svg/1200px-RTS_1_Logo_2023.svg.png" group-title="Switzerland",RTS 1
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/1200px-RTS_2_Logo_2023.svg.png" group-title="Switzerland",RTS 2
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Switzerland",RSI La 1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Switzerland",RSI La 2
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
