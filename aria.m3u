@@ -261,10 +261,55 @@ https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s" group-title="Luxembourg",RTL ZWEE
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Ireland",Rai 1
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" group-title="Ireland",Rai 2
-https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 group-title="Italy",Rai 1
+https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+#EXTINF:-1 group-title="Italy",Rai 2
+https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 group-title="Italy",Rai 3
+https://cachehsi1a.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+#EXTINF:-1 group-title="Italy",Rai 4
+http://spiritolibero.ddns.net:8080/nicolasuocero/QEVLgaKaVj/114
+#EXTINF:-1 group-title="Italy",Rai 5
+http://spiritolibero.ddns.net:8080/nicolasuocero/QEVLgaKaVj/113
+#EXTINF:-1 group-title="Italy",Rai News 24
+https://cachehsi1a.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:-1 group-title="Italy",Rai Sport
+https://cachehsi1a.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 group-title="Italy",Rai Gulp
+http://spiritolibero.ddns.net:8080/nicolasuocero/QEVLgaKaVj/54
+#EXTINF:-1 group-title="Italy",Rai Movie
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+#EXTINF:-1 group-title="Italy",Rai Storia
+http://spiritolibero.ddns.net:8080/nicolasuocero/QEVLgaKaVj/117
+#EXTINF:-1 group-title="Italy",Rai Premium
+http://spiritolibero.ddns.net:8080/nicolasuocero/QEVLgaKaVj/112
+#EXTINF:-1 group-title="Italy",Rai Yoyo
+http://93.49.98.215:55555/Rai%20YoYo
+#EXTINF:-1 group-title="Italy",Rai Gulp
+https://cachehsi1a.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:-1 group-title="Italy",Rai Scuola
+https://cachehsi1a.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:-1 group-title="Italy",Boing
+https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Italy",Italia 1
+https://cachehsi1a.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+#EXTINF:-1 group-title="Italy",La7
+https://cachehsi1a.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+#EXTINF:-1 group-title="Italy",La7 D
+https://cachehsi1a.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+#EXTINF:-1 group-title="Italy",Video Italia
+https://cachehsi1a.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
+#EXTINF:-1 group-title="Italy",DMAX
+https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+#EXTINF:-1 group-title="Italy",Boing Plus
+http://195.32.117.185:9981/stream/channelid/259728202?profile=pass
+#EXTINF:-1 group-title="Italy",Frisbee
+http://79.51.86.246:9981/stream/channelid/2095879944?profile=pass
+#EXTINF:-1 group-title="Italy",K2
+http://79.51.86.246:9981/stream/channelid/942222505?profile=pass
+#EXTINF:-1 group-title="Italy",Super!
+http://185.236.229.62:9981/play/a08y
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/RTL_Gold_LU_%282023%29.svg/revision/latest?cb=20230427131803" group-title="Luxembourg",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:-1 group-title="Japan",NHK G (Tokyo)
