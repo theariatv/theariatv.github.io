@@ -437,3 +437,25 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-star-uk.png" group-title="United Kingdom",5STAR
 http://31.121.110.30:4000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Spain",La 1 HD
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 group-title="Spain",La 1 Canarias HD
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 group-title="Spain",La 1 Catalunya HD
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:-1 group-title="Spain",La 2 HD
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 group-title="Spain",La 2 Canarias HD
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:-1 group-title="Spain",La 2 Catalunya HD
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 group-title="Spain",Antena 3 HD
+http://185.189.225.150:85/Antena3HD/index.m3u8
+#EXTINF:-1 group-title="Spain",Cuatro HD
+http://185.189.225.150:85/CuatroHD/index.m3u8
+#EXTINF:-1 group-title="Spain",TeleCinco HD
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+#EXTINF:-1 group-title="Spain",La Sexta SD
+http://185.189.225.150:85/LaSexta/index.m3u8
+#EXTINF:-1 group-title="Spain",Movistar Plus SD
+http://185.189.225.150:85/LaSexta/index.m3u8
