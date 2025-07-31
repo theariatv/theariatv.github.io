@@ -261,6 +261,10 @@ https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s" group-title="Luxembourg",RTL ZWEE
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Ireland",Rai 1
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" group-title="Ireland",Rai 2
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/RTL_Gold_LU_%282023%29.svg/revision/latest?cb=20230427131803" group-title="Luxembourg",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:-1 group-title="Japan",NHK G (Tokyo)
