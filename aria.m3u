@@ -13,6 +13,8 @@ https://strm.hdtvizlecanli.com/live/atv.m3u8
 https://strm.hdtvizlecanli.com/live/orf1.m3u8
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png",ORF 2 
 https://strm.hdtvizlecanli.com/live/orf2.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-europe-at.png",ORF 2 Europe 
+http://188.174.204.193:9981/stream/channelid/248337322
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-kids-at.png",ORF Kids 
 https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="ABCAustralia.au",ABC Australia
@@ -229,6 +231,8 @@ https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png" group-title="Hungary",Duna
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+#EXTINF:-1 group-title="International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png",ORF 2 Europe 
+http://188.174.204.193:9981/stream/channelid/248337322
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",IRTÉ One +1
