@@ -262,33 +262,21 @@ https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s" group-title="Luxembourg",RTL ZWEE
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 #EXTINF:-1 group-title="Italy",Rai 1
-https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 #EXTINF:-1 group-title="Italy",Rai 2
-https://cachehsi1a.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:-1 group-title="Italy",Rai 3
-https://cachehsi1a.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
-#EXTINF:-1 group-title="Italy",Rai 4
-http://spiritolibero.ddns.net:8080/nicolasuocero/QEVLgaKaVj/114
-#EXTINF:-1 group-title="Italy",Rai 5
-http://spiritolibero.ddns.net:8080/nicolasuocero/QEVLgaKaVj/113
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 #EXTINF:-1 group-title="Italy",Rai News 24
-https://cachehsi1a.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:-1 group-title="Italy",Rai Sport
-https://cachehsi1a.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:-1 group-title="Italy",Rai Gulp
-http://spiritolibero.ddns.net:8080/nicolasuocero/QEVLgaKaVj/54
-#EXTINF:-1 group-title="Italy",Rai Movie
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 group-title="Italy",Rai Storia
-http://spiritolibero.ddns.net:8080/nicolasuocero/QEVLgaKaVj/117
-#EXTINF:-1 group-title="Italy",Rai Premium
-http://spiritolibero.ddns.net:8080/nicolasuocero/QEVLgaKaVj/112
-#EXTINF:-1 group-title="Italy",Rai Yoyo
-http://93.49.98.215:55555/Rai%20YoYo
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:-1 group-title="Italy",Rai Gulp
-https://cachehsi1a.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:-1 group-title="Italy",Rai Scuola
-https://cachehsi1a.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:-1 group-title="Italy",Boing
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="Italy",Italia 1
