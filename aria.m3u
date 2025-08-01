@@ -352,6 +352,8 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TVCG_MNE_2024_logo.svg/revision/latest?cb=20240406171908" group-title="Montenegro",TVCG MNE
 https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/playlist.m3u8
+#EXTINF:-1 group-title="North Korea" tvg-logo="https://i.ibb.co/4nbQ0Bt1/Logo-of-the-Korean-Central-Television-svg.png",Korea Central Television (KCTV)
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-nl.png",NPO 1
 http://86.85.245.213:9981/stream/channelid/228930093?profile=pass
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo2-nl.png",NPO 2
@@ -388,6 +390,24 @@ https://tv.wyatts-server.com/stream/channelid/1442196725?profile=pass
 https://tv.wyatts-server.com/stream/channelid/668527200?profile=pass
 #EXTINF:-1 group-title="New Zealand",Bravo +1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
+#EXTINF:-1 group-title="New Zealand" tvg-id="ParliamentTV.nz",Parliament TV
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 group-title="New Zealand",Whakaata Māori
+https://d47743dknc7xq.cloudfront.net/out/v1/889d35656a514495a9642ba6dae30962/index_4.m3u8
+#EXTINF:-1 group-title="New Zealand",Te Reo
+https://dfecjp0pnemzw.cloudfront.net/out/v1/17ebe8fca7604907ae99719663dd2519/index_2.m3u8
+#EXTINF:-1 group-title="New Zealand",Sky Sport 1
+https://a1xs.vip/700031
+#EXTINF:-1 group-title="New Zealand",Sky Sport 2
+https://a1xs.vip/700032
+#EXTINF:-1 group-title="New Zealand",Sky Sport 3
+https://a1xs.vip/700033
+#EXTINF:-1 group-title="New Zealand",Sky Sport 4
+https://a1xs.vip/700034
+#EXTINF:-1 group-title="New Zealand",Sky Sport 5
+https://a1xs.vip/700035
+#EXTINF:-1 group-title="New Zealand",Sky Sport 6
+https://a1xs.vip/700036
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-1-pt.png",RTP 1
 http://94.61.151.242:9981/stream/channelid/1661493381?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-2-pt.png",RTP 2
