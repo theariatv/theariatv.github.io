@@ -9,10 +9,12 @@ https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 https://dms.redbull.tv/v5/destination/stv/PN2C35800228344/personal_computer/http/at/de_AT/playlist.m3u8
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/atv-at.png",ATV 
 https://strm.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/atv2-at.png",ATV 2
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png",ORF 1 
-https://strm.hdtvizlecanli.com/live/orf1.m3u8
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png",ORF 2 
-https://strm.hdtvizlecanli.com/live/orf2.m3u8
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-europe-at.png",ORF 2 Europe 
 http://188.174.204.193:9981/stream/channelid/248337322
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-kids-at.png",ORF Kids 
