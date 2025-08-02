@@ -75,6 +75,18 @@ http://94.140.179.76:9981/stream/channelid/797606576?profile=pass
 http://94.140.179.76:9981/stream/channelid/1055186061?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play5-be.png",Play5
 http://94.140.179.76:9981/stream/channelid/1264893039?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
+http://38.143.48.212:9981/stream/channelid/818444930?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png",Bravo
+http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
+http://38.143.48.212:9981/stream/channelid/1520310405?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ottawa-ca.png",CBC Ottawa (CBOT)
+http://38.143.48.212:9981/stream/channelid/677345170?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png",CHCH
+http://38.143.48.212:9981/stream/channelid/834583504?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png",CityTV 
+http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 HD
