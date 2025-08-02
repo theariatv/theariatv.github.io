@@ -281,6 +281,16 @@ http://185.236.230.212:9981/play/a0bj
 http://185.236.230.212:9981/play/a0bl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Czechia",NOVA SPORT 2 HD
 http://185.236.230.212:9981/play/a0bh
+#EXTINF:-1 group-title="Estonia" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/59/Eesti_Televisioon_Logo.png/revision/latest?cb=20240219152102",ETV 
+http://84.50.161.79:9981/stream/channelid/2025167137?ticket=650B2C7C1B12B981D9729DE19A765F8F65946103&profile=pass
+#EXTINF:-1 group-title="Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/ETV2_logo_%282018%29.svg",ETV 2
+http://84.50.161.79:9981/stream/channelid/1803810842?ticket=77888221B66C933CAC1ADF333A20A8D6CD637E5B&profile=pass
+#EXTINF:-1 group-title="Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",ETV +
+http://84.50.161.79:9981/stream/channelid/1005622334?ticket=5EE18E8DB1F5670AC7337D8CA211F09639D3C40C&profile=pass
+#EXTINF:-1 group-title="Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/TV3_Baltics_%282019%29.svg/120px-TV3_Baltics_%282019%29.svg.png",TV3
+http://84.50.161.79:9981/stream/channelid/647532614?ticket=692741F8E05D31A538487995158C3F9EA9D382A6&profile=pass
+#EXTINF:-1 group-title="Estonia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBI7VXv1miLtxf9K7j9yM1jNgfcI_pZYKWrA&s",Kanal 2
+http://84.50.161.79:9981/stream/channelid/598248126?ticket=BAC8C3E854BA45EC12151B21EF3A060EB23CEF41&profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c5/KVF_logo_2019.png/revision/latest?cb=20240211201557" group-title="Faroe Islands",KVF 1
 https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w676428681_b804000_slfao.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="Finland",YLE TV1
