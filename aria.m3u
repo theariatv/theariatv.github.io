@@ -339,11 +339,59 @@ https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Serien%2B_Logo_2023.png" group-title="Germany",Serien+
 http://188.174.204.193:9981/stream/channelid/2070831335?ticket=F651B1353199C50E2F5CC1D7B589207150EE86C9&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png" group-title="Germany",Das Erste HD
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/1024px-ZDF_HD_Logo.svg.png" group-title="Germany",ZDF HD 
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Tv-channel_%E2%94%82_rtl.png" group-title="Germany",RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1200px-RTLZWEI_Logo_2019.svg.png"group-title="Germany",RTL ZWEI
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/250px-VOX_Logo_2013.svg.png" group-title="Germany",VOX
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Nitro_TV-Logo_2017.png" group-title="Germany",NITRO
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTL_Super_Logo_2023.svg/1200px-RTL_Super_Logo_2023.svg.png" group-title="Germany",Super RTL/RTL Super
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/1200px-Tele_5_Logo_2021.svg.png" group-title="Germany",Tele 5
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/ZDFneo_2017.svg" group-title="Germany",ZDFneo
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/330px-ZDFinfo_2011.svg.png" group-title="Germany",ZDFinfo
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/250px-MDR_Logo_2017.svg.png" group-title="Germany",MDR
+https://viamotionhsi.netplus.ch/live/eds/mdr/browser-dash/mdr.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rbb_Logo_2017.08.svg/1200px-Rbb_Logo_2017.08.svg.png" group-title="Germany",RBB
+https://viamotionhsi.netplus.ch/live/eds/rbb/browser-dash/rbb.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ardmediathek.de/img?imwidth=1280&url=https%3A%2F%2Fapi.ardmediathek.de%2Fimage-service%2Fimages%2Furn%3Aard%3Aimage%3Ad0ae198af3ebfbd0%3Fw%3D%7Bwidth%7D%26ch%3D8a9ce656d7e67626" group-title="Germany",SWR BR
+https://viamotionhsi.netplus.ch/live/eds/swrbr/browser-dash/swrbw.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/1200px-Phoenix-logo-2018.svg.png" group-title="Germany",Phoenix 
+https://viamotionhsi.netplus.ch/live/eds/phoenix/browser-dash/phoenix.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Kika_2012.svg" group-title="Germany",KIKA
+https://viamotionhsi.netplus.ch/live/eds/kika/browser-dash/kika.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png" group-title="Germany",Eurosport Deutschland 
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Sport1_2023.svg" group-title="Germany",Sport 1
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ARD-alpha_logo_2019-01-07.svg/2560px-ARD-alpha_logo_2019-01-07.svg.png" group-title="Germany",ARD Alpha
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-dash/bralpha.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/1200px-N-tv_logo-september2017.svg.png" group-title="Germany",n-tv
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/WDR_Dachmarke.svg" group-title="Germany",WDR
+https://viamotionhsi.netplus.ch/live/eds/wdr/browser-dash/wdr.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/1280px-One_TV_Logo.svg.png" group-title="Germany",One
+https://viamotionhsi.netplus.ch/live/eds/onehd/browser-dash/onehd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HR_Logo.svg" group-title="Germany",HR
+https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Germany",Comedy Central 
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1200px-Deluxe_Music_Logo_2019.svg.png" group-title="Germany",Deluxe Music SD
+https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png" group-title="Hungary",Duna
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",IRTÉ One +1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One +1
 http://185.99.136.50:9981/stream/channelid/270592809?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest?cb=20220529161203" group-title="Ireland",RTÉ Two
 http://185.99.136.50:9981/stream/channelid/996548096?profile=pass
