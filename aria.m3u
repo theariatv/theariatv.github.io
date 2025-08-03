@@ -387,6 +387,10 @@ https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1200px-Deluxe_Music_Logo_2019.svg.png" group-title="Germany",Deluxe Music SD
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/05/14121747/RiC-Logo-NEU.jpg" group-title="Germany",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Germany",RiC+
+https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42997d52-337b-4fbe-8693-aa8605f5cfab/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png" group-title="Hungary",Duna
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
