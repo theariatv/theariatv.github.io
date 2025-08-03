@@ -648,10 +648,24 @@ https://webtvstream.bhtelecom.ba/hls19/rts1.m3u8
 https://webtvstream.bhtelecom.ba/hls19/rts2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/RTS_Svet.svg/revision/latest?cb=20200327134807" group-title="Serbia",RTS Svet
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/SVT1_logo_2016.svg",SVT 1
+http://79.136.31.136:9998/stream/channelid/1554111608?ticket=8A1D63CB257CA8D35560E3FBD9E68009A3D19F82&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/SVT2_logo_2016.svg/1200px-SVT2_logo_2016.svg.png",SVT 2
+http://79.136.31.136:9998/stream/channelid/1726626999?ticket=EA70035847C67B4CC832351149993182D1701364&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/SVT24_logotyp.png",SVT 24/SVT Barn
+http://79.136.31.136:9998/stream/channelid/1015548860?ticket=E5BE2E501FEE6DFFD21CAF06E61E80ED5E8A4174&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/1200px-Kunskapskanalen_2017.svg.png",Kunskapskanalen
+http://79.136.31.136:9998/stream/channelid/1466974738?ticket=C43D67E0F189502870E2EB5BF39FAD05405FE6D9&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV3_Sweden_2009_%282%29.svg/800px-TV3_Sweden_2009_%282%29.svg.png",TV3
+http://79.136.31.136:9998/stream/channelid/625178240?ticket=B050FE94CEF1B75DB55439FE328ADB8461376E0E&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/1200px-TV4sweden_logo.svg.png",TV4
+http://79.136.31.136:9998/stream/channelid/912272936?ticket=C07C8A24B1B0264ABB5D1F0C9EDE2177179E84D1&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1200px-Logo_SRF_1.svg.png" group-title="Switzerland",SRF 1
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/250px-Logo_SRF_zwei.svg.png" group-title="Switzerland",SRF 2
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/1200px-Logo_SRF_info.svg.png",SRF Info
+https://viamotionhsi.netplus.ch/live/eds/srfinfohd/browser-dash/srfinfohd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTS_1_Logo_2023.svg/1200px-RTS_1_Logo_2023.svg.png" group-title="Switzerland",RTS 1
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/1200px-RTS_2_Logo_2023.svg.png" group-title="Switzerland",RTS 2
@@ -664,7 +678,7 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png" group-title="Türkyie",aTV
 http://92.44.60.75:81/stream/channelid/418740200?ticket=E6DC6387AD9363FE491B61BA80E17B7E8D10E217&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png" group-title="Turkyie",a2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png" group-title="Türkyie",a2
 http://92.44.60.75:81/stream/channelid/1592189257?ticket=446D232FB27B399B9E69CB23208660BA77C3C8FC&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png" group-title="Türkyie",Kanal D
 http://92.44.60.75:81/stream/channelid/2089362198?ticket=B099DF4AD251AFAB99D5FE331F28882DB88BEF99&profile=pass
