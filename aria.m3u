@@ -349,10 +349,22 @@ https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/250px-VOX_Logo_2013.svg.png" group-title="Germany",VOX
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/3sat_2019.svg" group-title="Germany",3sat
+http://188.174.204.193:9981/stream/channelid/145333733?ticket=F79768DF7084D7488823B1E887EAFE9F8D560E8E&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Nitro_TV-Logo_2017.png" group-title="Germany",NITRO
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/archive/2/23/20210912232558%21RTL_UP_Logo_2021.png" group-title="Germany",RTL Up
+http://188.174.204.193:9981/stream/channelid/1011369246?ticket=C962EC69B164A4DDBB4AE5AAE70F3B37D5DB5948&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTL_Super_Logo_2023.svg/1200px-RTL_Super_Logo_2023.svg.png" group-title="Germany",Super RTL/RTL Super
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="Germany",SAT.1
+http://188.174.204.193:9981/stream/channelid/447331697?ticket=2912E264E55183B5601ADB59C58EC99A74CE152B&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Sat.1_Gold_%282019-.n.v.%29.png/revision/latest?cb=20190204165042" group-title="Germany",SAT.1 GOLD
+http://188.174.204.193:9981/stream/channelid/659393625?ticket=7FE8B65B9A9E1527614835E7B0C9ACCA80866083&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ProSieben_Logo_2015.svg" group-title="Germany",ProSieben
+http://188.174.204.193:9981/stream/channelid/652024485?ticket=E30C310934CD484477C23C661C1EDE74B804A44E&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/ProSieben_MAXX_Logo.svg" group-title="Germany",ProSieben MAXX
+http://188.174.204.193:9981/stream/channelid/1305579254?ticket=7387F5B2858BBB415AD0D509FA2C8DFC0803C1FA&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/1200px-Tele_5_Logo_2021.svg.png" group-title="Germany",Tele 5
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/ZDFneo_2017.svg" group-title="Germany",ZDFneo
@@ -391,8 +403,16 @@ https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mp
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Germany",RiC+
 https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42997d52-337b-4fbe-8693-aa8605f5cfab/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title="Germany",Disney Channel 
+http://188.174.204.193:9981/stream/channelid/1835918790?ticket=411B443C3EAED84BC3A9F2ED3383F3C75B0C219F&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="Germany",Nickelodeon/Comedy Central +1
+http://188.174.204.193:9981/stream/channelid/1698052554?ticket=E1ADD58BDFA481A495300D6B15CC403F8981AE15&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png" group-title="Hungary",Duna
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/M2_%282022-%29.png" group-title="Hungary",M2
+http://195.189.60.31:8003/play/a0f1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/M5logo.png" group-title="Hungary",M5
+http://195.189.60.31:8003/play/a0cl
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One +1
