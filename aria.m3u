@@ -740,6 +740,22 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-star-uk.png" group-title="United Kingdom",5STAR
 http://31.121.110.30:4000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png",HGTV
+http://31.121.110.30:4000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/800px-Food_Network_logo.svg.png",Food Network 
+http://31.121.110.30:4000/play/a012/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png",DMAX
+http://31.121.110.30:4000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/That%27s_TV_logo.png",That's TV 1
+http://31.121.110.30:4000/play/a019/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/That%27s_TV_2.svg/revision/latest?cb=20240103151500",That's TV 2
+http://31.121.110.30:4000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/That%27s_TV_3.svg/revision/latest/scale-to-width-down/300?cb=20240820091117",That's TV 3
+http://31.121.110.30:4000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png",Sky Arts
+http://31.121.110.30:4000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://www.pbsamerica.co.uk/wp-content/themes/pbs-2022/img/logo.png",PBS America
+http://31.121.110.30:4000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="United States",TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="United States",TNT
