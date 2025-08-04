@@ -632,8 +632,6 @@ http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
 http://94.61.151.242:9981/stream/channelid/1131975227?profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/6/62/Cartoon_Network_South_Korea.png/revision/latest?cb=20191113004608" group-title="South Korea" tvg-logo="",Cartoon Network
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=EZYDWDyS1Bw7xiDHQvH0k39UGRrzeEZKFmbKHj7s&secret=afcfe5f046e1218d3cc5b160b4d5118b&time=1749703097
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South Korea" tvg-logo="",Mnet
-http://124.80.55.164:9981/stream/channelid/514083274?profile=pass
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="712b72f52504133103fbaaea8210d5f9",KBS 1TV [Not 24/7]
 http://121.143.97.131:9981/stream/channelid/1970416497?profile=pass
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" tvg-id="565bb62dc52849cbf4cbd406b6bbdebc" tvg-chno="1",KBS 2TV [Not 24/7]
@@ -648,6 +646,14 @@ http://121.143.97.131:9981/stream/channelid/430628735?profile=pass
 http://121.143.97.131:9981/stream/channelid/1606239943?profile=pass
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" tvg-id="0aa9cafc3c1f4edb31730ccce4573fb0",KBS Story 
 http://121.143.97.131:9981/stream/channelid/2093656330?profile=pass
+#EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png",EBS 1 [Not 24/7]
+http://121.143.97.131:9981/stream/channelid/1363616043?profile=pass
+#EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/1280px-EBS_2_logo.svg.png",EBS 2 [Not 24/7]
+http://121.143.97.131:9981/stream/channelid/985201254?profile=pass
+#EXTINF:-1 group-title="South Korea" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/EBS_kids.svg/revision/latest?cb=20201221111923",EBS Kids [Not 24/7]
+http://121.143.97.131:9981/stream/channelid/1357549621?profile=pass
+#EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/EBS_English_logo.svg/2560px-EBS_English_logo.svg.png",EBS English [Not 24/7]
+http://121.143.97.131:9981/stream/channelid/1127058296?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/la-1-es.png" group-title="Spain",La 1 HD
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/la-1-es.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/la-1-es.png" group-title="Spain",La 1 Canarias HD
