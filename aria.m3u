@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 group-title="TEST" tvg-logo="",TEST
+https://theariatv.github.io/aria.mp4
 #EXTINF:-1 group-title="👁 Aria Presents: Big Brother Live Feeds 👁"tvg-logo="https://www.mlive.com/resizer/v2/CZFFHH7NCZFRJPMN3S3SBBEGNI.png?auth=7860b93720e9434e35de6aaff131cacac3c95e35543b7f5a7f129e535f87991f&width=1280&quality=90",Big Brother LF: Quad View
 https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535928-1/playlist.m3u8
 #EXTINF:-1 group-title="👁 Aria Presents: Big Brother Live Feeds 👁"tvg-logo="https://www.mlive.com/resizer/v2/CZFFHH7NCZFRJPMN3S3SBBEGNI.png?auth=7860b93720e9434e35de6aaff131cacac3c95e35543b7f5a7f129e535f87991f&width=1280&quality=90",Big Brother LF: Feed #1
