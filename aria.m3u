@@ -50,13 +50,13 @@ http://115.69.40.212:55555/SBS%20ONE%20HD
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/10_2025.svg/revision/latest?cb=20250629224708",Network 10
 http://115.69.40.212:55555/10HD%20Newcastle
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/10_Drama.svg/revision/latest?cb=20250629224211",10 Drama
-http://115.69.40.212:55555/10Bold
+https://theariatv.github.io/aria.mp4
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/10_Comedy.svg/revision/latest?cb=20250629224211",10 Comedy
-http://115.69.40.212:55555/10Peach
+https://theariatv.github.io/aria.mp4
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Seven_%282003%29.svg/revision/latest?cb=20210502163741",7 Network
 http://115.69.40.212:55555/7HD%20Newcastle
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516",7two
-http://115.69.40.212:55555/7two%20Newcastle
+https://theariatv.github.io/aria.mp4
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/7mate_2020.svg/revision/latest?cb=20200710160634",7mate
 http://115.69.40.212:55555/7mateHD%20Newcastle
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/7flix_2020.svg/revision/latest?cb=20200728124851",7flix
