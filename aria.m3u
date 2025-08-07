@@ -29,7 +29,7 @@ https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png",ORF 2 
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
-#EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orfiii-at.png",ORF III
+#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/330px-ORF_III_Logo_Monochrom.svg.png",ORF III
 http://212.95.30.186:9981/stream/channelid/817337321?profile=pass
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-kids-at.png",ORF Kids 
 https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
@@ -429,10 +429,22 @@ http://77.49.52.36:666/stream/channelid/995341409?ticket=DA9B5B822956CD539643D4A
 http://77.49.52.36:666/stream/channelid/1499176004?ticket=7A557986213E729EEA5522FB1F01942B91FB0FD0&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png",ERT 3
 http://31.121.110.30:4000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/ERT_News_%282022%29.svg/revision/latest/scale-to-width-down/284?cb=20230818083854",ERT News
+http://77.49.52.36:666/stream/channelid/602121040?ticket=B2DE76115C49D7DCFBF5DCD98AF9410AA402F192&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg",ANT1
 http://31.121.110.30:4000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png",Alpha
+http://77.49.52.36:666/stream/channelid/1580933784?ticket=12FDDD79056488677DD222C4FE99886B54AF0A75&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skai_TV_logo.svg/1200px-Skai_TV_logo.svg.png",Skai TV
 http://31.121.110.30:4000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mega_channel_logo.svg/2560px-Mega_channel_logo.svg.png",MEGA
+http://77.49.52.36:666/stream/channelid/127572322?ticket=6F58E5DBF9F0E0924C78CF5DD36C47267E3444F0&profile=pass
+#EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg.png",Star
+http://77.49.52.36:666/stream/channelid/1724988607?ticket=41A3F30B836DA807255B48309EB7C53BD19A1066&profile=pass
+#EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png",OPEN Beyond 
+http://77.49.52.36:666/stream/channelid/2093067483?ticket=F98CF5C4D5E1D1EF2786AF19B446DE7C924503E1&profile=pass
+#EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon 
+http://77.49.52.36:666/stream/channelid/332003718?ticket=AFF6DDA20F5D97BDD77B228E12377CCCB7B42250&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png" group-title="Hungary",Duna
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/M2_%282022-%29.png" group-title="Hungary",M2
@@ -465,8 +477,10 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/60029feb-6cd3-892e-165c-1f6b6bc47017.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/960px-KBS_World_%282009%29.svg.png",KBS World
 http://121.143.97.131:9981/stream/channelid/576334703?profile=pass
-#EXTINF:-1 group-title="International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-europe-at.png",ORF 2 Europe 
+#EXTINF:-1 group-title="International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png",ORF 2 Europe 
 http://188.174.204.193:9981/stream/channelid/248337322
+#EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/New_rik-sat-logo.png/revision/latest?cb=20240329211507",RIK Sat
+http://77.49.52.36:666/stream/channelid/156817259?ticket=16707AF51E6DB5C7167EEE238A61A6E3E816EF1F&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/2560px-RTL_Luxembourg_2023.svg.png" group-title="Luxembourg",RTL
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s" group-title="Luxembourg",RTL ZWEE
