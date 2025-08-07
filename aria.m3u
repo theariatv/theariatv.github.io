@@ -423,8 +423,10 @@ https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/master/611d79b11b77e2f5
 http://188.174.204.193:9981/stream/channelid/1835918790?ticket=411B443C3EAED84BC3A9F2ED3383F3C75B0C219F&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="Germany",Nickelodeon/Comedy Central +1
 http://188.174.204.193:9981/stream/channelid/1698052554?ticket=E1ADD58BDFA481A495300D6B15CC403F8981AE15&profile=pass
+#EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png",ERT 1
+http://77.49.52.36:666/stream/channelid/995341409?ticket=DA9B5B822956CD539643D4ABF71979EB4E03DC1B&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png",ERT 2
-http://31.121.110.30:4000/play/a02a/index.m3u8
+http://77.49.52.36:666/stream/channelid/1499176004?ticket=7A557986213E729EEA5522FB1F01942B91FB0FD0&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png",ERT 3
 http://31.121.110.30:4000/play/a029/index.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg",ANT1
