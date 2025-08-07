@@ -481,6 +481,8 @@ http://121.143.97.131:9981/stream/channelid/576334703?profile=pass
 http://188.174.204.193:9981/stream/channelid/248337322
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/New_rik-sat-logo.png/revision/latest?cb=20240329211507",RIK Sat
 http://77.49.52.36:666/stream/channelid/156817259?ticket=16707AF51E6DB5C7167EEE238A61A6E3E816EF1F&profile=pass
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/RTS_Svet.svg/revision/latest?cb=20200327134807" group-title="International",RTS Svet
+https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/2560px-RTL_Luxembourg_2023.svg.png" group-title="Luxembourg",RTL
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s" group-title="Luxembourg",RTL ZWEE
@@ -708,8 +710,6 @@ http://185.189.225.150:85/LaSexta/index.m3u8
 https://webtvstream.bhtelecom.ba/hls19/rts1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/RTS_2_2014.svg/revision/latest?cb=20180130131828" group-title="Serbia",RTS 2
 https://webtvstream.bhtelecom.ba/hls19/rts2.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/RTS_Svet.svg/revision/latest?cb=20200327134807" group-title="Serbia",RTS Svet
-https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/SVT1_logo_2016.svg",SVT 1
 http://79.136.31.136:9998/stream/channelid/1554111608?ticket=8A1D63CB257CA8D35560E3FBD9E68009A3D19F82&profile=pass
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/SVT2_logo_2016.svg/1200px-SVT2_logo_2016.svg.png",SVT 2
