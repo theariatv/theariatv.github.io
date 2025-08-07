@@ -342,7 +342,7 @@ https://live-fi.tvkaista.net/hero/live.m3u8?src=freetv
 #EXTINF:-1 group-title="Finland",TLC
 http://80.221.20.81:9981/stream/channelid/22525729?profile=pass
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="France",TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1/browser-dash/tf1.mpd
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png" group-title="France",France 2
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" group-title="France",France 3
@@ -483,9 +483,9 @@ http://188.174.204.193:9981/stream/channelid/248337322
 http://77.49.52.36:666/stream/channelid/156817259?ticket=16707AF51E6DB5C7167EEE238A61A6E3E816EF1F&profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/RTS_Svet.svg/revision/latest?cb=20200327134807" group-title="International",RTS Svet
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
-#EXTINF:-1 group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",Al Jazeera 
+#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",Al Jazeera 
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp",BBC World News
+#EXTINF:-1 group-title="International" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp",BBC World News
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/1200px-BVN_logo.svg.png",BVN
 https://hometv.andismirre.de/stream/channelid/1082005020?profile=ffmpeg
