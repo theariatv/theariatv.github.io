@@ -309,6 +309,14 @@ http://185.236.230.212:9981/play/a0bj
 http://185.236.230.212:9981/play/a0bl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Czechia",NOVA SPORT 2 HD
 http://185.236.230.212:9981/play/a0bh
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/denmark/dr1-dk.png" group-title="Denmark",DR 1
+http://86.52.58.131:9981/stream/channelid/964566561?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/denmark/dr2-dk.png" group-title="Denmark",DR 2
+http://86.52.58.131:9981/stream/channelid/931180474?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/denmark/dr-ramasjang-dk.png" group-title="Denmark",DR Ramasjang
+http://86.52.58.131:9981/stream/channelid/516996259?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/denmark/bbc-nodric-dk.png" group-title="Denmark",BBC Nodric 
+
 #EXTINF:-1 group-title="Estonia" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/59/Eesti_Televisioon_Logo.png/revision/latest?cb=20240219152102",ETV 
 http://84.50.161.79:9981/stream/channelid/2025167137?ticket=650B2C7C1B12B981D9729DE19A765F8F65946103&profile=pass
 #EXTINF:-1 group-title="Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/ETV2_logo_%282018%29.svg",ETV 2
