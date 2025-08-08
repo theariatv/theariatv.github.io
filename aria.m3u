@@ -94,7 +94,11 @@ http://94.140.179.76:9981/stream/channelid/1264893039?profile=pass
 #EXTINF:-1 tvg-id="TV.Cultura.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tv-cultura-br.png" group-title="Brazil",TV Cultura 
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sbt-br.png" group-title="Brazil",SBT
-https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/cd7b6c2a-800f-410a-9157-85d2779d820d/3.m3u8
+http://200.77.176.130:8000/udp/224.0.0.2:49152
+#EXTINF:-1 tvg-id="TV.Globo.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tv-globo-br.png" group-title="Brazil",SBT
+http://200.77.176.130:8000/udp/224.0.0.1:49152
+#EXTINF:-1 tvg-id="Record.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-br.png" group-title="Brazil",SBT
+http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 group-title="Canada" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
 http://38.143.48.212:9981/stream/channelid/818444930?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png",Bravo
