@@ -318,7 +318,7 @@ http://86.52.58.131:9981/stream/channelid/516996259?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Nordic_2023.svg/1200px-BBC_Nordic_2023.svg.png" group-title="Denmark",BBC Nordic
 http://86.52.58.131:9981/stream/channelid/982754499?profile=pass
 #EXTINF:-1 group-title="Estonia" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/59/Eesti_Televisioon_Logo.png/revision/latest?cb=20240219152102",ETV 
-http://84.50.161.79:9981/stream/channelid/2025167137?ticket=650B2C7C1B12B981D9729DE19A765F8F65946103&profile=pass
+http://84.50.161.79:9981/stream/channelid/102111302?ticket=D9DC0134FD558A4AB7700F58FDCF5B3C104B0D06&profile=pass
 #EXTINF:-1 group-title="Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/ETV2_logo_%282018%29.svg",ETV 2
 http://84.50.161.79:9981/stream/channelid/1803810842?ticket=77888221B66C933CAC1ADF333A20A8D6CD637E5B&profile=pass
 #EXTINF:-1 group-title="Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",ETV +
