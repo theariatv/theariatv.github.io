@@ -404,7 +404,7 @@ https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/250px-VOX_Logo_2013.svg.png" group-title="Germany",VOX
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/3sat_2019.svg" group-title="Germany",3sat
-http://188.174.204.193:9981/stream/channelid/145333733?ticket=F79768DF7084D7488823B1E887EAFE9F8D560E8E&profile=pass
+http://77.23.37.6:9981/stream/channelid/1207894808?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Nitro_TV-Logo_2017.png" group-title="Germany",NITRO
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/archive/2/23/20210912232558%21RTL_UP_Logo_2021.png" group-title="Germany",RTL Up
@@ -414,11 +414,11 @@ https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="Germany",SAT.1
 http://188.174.204.193:9981/stream/channelid/447331697?ticket=2912E264E55183B5601ADB59C58EC99A74CE152B&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Sat.1_Gold_%282019-.n.v.%29.png/revision/latest?cb=20190204165042" group-title="Germany",SAT.1 GOLD
-http://188.174.204.193:9981/stream/channelid/659393625?ticket=7FE8B65B9A9E1527614835E7B0C9ACCA80866083&profile=pass
+http://77.23.37.6:9981/stream/channelid/1175389372?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ProSieben_Logo_2015.svg" group-title="Germany",ProSieben
-http://188.174.204.193:9981/stream/channelid/652024485?ticket=E30C310934CD484477C23C661C1EDE74B804A44E&profile=pass
+http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/ProSieben_MAXX_Logo.svg" group-title="Germany",ProSieben MAXX
-http://188.174.204.193:9981/stream/channelid/1305579254?ticket=7387F5B2858BBB415AD0D509FA2C8DFC0803C1FA&profile=pass
+http://77.23.37.6:9981/stream/channelid/89390492?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/1200px-Tele_5_Logo_2021.svg.png" group-title="Germany",Tele 5
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/ZDFneo_2017.svg" group-title="Germany",ZDFneo
@@ -458,9 +458,9 @@ https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Germany",RiC+
 https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42997d52-337b-4fbe-8693-aa8605f5cfab/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title="Germany",Disney Channel 
-http://188.174.204.193:9981/stream/channelid/1835918790?ticket=411B443C3EAED84BC3A9F2ED3383F3C75B0C219F&profile=pass
+http://77.23.37.6:9981/stream/channelid/1113354788?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="Germany",Nickelodeon/Comedy Central +1
-http://188.174.204.193:9981/stream/channelid/1698052554?ticket=E1ADD58BDFA481A495300D6B15CC403F8981AE15&profile=pass
+http://77.23.37.6:9981/stream/channelid/58190975?profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png",ERT 1
 http://77.49.52.36:666/stream/channelid/995341409?ticket=DA9B5B822956CD539643D4ABF71979EB4E03DC1B&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png",ERT 2
