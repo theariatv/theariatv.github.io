@@ -187,6 +187,32 @@ http://38.143.48.212:9981/stream/channelid/984041359?profile=pass
 http://38.143.48.212:9981/stream/channelid/1265777165?profile=pass
 #EXTINF:-1 group-title="Canada",Weather Network
 http://38.143.48.212:9981/stream/channelid/524858336?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png",CCTV-1
+http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png",CCTV-2
+http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CCTV-3_%E7%BB%BC%E8%89%BA.svg/revision/latest?cb=20230514004707",CCTV-3
+http://58.19.180.108:9981/stream/channelid/188040143?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-5
+http://58.19.180.108:9981/stream/channelid/908622330?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-6
+http://58.19.180.108:9981/stream/channelid/115694977?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-7
+http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-8
+http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-9
+http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-10
+http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-11
+http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-12
+http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-13
+http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV-14
+http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 HD
@@ -501,6 +527,8 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/1200px-BVN_logo.svg.png",BVN
 https://hometv.andismirre.de/stream/channelid/1082005020?profile=ffmpeg
+#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",CCTV-4
+http://58.19.180.108:9981/stream/channelid/1411564127?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Cubavisi%25_3FnIntl2022.webp/revision/latest?cb=20230723155246",Cubavision Internacional 
 https://hometv.andismirre.de/stream/channelid/1530919155?profile=ffmpeg
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/HRT_International_logo.png",HRT International
