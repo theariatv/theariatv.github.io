@@ -778,6 +778,8 @@ http://79.136.31.136:9998/stream/channelid/1466974738?ticket=C43D67E0F189502870E
 http://79.136.31.136:9998/stream/channelid/625178240?ticket=B050FE94CEF1B75DB55439FE328ADB8461376E0E&profile=pass
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/1200px-TV4sweden_logo.svg.png",TV4
 http://79.136.31.136:9998/stream/channelid/912272936?ticket=C07C8A24B1B0264ABB5D1F0C9EDE2177179E84D1&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/TV_Finland_logo.png",TV Finland
+http://2.70.66.155:81/stream/channelid/456629462?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1200px-Logo_SRF_1.svg.png" group-title="Switzerland",SRF 1
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/250px-Logo_SRF_zwei.svg.png" group-title="Switzerland",SRF 2
