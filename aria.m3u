@@ -133,7 +133,7 @@ http://94.140.179.76:9981/stream/channelid/1055186061?profile=pass
 http://94.140.179.76:9981/stream/channelid/1264893039?profile=pass
 #EXTINF:-1 tvg-id="TV.Cultura.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tv-cultura-br.png" group-title="Brazil",TV Cultura 
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="SBT.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sbt-br.png" group-title="Brazil",SBT
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Brazil",SBT
 http://200.77.176.130:8000/udp/224.0.0.2:49152
 #EXTINF:-1 tvg-id="TV.Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Brazil",Globo
 http://200.77.176.130:8000/udp/224.0.0.1:49152
