@@ -91,6 +91,24 @@ http://115.69.40.212:55555/9GemHD%20Newcastle
 http://115.69.40.212:55555/9Life%20Newcastle
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/9-rush-au.png",9Rush
 http://44.32.200.212:5004/auto/v96
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="Australia",Fox Sports 501 
+https://a1xs.vip/700001
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="Australia",Fox Sports 502 
+https://a1xs.vip/700002
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="Australia",Fox Sports 503 
+https://a1xs.vip/700003
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="Australia",Fox Sports 504 
+https://a1xs.vip/700004
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="https://i.imgur.com/angJkah.png" group-title="Australia",Fox Sports 505 
+https://a1xs.vip/700005
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 FHD" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="Australia",Fox Sports 506 
+https://a1xs.vip/700006
+#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="Australia",Fox Sports 507 
+https://a1xs.vip/700007
+#EXTINF:-1 tvg-id="Optus.Sport.1.au" tvg-name="Optus Sports 1" tvg-logo="https://pixvid.org/images/2025/02/25/Optus_Sport.png" group-title="Australia",Optus Sports 1
+https://a1xs.vip/700010
+#EXTINF:-1 tvg-id="Optus.Sport.2.au" tvg-name="Optus Sports 2" tvg-logo="https://pixvid.org/images/2025/02/25/Optus_Sport.png" group-title="Australia",Optus Sports 2
+https://a1xs.vip/700011
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vrt-1-be.png",VRT 1
 http://82.159.175.201:9981/stream/channelid/21272943?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vrt-canvas-be.png",VRT Canvas
