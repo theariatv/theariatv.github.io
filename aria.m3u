@@ -458,7 +458,7 @@ https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Germany",RiC+
 https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42997d52-337b-4fbe-8693-aa8605f5cfab/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title="Germany",Disney Channel 
-http://77.23.37.6:9981/stream/channelid/1113354788?profile=pass
+http://77.23.37.6:9981/stream/channelid/907988442?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="Germany",Nickelodeon/Comedy Central +1
 http://77.23.37.6:9981/stream/channelid/58190975?profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png",ERT 1
