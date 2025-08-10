@@ -35,8 +35,6 @@ https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 http://212.95.30.186:9981/stream/channelid/817337321?profile=pass
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-kids-at.png",ORF Kids 
 https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
-#EXTINF:-1 group-title="Australia" tvg-id="ABCAustralia.au",ABC Australia
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png",ABC TV
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png",ABC Entertains
@@ -51,9 +49,9 @@ https://c.mjh.nz/abc-news.m3u8
 http://115.69.40.212:55555/SBS%20ONE%20HD
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-viceland-au.png",SBS Viceland
 http://44.32.200.212:5004/auto/v31
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-worldwatch-au.png",SBS World Watch
+#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png",SBS World Watch
 http://44.32.200.212:5004/auto/v35
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-worldmovie-au.png",SBS World Movie
+#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movie-au.png",SBS World Movie
 http://44.32.200.212:5004/auto/v32
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nitv-au.png",NITV
 http://44.32.200.212:5004/auto/v34
@@ -67,7 +65,7 @@ https://theariatv.github.io/aria.mp4
 http://44.32.200.212:5004/auto/v13
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/you-tv-au.png",You TV
 http://44.32.200.212:5004/auto/v16
-#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/gecko-au.png",Gecko 
+#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/gecko-tv-au.png",Gecko 
 http://44.32.200.212:5004/auto/v17
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Seven_%282003%29.svg/revision/latest?cb=20210502163741",7 Network
 http://115.69.40.212:55555/7HD%20Newcastle
