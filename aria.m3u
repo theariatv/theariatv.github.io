@@ -35,11 +35,11 @@ http://212.95.30.186:9981/stream/channelid/817337321?profile=pass
 https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
 #EXTINF:-1 group-title="Austria" tvg-id="ServusTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/servus-tv-at.png" ,ServusTV HD
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
-#EXTINF:-1 group-title="Austria tvg-id="Tirol TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/tirol-tv-at.png" ,Tirol TV
+#EXTINF:-1 group-title="Austria" tvg-id="Tirol TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/tirol-tv-at.png" ,Tirol TV
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
-#EXTINF:-1 group-title="Austria tvg-id="ProSieben Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/prosieben-austria-at.png" ,ProSieben Austria
+#EXTINF:-1 group-title="Austria" tvg-id="ProSieben Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/prosieben-austria-at.png" ,ProSieben Austria
 https://hometv.andismirre.de/stream/channelid/446007160?profile=ffmpeg
-#EXTINF:-1 group-title="Austria tvg-id="Kabel Eins Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/kabel-eins-austria-at.png" ,Kabel Eins Austria
+#EXTINF:-1 group-title="Austria" tvg-id="Kabel Eins Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/kabel-eins-austria-at.png" ,Kabel Eins Austria
 https://hometv.andismirre.de/stream/channelid/446007160?profile=ffmpeg
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png",ABC TV
 https://c.mjh.nz/abc-nsw.m3u8
