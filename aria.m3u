@@ -485,10 +485,22 @@ http://77.49.52.36:666/stream/channelid/2093067483?ticket=F98CF5C4D5E1D1EF2786AF
 http://77.49.52.36:666/stream/channelid/332003718?ticket=AFF6DDA20F5D97BDD77B228E12377CCCB7B42250&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png" group-title="Hungary",Duna
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png" group-title="Hungary",M1
+http://91.83.3.236:9981/stream/channelid/584557813?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/M2_%282022-%29.png" group-title="Hungary",M2
 http://195.189.60.31:8003/play/a0f1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png" group-title="Hungary",M4 Sport
+http://91.83.3.236:9981/stream/channelid/473690653?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/M5logo.png" group-title="Hungary",M5
 http://195.189.60.31:8003/play/a0cl
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/RTL_Hungary_2022.png" group-title="Hungary",RTL 
+http://91.83.3.236:9981/stream/channelid/1042465700?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/RTL_Kett%C5%91_%282022%2C_stacked%29.svg/1200px-RTL_Kett%C5%91_%282022%2C_stacked%29.svg.png" group-title="Hungary",RTL Kettő
+http://91.83.3.236:9981/stream/channelid/1286171467?profile=pass
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/RTL_Gold_LU_%282023%29.svg/revision/latest?cb=20230427131803" group-title="Hungary",RTL Gold
+http://91.83.3.236:9981/stream/channelid/69285422?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTL_H%C3%A1rom_%282022%2C_stacked%29.svg/1200px-RTL_H%C3%A1rom_%282022%2C_stacked%29.svg.png" group-title="Hungary",RTL Három 
+http://91.83.3.236:9981/stream/channelid/446160286?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One +1
