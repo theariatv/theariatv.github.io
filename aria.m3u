@@ -31,15 +31,17 @@ https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/330px-ORF_III_Logo_Monochrom.svg.png",ORF III
 http://212.95.30.186:9981/stream/channelid/817337321?profile=pass
+#EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-sport+-at.png",ORF Sport+
+http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-kids-at.png",ORF Kids 
 https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
 #EXTINF:-1 group-title="Austria" tvg-id="ServusTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/servus-tv-at.png" ,ServusTV HD
-https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
-#EXTINF:-1 group-title="Austria" tvg-id="Tirol TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/tirol-tv-at.png" ,Tirol TV
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
-#EXTINF:-1 group-title="Austria" tvg-id="ProSieben Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/prosieben-austria-at.png" ,ProSieben Austria
+#EXTINF:-1 group-title="Austria" tvg-id="Tirol TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/tirol-tv-at.png" ,Tirol TV
+http://212.186.45.34:9981/stream/channelid/308149845?profile=pass
+#EXTINF:-1 group-title="Austria" tvg-id="ProSieben Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/prosieben-austria-at.png",ProSieben Austria
 https://hometv.andismirre.de/stream/channelid/446007160?profile=ffmpeg
-#EXTINF:-1 group-title="Austria" tvg-id="Kabel Eins Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/kabel-eins-austria-at.png" ,Kabel Eins Austria
+#EXTINF:-1 group-title="Austria" tvg-id="Kabel Eins Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/kabel-eins-austria-at.png",Kabel Eins Austria
 https://hometv.andismirre.de/stream/channelid/446007160?profile=ffmpeg
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png",ABC TV
 https://c.mjh.nz/abc-nsw.m3u8
@@ -992,6 +994,10 @@ https://a1xs.vip/2000023
 https://a1xs.vip/2000024
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="United Kingdom",TNT Sports Ultimate
 https://a1xs.vip/2000031
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/dazn-uk.png",DAZN
+https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6534548-1/chuncklist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mutv-uk.png",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT
