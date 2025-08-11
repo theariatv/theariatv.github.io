@@ -828,7 +828,7 @@ http://210.126.10.17:5004/auto/v5023
 http://210.126.10.17:5004/auto/v5027
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTBC2.jpg/revision/latest?cb=20190616070617",JTBC 2
 http://210.126.10.17:5004/auto/v5045
-#EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png",Mnet
+#EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png",Mnet
 http://210.126.10.17:5004/auto/v5042
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/la-1-es.png" group-title="Spain",La 1 HD
 https://ztnr.rtve.es/ztnr/1688877.m3u8
