@@ -800,6 +800,8 @@ http://46.171.186.177:9981/stream/channelid/1034428301?ticket=A93CA4F1692ECD149E
 http://46.171.186.177:9981/stream/channelid/1974576155?ticket=12AD2CAD84315860624033BE30548C0113D3528C&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",MTV 
 http://46.171.186.177:9981/stream/channelid/674259884?ticket=87774F71F795C04BADA67945EFC2DADA56AD8C6D&profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-states/nickelodeon-us.png",Nickelodeon
+https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6545130-1/playlist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-1-pt.png",RTP 1
 http://94.61.151.242:9981/stream/channelid/1661493381?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-2-pt.png",RTP 2
@@ -810,8 +812,6 @@ http://94.61.151.242:9981/stream/channelid/1289785289?profile=pass
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48488.ts
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.Memoria.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-memoria-pt.png",RTP Memoria
 http://94.61.151.242:9981/stream/channelid/2112311547?profile=pass
-#EXTINF:-1 tvg-id="AXN.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/axn-pt.png" group-title="Portugal",AXN
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1469
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-pt.png",SIC
 http://94.61.151.242:9981/stream/channelid/937468567?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.K.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-k-pt.png",SIC K
