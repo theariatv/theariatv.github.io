@@ -734,6 +734,14 @@ http://185.236.230.212:9981/play/a0ab
 http://185.236.230.212:9981/play/a0ae
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-lounge-nl.png",RTL Lounge
 http://130.162.32.84/NL/RTLLounge/index.m3u8
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 
+https://a1xs.vip/140001
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="NL: Ziggo Sport 2 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 2 
+https://a1xs.vip/140002
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="NL: Ziggo Sport 3 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 3 
+https://a1xs.vip/140003
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="NL: Ziggo Sport 4 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 4 
+https://a1xs.vip/140004
 #EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8616" tvg-id="2873775b4b455d688ceebe2b2ed817dc",TVNZ 1
 https://tv.wyatts-server.com/stream/channelid/1534554920?profile=pass
 #EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8617" tvg-id="be943e8f6dac2667f09eeaeb308e6c62",TVNZ 2
