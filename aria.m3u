@@ -61,14 +61,16 @@ http://44.32.200.212:5004/auto/v31
 http://44.32.200.212:5004/auto/v35
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movie-au.png",SBS World Movie
 http://44.32.200.212:5004/auto/v32
+#EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-food-au.png",SBS Food 
+http://44.32.200.212:5004/auto/v33
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nitv-au.png",NITV
 http://44.32.200.212:5004/auto/v34
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/10_2025.svg/revision/latest?cb=20250629224708",Network 10
 http://115.69.40.212:55555/10HD%20Newcastle
 #EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/10_Drama_2025_logo.svg/330px-10_Drama_2025_logo.svg.png",10 Drama
-https://theariatv.github.io/aria.mp4
+http://44.32.200.212:5004/auto/v12
 #EXTINF:-1 group-title="Australia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/10_Comedy.svg/revision/latest?cb=20250629224211",10 Comedy
-https://theariatv.github.io/aria.mp4
+http://44.32.200.212:5004/auto/v11
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png",Nickelodeon 
 http://44.32.200.212:5004/auto/v13
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/you-tv-au.png",You TV
@@ -433,6 +435,24 @@ http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/2912
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="France",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/6ter-fr.png" group-title="France",6ter
+http://173.229.4.239:5004/auto/v22
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" group-title="France",TFX
+http://173.229.4.239:5004/auto/v11
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" group-title="France",TMC
+http://173.229.4.239:5004/auto/v10
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="France",Gulli
+http://173.229.4.239:5004/auto/v12
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/w9-fr.png" group-title="France",W9
+http://173.229.4.239:5004/auto/v9
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/lci-fr.png" group-title="France",LCI
+http://173.229.4.239:5004/auto/v15
+#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/arte-fr.png" group-title="France",Arte
+http://173.229.4.239:5004/auto/v7
+#EXTINF:-1 tvg-id="france.info.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-info-fr.png" group-title="France",France Info
+http://173.229.4.239:5004/auto/v16
+#EXTINF:-1 tvg-id="cnews.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cnews-fr.png" group-title="France",CNews
+http://173.229.4.239:5004/auto/v14
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Serien%2B_Logo_2023.png" group-title="Germany",Serien+
 http://188.174.204.193:9981/stream/channelid/2070831335?ticket=F651B1353199C50E2F5CC1D7B589207150EE86C9&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png" group-title="Germany",Das Erste HD
