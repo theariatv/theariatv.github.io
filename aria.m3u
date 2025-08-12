@@ -670,46 +670,6 @@ http://79.51.86.246:9981/stream/channelid/942222505?profile=pass
 http://185.236.229.62:9981/play/a08y
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/RTL_Gold_LU_%282023%29.svg/revision/latest?cb=20230427131803" group-title="Luxembourg",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
-#EXTINF:-1 group-title="Japan",NHK G (Tokyo)
-https://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Japan",NHK G (Osaka)
-https://vthanh.utako.moe/NHKG_Osaka_original/index.m3u8
-#EXTINF:-1 group-title="Japan",NHK E
-https://vthanh.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="Japan",NTV
-https://vthanh.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="Japan",TBS
-https://vthanh.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="Japan",Fuji TV
-https://vthanh.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="Japan",TV Asahi
-https://vthanh.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="Japan",TV Tokyo
-https://vthanh.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="Japan",DLife
-https://vthanh.utako.moe/dlife/index.m3u8
-#EXTINF:-1 group-title="Japan",Toei Channel
-https://vthanh.utako.moe/toei/index.m3u8
-#EXTINF:-1 group-title="Japan",Space Shower TV
-https://vthanh.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="Japan",Kayo Pops
-https://vthanh.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 group-title="Japan",MTV
-https://vthanh.utako.moe/mtv/index.m3u
-#EXTINF:-1 group-title="Japan",JSport 1
-https://vthanh.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="Japan",JSport 2
-https://vthanh.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="Japan",JSport 3
-https://vthanh.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="Japan",JSport 4
-https://vthanh.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="Japan",Cartoon Network
-https://vthanh.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 group-title="Japan",Animax
-https://vthanh.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="Japan",Disney Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4
 #EXTINF:-1 group-title="Luxembourg",RTL Web Radio TV
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Moldova_1_2025.svg/1200px-TV_Moldova_1_2025.svg.png" group-title="Moldova",Moldova 1
