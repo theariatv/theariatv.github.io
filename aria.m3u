@@ -868,11 +868,11 @@ http://210.126.10.17:5004/auto/v5027
 http://210.126.10.17:5004/auto/v5045
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png",Mnet
 http://210.126.10.17:5004/auto/v5042
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/la1-es.png" group-title="Spain",La 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png" group-title="Spain",La 1 HD
 http://83.63.50.226:9981/stream/channelid/1467144271?ticket=6FB05E46F799FD4EE5AB0C60B783879682C69252&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/la2-es.png" group-title="Spain",La 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png" group-title="Spain",La 2 HD
 http://83.63.50.226:9981/stream/channelid/1429257344?ticket=10D846B10884BD4009FFB8E353E0B9CDC1C57B6B&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena3-es.png" group-title="Spain",Antena 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png" group-title="Spain",Antena 3 HD
 http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cuatro-es.png" group-title="Spain",Cuatro HD
 http://185.189.225.150:85/CuatroHD/index.m3u8
@@ -892,7 +892,7 @@ http://83.63.50.226:9981/stream/channelid/173171682?ticket=AF1192F50CFAF1F33D753
 http://83.63.50.226:9981/stream/channelid/1627097868?ticket=BB72E0652E81C33B7D75D8E5321E04B19AF7163E&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png" group-title="Spain",24h
 http://83.63.50.226:9981/stream/channelid/1006422367?ticket=F6D4FDAB47AE62921087BEE75F3946CD30DE553F&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/teledeporte-es.png" group-title="Spain",Teledeporte 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png" group-title="Spain",Teledeporte (TDP)
 http://83.63.50.226:9981/stream/channelid/348070975?ticket=CE468C9D8547A34D578D6598B0D159DCE2762A88&profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/a/ab/RTS_1_2014.svg/revision/latest?cb=20230617140939" group-title="Serbia",RTS 1
 https://webtvstream.bhtelecom.ba/hls19/rts1.m3u8
