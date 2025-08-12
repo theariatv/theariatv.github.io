@@ -539,7 +539,7 @@ http://77.49.52.36:666/stream/channelid/1580933784?ticket=12FDDD79056488677DD222
 http://31.121.110.30:4000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mega_channel_logo.svg/2560px-Mega_channel_logo.svg.png",MEGA
 http://77.49.52.36:666/stream/channelid/127572322?ticket=6F58E5DBF9F0E0924C78CF5DD36C47267E3444F0&profile=pass
-#EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg.png",Star
+#EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg",Star
 http://77.49.52.36:666/stream/channelid/1724988607?ticket=41A3F30B836DA807255B48309EB7C53BD19A1066&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png",OPEN Beyond 
 http://77.49.52.36:666/stream/channelid/2093067483?ticket=F98CF5C4D5E1D1EF2786AF19B446DE7C924503E1&profile=pass
