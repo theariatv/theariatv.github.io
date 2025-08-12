@@ -1062,6 +1062,14 @@ https://a1xs.vip/1000051
 https://a1xs.vip/1000052
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoon UK" tvg-logo="https://i.imgur.com/X3eFHe6.png" group-title="United Kingdom",Nicktoons 
 https://a1xs.vip/100054
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S420PQ2f/That-s-Dance.png" group-title="United Kingdom",That's Dance
+http://193.237.220.135:55555/That's%20Dance
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBR8mCHv/That-s-Melody.png" group-title="United Kingdom",That's Melody
+http://193.237.220.135:55555/That's%20Melody
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBP5PPHz/That-s-Summer.png" group-title="United Kingdom",That's Summer
+http://193.237.220.135:55555/That's%20Summer
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnxpHKJF/Clubland-2022-OSB.png" group-title="United Kingdom",Clubland
+http://193.237.220.135:55555/Clubland%20TV
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png",TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT
