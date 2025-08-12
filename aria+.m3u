@@ -15,3 +15,9 @@ http://line.furious-pro.cc/live/07A960/15F07A/1296580.ts
 http://line.furious-pro.cc/live/07A960/15F07A/720326.ts
 #EXTINF:-1 group-title="Albania" tvg-logo="https://albaniandubs.weebly.com/uploads/5/7/8/2/57825701/sofia-albanian-dubs_orig.png",Sofia
 http://line.furious-pro.cc/live/07A960/15F07A/106607.ts
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/kVmqFV29/Armenian-Public-TV-logo-2021-2-svg.png",First Channel
+http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/601/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png",First Channel America
+https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/hRQwSwnr/1000024588-removebg-preview.png",First Channel News
+https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
