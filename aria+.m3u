@@ -17,7 +17,31 @@ http://line.furious-pro.cc/live/07A960/15F07A/720326.ts
 http://line.furious-pro.cc/live/07A960/15F07A/106607.ts
 #EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/kVmqFV29/Armenian-Public-TV-logo-2021-2-svg.png",First Channel
 http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/601/index.m3u8
-#EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png",First Channel America
-https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
 #EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/hRQwSwnr/1000024588-removebg-preview.png",First Channel News
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/ARB_Azerbaijan_Logo.png" group-title="Azerbaijan",ARB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" group-title="Azerbaijan",ARB 24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/ARB_G%C3%BCn%C9%99%C5%9F_logo.png" group-title="Azerbaijan",ARB Gunes
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="Azerbaijan",ATV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="Azerbaijan",Xezer TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 group-title="Azerbaijan",Show Plus
+https://glb.bozztv.com/glb/ssh101/showplus/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan",Space TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/ITV_Azerbaijan_Logo.png" group-title="Azerbaijan",İTV
+http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2195/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/CBC_Azerbaijan_Logo.png" group-title="Azerbaijan",CBC
+http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2196/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan",Dunya
+http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2192/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan",KATV1
+http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/16042/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan",MCJ Shopping
+http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/16046/index.m3u8
+#EXTINF:-1 tvg-logo="https://cbcsport.info/wp-content/uploads/2025/06/cbc_logo2-removebg-preview-300x275.png" group-title="Azerbaijan",CBC Sport
+http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2193/index.m3u8
