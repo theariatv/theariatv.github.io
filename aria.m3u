@@ -563,6 +563,8 @@ http://91.83.3.236:9981/stream/channelid/1286171467?profile=pass
 http://91.83.3.236:9981/stream/channelid/69285422?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTL_H%C3%A1rom_%282022%2C_stacked%29.svg/1200px-RTL_H%C3%A1rom_%282022%2C_stacked%29.svg.png" group-title="Hungary",RTL Három 
 http://91.83.3.236:9981/stream/channelid/446160286?profile=pass
+#EXTINF:-1 group-title="Iceland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/R%C3%9AV_2019_logo.svg",RÚV
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One +1
