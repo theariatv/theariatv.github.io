@@ -1154,3 +1154,21 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png" group-title="United States,QVC3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
+http://113.177.113.214:9981/stream/channelid/1660500100?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/3/33/CBeebies_logo.png/revision/latest?cb=20240425113704",CBeeBies
+http://113.177.113.214:9981/stream/channelid/66742514?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png",Cartoon Network 
+http://113.177.113.214:9981/stream/channelid/1508867775?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV1_logo_2013_final.svg",VTV1
+http://113.177.113.214:9981/stream/channelid/224733925?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/VTV2_logo_2013_final.svg",VTV2
+http://113.177.113.214:9981/stream/channelid/1479547667?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/VTV3_logo_2013_final.svg",VTV3
+http://113.177.113.214:9981/stream/channelid/1978056989?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
+http://113.177.113.214:9981/stream/channelid/1133768036?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",VTV7
+http://113.177.113.214:9981/stream/channelid/1722586611?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/1200px-VTV8_logo_2016_final.svg.png",VTV78
+http://113.177.113.214:9981/stream/channelid/2061849201?profile=pass
