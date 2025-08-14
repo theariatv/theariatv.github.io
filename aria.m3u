@@ -447,7 +447,7 @@ http://173.229.4.239:5004/auto/v22
 http://173.229.4.239:5004/auto/v11
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" group-title="France",TMC
 http://173.229.4.239:5004/auto/v10
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="France",Gulli
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/gulli-fr.png" group-title="France",Gulli
 http://173.229.4.239:5004/auto/v12
 #EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png" group-title="France",T18
 http://173.229.4.239:5004/auto/v18
