@@ -798,6 +798,26 @@ http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
 http://94.61.151.242:9981/stream/channelid/1131975227?profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/6/62/Cartoon_Network_South_Korea.png/revision/latest?cb=20191113004608" group-title="South Korea" tvg-logo="",Cartoon Network
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=EZYDWDyS1Bw7xiDHQvH0k39UGRrzeEZKFmbKHj7s&secret=afcfe5f046e1218d3cc5b160b4d5118b&time=1749703097
+#EXTINF:-1 group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/TVR_1_2022_logo.png",TVR 1
+http://188.24.11.82:9981/stream/channelid/2006302830?ticket=49E768B18442D9BF2A06FF998F772CA75689488B&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png",TVR 2
+http://188.24.11.82:9981/stream/channelid/820149369?ticket=90D44553F4B561167236377B5CE515917D255AFB&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/TVR3_2022.svg/revision/latest?cb=20240803224838",TVR 3
+http://188.24.11.82:9981/stream/channelid/1801836540?ticket=A9E4C837FCB04C5C0C18D80BCBE78AC01C28AEA2&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/TVR_Info_flat.svg/revision/latest?cb=20240803225000",TVR Info
+http://188.24.11.82:9981/stream/channelid/1904145471?ticket=8CB25791EBCFBED07CD40C7033FCE8F012665852&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TVR_Sport.svg/revision/latest?cb=20230421162631",TVR Sport 
+http://188.24.11.82:9981/stream/channelid/1206848800?ticket=93622025758FC86EE283733C29D9C99B8AFF14AB&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/TVR_Folclor.svg/revision/latest?cb=20230421154716",TVR Folclor
+http://188.24.11.82:9981/stream/channelid/1650832815?ticket=83EE0C21C332F0775AC3658FBC4D78E9C08BB65C&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png",Kanal D
+http://188.24.11.82:9981/stream/channelid/1807800659?ticket=6D3906EEA43056A9A1CBDC5104F50ECDFB864726&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/kanal-d2-ro.png",Kanal D2
+http://188.24.11.82:9981/stream/channelid/1661955109?ticket=952F3E931DE041660E0C01A8E6E59C99C65BE468&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/pro-tv-ro.png",Pro TV
+http://188.24.11.82:9981/stream/channelid/1593684681?ticket=6BC724B09A3C36D760112771B967D9AA4BE64562&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/primatv-ro.png",Prima TV
+http://188.24.11.82:9981/stream/channelid/1379443192?ticket=960BBA4BF226ED148AC0CFAE82ADF78D0F63589B&profile=pass
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="712b72f52504133103fbaaea8210d5f9",KBS 1TV [Not 24/7]
 http://121.143.97.131:9981/stream/channelid/1970416497?profile=pass
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" tvg-id="565bb62dc52849cbf4cbd406b6bbdebc" tvg-chno="1",KBS 2TV [Not 24/7]
