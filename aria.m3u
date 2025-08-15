@@ -317,7 +317,7 @@ http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296F
 http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass
 #EXTINF:-1 group-title="Czechia" tvg-id="Óčko.STAR.cz",OCKO STAR
 http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass
-#EXTINF:-1 group-title="Czechia" tvg-id="CNN.Prima.News.cz"CNN Prima News
+#EXTINF:-1 group-title="Czechia" tvg-id="CNN.Prima.News.cz",CNN Prima News
 http://90.178.86.156:9981/stream/channelid/1443888704?ticket=B2AC43F9C197099EE2A723A8B5D26A8402094755&profile=pass
 #EXTINF:-1 group-title="Czechia" tvg-id="TV.Barrandov.cz",TV Barrandov
 http://90.178.86.156:9981/stream/channelid/1149773228?ticket=56A407B3D9D49568B131C27B70C4B903FD070FE5&profile=pass
@@ -331,7 +331,7 @@ http://tvh.cyn.cz/stream/channelid/1693764695?profile=pass
 http://185.236.230.212:9981/play/a0bb
 #EXTINF:-1 group-title="Czechia" tvg-id="Auto.Motor.Sport.cz",AUTOMOTORSPORT HD 
 https://webstream.odjezdy.online/EU/AMSTV/video.m3u8
-#EXTINF:-1 group-title="Czechia"CANAL+ ACTION HD
+#EXTINF:-1 group-title="Czechia",CANAL+ ACTION HD
 http://185.236.230.212:9981/play/a0bw
 #EXTINF:-1 group-title="Czechia",CANAL+ SPORT
 http://185.236.230.212:9981/play/a0bu
