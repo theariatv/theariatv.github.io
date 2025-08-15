@@ -13,6 +13,7 @@
             --border-color: #dee2e6;
             --accent-color: #0d6efd;
             --header-bg: #ffffff;
+            --danger-color: #dc3545;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -23,6 +24,7 @@
                 --border-color: #343a40;
                 --accent-color: #4dabf7;
                 --header-bg: #1e1e1e;
+                --danger-color: #f06571;
             }
         }
 
@@ -77,6 +79,21 @@
         .playlist-links p {
             margin: 0.5rem 0;
         }
+        
+        .search-container {
+            margin-bottom: 1.5rem;
+        }
+
+        #search-input {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            font-size: 1rem;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            background-color: var(--header-bg);
+            color: var(--text-color);
+            box-sizing: border-box;
+        }
 
         .category-folder {
             border: 1px solid var(--border-color);
@@ -104,6 +121,7 @@
              padding: 0.75rem 1.5rem;
              border-top: 1px solid var(--border-color);
              text-align: left;
+             vertical-align: middle;
         }
 
         .channel-table th {
@@ -130,6 +148,18 @@
             cursor: help;
             font-size: 1.2rem;
         }
+
+        .report-button {
+            font-size: 0.8rem;
+            padding: 4px 8px;
+            border-radius: 5px;
+            border: 1px solid var(--danger-color);
+            background: transparent;
+            color: var(--danger-color);
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+        }
     </style>
 
     <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
@@ -143,7 +173,6 @@
     <script type="text/babel">
         const { useState, useEffect } = React;
 
-        // --- Funkce pro parsování .m3u souborů ---
         const parseM3U = (m3uContent, isStable) => {
             const lines = m3uContent.split('\n');
             const channels = {};
@@ -163,24 +192,31 @@
                         const channelName = line.split(',').pop().trim();
                         const streamUrl = nextLine.trim();
                         
-                        if (!channels[country]) {
-                            channels[country] = {};
-                        }
+                        if (!channels[country]) channels[country] = {};
                         
                         if (!channels[country][channelName]) {
                              channels[country][channelName] = { name: channelName, stable: isStable, url: streamUrl };
                         }
-                    } catch (e) {
-                        console.error("Chyba při parsování řádku:", line, e);
-                    }
+                    } catch (e) { console.error("Error parsing line:", line, e); }
                 }
             }
             return channels;
         };
         
-        // --- Komponenty ---
-        const Category = ({ country, channels }) => {
+        const Category = ({ country, channels, forceOpen }) => {
             const [isOpen, setIsOpen] = useState(false);
+
+            useEffect(() => {
+                setIsOpen(forceOpen);
+            }, [forceOpen]);
+
+            const createReportURL = (channelName) => {
+                const repoUrl = "https://github.com/theariatv/theariatv.github.io/issues/new";
+                const title = `Broken Stream: ${channelName}`;
+                const body = `**Channel Name:** ${channelName}\n\n**Problem:** (Please describe the issue, e.g., 'Stream does not load', 'Shows a black screen', 'Wrong content', etc.)`;
+                return `${repoUrl}?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+            };
+
             return (
                 <div className="category-folder">
                     <div className="category-header" onClick={() => setIsOpen(!isOpen)}>
@@ -193,6 +229,7 @@
                                 <tr>
                                     <th>Channel</th>
                                     <th>Stream Link</th>
+                                    <th>Report</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -209,6 +246,9 @@
                                         <td>
                                             <a href={channel.url} target="_blank" rel="noopener noreferrer">Link</a>
                                         </td>
+                                        <td>
+                                            <a href={createReportURL(channel.name)} target="_blank" rel="noopener noreferrer" className="report-button">Report</a>
+                                        </td>
                                     </tr>
                                 ))}
                             </tbody>
@@ -219,19 +259,16 @@
         };
 
         const App = () => {
-            const [channelData, setChannelData] = useState([]);
+            const [allChannelData, setAllChannelData] = useState([]);
+            const [filteredData, setFilteredData] = useState([]);
+            const [searchTerm, setSearchTerm] = useState('');
             const [loading, setLoading] = useState(true);
 
             useEffect(() => {
                 const fetchAndParseData = async () => {
                     try {
-                        const [ariaRes, ariaPlusRes] = await Promise.all([
-                            fetch('aria.m3u'),
-                            fetch('aria+.m3u')
-                        ]);
-
-                        const ariaText = await ariaRes.text();
-                        const ariaPlusText = await ariaPlusRes.text();
+                        const [ariaRes, ariaPlusRes] = await Promise.all([ fetch('aria.m3u'), fetch('aria+.m3u') ]);
+                        const [ariaText, ariaPlusText] = await Promise.all([ ariaRes.text(), ariaPlusRes.text() ]);
 
                         const stableChannels = parseM3U(ariaText, true);
                         const unstableChannels = parseM3U(ariaPlusText, false);
@@ -251,16 +288,29 @@
                             channels: Object.values(allChannels[country]).sort((a, b) => a.name.localeCompare(b.name))
                         }));
 
-                        setChannelData(formattedData);
-                    } catch (error) {
-                        console.error("Nepodařilo se načíst data kanálů:", error);
-                    } finally {
-                        setLoading(false);
-                    }
+                        setAllChannelData(formattedData);
+                        setFilteredData(formattedData);
+                    } catch (error) { console.error("Could not load channel data:", error); } 
+                    finally { setLoading(false); }
                 };
-
                 fetchAndParseData();
             }, []);
+            
+            useEffect(() => {
+                if (searchTerm === '') {
+                    setFilteredData(allChannelData);
+                    return;
+                }
+                const lowercasedFilter = searchTerm.toLowerCase();
+                const filtered = allChannelData
+                    .map(category => ({
+                        ...category,
+                        channels: category.channels.filter(channel => channel.name.toLowerCase().includes(lowercasedFilter))
+                    }))
+                    .filter(category => category.channels.length > 0);
+                setFilteredData(filtered);
+            }, [searchTerm, allChannelData]);
+
 
             return (
                 <div className="container">
@@ -281,19 +331,29 @@
                             </div>
                             <h3>Want to help us?</h3>
                             <p>
-                                You can go to the <a href="https://github.com/theariatv/theariatv.github.io/issues" target="_blank" rel="noopener noreferrer">Issues tab</a> on GitHub to request a channel-specific action.
+                                You can go to the <a href="https://github.com/theariatv/theariatv.github.io/issues" target="_blank" rel="noopener noreferrer">Issues tab</a> on GitHub to request a channel-specific action, or use the "Report" button next to a channel.
                             </p>
                         </div>
 
                         <h2>Channel List</h2>
+                         <div className="search-container">
+                            <input
+                                id="search-input"
+                                type="search"
+                                placeholder="Search for a channel..."
+                                value={searchTerm}
+                                onChange={e => setSearchTerm(e.target.value)}
+                            />
+                        </div>
                         {loading ? (
                             <p>Loading channels...</p>
                         ) : (
-                            channelData.map(category => (
+                            filteredData.map(category => (
                                 <Category 
                                     key={category.country} 
                                     country={category.country} 
-                                    channels={category.channels} 
+                                    channels={category.channels}
+                                    forceOpen={searchTerm.length > 0}
                                 />
                             ))
                         )}
