@@ -330,7 +330,7 @@ http://tvh.cyn.cz/stream/channelid/1693764695?profile=pass
 #EXTINF:-1 group-title="Czechia" tvg-id="AMC.cz",AMC
 http://185.236.230.212:9981/play/a0bb
 #EXTINF:-1 group-title="Czechia" tvg-id="Auto.Motor.Sport.cz",AUTOMOTORSPORT HD 
-https://webstream.odjezdy.online/EU/AMSTV/video.m3u8
+http://tvh.cyn.cz/stream/channelid/1879523926?profile=pass
 #EXTINF:-1 group-title="Czechia",CANAL+ ACTION HD
 http://185.236.230.212:9981/play/a0bw
 #EXTINF:-1 group-title="Czechia",CANAL+ SPORT
