@@ -925,33 +925,33 @@ http://92.44.60.75:9981/stream/channelid/1077291277?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Türkyie",CNBC-e
 http://92.44.60.75:9981/stream/channelid/301687148?profile=pass
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",BBC One
-http://31.121.110.30:4000/play/a002/index.m3u8
+https://a1xs.vip/1000001
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",BBC Two
-http://31.121.110.30:4000/play/a003/index.m3u8
+https://a1xs.vip/1000002
 #EXTINF:-1 tvg-id="ITV1.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",ITV 1
-http://31.121.110.30:4000/play/a004/index.m3u8
+https://a1xs.vip/1000011
 #EXTINF:-1 tvg-id="Channel.4.hd.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png",Channel 4
-http://31.121.110.30:4000/play/a005/index.m3u8
+https://a1xs.vip/1000031
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png",5
-http://31.121.110.30:4000/play/a006/index.m3u8
+https://a1xs.vip/1000030
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png",BBC Four
 http://31.121.110.30:4000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="ITV2.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png",ITV 2
 http://31.121.110.30:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="ITV3.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png",ITV 3
-http://31.121.110.30:4000/play/a008/index.m3u8
+https://a1xs.vip/1000013
 #EXTINF:-1 tvg-id="ITV4.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png",ITV 4
-http://31.121.110.30:4000/play/a00l/index.m3u8
+https://a1xs.vip/1000014
 #EXTINF:-1 tvg-id="ITV.Quiz.HD.uk" group-title="United Kingdom" tvg-logo="https://i.ibb.co/TDtF2ycb/ITV-Quiz-2025.png",ITV Quiz
 http://31.121.110.30:4000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="E4.hd.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-uk.png" group-title="United Kingdom",E4
-http://31.121.110.30:4000/play/a00b/index.m3u8
+https://a1xs.vip/1000032
 #EXTINF:-1 tvg-id="E4.Extra.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-extra-uk.png" group-title="United Kingdom",E4 Extra
 http://31.121.110.30:4000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/film-4-uk.png" group-title="United Kingdom",Film4
 http://31.121.110.30:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/4-seven-uk.png"  group-title="United Kingdom",4seven
-http://31.121.110.30:4000/play/a016/index.m3u8
+https://a1xs.vip/1000036
 #EXTINF:-1 tvg-id="Challange.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/challange-uk.png" group-title="United Kingdom",Challange
 http://31.121.110.30:4000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-action-uk.png" group-title="United Kingdom",5ACTION
@@ -961,7 +961,7 @@ http://31.121.110.30:4000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="Sky.News.HD.uk" "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png"group-title="United Kingdom",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="United Kingdom",BBC News
-http://31.121.110.30:4000/play/a01o/index.m3u8
+https://a1xs.vip/1000015
 #EXTINF:-1 tvg-id="GB.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" group-title="United Kingdom",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TalkTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png" group-title="United Kingdom",Talk TV
