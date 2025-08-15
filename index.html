@@ -60,7 +60,7 @@
             margin-bottom: 2rem;
         }
 
-        .project-info h2 {
+        .project-info h2, .project-info h3 {
             margin-top: 0;
         }
 
@@ -72,6 +72,10 @@
 
         .project-info a:hover {
             text-decoration: underline;
+        }
+        
+        .playlist-links p {
+            margin: 0.5rem 0;
         }
 
         .category-folder {
@@ -95,16 +99,28 @@
             width: 100%;
             border-collapse: collapse;
         }
+        
+        .channel-table th, .channel-table td {
+             padding: 0.75rem 1.5rem;
+             border-top: 1px solid var(--border-color);
+             text-align: left;
+        }
 
-        .channel-table td {
-            text-align: left;
-            padding: 0.75rem 1.5rem;
-            border-top: 1px solid var(--border-color);
+        .channel-table th {
+            font-weight: 600;
+            font-size: 0.9rem;
+            color: var(--muted-text-color);
         }
         
         .channel-name {
             display: flex;
             align-items: center;
+        }
+        
+        .channel-table a {
+             color: var(--accent-color);
+             text-decoration: none;
+             font-weight: 500;
         }
 
         .unstable-icon {
@@ -131,24 +147,28 @@
         const parseM3U = (m3uContent, isStable) => {
             const lines = m3uContent.split('\n');
             const channels = {};
-            const regex = /group-title="([^"]+)"/
-            
-            for (const line of lines) {
+            const regex = /group-title="([^"]+)"/;
+
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i];
                 if (line.startsWith('#EXTINF:-1')) {
                     try {
+                        const nextLine = lines[i + 1];
+                        if (!nextLine || nextLine.startsWith('#')) continue;
+
                         const countryMatch = line.match(regex);
                         if (!countryMatch) continue;
                         
                         const country = countryMatch[1].trim();
                         const channelName = line.split(',').pop().trim();
+                        const streamUrl = nextLine.trim();
                         
                         if (!channels[country]) {
                             channels[country] = {};
                         }
                         
-                        // Přidáme kanál, pouze pokud ještě neexistuje, abychom předešli duplicitám
                         if (!channels[country][channelName]) {
-                             channels[country][channelName] = { name: channelName, stable: isStable };
+                             channels[country][channelName] = { name: channelName, stable: isStable, url: streamUrl };
                         }
                     } catch (e) {
                         console.error("Chyba při parsování řádku:", line, e);
@@ -169,6 +189,12 @@
                     </div>
                     {isOpen && (
                         <table className="channel-table">
+                           <thead>
+                                <tr>
+                                    <th>Channel</th>
+                                    <th>Stream Link</th>
+                                </tr>
+                            </thead>
                             <tbody>
                                 {channels.map(channel => (
                                     <tr key={channel.name}>
@@ -179,6 +205,9 @@
                                                     <span className="unstable-icon" title="Potentially unstable stream from aria+.m3u">!</span>
                                                 }
                                             </div>
+                                        </td>
+                                        <td>
+                                            <a href={channel.url} target="_blank" rel="noopener noreferrer">Link</a>
                                         </td>
                                     </tr>
                                 ))}
@@ -196,7 +225,6 @@
             useEffect(() => {
                 const fetchAndParseData = async () => {
                     try {
-                        // Načtení obou M3U souborů
                         const [ariaRes, ariaPlusRes] = await Promise.all([
                             fetch('aria.m3u'),
                             fetch('aria+.m3u')
@@ -205,16 +233,12 @@
                         const ariaText = await ariaRes.text();
                         const ariaPlusText = await ariaPlusRes.text();
 
-                        // Parsování
                         const stableChannels = parseM3U(ariaText, true);
                         const unstableChannels = parseM3U(ariaPlusText, false);
 
-                        // Sloučení dat: nestabilní kanály nepřepíší stabilní, pokud mají stejné jméno
                         const allChannels = { ...stableChannels };
                         for (const country in unstableChannels) {
-                            if (!allChannels[country]) {
-                                allChannels[country] = {};
-                            }
+                            if (!allChannels[country]) allChannels[country] = {};
                             for (const channelName in unstableChannels[country]) {
                                 if (!allChannels[country][channelName]) {
                                     allChannels[country][channelName] = unstableChannels[country][channelName];
@@ -222,7 +246,6 @@
                             }
                         }
                         
-                        // Převod na pole pro snadné renderování a seřazení
                         const formattedData = Object.keys(allChannels).sort().map(country => ({
                             country,
                             channels: Object.values(allChannels[country]).sort((a, b) => a.name.localeCompare(b.name))
@@ -251,9 +274,14 @@
                             <p>
                                 Aria provides a curated collection of IPTV channels from around the world. The channels are organized by their countries. Unlike our predecessor Mystique, this git is only using official streams, tvheadends, astra control panel among others.
                             </p>
+                            <div className="playlist-links">
+                                <h3>Playlist Files</h3>
+                                <p><a href="./aria.m3u" download>Download aria.m3u</a> (Stable Streams)</p>
+                                <p><a href="./aria+.m3u" download>Download aria+.m3u</a> (Potentially Unstable Streams)</p>
+                            </div>
                             <h3>Want to help us?</h3>
                             <p>
-                                You can go to the <a href="https://github.com/theariatv/theariatv.github.io/issues" target="_blank" rel="noopener noreferrer">Issues tab</a> on GitHub to request a channel-specific action (e.g., removing a dead link, adding a new channel).
+                                You can go to the <a href="https://github.com/theariatv/theariatv.github.io/issues" target="_blank" rel="noopener noreferrer">Issues tab</a> on GitHub to request a channel-specific action.
                             </p>
                         </div>
 
