@@ -1,4 +1,14 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="ABC.Spark.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/abc-spark-ca.png",ABC Spark 
+http://1tv41.icu:8080/mark102/mark102/57375
+#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="Disney.Jr.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/disney-jr-ca.png",Disney Jr.
+http://jmrk.xyz:5050/dsolo1991@comcast.net/AwfEN4h9Cc/418460
+#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="Disney.XD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/disney-xd-ca.png",Disney XD
+http://01012024.com:2086/MalteZP8754/WEbAp6XsKz/233406
+#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="La.Chaîne.Disney.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/la-chaine-disney-ca.png",La Chaîne Disney 
+http://stream.ultimate-tvservice.com:8080/shept77/tins8/265309
+#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="Nickelodeon.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png",Nickelodeon 
+http://jmrk.xyz:5050/dsolo1991@comcast.net/AwfEN4h9Cc/418547
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bang_Bang_logo_2009.png",Bang Bang
 https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?id=DAL_1_004&video_id=16377&token=142cda7d50870275a9ca7988ff001b32ab30709b&authority_instance_id=spectar-prd-digitalb&profile_id=1&application_installation_id=1&uuid=backoffice1&subscriber_id=1&application_id=backoffice1&detected_delivery_method=hls&playlist_template=nginx&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/%C3%87ufo_logo.png",Cufo
