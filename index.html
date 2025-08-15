@@ -210,10 +210,17 @@
                 setIsOpen(forceOpen);
             }, [forceOpen]);
 
-            const createReportURL = (channelName) => {
+            const createReportURL = (channel) => {
                 const repoUrl = "https://github.com/theariatv/theariatv.github.io/issues/new";
-                const title = `Broken Stream: ${channelName}`;
-                const body = `**Channel Name:** ${channelName}\n\n**Problem:** (Please describe the issue, e.g., 'Stream does not load', 'Shows a black screen', 'Wrong content', etc.)`;
+                const title = `Broken Stream: ${channel.name}`;
+                const sourceFile = channel.stable ? 'aria.m3u' : 'aria+.m3u';
+                const body = `
+**Channel Name:** ${channel.name}
+**Stream URL:** \`${channel.url}\`
+**Source Playlist:** ${sourceFile}
+
+**Problem:** (Please describe the issue, e.g., 'Stream does not load', 'Shows a black screen', 'Wrong content', etc.)
+                `;
                 return `${repoUrl}?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
             };
 
@@ -247,7 +254,7 @@
                                             <a href={channel.url} target="_blank" rel="noopener noreferrer">Link</a>
                                         </td>
                                         <td>
-                                            <a href={createReportURL(channel.name)} target="_blank" rel="noopener noreferrer" className="report-button">Report</a>
+                                            <a href={createReportURL(channel)} target="_blank" rel="noopener noreferrer" className="report-button">Report</a>
                                         </td>
                                     </tr>
                                 ))}
