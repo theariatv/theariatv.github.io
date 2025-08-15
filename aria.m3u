@@ -925,35 +925,37 @@ http://92.44.60.75:9981/stream/channelid/1077291277?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Türkyie",CNBC-e
 http://92.44.60.75:9981/stream/channelid/301687148?profile=pass
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",BBC One
-http://31.127.61.186:9981/stream/channelid/379477726?profile=pass
+http://81.78.159.220:7000/stream/channelid/1770799995?ticket=3364C2CFA85C6C7C993218102184D61C0313A863&profile=pass
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",BBC Two
-http://31.127.61.186:9981/stream/channelid/1243421624?profile=pass
+http://81.78.159.220:7000/stream/channelid/314124115?ticket=792A45D7936853A1D369BECE52AD471F434C7CB4&profile=pass
 #EXTINF:-1 tvg-id="ITV1.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",ITV 1
-http://31.127.61.186:9981/stream/channelid/769340892?profile=pass
+http://81.78.159.220:7000/stream/channelid/258981055?ticket=0B33A27E48820F6D1732E31D0DD8ED746789EBEF&profile=pass
 #EXTINF:-1 tvg-id="Channel.4.hd.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png",Channel 4
-http://31.127.61.186:9981/stream/channelid/1320321427?profile=pass
+http://81.78.159.220:7000/stream/channelid/1359233332?ticket=1CCA0C60C93B95940C0414D101BE93BE85742BED&profile=pass
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png",5
-http://31.127.61.186:9981/stream/channelid/271900587?profile=pass
+http://81.78.159.220:7000/stream/channelid/1535545267?ticket=253FFA0EA8A84E1B760E842602DFD7899BF085A4&profile=pass
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png",BBC Three/CBBC
-http://31.127.61.186:9981/stream/channelid/1842312631?profile=pass
+https://theariatv.github.io/aria.mp4
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png",BBC Four/CBeebies
-http://31.127.61.186:9981/stream/channelid/1096327248?profile=pass
+http://81.78.159.220:7000/stream/channelid/298879245?ticket=5C20819F2C4622FFC8C40EF3D1E0FAFBD2A48702&profile=pass
 #EXTINF:-1 tvg-id="ITV2.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png",ITV 2
-http://31.127.61.186:9981/stream/channelid/1719642827?profile=pass
+http://81.78.159.220:7000/stream/channelid/1128346749?ticket=765E158B41CCE98BFACE9D0FA97789FC36C1F28F&profile=pass
 #EXTINF:-1 tvg-id="ITV3.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png",ITV 3
-http://31.127.61.186:9981/stream/channelid/520926056?profile=pass
+http://81.78.159.220:7000/stream/channelid/255292638?ticket=A9D0673DC1A2FCC2888F1DA68B39B972E135F2DA&profile=pass
 #EXTINF:-1 tvg-id="ITV4.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png",ITV 4
-http://31.127.61.186:9981/stream/channelid/1379124127?profile=pass
+http://81.78.159.220:7000/stream/channelid/1298265077?ticket=7864B5E3D121116BB097B35ABB1F86033C9B69C9&profile=pass
 #EXTINF:-1 tvg-id="ITV.Quiz.HD.uk" group-title="United Kingdom" tvg-logo="https://i.ibb.co/TDtF2ycb/ITV-Quiz-2025.png",ITV Quiz
-http://31.127.61.186:9981/stream/channelid/2145221044?profile=pass
+https://theariatv.github.io/aria.mp4
 #EXTINF:-1 tvg-id="E4.hd.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-uk.png" group-title="United Kingdom",E4
-http://31.127.61.186:9981/stream/channelid/2120773651?profile=pass
+http://81.78.159.220:7000/stream/channelid/265935771?ticket=FF896184BF6D9E66E480A01422D3851C06F97AD6&profile=pass
 #EXTINF:-1 tvg-id="E4.Extra.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-extra-uk.png" group-title="United Kingdom",E4 Extra
-http://31.127.61.186:9981/stream/channelid/1604724754?profile=pass
+http://81.78.159.220:7000/stream/channelid/655798574?ticket=21A1979CB68EE200E9050F429C78EB80DC8AE7CD&profile=pass
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/film-4-uk.png" group-title="United Kingdom",Film4
-http://31.127.61.186:9981/stream/channelid/1700234613?profile=pass
+http://81.78.159.220:7000/stream/channelid/2146772371?ticket=C61786EB949292FF03E00B662B14EE735203B8AF&profile=pass
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/4-seven-uk.png"  group-title="United Kingdom",4seven
 https://a1xs.vip/1000036
+#EXTINF:-1 tvg-id="More4.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/more4-uk.png",More4
+http://81.78.159.220:7000/stream/channelid/882020808?ticket=1026E0912145DEC5DBA860459C63F6587CE9F6BD&profile=pass
 #EXTINF:-1 tvg-id="Challange.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/challange-uk.png" group-title="United Kingdom",Challange
 http://31.121.110.30:4000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-action-uk.png" group-title="United Kingdom",5ACTION
@@ -969,7 +971,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 #EXTINF:-1 tvg-id="TalkTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png" group-title="United Kingdom",Talk TV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-star-uk.png" group-title="United Kingdom",5STAR
-http://31.127.61.186:9981/stream/channelid/1880693856?profile=pass
+http://81.78.159.220:7000/stream/channelid/166770570?ticket=5159889055C22A08C15EFFCAD38368BBA6D02E46&profile=pass
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png",HGTV
 http://31.121.110.30:4000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/800px-Food_Network_logo.svg.png",Food Network 
@@ -984,8 +986,10 @@ http://31.121.110.30:4000/play/a01d/index.m3u8
 http://31.121.110.30:4000/play/a02k/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png",Sky Arts
 http://31.121.110.30:4000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Mix.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png",Sky Mix
+http://81.78.159.220:7000/stream/channelid/1449116447?ticket=6E6E720E443DCEC40A02BC28D301A1A7FC752F48&profile=pass
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://www.pbsamerica.co.uk/wp-content/themes/pbs-2022/img/logo.png",PBS America
-http://31.127.61.186:9981/stream/channelid/1508418253?profile=pass
+http://81.78.159.220:7000/stream/channelid/2038862547?ticket=8C3A3329D6896A4579A0034E1DCCA18A82A57C28&profile=pass
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="United Kingdom",Sky Sports Main Event
 https://a1xs.vip/2000001
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="United Kingdom",Sky Sports Main Event UHD
@@ -1054,6 +1058,14 @@ https://a1xs.vip/1000051
 https://a1xs.vip/1000052
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoon UK" tvg-logo="https://i.imgur.com/X3eFHe6.png" group-title="United Kingdom",Nicktoons 
 https://a1xs.vip/100054
+#EXTINF:-1 tvg-id="U&W.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u&w-uk.png",U&W
+http://81.78.159.220:7000/stream/channelid/2091571848?ticket=E5EF0DE82D4CBA80372FFD591F49CA365384C6A8&profile=pass
+#EXTINF:-1 tvg-id="U&Dave.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u&dave-uk.png",U&Dave
+http://81.78.159.220:7000/stream/channelid/1446017964?ticket=3FA6D2B62FDC4BA3A6DE7F84422741DD979AB7A2&profile=pass
+#EXTINF:-1 tvg-id="U&Drama.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u&drama-uk.png",U&Drama
+http://81.78.159.220:7000/stream/channelid/965926370?ticket=2F47419ED328C273804AB26D3637D288AAB3367C&profile=pass
+#EXTINF:-1 tvg-id="U&Yesterday.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u&yesterday-uk.png",U&Yesterday 
+http://81.78.159.220:7000/stream/channelid/848211560?ticket=C9B6BA61D2588D9F28D800F9BFB2E65AA1E8B1FB&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S420PQ2f/That-s-Dance.png" group-title="United Kingdom",That's Dance
 http://193.237.220.135:55555/That's%20Dance
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBR8mCHv/That-s-Melody.png" group-title="United Kingdom",That's Melody
