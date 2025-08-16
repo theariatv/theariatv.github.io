@@ -994,7 +994,7 @@ http://81.78.159.220:7000/stream/channelid/2038862547?ticket=8C3A3329D6896A4579A
 https://a1xs.vip/2000001
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="United Kingdom",Sky Sports Main Event UHD
 https://a1xs.vip/2000015
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title=United Kingdom",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="United Kingdom",Sky Sports Premier League
 https://a1xs.vip/2000002
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="United Kingdom",Sky Sports Football
 https://a1xs.vip/2000003
