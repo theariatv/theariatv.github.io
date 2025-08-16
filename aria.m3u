@@ -1083,9 +1083,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC
-http://128.230.54.128:5004/auto/v31.3
+https://tvpass.org/live/AMC/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png",USA Network 
-http://128.230.54.128:5004/auto/v30.2
+https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png",BET
 http://128.230.54.128:5004/auto/v40.2
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/uptv-us.png",UP TV
@@ -1094,62 +1094,52 @@ http://128.230.54.128:5004/auto/v53.1
 http://128.230.54.128:5004/auto/v56.2
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-us.png",Oxygen True Crimes 
 http://128.230.54.128:5004/auto/v56.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png",TruTV
-http://128.230.54.128:5004/auto/v38.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png",TLC
-http://128.230.54.128:5004/auto/v38.3
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png",HGTV
-http://128.230.54.128:5004/auto/v37.3
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/own-us.png",OWN
-http://128.230.54.128:5004/auto/v40.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e!-us.png",E!
-http://128.230.54.128:5004/auto/v39.2
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS
+https://tvpass.org/live/TBSEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png",Bravo
-http://128.230.54.128:5004/auto/v39.1
+https://tvpass.org/live/BravoEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png",MTV
-http://128.230.54.128:5004/auto/v35.1
+https://tvpass.org/live/MTVEast/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png",MTV2
+https://tvpass.org/live/MTV2East/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png",Comedy Central 
-http://128.230.54.128:5004/auto/v34.1
+https://tvpass.org/live/ComedyCentralEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png",SYFY
-http://128.230.54.128:5004/auto/v33.2
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png",Paramount Network 
-http://128.230.54.128:5004/auto/v34.2
+https://tvpass.org/live/SyfyEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tv-land-us.png",TV Land
-http://128.230.54.128:5004/auto/v35.2
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/trutv-us.png",Cartoon Network / Adult Swim
-http://128.230.54.128:5004/auto/v46.1
+https://tvpass.org/live/tv-land-eastern/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network / Adult Swim
+https://tvpass.org/live/CartoonNetworkEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png",Nickelodeon 
-http://128.230.54.128:5004/auto/v45.3
-#EXTINF:-1 group-title="United States" tvg-logo="",Disney Channel 
-http://128.230.54.128:5004/auto/v44.1
-#EXTINF:-1 group-title="United States" tvg-logo="",DFC (Discovery Family)
-http://128.230.54.128:5004/auto/v46.2
+https://tvpass.org/live/NickelodeonEast/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png",Disney Channel 
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png",Discovery Family (DFC) 
+https://tvpass.org/live/DiscoveryFamily/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/byu-tv-us.png",BYU TV
 http://128.230.54.128:5004/auto/v64.1
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",Nick Jr.
-http://128.230.54.128:5004/auto/v45.2
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/insp-us.png",INSP
+https://tvpass.org/live/NickJrEast/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/insp-us.png",Disney XD
 http://128.230.54.128:5004/auto/v61.1
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/trutv-us.png",Game Show Network
-http://128.230.54.128:5004/auto/v57.1
+https://tvpass.org/live/DisneyXDEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png",National Geographic 
-http://128.230.54.128:5004/auto/v36.2
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png",TCM
-http://128.230.54.128:5004/auto/v50.1
+https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png",FS1
-http://128.230.54.128:5004/auto/v49.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png",Great American Family
-http://128.230.54.128:5004/auto/v47.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-network-us.png",Hallmark 
-http://128.230.54.128:5004/auto/v36.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-network-us.png",FOX News Channel
-http://128.230.54.128:5004/auto/v41.2
+https://tvpass.org/live/FoxSports1/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png",Nicktoons
+https://tvpass.org/live/NicktoonsEast/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-network-us.png",Boomerang 
+https://tvpass.org/live/Boomerang/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-network-us.png",Fox News
+https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/trutv-us.png",MSNBC
-http://128.230.54.128:5004/auto/v41.3
+https://tvpass.org/live/MSNBC/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cspan-us.png",CSPAN
-http://128.230.54.128:5004/auto/v43.3
-#EXTINF:-1 group-title="United States",NBC LX Home
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+https://tvpass.org/live/CSPAN/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png",TeenNick
+https://tvpass.org/live/TeenNickEast/hd
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="United States",Court TV 
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="United States",FOX Weather
