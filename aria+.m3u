@@ -313,8 +313,8 @@ http://user.scalecdn.co:8080/live/26725074/92867131/647755.ts
 https://tvnow.best/api/stream/burns/burns/livetv.epg/ami.tl.ca.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="canal.d.ca" tvg-logo="https://media.starlite.best/canal.d.ca.png",Canal D
 https://tvnow.best/api/stream/burns/burns/livetv.epg/canal.d.ca.m3u8
-#EXTINF:-1 group-title="Canada" tvg-id="savoir.mdia.ca" tvg-logo="https://media.starlite.best/savoir.mdia.ca.png",Canal Savior
-https://tvnow.best/api/stream/burns/burns/livetv.epg/savoir.mdia.ca.m3u8
+#EXTINF:-1 group-title="Canada" tvg-id="savoir.mdia.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png",savior.média (CFTU-DT)
+http://theariatv.github.io/aria.mp4
 #EXTINF:-1 group-title="Canada" tvg-id="casa.ca" tvg-logo="https://media.starlite.best/casa.ca.png",CASA
 https://tvnow.best/api/stream/burns/burns/livetv.epg/casa.ca.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="cinpop.ca" tvg-logo="https://media.starlite.best/cinpop.ca.png",Cinépop
@@ -323,8 +323,10 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/cinpop.ca.m3u8
 https://tvnow.best/api/stream/burns/burns/livetv.epg/cpac.francais.ca.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="elle.fictions.ca" tvg-logo="https://media.starlite.best/elle.fictions.ca.png",ELLE Fictions
 https://tvnow.best/api/stream/burns/burns/livetv.epg/elle.fictions.ca.m3u8
-#EXTINF:-1 group-title="Canada" tvg-id="evasion.ca" tvg-logo="https://media.starlite.best/evasion.ca.png",Evasion
+#EXTINF:-1 group-title="Canada" tvg-id="evasion.ca" tvg-logo="https://cdn.vev.design/cdn-cgi/image/f=auto,q=82,w=1920/private/gymRnPp2f0dtMHSH31xxfsdMDVp1/image/Ltd-1m54GK.png",Evasion
 https://tvnow.best/api/stream/burns/burns/livetv.epg/evasion.ca.m3u8
+#EXTINF:-1 group-title="Canada" tvg-id="Frisson.TV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Frissons_TV_New.png",Frisson TV
+http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265481.ts
 #EXTINF:-1 group-title="Canada" tvg-id="historia.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp",Historia 
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40694.ts
 #EXTINF:-1 group-title="Canada" tvg-id="artv.ca" tvg-logo=""https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-artv-ca.png",ICI Artv
@@ -358,7 +360,7 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40610.ts
 #EXTINF:-1 group-title="Canada" tvg-id="super.ecran.4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-4-ca.png",Super Ecran 4
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40609.ts
 #EXTINF:-1 group-title="Canada" tvg-id="tv5.international.east.ca" tvg-logo="https://m1.quebecormedia.com/emp/emp/523b7520-b555-11ee-a6d6-3701d1640652_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1200&h=312&width=925",Témoin
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40680.ts
+http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265170.ts
 #EXTINF:-1 group-title="Canada" tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png",Tele Québec
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40606.ts
 #EXTINF:-1 group-title="Canada" tvg-id="Télémagino.ca" tvg-logo="https://d60d34ithxz8n.cloudfront.net/ca-logos/19aae87681fb7545a7f8b12b094f5eda.png?k=YuF2DwEskK9RDtJWAxeJbpo7YUB7VdYQ4hnktyMqup9hklnV5sxy2V%2F5EGY3kuoD31WBFsj8IoPs%2BhFGP4SORJH9F4TJDNdNjQ53nuuYqHfLDOfzOOUfR1APiazFifTa",Telemagino
@@ -378,7 +380,7 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112931.ts
 #EXTINF:-1 group-title="Canada" tvg-id="tva.sports.ca" tvg-logo="https://media.starlite.best/tva.sports.ca.png",TVA Sport
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40645.ts
 #EXTINF:-1 group-title="Canada" tvg-id="tva.sports.2.ca" tvg-logo="https://media.starlite.best/tva.sports.2.ca.png",TVA Sport 2
-https://theariatv.github.io/aria.mp4
+http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265220.ts
 #EXTINF:-1 group-title="Canada" tvg-id="unis.tv.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/UnisTV.svg/250px-UnisTV.svg.png",Unis
 http://user.scalecdn.co:8080/live/26725074/92867131/647751.ts
 #EXTINF:-1 group-title="Canada" tvg-id="vie.ca" tvg-logo="https://media.starlite.best/vie.ca.png",Vie
