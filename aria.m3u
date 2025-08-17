@@ -572,21 +572,29 @@ https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One +1
-http://185.99.136.50:9981/stream/channelid/270592809?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest?cb=20220529161203" group-title="Ireland",RTÉ Two
-http://185.99.136.50:9981/stream/channelid/996548096?profile=pass
-#EXTINF:-1 group-title="Ireland",TG4
+http://185.99.136.50:9981/stream/channelid/669800152?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest?cb=20220529161203" group-title="Ireland",RTÉ 2
+http://185.99.136.50:9981/stream/channelid/190697840?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest?cb=20220529161203" group-title="Ireland",RTÉ 2 +1
+http://185.99.136.50:9981/stream/channelid/4866296?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/RT%C3%89jr_logo.png" group-title="Ireland",RTÈjr
+http://185.99.136.50:9981/stream/channelid/1600624119?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png" group-title="Ireland",RTÉ News
+http://185.99.136.50:9981/stream/channelid/1107503484?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png" group-title="Ireland",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:-1 group-title="Ireland",Cúla4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png" group-title="Ireland",TG4 +1
+http://185.99.136.50:9981/stream/channelid/2057498856?profile=pass
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/C%C3%BAla4_logo_II.svg/revision/latest?cb=20231115010116" group-title="Ireland",Cúla4
 https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main_3000_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-one-ie.png" group-title="Ireland",Virgin Media One
-http://185.99.136.50:9981/stream/channelid/278150264?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-two-ie.png" group-title="Ireland",Virgin Media Two
-http://185.99.136.50:9981/stream/channelid/249903168?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-three-ie.png" group-title="Ireland",Virgin Media Three
-http://185.99.136.50:9981/stream/channelid/458878078?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/virgin-media-four-ie.png" group-title="Ireland",Virgin Media Four
-http://185.99.136.50:9981/stream/channelid/339855765?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Virgin_Media_One_logo_2018.svg.png" group-title="Ireland",Virgin Media One
+http://185.99.136.50:9981/stream/channelid/1974745263?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Virgin_Media_Two_logo_2018.svg/250px-Virgin_Media_Two_logo_2018.svg.png" group-title="Ireland",Virgin Media Two
+http://185.99.136.50:9981/stream/channelid/413742549?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.virginmediatelevision.ie/graphics/2018/tv-guide-three-logo.png" group-title="Ireland",Virgin Media Three
+http://185.99.136.50:9981/stream/channelid/1547165180?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Virgin_Media_Four.svg/revision/latest?cb=20240825184606" group-title="Ireland",Virgin Media Four
+http://185.99.136.50:9981/stream/channelid/80991961?profile=pass
 #EXTINF:-1 group-title="Ireland",UTV Ireland
 http://92.114.85.72:8000/play/a0ns
 #EXTINF:-1 group-title="Ireland",Oireachtas TV
