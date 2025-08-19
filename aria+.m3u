@@ -401,3 +401,5 @@ http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6405/index.m3u8
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6355/index.m3u8
 #EXTINF:-1 group-title="Lithuania" tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV3_Plus_Logo_2021.svg/1200px-TV3_Plus_Logo_2021.svg.png",TV3 Plus
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12001/index.m3u8
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png",Polsat
+https://tvh.cyn.cz/stream/channelid/393507468?profile=pass
