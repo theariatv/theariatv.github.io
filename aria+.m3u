@@ -391,3 +391,13 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40673.ts
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112912.ts
 #EXTINF:-1 group-title="Canada" tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png",Zeste
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40660.ts
+#EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LRT_TV_Logo_2022.svg/250px-LRT_TV_Logo_2022.svg.png",LRT TV
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6360/index.m3u8
+#EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png",LRT Plius
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6362/index.m3u8
+#EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LNK_logotipas.png",LNK
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6405/index.m3u8
+#EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TV8_Logo_2022.svg/120px-TV8_Logo_2022.svg.png",TV8
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6355/index.m3u8
+#EXTINF:-1 group-title="Lithuania" tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV3_Plus_Logo_2021.svg/1200px-TV3_Plus_Logo_2021.svg.png",TV3 Plus
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12001/index.m3u8
