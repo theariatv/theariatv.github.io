@@ -698,6 +698,16 @@ http://79.51.86.246:9981/stream/channelid/2095879944?profile=pass
 http://79.51.86.246:9981/stream/channelid/942222505?profile=pass
 #EXTINF:-1 group-title="Italy",Super!
 http://185.236.229.62:9981/play/a08y
+#EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LRT_TV_Logo_2022.svg/250px-LRT_TV_Logo_2022.svg.png",LRT TV
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6360/index.m3u8
+#EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png",LRT Plius
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6362/index.m3u8
+#EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LNK_logotipas.png",LNK
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6405/index.m3u8
+#EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TV8_Logo_2022.svg/120px-TV8_Logo_2022.svg.png",TV8
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6355/index.m3u8
+#EXTINF:-1 group-title="Lithuania" tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV3_Plus_Logo_2021.svg/1200px-TV3_Plus_Logo_2021.svg.png",TV3 Plus
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12001/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/RTL_Gold_LU_%282023%29.svg/revision/latest?cb=20230427131803" group-title="Luxembourg",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:-1 group-title="Luxembourg",RTL Web Radio TV
