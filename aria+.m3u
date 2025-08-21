@@ -391,6 +391,14 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40673.ts
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112912.ts
 #EXTINF:-1 group-title="Canada" tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png",Zeste
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40660.ts
+#EXTINF:-1 tvg-logo="" group-title="France",Canal J
+http://99.27.51.145:9908/stream/channelid/969028499?ticket=94605C1455E77212A2AC134969B53DE4174CD59E&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="France",Nickelodeon
+http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/1647
+#EXTINF:-1 tvg-logo="" group-title="France",Nickelodeon Junior
+http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/2171
+#EXTINF:-1 tvg-logo="" group-title="France",Nickelodeon Toons
+http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/1648
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Colors_2024.svg/revision/latest?cb=20250808055615" group-title="India",Colors
 http://116.90.120.149:8000/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest/scale-to-width-down/300?cb=20250606121016" group-title="India",Sonic
