@@ -762,7 +762,7 @@ http://93.49.98.215:55555/frisbee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/k2-it.png" group-title="Italy",K2
 http://93.49.98.215:55555/K2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-it.png" group-title="Italy",Super!
-http://185.236.229.62:9981/play/a08y
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LRT_TV_Logo_2022.svg/250px-LRT_TV_Logo_2022.svg.png",LRT TV
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6360/index.m3u8
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png",LRT Plius
