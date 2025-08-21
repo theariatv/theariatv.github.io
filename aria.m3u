@@ -705,42 +705,63 @@ http://46.171.186.177:9981/stream/channelid/84900303?ticket=ABD35AA61F7BD155126A
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s" group-title="Luxembourg",RTL ZWEE
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
-#EXTINF:-1 group-title="Italy",Rai 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Italy",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-#EXTINF:-1 group-title="Italy",Rai 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" group-title="Italy",Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-#EXTINF:-1 group-title="Italy",Rai 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="Italy",Rai 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
-#EXTINF:-1 group-title="Italy",Rai News 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png" group-title="Italy",Rai 4
+http://93.49.98.215:55555/Rai%204
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png" group-title="Italy",Rai 5
+http://93.49.98.215:55555/Rai%205
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4k-it.png" group-title="Italy",Rai 4K
+http://93.49.98.215:55555/Rai%204K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-news-24-it.png" group-title="Italy",Rai News 24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
-#EXTINF:-1 group-title="Italy",Rai Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Italy",Rai Sport
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:-1 group-title="Italy",Rai Storia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-storia-it.png" group-title="Italy",Rai Storia
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
-#EXTINF:-1 group-title="Italy",Rai Gulp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-gulp-it.png" group-title="Italy",Rai Gulp
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:-1 group-title="Italy",Rai Scuola
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-yoyo-it.png" group-title="Italy",Rai YoYo
+http://93.49.98.215:55555/Rai%20YoYo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-scuola-it.png" group-title="Italy",Rai Scuola
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
-#EXTINF:-1 group-title="Italy",Boing
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italy",Rai Movie
+http://93.49.98.215:55555/Rai%20Movie%20HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" group-title="Italy",Rai Premium 
+http://93.49.98.215:55555/Rai%20Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png" group-title="Italy",Boing
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="Italy",Italia 1
 https://cachehsi1a.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-#EXTINF:-1 group-title="Italy",La7
-https://cachehsi1a.netplus.ch/live/eds/la7/browser-dash/la7.mpd
-#EXTINF:-1 group-title="Italy",La7 D
-https://cachehsi1a.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png" group-title="Italy",La7
+http://93.49.98.215:55555/LA7%20HD_2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-d-it.png" group-title="Italy",La7 D
+http://93.49.98.215:55555/LA7d_2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale-5-it.png" group-title="Italy",Canale 5
 https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv-8-it.png" group-title="Italy",TV8
+http://93.49.98.215:55555/TV8%20HD
 #EXTINF:-1 group-title="Italy",Video Italia
 https://cachehsi1a.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
-#EXTINF:-1 group-title="Italy",DMAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dmax-it.png" group-title="Italy",DMAX
 https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/food-network-it.png" group-title="Italy",Food Network 
+http://93.49.98.215:55555/Food%20Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/motor-trend-it.png" group-title="Italy",Motor Trend
+http://93.49.98.215:55555/Motor%20Trend
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/real-time-it.png" group-title="Italy",Real Time
+http://93.49.98.215:55555/Real%20Time
 #EXTINF:-1 group-title="Italy",Boing Plus
 http://195.32.117.185:9981/stream/channelid/259728202?profile=pass
-#EXTINF:-1 group-title="Italy",Frisbee
-http://79.51.86.246:9981/stream/channelid/2095879944?profile=pass
-#EXTINF:-1 group-title="Italy",K2
-http://79.51.86.246:9981/stream/channelid/942222505?profile=pass
-#EXTINF:-1 group-title="Italy",Super!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/frisbee-it.png" group-title="Italy",Frisbee
+http://93.49.98.215:55555/frisbee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/k2-it.png" group-title="Italy",K2
+http://93.49.98.215:55555/K2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-it.png" group-title="Italy",Super!
 http://185.236.229.62:9981/play/a08y
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LRT_TV_Logo_2022.svg/250px-LRT_TV_Logo_2022.svg.png",LRT TV
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6360/index.m3u8
