@@ -391,13 +391,13 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40673.ts
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112912.ts
 #EXTINF:-1 group-title="Canada" tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png",Zeste
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40660.ts
-#EXTINF:-1 tvg-logo="" group-title="France",Canal J
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-j-fr.png" group-title="France",Canal J
 http://99.27.51.145:9908/stream/channelid/969028499?ticket=94605C1455E77212A2AC134969B53DE4174CD59E&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="France",Nickelodeon
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="France",Nickelodeon
 http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/1647
-#EXTINF:-1 tvg-logo="" group-title="France",Nickelodeon Junior
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Nickelodeon_Junior_logo_2023_%28outline%29.svg" group-title="France",Nickelodeon Junior
 http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/2171
-#EXTINF:-1 tvg-logo="" group-title="France",Nickelodeon Toons
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nicktoons-us.png" group-title="France",Nicktoons
 http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/1648
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Colors_2024.svg/revision/latest?cb=20250808055615" group-title="India",Colors
 http://116.90.120.149:8000/play/a0bb/index.m3u8
