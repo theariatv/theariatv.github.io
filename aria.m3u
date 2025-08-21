@@ -153,14 +153,6 @@ https://a1xs.vip/700007
 https://a1xs.vip/700010
 #EXTINF:-1 tvg-id="Optus.Sport.2.au" tvg-name="Optus Sports 2" tvg-logo="https://pixvid.org/images/2025/02/25/Optus_Sport.png" group-title="Australia",Optus Sports 2
 https://a1xs.vip/700011
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=400" group-title="Australia",Fox Cricket
-https://a1xs.vip/700001
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox League" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542983:206:CHANNEL:IMAGE:png&w=400" group-title="Australia",Fox League
-https://a1xs.vip/700002
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Footy" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400" group-title="Australia",Fox Footy
-https://a1xs.vip/700004
-#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox More" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=1704826:206:CHANNEL:IMAGE:png&w=400" group-title="Australia",Fox More+
-https://a1xs.vip/700007
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vrt-1-be.png",VRT 1
 http://82.159.175.201:9981/stream/channelid/21272943?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vrt-canvas-be.png",VRT Canvas
