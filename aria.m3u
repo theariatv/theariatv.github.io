@@ -783,15 +783,13 @@ https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 http://170.78.211.115:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_Azteca_Uno_2023.webp",Azteca Uno 
 http://170.78.211.115:8000/play/a0cc/index.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/BitMe.webp",BitMe
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest/scale-to-width-down/315?cb=20250307002717",BitMe
 http://181.78.4.250:8098/play/0122/index.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/BitMe.webp",BitMe (Directo 2)
-http://177.53.154.70:9981/stream/channelid/596792319?profile=pass
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Canal_5_2016.svg.png",Canal 5
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg",Canal 5
 http://170.78.211.115:8000/play/a0ll/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1024px-Nickelodeon_2023_logo.svg.png",Nickelodeon
 http://45.189.151.7:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://telepez.github.io/imagenes/Las_Estrellas.webp",Las Estrellas
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://w7.pngwing.com/pngs/686/771/png-transparent-las-estrellas-televisa-television-channel-logo-star-television-angle-triangle.png",Las Estrellas
 http://177.53.154.70:9981/stream/channelid/1718960791?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Moldova_1_2025.svg/1200px-TV_Moldova_1_2025.svg.png" group-title="Moldova",Moldova 1
 https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/0.m3u8
