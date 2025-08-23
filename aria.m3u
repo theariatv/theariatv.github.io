@@ -705,13 +705,13 @@ http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass
 http://170.239.188.252:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/1200px-TVP_Polonia_Logo_2020.svg.png",TVP Polonia
 http://46.171.186.177:9981/stream/channelid/84900303?ticket=ABD35AA61F7BD155126A9D72BA4A07738BE0DF0C&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan-11-il.png" group-title="Israel" tvg-rec="3",Kan 11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png" group-title="Israel" tvg-rec="3",Kan 11
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2332/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/keshet-12-il.png" group-title="Israel" tvg-rec="3",Keshet 12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/keshet12-il.png" group-title="Israel" tvg-rec="3",Keshet 12
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2329/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/reshet-13-il.png" group-title="Israel" tvg-rec="3",Reshet 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/reshet13-il.png" group-title="Israel" tvg-rec="3",Reshet 13
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2330/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel-9-il.png" group-title="Israel" tvg-rec="3",Channel 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel9-il.png" group-title="Israel" tvg-rec="3",Channel 9
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2331/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/2560px-RTL_Luxembourg_2023.svg.png" group-title="Luxembourg",RTL
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
