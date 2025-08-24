@@ -951,7 +951,7 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="712b72f52504133103fbaaea8210d5f9",KBS 1TV [Not 24/7]
 http://121.143.97.131:9981/stream/channelid/1970416497?profile=pass
-#EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" tvg-id="565bb62dc52849cbf4cbd406b6bbdebc" tvg-chno="1",KBS 2TV [Not 24/7]
+#EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" tvg-id="565bb62dc52849cbf4cbd406b6bbdebc",KBS 2TV [Not 24/7]
 http://121.143.97.131:9981/stream/channelid/766925654?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" tvg-id="4f3dab16e904e3f934eff63263af16d5",KBS Drama 
 http://121.143.97.131:9981/stream/channelid/380321103?profile=pass
@@ -971,6 +971,10 @@ http://121.143.97.131:9981/stream/channelid/985201254?profile=pass
 http://121.143.97.131:9981/stream/channelid/1357549621?profile=pass
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/EBS_English_logo.svg/2560px-EBS_English_logo.svg.png",EBS English [Not 24/7]
 http://121.143.97.131:9981/stream/channelid/1127058296?profile=pass
+#EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/250px-Seoul_Broadcasting_System_logo.svg.png",SBS
+http://123.212.201.54:9981/stream/channelid/355749630?ticket=3F59BE4851A5060AD92DA878FDE2ED006CE5AF23&profile=pass
+#EXTINF:-1 group-title="South Korea" tvg-logo="https://seeklogo.com/images/M/munhwa-broadcasting-company-logo-5F2839F07B-seeklogo.com.png",MBC
+http://123.212.201.54:9981/stream/channelid/1555600652?ticket=A2F9DDA5AC88952741F7882B3396977931967F37&profile=pass
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",tvN
 http://210.126.10.17:5004/auto/v5023
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1200px-JTBC_logo.svg.png",JTBC
