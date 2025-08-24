@@ -943,6 +943,10 @@ http://188.24.11.82:9981/stream/channelid/1661955109?ticket=952F3E931DE041660E0C
 http://188.24.11.82:9981/stream/channelid/1593684681?ticket=6BC724B09A3C36D760112771B967D9AA4BE64562&profile=pass
 #EXTINF:-1 group-title="Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/primatv-ro.png",Prima TV
 http://188.24.11.82:9981/stream/channelid/1379443192?ticket=960BBA4BF226ED148AC0CFAE82ADF78D0F63589B&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/JimJam.png",JimJam
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://saruman1.tharen.cfd/jimy/usergenq3n0lz7kr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nicktoons-us.png" group-title="Russia",Nicktoons
 https://45.159.74.22/Boomerang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2x2_TV_Logo.svg" group-title="Russia",2x2
