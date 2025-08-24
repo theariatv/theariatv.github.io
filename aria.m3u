@@ -707,8 +707,40 @@ http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2332/index.m3u8
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2329/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/reshet13-il.png" group-title="Israel" tvg-rec="3",Reshet 13
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2330/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel14-il.png" group-title="Israel" tvg-rec="3",Channel 14
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12242/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel9-il.png" group-title="Israel" tvg-rec="3",Channel 9
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2331/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/makan33-il.png" group-title="Israel" tvg-rec="3",Makan 33
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2381/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan-kids-il.png" group-title="Israel" tvg-rec="3",Kan Educational 
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2380/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/knesset-il.png" group-title="Israel" tvg-rec="3",Knesset
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12269/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot3-il.png" group-title="Israel" tvg-rec="3",HOT 3
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12214/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot8-il.png" group-title="Israel" tvg-rec="3",HOT 8
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12216/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot-entertainment-il.png" group-title="Israel" tvg-rec="3",HOT Entertainment 
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2379/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-tv-drama-il.png" group-title="Israel" tvg-rec="3",Yes TV Drama
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2343/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-tv-action-il.png" group-title="Israel" tvg-rec="3",Yes TV Action
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2346/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-tv-comedy-il.png" group-title="Israel" tvg-rec="3",Yes TV Comedy
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2345/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hop-il.png" group-title="Israel" tvg-rec="3",Hop!
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12244/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Israel" tvg-rec="3",Nick Jr.
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2337/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Israel" tvg-rec="3",TeenNick 
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2334/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/junior-il.png" group-title="Israel" tvg-rec="3",Junior
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2366/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/baby-channel-il.png" group-title="Israel" tvg-rec="3",Baby TV
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2370/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/luli-il.png" group-title="Israel" tvg-rec="3",Luli
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2364/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/2560px-RTL_Luxembourg_2023.svg.png" group-title="Luxembourg",RTL
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9YMFptVTCaD9iYsUuIN4AP4PYsVxL0mhwg&s" group-title="Luxembourg",RTL ZWEE
