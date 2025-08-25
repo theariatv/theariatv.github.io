@@ -440,9 +440,9 @@ http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265481.ts
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40694.ts
 #EXTINF:-1 group-title="Canada" tvg-id="artv.ca" tvg-logo=""https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-artv-ca.png",ICI Artv
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/113000.ts
-#EXTINF:-1 group-title="Canada" tvg-id="rdi.news.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ici-rdi-ca.png",ICI RDI
+#EXTINF:-1 group-title="Canada" tvg-id="rdi.news.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-rdi-ca.png",ICI RDI
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112816.ts
-#EXTINF:-1 group-title="Canada" tvg-id="ici.tele.ca" tvg-logo="https://media.starlite.best/ici.tele.ca.png",ICI Tele
+#EXTINF:-1 group-title="Canada" tvg-id="ici.tele.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-tele-ca.png",ICI Tele
 https://tvnow.best/api/stream/burns/burns/livetv.epg/ici.tele.ca.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="lcn.ca" tvg-logo="https://media.starlite.best/lcn.ca.png",LCN
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40685.ts
