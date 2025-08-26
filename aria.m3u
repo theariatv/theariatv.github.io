@@ -957,8 +957,10 @@ https://pltv.uzis-room.ch/play/208
 https://pltv.uzis-room.ch/play/209
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-states/disney-xd-us.png",Disney XD
 https://pltv.uzis-room.ch/play/210
-#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-states/cartoon-network-us.png",Cartoon Network 
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-kingdom/cartoonito-uk.png",Cartoonito 
 https://pltv.uzis-room.ch/play/207
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/minimini-plus-pl.png",Minimini+
+https://pltv.uzis-room.ch/play/211
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-1-pt.png",RTP 1
 http://94.61.151.242:9981/stream/channelid/1661493381?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-2-pt.png",RTP 2
