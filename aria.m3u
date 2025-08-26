@@ -1071,14 +1071,27 @@ https://webtvstream.bhtelecom.ba/hls19/rts2.m3u8
 http://79.136.31.136:9998/stream/channelid/1554111608?ticket=8A1D63CB257CA8D35560E3FBD9E68009A3D19F82&profile=pass
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/SVT2_logo_2016.svg/1200px-SVT2_logo_2016.svg.png",SVT 2
 http://79.136.31.136:9998/stream/channelid/1726626999?ticket=EA70035847C67B4CC832351149993182D1701364&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv3-se.png",TV3
+http://79.136.31.136:9998/stream/channelid/348706580?ticket=6A3FADC076731C8F076A230C0BBDF9E398BC7E04&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv4-se.png",TV4
+http://79.136.31.136:9998/stream/channelid/912272936?ticket=C07C8A24B1B0264ABB5D1F0C9EDE2177179E84D1&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/kanal-5-se.png",Kanal 5
+http://79.136.31.136:9998/stream/channelid/610731759?ticket=ED4854DD6F710772744FBC1AD0B9719970FF480E&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv6-se.png",TV6
+http://79.136.31.136:9998/stream/channelid/209939850?ticket=D0CC8B257C65C4C7F924BC3585240D1FDA0C5C54&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/sjuan-se.png",Sjuan
+http://79.136.31.136:9998/stream/channelid/2146198705?ticket=8D51FA79D072F4F8640586F44D0AEA8087DED7A4&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv8-se.png",TV8
+http://79.136.31.136:9998/stream/channelid/306376724?ticket=D4D1A5C68C1922561D70325E4C5BD07735D028CF&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/kanal-5-se.png",Kanal 9
+http://79.136.31.136:9998/stream/channelid/1467491396?ticket=8FC44A5F41E584CC50F3CFE608C4438DCD1EEF53&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv10-se.png",TV10
+http://79.136.31.136:9998/stream/channelid/15699430?ticket=C02A2D226EF9867640D0ACB14046B8E2E8651F08&profile=pass
+#EXTINF:-1 group-title="Sweden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/kanal-11-se.png",Kanal 11
+http://79.136.31.136:9998/stream/channelid/227809984?ticket=CF03B9FC8223BC196B60243639B9FF33578A9252&profile=pass
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/SVT24_logotyp.png",SVT 24/SVT Barn
 http://79.136.31.136:9998/stream/channelid/1015548860?ticket=E5BE2E501FEE6DFFD21CAF06E61E80ED5E8A4174&profile=pass
-#EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/1200px-Kunskapskanalen_2017.svg.png",Kunskapskanalen
-http://79.136.31.136:9998/stream/channelid/1466974738?ticket=C43D67E0F189502870E2EB5BF39FAD05405FE6D9&profile=pass
-#EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV3_Sweden_2009_%282%29.svg/800px-TV3_Sweden_2009_%282%29.svg.png",TV3
-http://79.136.31.136:9998/stream/channelid/625178240?ticket=B050FE94CEF1B75DB55439FE328ADB8461376E0E&profile=pass
-#EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/1200px-TV4sweden_logo.svg.png",TV4
-http://79.136.31.136:9998/stream/channelid/912272936?ticket=C07C8A24B1B0264ABB5D1F0C9EDE2177179E84D1&profile=pass
+
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/TV_Finland_logo.png",TV Finland
 http://2.70.66.155:81/stream/channelid/456629462?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1200px-Logo_SRF_1.svg.png" group-title="Switzerland",SRF 1
