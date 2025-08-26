@@ -11,36 +11,55 @@ https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535922-1/playlist.m3u8
 https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535924-1/playlist.m3u8
 #EXTINF:-1 group-title="👁 Aria Presents: Big Brother Live Feeds 👁"tvg-logo="https://www.mlive.com/resizer/v2/CZFFHH7NCZFRJPMN3S3SBBEGNI.png?auth=7860b93720e9434e35de6aaff131cacac3c95e35543b7f5a7f129e535f87991f&width=1280&quality=90",Big Brother LF: Feed #4
 https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535926-1/playlist.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://i.ibb.co/SDbW37Nc/1000029034-removebg-preview.png",DoneBetter
-https://de.bnkd.xyz/memfs/cf4a0c4f-76e0-412d-9998-436fda01a212.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/disney-channel-dk.png",Disney Channel DB
-https://delta.webchnl.live/memfs/c9a8d5aa-b703-44b4-9dcb-a4557047c83c.m3u
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png",Nickelodeon DB/DB@Nite
-https://delta.webchnl.live/memfs/7577fe69-6090-43e1-9454-e29ddf8ec666.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png",Comedy Central DB
-https://de.bnkd.xyz/memfs/2a955f59-cc81-48fd-9ad5-05774298d203.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://i.ibb.co/SDbW37Nc/1000029034-removebg-preview.png",Whiplash
-https://delta.webchnl.live/memfs/9cdffea8-2656-4000-9e3e-3f06d5209948.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://i.ibb.co/SDbW37Nc/1000029034-removebg-preview.png",Whiplash II
-https://delta.webchnl.live/memfs/ff2e44d9-096a-458b-9725-4cf81582d636.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://i.ibb.co/SDbW37Nc/1000029034-removebg-preview.png",Whiplash Cinema
-https://delta.webchnl.live/memfs/36c61df8-7103-4981-8bc6-b802a996e98c.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://i.ibb.co/SDbW37Nc/1000029034-removebg-preview.png",Spark
-https://delta.webchnl.live/memfs/eea022e8-8a0b-414c-9e06-264b1088e577_output_0.m3u8?session=k3biEf7ZLAsh6JVGCTJiLt
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png",Cartoon Network Extras
-https://delta.webchnl.live/memfs/3100f100-922f-4437-9a8d-84a556aa1e69.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png",Cartoon Network Multi
-https://delta.webchnl.live/memfs/863a2de3-1373-47d9-af9e-ca5d49e94608.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png",Cartoon Network Omega
-https://delta.webchnl.live/memfs/c343f898-2239-4b71-a4c9-497c6d9f3c3c.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://i.ibb.co/SDbW37Nc/1000029034-removebg-preview.png",EEL Channel (webchnl)
-https://delta.webchnl.live/memfs/1300c062-d4cd-402c-baf6-084dc5192fac.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://i.ibb.co/SDbW37Nc/1000029034-removebg-preview.png",EEL Channel (webvision)
-https://cdn.webvision.fun/memfs/6193a8f9-103d-4bdf-99f3-e563b748037b_output_0.m3u8?session=9xJSukt2hsS7AAbyzdGmHq
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://i.ibb.co/SDbW37Nc/1000029034-removebg-preview.png",MagicalTV
-https://cdn.webvision.fun/memfs/b2748cbb-a572-4fa0-979b-1277fd050167_output_0.m3u8?session=LsuM3Zsi6eesDemRhBMjt3
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/boomerang-us.png",Boomerang (Jpuffle5)
-https://cdn.webvision.fun/memfs/3cc2fa80-1aa6-4e09-b4cf-27c80f112fa9_output_0.m3u8?session=eYreWjjeY4PaubKtCNs9zg
+#EXTM3U
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/2x2.png",2x2_English
+https://rhine.webchnl.live/memfs/be88c390-19d4-4362-aaf9-a2eb6a3f758c.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/bamro.png",Bamro
+https://rhine.webchnl.live/memfs/242e59c8-1c7e-4c08-a9a8-e41b17f1ae17.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/boomreborn.png",Boomerang Reborn
+https://rhine.webchnl.live/memfs/0a6adc63-1ea7-49f1-9de1-1a81ad597e72.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/cnextras.png",Cartoon Network Extras
+https://rhine.webchnl.live/memfs/53fec556-2421-48ac-9b8a-203f48ae1ca1.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/cnmulti.png",Cartoon Network Multi
+https://rhine.webchnl.live/memfs/55263779-40ab-45c9-ac64-636ff0963419.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/toonmx.png",Cartoon Network Omega
+https://rhine.webchnl.live/memfs/9eb075a9-0682-41ce-846d-8cc714a8f4fc.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/ccdb.png",Comedy Central DoneBetter
+https://rhine.webchnl.live/memfs/9d3e259c-f7e2-4b66-bf4c-24738db87597.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/dijit.png",DIJIT
+https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/disneydb.png",Disney Channel DoneBetter
+https://rhine.webchnl.live/memfs/b8883ef3-28f0-4ff4-bfd9-b863e4317cc4.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/donebetter.png",DoneBetter
+https://rhine.webchnl.live/memfs/a0277a2e-9e76-4060-9e07-5d6495e60a66.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/eel_ch.png",Eel Channel
+https://rhine.webchnl.live/memfs/ee44b078-5b16-4484-b054-76079dc2d45c.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/flashbak.png",flashBAK
+https://rhine.webchnl.live/memfs/d839aad2-f86a-49d9-bef3-e7c4c2b8e9f0.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/jnime.png",JNIME
+https://rhine.webchnl.live/memfs/533d2680-8556-4139-98cd-b09f6ba89d5b.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/nickgas.png",Nick GaS
+https://rhine.webchnl.live/memfs/48e4dd44-3c78-4c9e-99c6-058604ab2962.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/nickdb.png",Nickelodeon DoneBetter
+https://rhine.webchnl.live/memfs/df872e66-4bfe-4cc8-9b47-7d617ac6ad8b.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/placid.png",Placid
+https://rhine.webchnl.live/memfs/7d25f0a4-6d46-4091-ba8e-63becd013d6d.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/ava.png",Radio AVA
+https://ir.bnkd.xyz/memfs/9f242947-8d94-4fa5-bfba-860d9b4a1764.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/s2.png",S2
+https://rhine.webchnl.live/memfs/a1d25eab-0048-4698-b2c0-3c4ced3d2efc.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/soul.png",Soul
+https://ir.bnkd.xyz/memfs/11cbbd1a-dab8-4c5e-86c0-dcc004f79a8d.m3u8
+#EXTINF:-1 group-title="Aria Web Channels tvg-logo="https://webchnl.live/assets/img/channelicons/spark.png",spark
+https://rhine.webchnl.live/memfs/52b4200e-6ea9-4119-be31-0e73fa9c7d64.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/vertex.png",Vertex
+https://rhine.webchnl.live/memfs/b99dbea4-c17c-45a2-922e-9a25fc5a45e3.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/whiplash.png",Whiplash
+https://rhine.webchnl.live/memfs/ac0f016c-e39c-4fa5-885d-b90aec65b076.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/whiplash2.png",Whiplash II
+https://rhine.webchnl.live/memfs/86695e51-c500-4939-b3e8-73a2db21741d.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/whiplashcinema.png",Whiplash Cinema
+https://rhine.webchnl.live/memfs/3727506f-9e14-4f8e-af12-cdc8c597640c.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bang_Bang_logo_2009.png",Bang Bang
 https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?id=DAL_1_004&video_id=16377&token=142cda7d50870275a9ca7988ff001b32ab30709b&authority_instance_id=spectar-prd-digitalb&profile_id=1&application_installation_id=1&uuid=backoffice1&subscriber_id=1&application_id=backoffice1&detected_delivery_method=hls&playlist_template=nginx&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/%C3%87ufo_logo.png",Cufo
