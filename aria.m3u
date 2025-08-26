@@ -1091,7 +1091,6 @@ http://79.136.31.136:9998/stream/channelid/15699430?ticket=C02A2D226EF9867640D0A
 http://79.136.31.136:9998/stream/channelid/227809984?ticket=CF03B9FC8223BC196B60243639B9FF33578A9252&profile=pass
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/SVT24_logotyp.png",SVT 24/SVT Barn
 http://79.136.31.136:9998/stream/channelid/1015548860?ticket=E5BE2E501FEE6DFFD21CAF06E61E80ED5E8A4174&profile=pass
-
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/TV_Finland_logo.png",TV Finland
 http://2.70.66.155:81/stream/channelid/456629462?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_SRF_1.svg/1200px-Logo_SRF_1.svg.png" group-title="Switzerland",SRF 1
