@@ -550,6 +550,62 @@ http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6405/index.m3u8
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6355/index.m3u8
 #EXTINF:-1 group-title="Lithuania" tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV3_Plus_Logo_2021.svg/1200px-TV3_Plus_Logo_2021.svg.png",TV3 Plus
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12001/index.m3u8
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-nl.png",NPO 1
+http://86.85.245.213:9981/stream/channelid/228930093?profile=pass
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo2-nl.png",NPO 2
+http://86.85.245.213:9981/stream/channelid/1091595793?profile=pass
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo3-nl.png",NPO 3
+http://86.85.245.213:9981/stream/channelid/1341758705?profile=pass
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-extra-nl.png",NPO 1 Extra
+http://86.85.245.213:9981/stream/channelid/1469873678?profile=pass
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl4-nl.png",RTL 4
+http://185.236.230.212:9981/play/a0a7
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl5-nl.png",RTL 5
+http://185.236.230.212:9981/play/a0a8
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl7-nl.png",RTL 7
+http://185.236.230.212:9981/play/a0a9
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl8-nl.png",RTL 8
+http://185.236.230.212:9981/play/a0ab
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtlz-nl.png",RTL Z
+http://185.236.230.212:9981/play/a0ae
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-lounge-nl.png",RTL Lounge
+http://130.162.32.84/NL/RTLLounge/index.m3u8
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/sbs6-nl.png",SBS 6
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84430
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/sbs9-nl.png",SBS 9
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84429
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/net5-nl.png",Net 5
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84457
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/mtv-nl.png",MTV
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84461
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/comedy-central-nl.png",Comedy Central
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84493
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/paramount-network-nl.png",Paramount Network
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84427
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/star-channel-nl.png",Star Channel 
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84474
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/disney-channel-de.png",Disney Channel 
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84486
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png",Nickelodeon 
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84453
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",Nick Jr.
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84456
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nicktoons-us.png",Nicktoons 
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84454
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84495
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/cartoonito-nl.png",Cartoonito
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84498
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/veronica-nl.png",Veronica/Disney Jr.
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84418
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 
+https://a1xs.vip/140001
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="NL: Ziggo Sport 2 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 2 
+https://a1xs.vip/140002
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="NL: Ziggo Sport 3 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 3 
+https://a1xs.vip/140003
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="NL: Ziggo Sport 4 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 4 
+https://a1xs.vip/140004
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/norway/nrk1-no.png" group-title="Norway",NRK 1
 http://groundhogday.in/live/Jok123/Jok123/3414721.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/norway/nrk2-no.png" group-title="Norway",NRK 2
