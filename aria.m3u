@@ -651,64 +651,134 @@ http://84.236.39.108:9981/stream/channelid/1866461659?profile=pass
 http://84.236.39.108:9981/stream/channelid/1407602406?profile=pass
 #EXTINF:-1 group-title="Iceland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/R%C3%9AV_2019_logo.svg",RÚV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB TV1
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/ZjMzNmU2NTJlZTIyZjU4ZjliMWI2ZmI3NjBjOGRkMTFmODA0ZWUzZGI4ODE2NmFhMmQyNDBkYjFiMDY0NzUzMw/default",IRIB TV1
 https://stream2.removie.raha.af/live/smil:iribtv1.smil/chunklist_w1989776299_b1500000.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB TV3
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/MzYyMzM1NmVhYjc5MmZlY2ZmNzJlMGY3ZmJjZjc5Y2UwNDkyODQxNDU4YzU5MjE0MzFlYjg4NWM4NDZiNzA5NA/default",IRIB TV3
 https://stream2.removie.raha.af/live/smil:iribtv3.smil/chunklist_w1848100321_b1500000.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB TV4
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/MTc1NzNhNjAxNjlhNDA4NzRhZjYzMzNhNjk2OWY2ZWIyY2JjNTEzM2ZjOTk2ZjViNjUwMTg3YjQ1OGJkMzZmOA/default",IRIB TV4
 https://lenz.splus.ir/PLTV/88888888/224/3221226140/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Nasim
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/NWMwZWI1N2NiNTgzZjVhYjViNmMxNTYzZjQ0ODczZTMwZWEyZWQyMDJlN2RjMmIwNTUzYmE4NTFiZDljYzQwOQ/default",IRIB Nasim
 https://lenz.splus.ir/PLTV/88888888/224/3221226653/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRINN
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/YjZjYTVlY2I2MGU2ZjNjOTEzZGRlYTFmODE5YTc2OGQ0M2YxMTMzNGQ5NTZiMTFmZDhiYzIzZjVkNWViZjg2Zg/default",IRINN
 https://lenz.splus.ir/PLTV/88888888/224/3221226142/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Varzesh
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/592f762d-695f-42bc-912f-ecc98546d6b5/default",IRIB Varzesh
 https://stream2.removie.raha.af/live/smil:irvarzeshtv.smil/chunklist_w206723439_b1500000.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Varzesh (Backup)
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/592f762d-695f-42bc-912f-ecc98546d6b5/default",IRIB Varzesh (Backup)
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Tamasha
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/N2ZjYjI0ZWFmMDdhZTk0MTljZjg5NDI1MjVhYzFjNThiNWU4NDVlMjJlYTI4MWRkMjI1Mjc2YmJmN2FiMzVjYw/default",IRIB Tamasha
 https://lenz.splus.ir/PLTV/88888888/224/3221226879/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Pouya & Nahal
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/Y2U2NGUwOTYxMjczYzIwNjQwNDEzMzI0YTY0OWRlYjQ2NTU4NjYyYzg5MjIwOWZkZTUyOGE1ZmRiNjMwZjA4ZA/default",IRIB Pouya & Nahal
 https://lenz.splus.ir/PLTV/88888888/224/3221226140/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",Ifilm Farsi
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/NTgyNmRjMzlhMGY4MmUwNGNjZDJiMjM4OTEwNjMxNTRmMjA5Mjc1N2FiYWY2MGEzOGVkZTg1NWM0Yzc5YzU4Mw/default",Ifilm Farsi
 https://lenz.splus.ir/PLTV/88888888/224/3221226842/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Namayesh
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/cf874981-6dbe-4a64-b6c1-41c715714b34/default",IRIB Namayesh
 https://lenz.splus.ir/PLTV/88888888/224/3221226148/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Mostanad
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/NmI1OTM5YTljNWYxNjBhNTEyNDE4ZmYwY2FhODY1MzQwMWI4N2VmOTc5MmVhYTg5YmIwZDlmZDJhZmZjMTc2ZQ/default",IRIB Mostanad
 https://lenz.splus.ir/PLTV/88888888/224/3221226901/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Quran
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/ZTIxODczOWE4OWQ4MzRmOWU2M2Q3N2ZiYmI4YzNjMTNkZmM3YmQ1NmQ2MGVjMjE5ZDljZmIyZWU5N2RkZWMwMw/default",IRIB Quran
 https://lenz.splus.ir/PLTV/88888888/224/3221226144/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Amoozesh
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/80849bee-6fb3-4e82-8047-da2ead8b61bf/default",IRIB Amoozesh
 https://lenz.splus.ir/PLTV/88888888/224/3221226151/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Salamat
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/b24edd34-d2ef-4c18-9f95-7978c719ead6/default",IRIB Salamat
 https://lenz.splus.ir/PLTV/88888888/224/3221226152/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Ofogh
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/OTc3YjJkNzk0MmJjMjkxMTRmNjk2MmNhNTdiNGNkNjMxNjE2NWU1ZDI5MzlhMjI0MzZiYzljNDVkMjRkZTkxMA/default",IRIB Ofogh
 https://lenz.splus.ir/PLTV/88888888/224/3221226143/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Omid
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/NzRjZTk4ZmFjMGNlNzMzMjM2N2JjYWE1YTFmYmVkOTMzYTVmNzgzNzk1ZGZlMDJiMGM5NzU1YTM3NDkyZmY0Zg/default",IRIB Omid
 https://lenz.splus.ir/PLTV/88888888/224/3221226159/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Sepehr
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/OTU4MWMyYjM1NThmZTM0MWZhYmYzYmFlM2E4YjY5YmFmMTg1MmQ1M2M4OTViODkyMmVmNTg1NGU1YTc0ZWY0NA/default",IRIB Sepehr
 https://lenz.splus.ir/PLTV/88888888/224/3221226161/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Tehran
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/NzQyZGZmZmI2MTlkZmYxZTdkMzFjNmVlYzY3MzdmNTJkNzZmYTZkOGYxM2U5YjJmMjk2NGQyMDhmZWMyYjY2Yw/default",IRIB Tehran
 https://lenz.splus.ir/PLTV/88888888/224/3221226141/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Aflak (Lorestan)
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/f44138b1-62ac-4c87-80c9-d20516ae2007/default",IRIB Aflak (Lorestan)
 https://lenz.splus.ir/PLTV/88888888/224/3221226675/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB West Azarbayjan
+#EXTINF:-1 group-title="Iran" tvg-logo=https://static.telewebion.com/channelsLogo/b1a30927-c269-4c05-a02f-d6056d59eae7/default"",IRIB West Azarbayjan
 https://lenz.splus.ir/PLTV/88888888/224/3221226800/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Isfahan
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/YTM3Zjk1NjI2NDljM2Q0NjA3ZGY2OGJkMTFhNDU4MjRmOWFkZDc5MGMwYThjZTVjN2UxYWQ0MWEwOTFlNGNkOQ/default",IRIB Isfahan
 https://lenz.splus.ir/PLTV/88888888/224/3221226652/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Baran
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/ZGM5ODhlYWY4NTE4YWRiMDg1OTk2Yzg4OWI1ODc1YWNmYzhhM2VkNThiYmM2ZjczM2U0Njk4OWU4N2Q4ZWQ3Zg/default",IRIB Baran
 https://lenz.splus.ir/PLTV/88888888/224/3221226902/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Sahand
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/NjQ0MTQyODE5ZTYzZmZjNTliNTBmY2I2NDk1MjczM2JlOTk1NTljYWExODY0ZjFiMWU0OTZiY2Y4OTc4MjQ4MQ/default",IRIB Sahand
 https://lenz.splus.ir/PLTV/88888888/224/3221226423/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Fars
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/177dcbe7-db46-45cb-956c-784bde0b4a2e/default",IRIB Fars
 https://lenz.splus.ir/PLTV/88888888/224/3221226701/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Ghazvin
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/NzFjZGViYWEzZjFkYjVkZTc2MDE0NzBjZDA5N2E5YjZmNDFmNmI0YzA1YzgxMjQ0Y2U5MDQ1MmE5ODdiNzAwMw/default",IRIB Ghazvin
 https://lenz.splus.ir/PLTV/88888888/224/3221226888/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Kerman
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/ODE1YWIxNjcxYTU1NWM2YmJkYmRkNzE5OGJiOTQ0YmEyNzhjMDBkMGU2N2MwOTlhMGFjYzZhYjc1MjRjM2E5OA/default",IRIB Kerman
 https://lenz.splus.ir/PLTV/88888888/224/3221226856/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Tabarestan (Mazandaran)
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/ZWZlOGFhZWM3ZDI4MDVmZWVjZDhkNWJjMjliZDYwOGZiMDkyYTA2NzIzNTQ5NDBiYmU2NThiYzA4MDEwMWJlMQ/default",IRIB Tabarestan (Mazandaran)
 https://lenz.splus.ir/PLTV/88888888/224/3221226786/1.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Kurdistan
+#EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/ZTFiYWUwYTkzZmQ3OWU3Y2VmMzgwYTBiMGRjZTE5ZmFkOTUwNmY0N2JkNWNlZDRkMDZiMmQzYzhkOTZmZjIwNw/default",IRIB Kurdistan
 https://lenz.splus.ir/PLTV/88888888/224/3221226647/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Lenz Animation
+https://lenz.splus.ir/PLTV/88888888/224/3221227043/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Lenz Movie
+https://lenz.splus.ir/PLTV/88888888/224/3221227021/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Persiana Sports
+https://stream2.removie.raha.af/live/smil:persiasptv.smil/chunklist_w1529468251_b1500000.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Newflix
+https://newfhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Arax
+https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Arvan
+https://arvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Avang TV
+https://avanghls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Datis TV
+https://dathls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",eplanet TV
+https://eplhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",FX One Farsi
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",FX Two Farsi
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Home+
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",iCC+
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Iran Nama
+https://iran613hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",4Music
+https://itthls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Maawj tv
+https://maawjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Persiana Travel
+https://mardomhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Tapesh 2
+https://maxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Meta Film
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",MTC
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Net TV
+https://nethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Pro Sport International
+https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",4Sports
+https://orangehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Radio Javan
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",SL One
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",SL Two
+https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One +1
@@ -759,6 +829,8 @@ http://116.90.120.149:8000/play/a02a/index.m3u8
 http://121.143.97.131:9981/stream/channelid/576334703?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png",ORF 2 Europe 
 http://188.174.204.193:9981/stream/channelid/248337322
+#EXTINF:-1 group-title="International" tvg-logo="",GO2 Travel
+https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/New_rik-sat-logo.png/revision/latest?cb=20240329211507",RIK Sat
 http://77.49.52.36:666/stream/channelid/156817259?ticket=16707AF51E6DB5C7167EEE238A61A6E3E816EF1F&profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/RTS_Svet.svg/revision/latest?cb=20200327134807" group-title="International",RTS Svet
