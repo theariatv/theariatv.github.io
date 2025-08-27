@@ -11,24 +11,24 @@ http://206.212.244.47:8080/0sMtDr/555103/57481
 http://206.212.244.47:8080/0sMtDr/555103/47349
 #EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0vTXZ8/1000029272-removebg-preview.png" group-title="Aria+ Exclusive",BBC Top Gear 24/7
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/TopGear2018.png/revision/latest?cb=20180604065310" group-title="Aria+ Exclusive",BBC Top Gear 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/52565.ts
-#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/Kz0vTXZ8/1000029272-removebg-preview.png",Cobra Kai 24/7
+#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Cobra_Kai_logo.png/revision/latest/scale-to-width-down/250?cb=20200623092635",Cobra Kai 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/30731.ts
-#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/Kz0vTXZ8/1000029272-removebg-preview.png",Bones 24/7
+#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bones_2005_logo.svg/1000px-Bones_2005_logo.svg.png",Bones 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/511290.ts
-#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/Kz0vTXZ8/1000029272-removebg-preview.png",House M.D. 24/7
+#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/House_logo.svg/1200px-House_logo.svg.png",House M.D. 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/511530.ts
-#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/Kz0vTXZ8/1000029272-removebg-preview.png",NCIS 24/7
+#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDnj6qL5roQCybbwDc4MMrL2GPrE30HfDhQ&s",NCIS 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/330963.ts
-#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/Kz0vTXZ8/1000029272-removebg-preview.png",Amphibia 24/7
+#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-RXbcRObjigZ5a_zF2zzX8Kp1kDnb2pGIUw&s",Amphibia 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/511232.ts
 http://user.sclecdn.co:8080/live/26725074/92867131/30731.ts
-#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/Kz0vTXZ8/1000029272-removebg-preview.png",SpongeBob SquarePants 24/7
+#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/1200px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png",SpongeBob SquarePants 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/42118.ts
-#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/Kz0vTXZ8/1000029272-removebg-preview.png",Recess 24/7
+#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Disney%27s_Recess_logo.svg/500px-Disney%27s_Recess_logo.svg.png",Recess 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/69295.ts
-#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/Kz0vTXZ8/1000029272-removebg-preview.png",Big Brother (US) 24/7
+#EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Big_Brother_%28US%29_2020.png/revision/latest?cb=20240713192137",Big Brother (US) 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/513472.ts
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bang_Bang_logo_2009.png",Bang Bang
 https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?id=DAL_1_004&video_id=16377&token=142cda7d50870275a9ca7988ff001b32ab30709b&authority_instance_id=spectar-prd-digitalb&profile_id=1&application_installation_id=1&uuid=backoffice1&subscriber_id=1&application_id=backoffice1&detected_delivery_method=hls&playlist_template=nginx&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783
