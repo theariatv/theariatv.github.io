@@ -859,6 +859,22 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/playlist.m3u8
 #EXTINF:-1 group-title="North Korea" tvg-logo="https://i.ibb.co/4nbQ0Bt1/Logo-of-the-Korean-Central-Television-svg.png",Korea Central Television (KCTV)
 https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 group-title="North Macedonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_MRT_1_%282012-%29.svg/1200px-Logo_of_MRT_1_%282012-%29.svg.png",MRT 1 (MPT 1)
+http://46.217.182.69:9981/stream/channelid/2136120294?ticket=BFF0B78E6B9B3B41D43207081CB86BDB0FEF740D&profile=pass
+#EXTINF:-1 group-title="North Macedonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_2_%282012-%29.svg/1200px-Logo_of_MRT_2_%282012-%29.svg.png",MRT 2 (MPT 2)
+http://46.217.182.69:9981/stream/channelid/912071227?ticket=DD39FB1487A855616C7C3C5BFD2DBB1381F09B5A&profile=pass
+#EXTINF:-1 group-title="North Macedonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_3_%282020-%29.svg/1200px-Logo_of_MRT_3_%282020-%29.svg.png",MRT 3 (MPT 3)
+http://46.217.182.69:9981/stream/channelid/380750354?ticket=BAB5E909590CCF9AD0CF4F9E3350CEF5E43DA290&profile=pass
+#EXTINF:-1 group-title="North Macedonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_of_MRT_4_%282020-%29.svg/1200px-Logo_of_MRT_4_%282020-%29.svg.png",MRT 4 (MPT 4)
+http://46.217.182.69:9981/stream/channelid/636906562?ticket=6CFAEB34A272583F03245F4515041F6F74AFB4F4&profile=pass
+#EXTINF:-1 group-title="North Macedonia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/MRT_5_%283%29.png/revision/latest?cb=20200515000810",MRT 5 (MPT 5)
+http://46.217.182.69:9981/stream/channelid/306565884?ticket=FC4B67C36A0111E1E6C81FFA86BFFDD472CDAF7D&profile=pass
+#EXTINF:-1 group-title="North Macedonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_of_MRT_Assembly_Channel_%282012-%29.svg/1200px-Logo_of_MRT_Assembly_Channel_%282012-%29.svg.png",MRT Assembly Channel (Sobraniski Kanal)
+http://46.217.182.69:9981/stream/channelid/563105231?ticket=50BC8167D253EAD36D89E13A62470024416666D8&profile=pass
+#EXTINF:-1 group-title="North Macedonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_of_Kanal_5.svg/250px-Logo_of_Kanal_5.svg.png",Kanal 5
+http://46.217.182.69:9981/stream/channelid/244982239?ticket=0DD4B12ED603F131283307D573800DAF300F72C8&profile=pass
+#EXTINF:-1 group-title="North Macedonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_of_Sitel.svg/640px-Logo_of_Sitel.svg.png",Sitel
+http://46.217.182.69:9981/stream/channelid/255511820?ticket=3BB9A5495FE43815F6F52A78EAF450320BCCDE0E&profile=pass
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-nl.png",NPO 1
 http://86.85.245.213:9981/stream/channelid/228930093?profile=pass
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo2-nl.png",NPO 2
