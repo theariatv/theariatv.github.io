@@ -651,6 +651,64 @@ http://84.236.39.108:9981/stream/channelid/1866461659?profile=pass
 http://84.236.39.108:9981/stream/channelid/1407602406?profile=pass
 #EXTINF:-1 group-title="Iceland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/R%C3%9AV_2019_logo.svg",RÚV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB TV1
+https://stream2.removie.raha.af/live/smil:iribtv1.smil/chunklist_w1989776299_b1500000.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB TV3
+https://stream2.removie.raha.af/live/smil:iribtv3.smil/chunklist_w1848100321_b1500000.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB TV4
+https://lenz.splus.ir/PLTV/88888888/224/3221226140/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Nasim
+https://lenz.splus.ir/PLTV/88888888/224/3221226653/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRINN
+https://lenz.splus.ir/PLTV/88888888/224/3221226142/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Varzesh
+https://stream2.removie.raha.af/live/smil:irvarzeshtv.smil/chunklist_w206723439_b1500000.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Varzesh (Backup)
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Tamasha
+https://lenz.splus.ir/PLTV/88888888/224/3221226879/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Pouya & Nahal
+https://lenz.splus.ir/PLTV/88888888/224/3221226140/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Ifilm Farsi
+https://lenz.splus.ir/PLTV/88888888/224/3221226842/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Namayesh
+https://lenz.splus.ir/PLTV/88888888/224/3221226148/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Mostanad
+https://lenz.splus.ir/PLTV/88888888/224/3221226901/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Quran
+https://lenz.splus.ir/PLTV/88888888/224/3221226144/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Amoozesh
+https://lenz.splus.ir/PLTV/88888888/224/3221226151/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Salamat
+https://lenz.splus.ir/PLTV/88888888/224/3221226152/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Ofogh
+https://lenz.splus.ir/PLTV/88888888/224/3221226143/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Omid
+https://lenz.splus.ir/PLTV/88888888/224/3221226159/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Sepehr
+https://lenz.splus.ir/PLTV/88888888/224/3221226161/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Tehran
+https://lenz.splus.ir/PLTV/88888888/224/3221226141/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Aflak (Lorestan)
+https://lenz.splus.ir/PLTV/88888888/224/3221226675/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB West Azarbayjan
+https://lenz.splus.ir/PLTV/88888888/224/3221226800/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Isfahan
+https://lenz.splus.ir/PLTV/88888888/224/3221226652/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Baran
+https://lenz.splus.ir/PLTV/88888888/224/3221226902/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Sahand
+https://lenz.splus.ir/PLTV/88888888/224/3221226423/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Fars
+https://lenz.splus.ir/PLTV/88888888/224/3221226701/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Ghazvin
+https://lenz.splus.ir/PLTV/88888888/224/3221226888/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Kerman
+https://lenz.splus.ir/PLTV/88888888/224/3221226856/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Tabarestan (Mazandaran)
+https://lenz.splus.ir/PLTV/88888888/224/3221226786/1.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",IRIB Kurdistan
+https://lenz.splus.ir/PLTV/88888888/224/3221226647/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One +1
