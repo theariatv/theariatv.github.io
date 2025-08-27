@@ -791,6 +791,24 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Iran" tvg-logo="",SL Two
 https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Manoto HD
+https://m3u.iranvids.com/manoto/output.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",PBC Tapesh
+https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",24/7 Box
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",VOA Farsi
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0360.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Radio Farda
+https://rfe-ingest.akamaized.net/hls/live/2033042/tvmc01/playlist.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Navahang
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="",Caltex Music
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
 http://185.99.136.50:9981/stream/channelid/1927578680?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One +1
