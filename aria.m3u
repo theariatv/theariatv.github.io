@@ -490,48 +490,50 @@ https://live-fi.tvkaista.net/hero/live.m3u8?src=freetv
 #EXTINF:-1 group-title="Finland",TLC
 http://80.221.20.81:9981/stream/channelid/22525729?profile=pass
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="France",TF1
-http://173.229.4.239:5004/auto/v1
+http://90.40.83.122:9981/stream/channelid/893223062?profile=matroska
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png" group-title="France",France 2
-http://173.229.4.239:5004/auto/v2
+http://90.40.83.122:9981/stream/channelid/2027325649?profile=matroska
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" group-title="France",France 3
-http://173.229.4.239:5004/auto/v3
+http://90.40.83.122:9981/stream/channelid/574547255?profile=matroska
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-4-fr.png" group-title="France",France 4
-http://173.229.4.239:5004/auto/v4
+http://90.40.83.122:9981/stream/channelid/974905124?profile=matroska
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png" group-title="France",France 5
-http://173.229.4.239:5004/auto/v5
+http://90.40.83.122:9981/stream/channelid/1585542704?profile=matroska
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="France",M6
-http://173.229.4.239:5004/auto/v6
+http://90.40.83.122:9981/stream/channelid/1928933416?profile=matroska
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/arte-fr.png" group-title="France",Arte
-http://173.229.4.239:5004/auto/v7
+http://90.40.83.122:9981/stream/channelid/1684895299?profile=matroska
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/w9-fr.png" group-title="France",W9
-http://173.229.4.239:5004/auto/v9
-#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/6ter-fr.png" group-title="France",6ter
-http://173.229.4.239:5004/auto/v22
+http://90.40.83.122:9981/stream/channelid/1541155611?profile=matroska
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" group-title="France",TFX
-http://173.229.4.239:5004/auto/v11
+http://90.40.83.122:9981/stream/channelid/1861896921?profile=matroska
 #EXTINF:-1 tvg-id="TF1.Series.Film.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-series-film-fr.png" group-title="France",TF1 Séries Film
 http://90.40.83.122:9981/stream/channelid/700225656?profile=matroska
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" group-title="France",TMC
-http://173.229.4.239:5004/auto/v10
+http://90.40.83.122:9981/stream/channelid/886481291?profile=matroska
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/gulli-fr.png" group-title="France",Gulli
-http://173.229.4.239:5004/auto/v12
+http://90.40.83.122:9981/stream/channelid/1053985294?profile=matroska
+#EXTINF:-1 tvg-id="CSTAR.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-star-fr.png" group-title="France",CSTAR
+http://90.40.83.122:9981/stream/channelid/841001636?profile=matroska
 #EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png" group-title="France",T18
-http://173.229.4.239:5004/auto/v18
+http://90.40.83.122:9981/stream/channelid/1164509511?profile=matroska
 #EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://images.bfmtv.com/Q_UDNO97UTAUkivr_A7fbW7_tWw=/0x157:720x562/720x0/images/Le-logo-de-la-chaine-de-Ouest-France-NOVO19-2066003.jpg" group-title="France",NOVO19 (Launches September 1st)
 http://90.40.83.122:9981/stream/channelid/325116454?profile=matroska
 #EXTINF:-1 tvg-id="RMC.Story.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-story-fr.png" group-title="France",RMC Story
 http://90.40.83.122:9981/stream/channelid/1427341577?profile=matroska
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/6ter-fr.png" group-title="France",6ter
+http://90.40.83.122:9981/stream/channelid/2065807921?profile=matroska
 #EXTINF:-1 tvg-id="RMC.Découverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-decouverte-fr.png" group-title="France",RMC Découverte
 http://90.40.83.122:9981/stream/channelid/286623769?profile=matroska
 #EXTINF:-1 tvg-id="Chérie.25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cherie-25-fr.png" group-title="France",Chérie 25
 http://90.40.83.122:9981/stream/channelid/1210374143?profile=matroska
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/lci-fr.png" group-title="France",LCI
-http://173.229.4.239:5004/auto/v15
+http://90.40.83.122:9981/stream/channelid/259651712?profile=matroska
 #EXTINF:-1 tvg-id="france.info.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-info-fr.png" group-title="France",France Info
-http://173.229.4.239:5004/auto/v16
-#EXTINF:-1 tvg-id="cnews.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cnews-fr.png" group-title="France",CNews
-http://173.229.4.239:5004/auto/v14
-#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://image.pitchbook.com/dWDSQSDJ8ecWy934fnow6ctIBBg1691505723976_200x200" group-title="France",BFM TV
+http://90.40.83.122:9981/stream/channelid/515438836?profile=matroska
+#EXTINF:-1 tvg-id="CNEWS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-news-fr.png" group-title="France",CNEWS
+http://90.40.83.122:9981/stream/channelid/841001636?profile=matroska
+#EXTINF:-1 tvg-id="BRM.TV.fr" tvg-logo="https://image.pitchbook.com/dWDSQSDJ8ecWy934fnow6ctIBBg1691505723976_200x200" group-title="France",BFM TV
 http://90.40.83.122:9981/stream/channelid/1109988586?profile=matroska
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Serien%2B_Logo_2023.png" group-title="Germany",Serien+
 http://188.174.204.193:9981/stream/channelid/2070831335?ticket=F651B1353199C50E2F5CC1D7B589207150EE86C9&profile=pass
