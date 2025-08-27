@@ -59,6 +59,20 @@ https://rhine.webchnl.live/memfs/ac0f016c-e39c-4fa5-885d-b90aec65b076.m3u8
 https://rhine.webchnl.live/memfs/86695e51-c500-4939-b3e8-73a2db21741d.m3u8
 #EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/whiplashcinema.png",Whiplash Cinema
 https://rhine.webchnl.live/memfs/3727506f-9e14-4f8e-af12-cdc8c597640c.m3u8
+#EXTINF:-1 tvg-id="csn.uk" tvg-name="CSN" tvg-logo="https://static.wikia.nocookie.net/csn/images/e/eb/CSNLogo5.png" group-title="Aria Web Channels",CSN
+http://plyr.streamlinecsn.online/memfs/eda3c430-a21e-4ea7-87d6-68db49abbeaf.m3u8
+#EXTINF:-1 vg-id="csnx.uk" tvg-name="CSNX" tvg-logo="https://static.wikia.nocookie.net/csn/images/c/c7/CSNX.png" group-title="Aria Web Channels",CSNX
+http://plyr.streamlinecsn.online/memfs/73188a9a-ff81-487c-867f-15b7be6c6ccd.m3u8
+#EXTINF:-1 tvg-id="boxnet.uk" tvg-name="Boxnet" tvg-logo="https://static.wikia.nocookie.net/csn/images/1/16/BN.png" group-title="Aria Web Channels",Boxnet
+http://plyr.streamlinecsn.online/memfs/df48901b-57eb-4341-b155-730b2bbee3e9.m3u8
+#EXTINF:-1 tvg-id="csmovies.uk" tvg-name="CSMovies Channel" tvg-logo="https://static.wikia.nocookie.net/csn/images/7/74/CSMovies2025.png" group-title="Aria Web Channels",CSMovies Channel
+http://plyr.streamlinecsn.online/memfs/3b7df2f3-96ad-4b66-a8fc-7869027db360.m3u8
+#EXTINF:-1 tvg-id="bxoffce.uk" tvg-name="Streamline Box Office" tvg-logo="https://static.wikia.nocookie.net/csn/images/0/0b/BoxOfficeSmall.png" group-title="Aria Web Channels",Streamline Box Office
+http://plyr.streamlinecsn.online/memfs/15e8bdd0-bd6d-417b-8fde-77d65780f245.m3u8
+#EXTINF:-1 tvg-id="plyr.uk" tvg-name="Player" tvg-logo="https://file.garden/YuQ6w-gHkWVkfRWg/Player.png" group-title="Aria Web Channels",Player
+http://plyr.streamlinecsn.online/memfs/a7f9acc7-9d77-4427-aea5-e199eb4ea0cd.m3u8
+#EXTINF:-1 tvg-id="cnx.uk" tvg-name="ClassiCNX" tvg-logo="https://static.wikia.nocookie.net/csn/images/3/3f/CNX_Logo.png" group-title="Aria Web Channels",ClassiCNX
+http://plyr.streamlinecsn.online/memfs/7094d23d-3702-4c2f-bc06-de25aac1d065.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bang_Bang_logo_2009.png",Bang Bang
 https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?id=DAL_1_004&video_id=16377&token=142cda7d50870275a9ca7988ff001b32ab30709b&authority_instance_id=spectar-prd-digitalb&profile_id=1&application_installation_id=1&uuid=backoffice1&subscriber_id=1&application_id=backoffice1&detected_delivery_method=hls&playlist_template=nginx&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/%C3%87ufo_logo.png",Cufo
