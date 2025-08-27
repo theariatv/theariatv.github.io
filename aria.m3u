@@ -1321,6 +1321,10 @@ http://108.14.66.42:5004/auto/v7.1
 http://108.14.66.42:5004/auto/v5.1
 #EXTINF:-1 group-title="United States" tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75",The CW (WPIX)
 http://108.14.66.42:5004/auto/v11.1
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png",MyNetworkTV (WWOR)
+http://108.14.66.42:5004/auto/v9.1
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png",MeTV
+http://108.14.66.42:5004/auto/v43.3
 #EXTINF:-1 group-title="United States" tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp",Univision 
 http://108.14.66.42:5004/auto/v41.1
 #EXTINF:-1 group-title="United States" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png",Telemundo 
@@ -1339,7 +1343,11 @@ https://tvpass.org/live/AMC/hd
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png",BET
 http://128.230.54.128:5004/auto/v40.2
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/uptv-us.png",UP TV
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bounce-tv-us.png",Bounce 
+http://108.14.66.42:5004/auto/v31.2
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/1200px-Dabl_logo.svg.png",Dabl
+http://108.14.66.42:5004/auto/v2.3
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/up-tv-us.png",UP TV
 http://128.230.54.128:5004/auto/v53.1
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/we-tv-us.png",We TV
 http://128.230.54.128:5004/auto/v56.2
@@ -1375,6 +1383,8 @@ https://tvpass.org/live/NickJrEast/hd
 https://tvpass.org/live/DisneyXDEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/game-show-network-us.png",Game Shows Network
 https://tvpass.org/live/game-show-network-east/hd
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/buzzer-us.png",Buzzer
+http://108.14.66.42:5004/auto/v9.3
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png",National Geographic 
 https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png",FS1
@@ -1385,9 +1395,11 @@ https://tvpass.org/live/NicktoonsEast/hd
 https://tvpass.org/live/DisneyJuniorEast/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-network-us.png",Boomerang 
 https://tvpass.org/live/Boomerang/hd
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-network-us.png",Fox News
+#EXTINF:-1 group-title="United States" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/metv_toons_bw.png",MeTV Toons
+http://108.14.66.42:5004/auto/v43.4
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png",Fox News
 https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/trutv-us.png",MSNBC
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-us.png",MSNBC (Soon to be MSNOW)
 https://tvpass.org/live/MSNBC/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-1-us.png,C-SPAN
 https://tvpass.org/live/CSPAN/hd
@@ -1397,6 +1409,28 @@ https://tvpass.org/live/CSPAN2/hd
 https://tvpass.org/live/TeenNickEast/hd
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="United States",Court TV 
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png",Cozi TV
+http://108.14.66.42:5004/auto/v4.2
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/start-tv-us.png",Start TV 
+http://108.14.66.42:5004/auto/v2.2
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comet-us.png",Comet
+http://108.14.66.42:5004/auto/v2.5
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/catchy-comedy-us.png",Catchy Comedy
+http://108.14.66.42:5004/auto/v5.5
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png",Antenna TV
+http://108.14.66.42:5004/auto/v11.2
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/charge-us.png",Charge!
+http://108.14.66.42:5004/auto/v7.3
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/heroes-and-icons-us.png",Heroes and Icons
+http://108.14.66.42:5004/auto/v9.4
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png",Grit
+http://108.14.66.42:5004/auto/v31.3
+#EXTINF:-1 group-title="United States" tvg-logo="https://static.wixstatic.com/media/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png/v1/fit/w_2500,h_1330,al_c/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png",OUTLAW
+http://108.14.66.42:5004/auto/v48.4
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png",Unimás
+http://108.14.66.42:5004/auto/v68.1
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telexitos-us.png",TeleXitos
+http://108.14.66.42:5004/auto/v47.2
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="United States",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="United States",HSN East
@@ -1405,6 +1439,10 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/HSN2_2018.svg/revision/latest?cb=20221114163129" group-title="United States",HSN 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1200px-Ion_logo.svg.png",Ion
+http://108.14.66.42:5004/auto/v31.1
+#EXTINF:-1 group-title="United States" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/02/IONPLusRebrand_WhiteLogo_800x318.png",Ion Plus
+http://108.14.66.42:5004/auto/v31.5
 #EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png" group-title="United States",ION Mystery
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="United States",QVC East
