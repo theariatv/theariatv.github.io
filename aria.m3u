@@ -1118,7 +1118,7 @@ https://a1xs.vip/700036
 #EXTINF:-1 group-title="Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png",GMA
 https://ott.m3u8.nathcreqtives.com/gma/manifest.m3u8
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1200px-Telewizja_Polska_-_TVP1_logo_2003.svg.png",TVP 1
-http://46.171.186.177:9981/stream/channelid/738470772?ticket=E0083AC1C68CF88F3281425748E50C074C5C4AC2&profile=pass
+https://tvh.cyn.cz/stream/channelid/1133911016?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1200px-Telewizja_Polska_-_TVP2_logo_2003.svg.png",TVP 2
 http://46.171.186.177:9981/stream/channelid/304081769?ticket=3D4B83075993874103DBE6A91186CD031CD81511&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Telewizja_Polska_-_TVP3_logo_2016.svg/1200px-Telewizja_Polska_-_TVP3_logo_2016.svg.png",TVP 3
@@ -1127,12 +1127,16 @@ http://46.171.186.177:9981/stream/channelid/577335142?ticket=9AF35D8F0006BC6A4F4
 http://46.171.186.177:9981/stream/channelid/388291292?ticket=86CCDE044FD64D97D2331808EB4A0E8ADF3D3A8C&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/TVP_Seriale_2010.svg/revision/latest/scale-to-width-down/300?cb=20250205155101",TVP Seriale
 http://46.171.186.177:9981/stream/channelid/77275677?ticket=CB174F8D04542D654601B3AC1A1A4F04DF7DA618&profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-historia-pl.png",TVP Historia
+https://tvh.cyn.cz/stream/channelid/636863764?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/TVN_logo_2024.svg.png",TVN
-http://46.171.186.177:9981/stream/channelid/354745704?ticket=040322A1E54CB7BBF80119A49E87FC6901F51733&profile=pass
+https://tvh.cyn.cz/stream/channelid/1616667038?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVN7_logo_2021.svg/250px-TVN7_logo_2021.svg.png",TVN 7
 http://46.171.186.177:9981/stream/channelid/15969849?ticket=C1900A4DCB289C29D41BD7C627F657E634283B67&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TVN_Fabu%C5%82a.svg/1200px-TVN_Fabu%C5%82a.svg.png",TVN Fabuła
 http://46.171.186.177:9981/stream/channelid/554085826?ticket=3456AA46EB192A0232597E50EB913B5801D0D03A&profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvn-turbo-pl.png",TVN Turbo
+https://tvh.cyn.cz/stream/channelid/683341512?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png",FX
 http://46.171.186.177:9981/stream/channelid/1034428301?ticket=A93CA4F1692ECD149E0818680C207F14E26F5228&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/FX_Comedy_Logo_2023.svg/250px-FX_Comedy_Logo_2023.svg.png",FX Comedy 
