@@ -1122,13 +1122,23 @@ https://tvh.cyn.cz/stream/channelid/1133911016?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1200px-Telewizja_Polska_-_TVP2_logo_2003.svg.png",TVP 2
 http://46.171.186.177:9981/stream/channelid/304081769?ticket=3D4B83075993874103DBE6A91186CD031CD81511&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Telewizja_Polska_-_TVP3_logo_2016.svg/1200px-Telewizja_Polska_-_TVP3_logo_2016.svg.png",TVP 3
-http://46.171.186.177:9981/stream/channelid/577335142?ticket=9AF35D8F0006BC6A4F4908CD494333E261CA623A&profile=pass
+https://tvh.cyn.cz/stream/channelid/691987635?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-hd-pl.png",TVP HD
+https://tvh.cyn.cz/stream/channelid/21392183?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png",TVP Info
+https://tvh.cyn.cz/stream/channelid/1182692606?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-rozrywka-pl.png",TVP Rozrywka
+https://tvh.cyn.cz/stream/channelid/1626775820?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg",TVP Sport
-http://46.171.186.177:9981/stream/channelid/388291292?ticket=86CCDE044FD64D97D2331808EB4A0E8ADF3D3A8C&profile=pass
+https://tvh.cyn.cz/stream/channelid/682431392?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/TVP_Seriale_2010.svg/revision/latest/scale-to-width-down/300?cb=20250205155101",TVP Seriale
 http://46.171.186.177:9981/stream/channelid/77275677?ticket=CB174F8D04542D654601B3AC1A1A4F04DF7DA618&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-historia-pl.png",TVP Historia
 https://tvh.cyn.cz/stream/channelid/636863764?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
+https://tvh.cyn.cz/stream/channelid/1849809109?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-dokument-pl.png",TVP Dokument
+https://tvh.cyn.cz/stream/channelid/1984451512?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/TVN_logo_2024.svg.png",TVN
 https://tvh.cyn.cz/stream/channelid/1616667038?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVN7_logo_2021.svg/250px-TVN7_logo_2021.svg.png",TVN 7
@@ -1137,24 +1147,40 @@ http://46.171.186.177:9981/stream/channelid/15969849?ticket=C1900A4DCB289C29D41B
 http://46.171.186.177:9981/stream/channelid/554085826?ticket=3456AA46EB192A0232597E50EB913B5801D0D03A&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvn-turbo-pl.png",TVN Turbo
 https://tvh.cyn.cz/stream/channelid/683341512?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-pl.png",Polsat
+https://tvh.cyn.cz/stream/channelid/75536366?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-2-pl.png",Polsat 2
+https://tvh.cyn.cz/stream/channelid/1337325095?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-cafe-pl.png",Polsat Café
+https://tvh.cyn.cz/stream/channelid/2115654101?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-news-pl.png",Polsat News
+https://tvh.cyn.cz/stream/channelid/867587422?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-games-pl.png",Polsat Games
+https://tvh.cyn.cz/stream/channelid/525809616?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png",FX
 http://46.171.186.177:9981/stream/channelid/1034428301?ticket=A93CA4F1692ECD149E0818680C207F14E26F5228&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/FX_Comedy_Logo_2023.svg/250px-FX_Comedy_Logo_2023.svg.png",FX Comedy 
 http://46.171.186.177:9981/stream/channelid/1974576155?ticket=12AD2CAD84315860624033BE30548C0113D3528C&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",MTV 
 http://46.171.186.177:9981/stream/channelid/674259884?ticket=87774F71F795C04BADA67945EFC2DADA56AD8C6D&profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-abc-pl.png",TVP ABC
+https://tvh.cyn.cz/stream/channelid/1516372603?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-jimjam-pl.png",Polsat JimJam
+https://tvh.cyn.cz/stream/channelid/1590799748?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-states/nickelodeon-us.png",Nickelodeon
 https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6545130-1/playlist.m3u8
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-states/nick-jr-us.png",Nick Jr.
 https://pltv.uzis-room.ch/play/213
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-states/nick-toons-us.png",Nicktoons
 https://pltv.uzis-room.ch/play/214
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png",TeenNick 
+https://tvh.cyn.cz/stream/channelid/349164676?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/disney-channel-pl.png",Disney Channel
 https://pltv.uzis-room.ch/play/208
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-states/disney-jr-us.png",Disney Jr.
 https://pltv.uzis-room.ch/play/209
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-states/disney-xd-us.png",Disney XD
-https://pltv.uzis-room.ch/play/210
+https://tvh.cyn.cz/stream/channelid/366863693?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/united-kingdom/cartoonito-uk.png",Cartoonito 
 https://pltv.uzis-room.ch/play/207
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/minimini-plus-pl.png",Minimini+
