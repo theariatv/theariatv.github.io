@@ -14,6 +14,9 @@
             --accent-color: #0d6efd;
             --header-bg: #ffffff;
             --danger-color: #dc3545;
+            --success-color: #198754;
+            --warning-color: #ffc107;
+            --secondary-bg: #f1f3f4;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -25,7 +28,14 @@
                 --accent-color: #4dabf7;
                 --header-bg: #1e1e1e;
                 --danger-color: #f06571;
+                --success-color: #51cf66;
+                --warning-color: #ffd43b;
+                --secondary-bg: #2d2d2d;
             }
+        }
+
+        * {
+            box-sizing: border-box;
         }
 
         body {
@@ -33,13 +43,20 @@
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             background-color: var(--bg-color);
             color: var(--text-color);
-            transition: background-color 0.2s, color 0.2s;
+            transition: background-color 0.3s ease, color 0.3s ease;
+            line-height: 1.6;
         }
 
         .container {
-            max-width: 900px;
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 2rem;
+            padding: 1rem;
+        }
+
+        @media (min-width: 768px) {
+            .container {
+                padding: 2rem;
+            }
         }
 
         header {
@@ -47,19 +64,49 @@
             margin-bottom: 3rem;
             border-bottom: 1px solid var(--border-color);
             padding-bottom: 1.5rem;
+            position: relative;
         }
 
         header h1 {
-            font-size: 3rem;
+            font-size: clamp(2rem, 5vw, 3rem);
             margin: 0;
+            background: linear-gradient(45deg, var(--accent-color), #6f42c1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .stat-number {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--accent-color);
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: var(--muted-text-color);
         }
 
         .project-info {
-            background-color: var(--header-bg);
+            background: linear-gradient(135deg, var(--header-bg) 0%, var(--secondary-bg) 100%);
             border: 1px solid var(--border-color);
-            border-radius: 8px;
+            border-radius: 12px;
             padding: 1.5rem;
             margin-bottom: 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
 
         .project-info h2, .project-info h3 {
@@ -70,36 +117,130 @@
             color: var(--accent-color);
             text-decoration: none;
             font-weight: 500;
+            transition: color 0.2s ease;
         }
 
         .project-info a:hover {
             text-decoration: underline;
+            color: var(--success-color);
         }
         
-        .playlist-links p {
-            margin: 0.5rem 0;
+        .playlist-links {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .playlist-link {
+            display: block;
+            padding: 1rem;
+            background-color: var(--secondary-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            text-decoration: none;
+            transition: all 0.2s ease;
+        }
+
+        .playlist-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
         }
         
-        .search-container {
+        .controls-bar {
+            display: flex;
+            gap: 1rem;
             margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .search-container {
+            flex: 1;
+            min-width: 250px;
+            position: relative;
         }
 
         #search-input {
             width: 100%;
-            padding: 0.75rem 1rem;
+            padding: 0.75rem 1rem 0.75rem 2.5rem;
             font-size: 1rem;
-            border-radius: 8px;
-            border: 1px solid var(--border-color);
+            border-radius: 25px;
+            border: 2px solid var(--border-color);
             background-color: var(--header-bg);
             color: var(--text-color);
-            box-sizing: border-box;
+            transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        #search-input:focus {
+            outline: none;
+            border-color: var(--accent-color);
+            box-shadow: 0 0 0 3px rgba(13, 110, 253, 0.1);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 0.75rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--muted-text-color);
+            pointer-events: none;
+        }
+
+        .view-toggle {
+            display: flex;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .view-button {
+            padding: 0.5rem 1rem;
+            background: var(--header-bg);
+            border: none;
+            color: var(--text-color);
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .view-button.active {
+            background: var(--accent-color);
+            color: white;
+        }
+
+        .expand-collapse-buttons {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .action-button {
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            background: var(--header-bg);
+            color: var(--text-color);
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+        }
+
+        .action-button:hover {
+            background: var(--accent-color);
+            color: white;
+            border-color: var(--accent-color);
         }
 
         .category-folder {
             border: 1px solid var(--border-color);
-            border-radius: 8px;
+            border-radius: 12px;
             margin-bottom: 1rem;
             background-color: var(--header-bg);
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .category-folder:hover {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
         }
 
         .category-header {
@@ -109,7 +250,37 @@
             justify-content: space-between;
             align-items: center;
             font-size: 1.2rem;
+            font-weight: 600;
+            background: linear-gradient(90deg, var(--header-bg) 0%, var(--secondary-bg) 100%);
+            transition: all 0.2s ease;
+        }
+
+        .category-header:hover {
+            background: var(--secondary-bg);
+        }
+
+        .category-title {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .channel-count {
+            background: var(--accent-color);
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 12px;
+            font-size: 0.8rem;
             font-weight: 500;
+        }
+
+        .expand-icon {
+            transition: transform 0.3s ease;
+            font-size: 1.2rem;
+        }
+
+        .expand-icon.expanded {
+            transform: rotate(180deg);
         }
 
         .channel-table {
@@ -128,37 +299,199 @@
             font-weight: 600;
             font-size: 0.9rem;
             color: var(--muted-text-color);
+            background-color: var(--secondary-bg);
+        }
+
+        .channel-table tr:hover {
+            background-color: var(--secondary-bg);
         }
         
         .channel-name {
             display: flex;
             align-items: center;
+            gap: 0.75rem;
+        }
+
+        .channel-logo {
+            width: 32px;
+            height: 24px;
+            object-fit: contain;
+            border-radius: 4px;
+            background-color: var(--secondary-bg);
+            border: 1px solid var(--border-color);
+        }
+
+        .logo-fallback {
+            width: 32px;
+            height: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(45deg, var(--accent-color), #6f42c1);
+            border-radius: 4px;
+            color: white;
+            font-size: 10px;
+            font-weight: bold;
+            text-transform: uppercase;
         }
         
         .channel-table a {
              color: var(--accent-color);
              text-decoration: none;
              font-weight: 500;
+             transition: color 0.2s ease;
+        }
+
+        .channel-table a:hover {
+            color: var(--success-color);
+        }
+
+        .status-indicator {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 0.5rem;
+        }
+
+        .status-stable {
+            background-color: var(--success-color);
+        }
+
+        .status-unstable {
+            background-color: var(--warning-color);
         }
 
         .unstable-icon {
-            color: #ffc107;
+            color: var(--warning-color);
             font-weight: bold;
-            margin-left: 8px;
             cursor: help;
-            font-size: 1.2rem;
+            font-size: 1rem;
         }
 
         .report-button {
             font-size: 0.8rem;
-            padding: 4px 8px;
-            border-radius: 5px;
+            padding: 6px 12px;
+            border-radius: 20px;
             border: 1px solid var(--danger-color);
             background: transparent;
             color: var(--danger-color);
             cursor: pointer;
             text-decoration: none;
             display: inline-block;
+            transition: all 0.2s ease;
+        }
+
+        .report-button:hover {
+            background: var(--danger-color);
+            color: white;
+        }
+
+        .loading-spinner {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 3rem;
+        }
+
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid var(--border-color);
+            border-top: 4px solid var(--accent-color);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 3rem;
+            color: var(--muted-text-color);
+        }
+
+        .grid-view {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1rem;
+        }
+
+        .grid-category {
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            background: var(--header-bg);
+            padding: 1rem;
+        }
+
+        .grid-category h3 {
+            margin-top: 0;
+            font-size: 1.1rem;
+        }
+
+        .grid-channels {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .grid-channel {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            font-size: 0.9rem;
+        }
+
+        .grid-channel-info {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .grid-channel-logo {
+            width: 20px;
+            height: 15px;
+            object-fit: contain;
+            border-radius: 2px;
+        }
+
+        .grid-logo-fallback {
+            width: 20px;
+            height: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(45deg, var(--accent-color), #6f42c1);
+            border-radius: 2px;
+            color: white;
+            font-size: 8px;
+            font-weight: bold;
+        }
+
+        @media (max-width: 768px) {
+            .controls-bar {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .channel-table th:nth-child(n+3),
+            .channel-table td:nth-child(n+3) {
+                display: none;
+            }
+            
+            .stats-bar {
+                gap: 1rem;
+            }
+            
+            .playlist-links {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 
@@ -171,7 +504,7 @@
     <div id="root"></div>
 
     <script type="text/babel">
-        const { useState, useEffect } = React;
+        const { useState, useEffect, useMemo } = React;
 
         const parseM3U = (m3uContent, isStable) => {
             const lines = m3uContent.split('\n');
@@ -192,18 +525,61 @@
                         const channelName = line.split(',').pop().trim();
                         const streamUrl = nextLine.trim();
                         
+                        // Extract tvg-logo if present
+                        const logoMatch = line.match(/tvg-logo="([^"]+)"/);
+                        const logoUrl = logoMatch ? logoMatch[1] : null;
+                        
                         if (!channels[country]) channels[country] = {};
                         
                         if (!channels[country][channelName]) {
-                             channels[country][channelName] = { name: channelName, stable: isStable, url: streamUrl };
+                             channels[country][channelName] = { 
+                                 name: channelName, 
+                                 stable: isStable, 
+                                 url: streamUrl,
+                                 country: country,
+                                 logo: logoUrl
+                             };
                         }
                     } catch (e) { console.error("Error parsing line:", line, e); }
                 }
             }
             return channels;
         };
+
+        // Generate logo URL from channel name using multiple sources
+        const generateLogoUrl = (channelName, country) => {
+            // This function is no longer needed since logos come from playlists
+            return null;
+        };
+
+        const ChannelLogo = ({ channel, className = "channel-logo" }) => {
+            const [logoError, setLogoError] = useState(false);
+
+            const handleLogoError = () => {
+                setLogoError(true);
+            };
+
+            // If no logo URL or error occurred, show fallback
+            if (!channel.logo || logoError) {
+                const initials = channel.name.split(' ').map(word => word[0]).join('').substring(0, 2);
+                return (
+                    <div className={className === "channel-logo" ? "logo-fallback" : "grid-logo-fallback"}>
+                        {initials}
+                    </div>
+                );
+            }
+
+            return (
+                <img 
+                    src={channel.logo} 
+                    alt={`${channel.name} logo`}
+                    className={className}
+                    onError={handleLogoError}
+                />
+            );
+        };
         
-        const Category = ({ country, channels, forceOpen }) => {
+        const Category = ({ country, channels, forceOpen, viewMode }) => {
             const [isOpen, setIsOpen] = useState(false);
 
             useEffect(() => {
@@ -224,18 +600,51 @@
                 return `${repoUrl}?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
             };
 
+            if (viewMode === 'grid') {
+                return (
+                    <div className="grid-category">
+                        <h3>
+                            <span className="category-title">
+                                {country}
+                                <span className="channel-count">{channels.length}</span>
+                            </span>
+                        </h3>
+                        <div className="grid-channels">
+                            {channels.slice(0, 5).map(channel => (
+                                <div key={channel.name} className="grid-channel">
+                                    <div className="grid-channel-info">
+                                        <ChannelLogo channel={channel} className="grid-channel-logo" />
+                                        <span className={`status-indicator ${channel.stable ? 'status-stable' : 'status-unstable'}`}></span>
+                                        {channel.name}
+                                    </div>
+                                    <a href={channel.url} target="_blank" rel="noopener noreferrer">▶</a>
+                                </div>
+                            ))}
+                            {channels.length > 5 && (
+                                <div style={{textAlign: 'center', color: 'var(--muted-text-color)', fontSize: '0.9rem'}}>
+                                    +{channels.length - 5} more channels
+                                </div>
+                            )}
+                        </div>
+                    </div>
+                );
+            }
+
             return (
                 <div className="category-folder">
                     <div className="category-header" onClick={() => setIsOpen(!isOpen)}>
-                        <span>{country}</span>
-                        <span>{isOpen ? '−' : '+'}</span>
+                        <div className="category-title">
+                            <span>{country}</span>
+                            <span className="channel-count">{channels.length}</span>
+                        </div>
+                        <span className={`expand-icon ${isOpen ? 'expanded' : ''}`}>▼</span>
                     </div>
                     {isOpen && (
                         <table className="channel-table">
                            <thead>
                                 <tr>
                                     <th>Channel</th>
-                                    <th>Stream Link</th>
+                                    <th>Stream</th>
                                     <th>Report</th>
                                 </tr>
                             </thead>
@@ -244,14 +653,21 @@
                                     <tr key={channel.name}>
                                         <td>
                                             <div className="channel-name">
-                                                {channel.name}
-                                                {!channel.stable && 
-                                                    <span className="unstable-icon" title="Potentially unstable stream from aria+.m3u">!</span>
-                                                }
+                                                <ChannelLogo channel={channel} />
+                                                <div>
+                                                    <div style={{fontWeight: '500'}}>{channel.name}</div>
+                                                    <div style={{fontSize: '0.8rem', color: 'var(--muted-text-color)'}}>
+                                                        <span className={`status-indicator ${channel.stable ? 'status-stable' : 'status-unstable'}`}></span>
+                                                        {channel.stable ? 'Stable' : 'Unstable'}
+                                                        {!channel.stable && 
+                                                            <span className="unstable-icon" title="Potentially unstable stream from aria+.m3u"> ⚠</span>
+                                                        }
+                                                    </div>
+                                                </div>
                                             </div>
                                         </td>
                                         <td>
-                                            <a href={channel.url} target="_blank" rel="noopener noreferrer">Link</a>
+                                            <a href={channel.url} target="_blank" rel="noopener noreferrer">Play</a>
                                         </td>
                                         <td>
                                             <a href={createReportURL(channel)} target="_blank" rel="noopener noreferrer" className="report-button">Report</a>
@@ -270,12 +686,29 @@
             const [filteredData, setFilteredData] = useState([]);
             const [searchTerm, setSearchTerm] = useState('');
             const [loading, setLoading] = useState(true);
+            const [viewMode, setViewMode] = useState('list');
+            const [allExpanded, setAllExpanded] = useState(false);
+
+            const stats = useMemo(() => {
+                const totalChannels = allChannelData.reduce((sum, cat) => sum + cat.channels.length, 0);
+                const stableChannels = allChannelData.reduce((sum, cat) => 
+                    sum + cat.channels.filter(ch => ch.stable).length, 0);
+                const countries = allChannelData.length;
+                
+                return { totalChannels, stableChannels, countries };
+            }, [allChannelData]);
 
             useEffect(() => {
                 const fetchAndParseData = async () => {
                     try {
-                        const [ariaRes, ariaPlusRes] = await Promise.all([ fetch('aria.m3u'), fetch('aria+.m3u') ]);
-                        const [ariaText, ariaPlusText] = await Promise.all([ ariaRes.text(), ariaPlusRes.text() ]);
+                        const [ariaRes, ariaPlusRes] = await Promise.all([ 
+                            fetch('aria.m3u'), 
+                            fetch('aria+.m3u') 
+                        ]);
+                        const [ariaText, ariaPlusText] = await Promise.all([ 
+                            ariaRes.text(), 
+                            ariaPlusRes.text() 
+                        ]);
 
                         const stableChannels = parseM3U(ariaText, true);
                         const unstableChannels = parseM3U(ariaPlusText, false);
@@ -297,8 +730,11 @@
 
                         setAllChannelData(formattedData);
                         setFilteredData(formattedData);
-                    } catch (error) { console.error("Could not load channel data:", error); } 
-                    finally { setLoading(false); }
+                    } catch (error) { 
+                        console.error("Could not load channel data:", error); 
+                    } finally { 
+                        setLoading(false); 
+                    }
                 };
                 fetchAndParseData();
             }, []);
@@ -312,18 +748,37 @@
                 const filtered = allChannelData
                     .map(category => ({
                         ...category,
-                        channels: category.channels.filter(channel => channel.name.toLowerCase().includes(lowercasedFilter))
+                        channels: category.channels.filter(channel => 
+                            channel.name.toLowerCase().includes(lowercasedFilter) ||
+                            channel.country.toLowerCase().includes(lowercasedFilter)
+                        )
                     }))
                     .filter(category => category.channels.length > 0);
                 setFilteredData(filtered);
             }, [searchTerm, allChannelData]);
 
+            const expandAll = () => setAllExpanded(true);
+            const collapseAll = () => setAllExpanded(false);
 
             return (
                 <div className="container">
                     <header>
                         <h1>Aria</h1>
                         <p>A curated collection of IPTV channels from around the world.</p>
+                        <div className="stats-bar">
+                            <div className="stat-item">
+                                <div className="stat-number">{stats.totalChannels}</div>
+                                <div className="stat-label">Total Channels</div>
+                            </div>
+                            <div className="stat-item">
+                                <div className="stat-number">{stats.stableChannels}</div>
+                                <div className="stat-label">Stable</div>
+                            </div>
+                            <div className="stat-item">
+                                <div className="stat-number">{stats.countries}</div>
+                                <div className="stat-label">Countries</div>
+                            </div>
+                        </div>
                     </header>
                     <main>
                         <div className="project-info">
@@ -333,8 +788,14 @@
                             </p>
                             <div className="playlist-links">
                                 <h3>Playlist Files</h3>
-                                <p><a href="./aria.m3u" download>Download aria.m3u</a> (Stable Streams)</p>
-                                <p><a href="./aria+.m3u" download>Download aria+.m3u</a> (Potentially Unstable Streams)</p>
+                                <a href="./aria.m3u" download className="playlist-link">
+                                    <strong>Download aria.m3u</strong><br />
+                                    <small>Stable Streams</small>
+                                </a>
+                                <a href="./aria+.m3u" download className="playlist-link">
+                                    <strong>Download aria+.m3u</strong><br />
+                                    <small>Potentially Unstable Streams</small>
+                                </a>
                             </div>
                             <h3>Want to help us?</h3>
                             <p>
@@ -343,26 +804,64 @@
                         </div>
 
                         <h2>Channel List</h2>
-                         <div className="search-container">
-                            <input
-                                id="search-input"
-                                type="search"
-                                placeholder="Search for a channel..."
-                                value={searchTerm}
-                                onChange={e => setSearchTerm(e.target.value)}
-                            />
-                        </div>
-                        {loading ? (
-                            <p>Loading channels...</p>
-                        ) : (
-                            filteredData.map(category => (
-                                <Category 
-                                    key={category.country} 
-                                    country={category.country} 
-                                    channels={category.channels}
-                                    forceOpen={searchTerm.length > 0}
+                        <div className="controls-bar">
+                            <div className="search-container">
+                                <span className="search-icon">🔍</span>
+                                <input
+                                    id="search-input"
+                                    type="search"
+                                    placeholder="Search for channel or country..."
+                                    value={searchTerm}
+                                    onChange={e => setSearchTerm(e.target.value)}
                                 />
-                            ))
+                            </div>
+                            <div className="view-toggle">
+                                <button 
+                                    className={`view-button ${viewMode === 'list' ? 'active' : ''}`}
+                                    onClick={() => setViewMode('list')}
+                                >
+                                    List
+                                </button>
+                                <button 
+                                    className={`view-button ${viewMode === 'grid' ? 'active' : ''}`}
+                                    onClick={() => setViewMode('grid')}
+                                >
+                                    Grid
+                                </button>
+                            </div>
+                            {viewMode === 'list' && (
+                                <div className="expand-collapse-buttons">
+                                    <button className="action-button" onClick={expandAll}>
+                                        Expand All
+                                    </button>
+                                    <button className="action-button" onClick={collapseAll}>
+                                        Collapse All
+                                    </button>
+                                </div>
+                            )}
+                        </div>
+                        
+                        {loading ? (
+                            <div className="loading-spinner">
+                                <div className="spinner"></div>
+                            </div>
+                        ) : filteredData.length === 0 ? (
+                            <div className="no-results">
+                                <h3>No Results Found</h3>
+                                <p>No channels were found for your search term "{searchTerm}".</p>
+                            </div>
+                        ) : (
+                            <div className={viewMode === 'grid' ? 'grid-view' : ''}>
+                                {filteredData.map(category => (
+                                    <Category 
+                                        key={category.country} 
+                                        country={category.country} 
+                                        channels={category.channels}
+                                        forceOpen={searchTerm.length > 0 || allExpanded}
+                                        viewMode={viewMode}
+                                    />
+                                ))}
+                            </div>
                         )}
                     </main>
                 </div>
