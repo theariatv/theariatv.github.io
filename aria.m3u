@@ -1319,16 +1319,46 @@ https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
 http://92.44.60.75:81/stream/channelid/418740200?ticket=E6DC6387AD9363FE491B61BA80E17B7E8D10E217&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png" group-title="Türkyie",a2
 http://92.44.60.75:81/stream/channelid/1592189257?ticket=446D232FB27B399B9E69CB23208660BA77C3C8FC&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-haber-tr.png" group-title="Türkyie",A Haber
+http://212.252.72.103:7070/play/a01d
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png" group-title="Türkyie",CNN Türk
+http://212.252.72.103:7070/play/a012
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png" group-title="Türkyie",Kanal D
 http://92.44.60.75:81/stream/channelid/2089362198?ticket=B099DF4AD251AFAB99D5FE331F28882DB88BEF99&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="Türkyie",Kanal 7
+http://212.252.72.103:7070/play/a01p
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/ntv-tr.png" group-title="Türkyie",NTV
+http://212.252.72.103:7070/play/a00s
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/dmax-tr.png" group-title="Türkyie",DMAX
+http://212.252.72.103:7070/play/a00t
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tlc-tr.png" group-title="Türkyie",TLC
+http://212.252.72.103:7070/play/a00u
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tv-tr.png" group-title="Türkyie",Show TV
+http://212.252.72.103:7070/play/a00w
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-max-tr.png" group-title="Türkyie",Show Max
+http://212.252.72.103:7070/play/a00z
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Türkyie",STAR TV 
-http://92.44.60.75:9981/stream/channelid/1527171208?profile=pass
+http://212.252.72.103:7070/play/a00r
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="Türkyie",TRT 1
-http://92.44.60.75:9981/stream/channelid/409547519?profile=pass
+http://212.252.72.103:7070/play/a007
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-2-tr.png" group-title="Türkyie",TRT 2
+http://212.252.72.103:7070/play/a00o
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="Türkyie",TRT Cocuk
+http://212.252.72.103:7070/play/a03n
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-tr.png" group-title="Türkyie",TV8
+http://212.252.72.103:7070/play/a01k
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-5-tr.png" group-title="Türkyie",TV8.5
+http://212.252.72.103:7070/play/a01l
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/250px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Türkyie",NOW
-http://92.44.60.75:9981/stream/channelid/1077291277?profile=pass
+http://212.252.72.103:7070/play/a01o
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/minika-go-tr.png" group-title="Türkyie",minikaGO
+http://212.252.72.103:7070/play/a01b
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/minika-cocuk-tr.png" group-title="Türkyie",minikaCOCUK
+http://212.252.72.103:7070/play/a03n
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/teve-2-tr.png" group-title="Türkyie",Teve2
+http://212.252.72.103:7070/play/a013
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Türkyie",CNBC-e
-http://92.44.60.75:9981/stream/channelid/301687148?profile=pass
+https://theariatv.github.io/channeldead.mp4
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",BBC One
 http://81.78.159.220:7000/stream/channelid/1770799995?ticket=3364C2CFA85C6C7C993218102184D61C0313A863&profile=pass
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",BBC Two
