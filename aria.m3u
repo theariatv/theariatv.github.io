@@ -1158,9 +1158,9 @@ https://tvh.cyn.cz/stream/channelid/867587422?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-games-pl.png",Polsat Games
 https://tvh.cyn.cz/stream/channelid/525809616?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png",FX
-http://46.171.186.177:9981/stream/channelid/1034428301?ticket=A93CA4F1692ECD149E0818680C207F14E26F5228&profile=pass
+https://tvh.cyn.cz/stream/channelid/560930701?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/FX_Comedy_Logo_2023.svg/250px-FX_Comedy_Logo_2023.svg.png",FX Comedy 
-http://46.171.186.177:9981/stream/channelid/1974576155?ticket=12AD2CAD84315860624033BE30548C0113D3528C&profile=pass
+https://tvh.cyn.cz/stream/channelid/691360825?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",MTV 
 http://46.171.186.177:9981/stream/channelid/674259884?ticket=87774F71F795C04BADA67945EFC2DADA56AD8C6D&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-abc-pl.png",TVP ABC
