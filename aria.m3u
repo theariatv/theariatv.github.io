@@ -624,27 +624,31 @@ http://212.95.30.186:9981/stream/channelid/288150308?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="Germany",Nickelodeon/Comedy Central +1
 http://77.23.37.6:9981/stream/channelid/58190975?profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png",ERT 1
-http://77.49.52.36:666/stream/channelid/995341409?ticket=DA9B5B822956CD539643D4ABF71979EB4E03DC1B&profile=pass
+http://193.92.205.210:666/stream/channelid/995341409?ticket=5B223EE0AEED416785F454C4CB195162F022E00B&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png",ERT 2
-http://77.49.52.36:666/stream/channelid/1499176004?ticket=7A557986213E729EEA5522FB1F01942B91FB0FD0&profile=pass
+http://193.92.205.210:666/stream/channelid/1499176004?ticket=3CEE47EB35A03AC38B040489F41A614327A4E5E3&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png",ERT 3
-http://31.121.110.30:4000/play/a029/index.m3u8
+http://193.92.205.210:666/stream/channelid/1916392614?ticket=983AE885A07F7959E4645AA7E7A30883FAC4C048&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/ERT_News_%282022%29.svg/revision/latest/scale-to-width-down/284?cb=20230818083854",ERT News
-http://77.49.52.36:666/stream/channelid/602121040?ticket=B2DE76115C49D7DCFBF5DCD98AF9410AA402F192&profile=pass
+http://193.92.205.210:666/stream/channelid/1138069875?ticket=C211F18468E6A4A472715B15EC81DF1669D1A66E&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg",ANT1
-http://31.121.110.30:4000/play/a028/index.m3u8
+http://193.92.205.210:666/stream/channelid/1798735192?ticket=B0E589720454D7A886243B52EE9B585997FAC6EC&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png",Alpha
-http://77.49.52.36:666/stream/channelid/1580933784?ticket=12FDDD79056488677DD222C4FE99886B54AF0A75&profile=pass
+http://193.92.205.210:666/stream/channelid/316270598?ticket=4EAFCB6CC543B46244367B2AF5D1F70BD8E64CB8&profile=pass
+#EXTINF:-1 group-title="Greece" tvg-logo="https://yt3.googleusercontent.com/LcDClj6BUrJu9GJLXYaibB9-2Dvl_lEDCx9g8nHyPQVeg-Yc82B9RwXbn388xCkXoFAxi5EcOA=s900-c-k-c0x00ffffff-no-rj",MAD
+http://193.92.205.210:666/stream/channelid/713260648?ticket=BCFE397CA2C57FDE9D15132028BBACF5C74DD066&profile=pass
+#EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Makedonia_TV_2023.svg/1200px-Makedonia_TV_2023.svg.png",Makedonia TV
+http://193.92.205.210:666/stream/channelid/1494631013?ticket=20C28E1E02AF6180CB1585886C359B3B0EB2B48E&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skai_TV_logo.svg/1200px-Skai_TV_logo.svg.png",Skai TV
-http://31.121.110.30:4000/play/a02v/index.m3u8
+http://193.92.205.210:666/stream/channelid/991752849?ticket=784DD68DB7A77EFE467FFD867EF540E4AFF2B553&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mega_channel_logo.svg/2560px-Mega_channel_logo.svg.png",MEGA
-http://77.49.52.36:666/stream/channelid/127572322?ticket=6F58E5DBF9F0E0924C78CF5DD36C47267E3444F0&profile=pass
+http://193.92.205.210:666/stream/channelid/127572322?ticket=DF0DF71DE53B0CEA811D5277F60703C4BB7A80C0&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg",Star
-http://77.49.52.36:666/stream/channelid/1724988607?ticket=41A3F30B836DA807255B48309EB7C53BD19A1066&profile=pass
+http://193.92.205.210:666/stream/channelid/1724988607?ticket=F0A4C6CBC94A83ACB060E01D2D6C67D13419D827&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png",OPEN Beyond 
-http://77.49.52.36:666/stream/channelid/2093067483?ticket=F98CF5C4D5E1D1EF2786AF19B446DE7C924503E1&profile=pass
+http://193.92.205.210:666/stream/channelid/2093067483?ticket=6A2C592AA031EABF9B5D2EB17874AAD15B94691B&profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon 
-http://77.49.52.36:666/stream/channelid/332003718?ticket=AFF6DDA20F5D97BDD77B228E12377CCCB7B42250&profile=pass
+http://193.92.205.210:666/stream/channelid/332003718?ticket=5A96C45C5BD1FCCFF6A32BC17251B02524EB6183&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png" group-title="Hungary",Duna
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png" group-title="Hungary",M1
@@ -880,7 +884,7 @@ http://188.174.204.193:9981/stream/channelid/248337322
 #EXTINF:-1 group-title="International" tvg-logo="",GO2 Travel
 https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/New_rik-sat-logo.png/revision/latest?cb=20240329211507",RIK Sat
-http://77.49.52.36:666/stream/channelid/156817259?ticket=16707AF51E6DB5C7167EEE238A61A6E3E816EF1F&profile=pass
+http://193.92.205.210:666/stream/channelid/156817259?ticket=A880FEEEC8FF79E329A41AAAD88906F5A76A2B71&profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/RTS_Svet.svg/revision/latest?cb=20200327134807" group-title="International",RTS Svet
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",Al Jazeera 
