@@ -455,17 +455,17 @@ http://185.233.253.71:9981/stream/channelid/605743331?ticket=754F2A0D14680CEC6B6
 http://86.52.58.131:9981/stream/channelid/982754499?profile=pass
 #EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv-2-dk.png",TV2
 http://185.233.253.71:9981/stream/channelid/1749613619?ticket=40BFADF5E8CB95789B9CCD3A77283FD5B3348054&profile=pass
-#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv-3-dk.png",TV3
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-dk.png",TV3
 http://185.233.253.71:9981/stream/channelid/1242761804?ticket=5B8C6AE6630DB4AE3793BB7EFC0BAE457D030189&profile=pass
-#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv-3-plus-dk.png",TV3 Plus
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-plus-dk.png",TV3 Plus
 http://185.233.253.71:9981/stream/channelid/1576049852?ticket=BC98741F1437DD6824CA9FCD4161F58550931462&profile=pass
 #EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/see-dk.png",See
 http://185.233.253.71:9981/stream/channelid/1998147007?ticket=BD6BD8635E84A7AC2D2E7A9C0D43AF71254AD14F&profile=pass
-#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/dk-4-dk.png",dk4
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/dk4-dk.png",dk4
 http://185.233.253.71:9981/stream/channelid/1957480935?ticket=12EAEA967B466D55D5A9C1976A074350E5778DD7&profile=pass
-#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv-2-charlie-dk.png",TV2 Charlie
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-charlie-dk.png",TV2 Charlie
 http://185.233.253.71:9981/stream/channelid/1211268929?ticket=D2D47C6AD1C4AAD8118869946A20235947B2089A&profile=pass
-#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv-2-news-dk.png",TV2 News
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-news-dk.png",TV2 News
 http://185.233.253.71:9981/stream/channelid/931172941?ticket=49AFCD397616AE72DE88BCC2EA95E825780800B9&profile=pass
 #EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/disney-channel-dk.png",Disney Channel 
 http://185.233.253.71:9981/stream/channelid/57476629?ticket=49EC5B3EB9B3E059206A2189D2605A2A501DE3C1&profile=pass
