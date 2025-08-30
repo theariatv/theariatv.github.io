@@ -624,3 +624,51 @@ https://tvh.cyn.cz/stream/channelid/75536366?profile=pass
 https://tvh.cyn.cz/stream/channelid/170395901?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/disco-polo-music-pl.png",Disco Polo Music (Source 2)
 https://tvh.cyn.cz/stream/channelid/2003434118?profile=pass
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="United Kingdom",Sky Sports Main Event UHD
+http://groundhogday.in:80/live/Jok123/Jok123/1042160.ts
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="United Kingdom",Sky Sports Main Event
+http://groundhogday.in:80/live/Jok123/Jok123/606.ts
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="United Kingdom",Sky Sports Premier League
+http://groundhogday.in:80/live/Jok123/Jok123/609.ts
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="United Kingdom",Sky Sports Football
+http://groundhogday.in:80/live/Jok123/Jok123/612.ts
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="United Kingdom",Sky Sports News
+http://groundhogday.in:80/live/Jok123/Jok123/621.ts
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="United Kingdom",Sky Sports F1 UHD
+http://groundhogday.in:80/live/Jok123/Jok123/1042159.ts
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/aetKPNi.png" group-title="United Kingdom",Sky Sports F1
+http://groundhogday.in:80/live/Jok123/Jok123/619.ts
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="United Kingdom",Sky Sports Cricket
+http://groundhogday.in:80/live/Jok123/Jok123/616.ts
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="United Kingdom",Sky Sports Mix 
+http://groundhogday.in:80/live/Jok123/Jok123/622.ts
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="United Kingdom",Sky Sports Golf
+http://groundhogday.in:80/live/Jok123/Jok123/617.ts
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="United Kingdom",Sky Sports Action
+http://groundhogday.in:80/live/Jok123/Jok123/618.ts
+#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="United Kingdom",Sky Sports+
+http://groundhogday.in:80/live/Jok123/Jok123/615.ts
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="United Kingdom",Sky Sports Tennis
+http://groundhogday.in:80/live/Jok123/Jok123/5335019.ts
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="United Kingdom",TNT Sports Ultimate
+http://groundhogday.in:80/live/Jok123/Jok123/1042157.ts
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="United Kingdom",TNT Sports 1
+http://groundhogday.in:80/live/Jok123/Jok123/659.ts
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="United Kingdom",TNT Sports 2
+http://groundhogday.in:80/live/Jok123/Jok123/662.ts
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://i.imgur.com/z1d9M65.png" group-title="United Kingdom",TNT Sports 3
+http://groundhogday.in:80/live/Jok123/Jok123/665.ts
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="United Kingdom",TNT Sports 4
+http://groundhogday.in:80/live/Jok123/Jok123/668.ts
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="TNT Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png" group-title="United Kingdom",TNT Sports 5
+http://groundhogday.in:80/live/Jok123/Jok123/1366.ts
+#EXTINF:-1 tvg-id="TNT.Sports.6.HD.uk" tvg-name="TNT Sports 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-6-uk.png" group-title="United Kingdom",TNT Sports 6
+http://groundhogday.in:80/live/Jok123/Jok123/1367.ts
+#EXTINF:-1 tvg-id="TNT.Sports.7.HD.uk" tvg-name="TNT Sports 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-7-uk.png" group-title="United Kingdom",TNT Sports 7
+http://groundhogday.in:80/live/Jok123/Jok123/1368.ts
+#EXTINF:-1 tvg-id="TNT.Sports.8.HD.uk" tvg-name="TNT Sports 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-8-uk.png" group-title="United Kingdom",TNT Sports 8
+http://groundhogday.in:80/live/Jok123/Jok123/1369.ts
+#EXTINF:-1 tvg-id="TNT.Sports.9.HD.uk" tvg-name="TNT Sports 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-9-uk.png" group-title="United Kingdom",TNT Sports 9
+http://groundhogday.in:80/live/Jok123/Jok123/1370.ts
+#EXTINF:-1 tvg-id="TNT.Sports.10.HD.uk" tvg-name="TNT Sports 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-10-uk.png" group-title="United Kingdom",TNT Sports 10
+http://groundhogday.in:80/live/Jok123/Jok123/1371.ts
