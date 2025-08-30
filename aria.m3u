@@ -1434,9 +1434,9 @@ http://81.78.159.220:7000/stream/channelid/1535545267?ticket=253FFA0EA8A84E1B760
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png",BBC Three/CBBC
 https://theariatv.github.io/aria.mp4
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png",BBC Four/CBeebies
-http://81.78.159.220:7000/stream/channelid/298879245?ticket=5C20819F2C4622FFC8C40EF3D1E0FAFBD2A48702&profile=pass
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:-1 tvg-id="ITV2.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png",ITV 2
-http://93.96.252.173:9981/stream/channelid/152179818?ticket=9BDA40A86A99A1E402710AF466B2208138EDA9BE&profile=pass
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 #EXTINF:-1 tvg-id="ITV3.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png",ITV 3
 http://93.96.252.173:9981/stream/channelid/1834699519?ticket=6E1166758E59774863D930701CD1EA57E483B972&profile=pass
 #EXTINF:-1 tvg-id="ITV4.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png",ITV 4
@@ -1472,7 +1472,7 @@ http://81.78.159.220:7000/stream/channelid/166770570?ticket=5159889055C22A08C15E
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png",HGTV
 http://31.121.110.30:4000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/800px-Food_Network_logo.svg.png",Food Network 
-http://31.121.110.30:4000/play/a012/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png",DMAX
 http://31.121.110.30:4000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/That%27s_TV_logo.png",That's TV 1
