@@ -446,13 +446,29 @@ http://185.236.230.212:9981/play/a0bl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Czechia",NOVA SPORT 2 HD
 http://185.236.230.212:9981/play/a0bh
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DR1_logo_2020.svg/1200px-DR1_logo_2020.svg.png" group-title="Denmark",DR 1
-http://86.52.58.131:9981/stream/channelid/964566561?profile=pass
+http://185.233.253.71:9981/stream/channelid/1999834189?ticket=1C67C731CBEF27AE64AC0517124F32C9D9C43384&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/DR2_logo_2020.svg/1200px-DR2_logo_2020.svg.png" group-title="Denmark",DR 2
 http://86.52.58.131:9981/stream/channelid/931180474?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/1200px-DR_Ramasjang_2020.svg.png" group-title="Denmark",DR Ramasjang
-http://86.52.58.131:9981/stream/channelid/516996259?profile=pass
+http://185.233.253.71:9981/stream/channelid/605743331?ticket=754F2A0D14680CEC6B65AADE53515A6A9FE159DC&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Nordic_2023.svg/1200px-BBC_Nordic_2023.svg.png" group-title="Denmark",BBC Nordic
 http://86.52.58.131:9981/stream/channelid/982754499?profile=pass
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv-2-dk.png",TV2
+http://185.233.253.71:9981/stream/channelid/1749613619?ticket=40BFADF5E8CB95789B9CCD3A77283FD5B3348054&profile=pass
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv-3-dk.png",TV3
+http://185.233.253.71:9981/stream/channelid/1242761804?ticket=5B8C6AE6630DB4AE3793BB7EFC0BAE457D030189&profile=pass
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv-3-plus-dk.png",TV3 Plus
+http://185.233.253.71:9981/stream/channelid/1576049852?ticket=BC98741F1437DD6824CA9FCD4161F58550931462&profile=pass
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/see-dk.png",See
+http://185.233.253.71:9981/stream/channelid/1998147007?ticket=BD6BD8635E84A7AC2D2E7A9C0D43AF71254AD14F&profile=pass
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/dk-4-dk.png",dk4
+http://185.233.253.71:9981/stream/channelid/1957480935?ticket=12EAEA967B466D55D5A9C1976A074350E5778DD7&profile=pass
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv-2-charlie-dk.png",TV2 Charlie
+http://185.233.253.71:9981/stream/channelid/1211268929?ticket=D2D47C6AD1C4AAD8118869946A20235947B2089A&profile=pass
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv-2-news-dk.png",TV2 News
+http://185.233.253.71:9981/stream/channelid/931172941?ticket=49AFCD397616AE72DE88BCC2EA95E825780800B9&profile=pass
+#EXTINF:-1 group-title="Denmark" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/disney-channel-dk.png",Disney Channel 
+http://185.233.253.71:9981/stream/channelid/57476629?ticket=49EC5B3EB9B3E059206A2189D2605A2A501DE3C1&profile=pass
 #EXTINF:-1 group-title="Estonia" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/59/Eesti_Televisioon_Logo.png/revision/latest?cb=20240219152102",ETV 
 http://84.50.161.79:9981/stream/channelid/102111302?ticket=D9DC0134FD558A4AB7700F58FDCF5B3C104B0D06&profile=pass
 #EXTINF:-1 group-title="Estonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/ETV2_logo_%282018%29.svg",ETV 2
