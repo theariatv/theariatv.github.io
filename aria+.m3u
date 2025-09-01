@@ -1,14 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="ABC.Spark.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/abc-spark-ca.png",ABC Spark 
-http://206.212.244.47:8080/0sMtDr/555103/57375
-#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="Disney.Jr.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/disney-jr-ca.png",Disney Jr.
-http://kstv.us:8080/live/Purn3542/38791114838/40723.ts
-#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="Disney.XD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/disney-xd-ca.png",Disney XD
-http://206.212.244.47:8080/0sMtDr/555103/57420
-#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="La.Chaîne.Disney.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/la-chaine-disney-ca.png",La Chaîne Disney 
-http://206.212.244.47:8080/0sMtDr/555103/57481
-#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="Nickelodeon.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png",Nickelodeon 
-http://206.212.244.47:8080/0sMtDr/555103/47349
 #EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/TopGear2018.png/revision/latest?cb=20180604065310" group-title="Aria+ Exclusive",BBC Top Gear 24/7
