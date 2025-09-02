@@ -488,6 +488,20 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40673.ts
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112912.ts
 #EXTINF:-1 group-title="Canada" tvg-id="zeste.ca" tvg-logo="https://media.starlite.best/zeste.ca.png",Zeste
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40660.ts
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",CVM (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/66371
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",TVJ (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/78918
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",RETV (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/21094
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",TVJ Sports (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/66077
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",JNN (Jamaica)
+http://1tv41.icu:8080/5ZCJFs/416986/99566
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",RUSH Sports (Any Caribbean Country)
+http://1tv41.icu:8080/5ZCJFs/416986/100043
+#EXTINF:-1 tvg-logo="" group-title="Caribbean",SPORTSMAX 2 (Any Caribbean Country)
+http://1tv41.icu:8080/5ZCJFs/416986/119471
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/disney-channel-de.png" group-title="Denmark",Disney Channel 
 http://qgvwnqgr.mexamo.xyz/live/911FA6VS/2T3C7P57/16317.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-j-fr.png" group-title="France",Canal J
