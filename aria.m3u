@@ -563,7 +563,7 @@ http://90.40.83.122:9981/stream/channelid/1053985294?profile=matroska
 http://90.40.83.122:9981/stream/channelid/841001636?profile=matroska
 #EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png" group-title="France",T18
 http://90.40.83.122:9981/stream/channelid/1164509511?profile=matroska
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://images.bfmtv.com/Q_UDNO97UTAUkivr_A7fbW7_tWw=/0x157:720x562/720x0/images/Le-logo-de-la-chaine-de-Ouest-France-NOVO19-2066003.jpg" group-title="France",NOVO19 (Launches September 1st)
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://images.bfmtv.com/Q_UDNO97UTAUkivr_A7fbW7_tWw=/0x157:720x562/720x0/images/Le-logo-de-la-chaine-de-Ouest-France-NOVO19-2066003.jpg" group-title="France",NOVO19 
 http://90.40.83.122:9981/stream/channelid/325116454?profile=matroska
 #EXTINF:-1 tvg-id="RMC.Story.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-story-fr.png" group-title="France",RMC Story
 http://90.40.83.122:9981/stream/channelid/1427341577?profile=matroska
@@ -1049,6 +1049,8 @@ http://93.49.98.215:55555/K2
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://api.cvmtv.com/storage/logos/ko8Z2ui2HPKwUmw6FW6DaV666PoaFVWeWqpKMYMI.png" group-title="Jamaica",CVM TV
 https://fl5.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Television_Jamaica_Logo.png/revision/latest?cb=20211223085709" group-title="Jamaica",TVJ
+https://fl5.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV1_logolnk.lt.png",TV1
 http://78.56.193.170:9981/stream/channelid/328469358?profile=pass
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LRT_TV_Logo_2022.svg/250px-LRT_TV_Logo_2022.svg.png",LRT TV
