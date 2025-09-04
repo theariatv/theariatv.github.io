@@ -923,22 +923,120 @@ http://92.114.85.72:8000/play/a0ns
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ireland",Dublin City TV
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/60029feb-6cd3-892e-165c-1f6b6bc47017.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Colors_2024.svg/revision/latest?cb=20250808055615" group-title="India",Colors
-http://116.90.120.149:8000/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest/scale-to-width-down/300?cb=20250606121016" group-title="India",Sonic
-http://116.90.120.149:8000/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/1200px-%26TV_2025.svg.png" group-title="India",&TV
-http://116.90.120.149:8000/play/a0dm/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1931378419545366528/tJ9BkNEI_400x400.jpg" group-title="India",&Flix
-https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="India",Disney Channel SD
-http://116.90.120.149:8000/play/a0e4/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="India",Disney Jr.
-http://116.90.120.149:8000/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/215px-Discovery_Kids_Logo_%282021%29.webp.png" group-title="India",Discovery Kids 
-http://116.90.120.149:8000/play/a0c7/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DD_National_2025_logo.png/250px-DD_National_2025_logo.png" group-title="India",DD National 
-http://116.90.120.149:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="India",&flix
+http://103.182.170.32:8888/play/a02a
+#EXTINF:-1 group-title="India",&tv
+http://103.182.170.32:8888/play/a03v
+#EXTINF:-1 group-title="India",Cartoon Network
+http://103.182.170.32:8888/play/a04o
+#EXTINF:-1 group-title="India",Cartoon Network HD+
+http://103.182.170.32:8888/play/a035
+#EXTINF:-1 group-title="India",Colors Bangla Cinema
+http://103.182.170.32:8888/play/a04a
+#EXTINF:-1 group-title="India",Colors Cineplex Bollywood
+http://103.182.170.32:8888/play/a01o
+#EXTINF:-1 group-title="India",Colors Cineplex
+http://103.182.170.32:8888/play/a04i
+#EXTINF:-1 group-title="India",Colors
+http://103.182.170.32:8888/play/a041
+#EXTINF:-1 group-title="India",Discovery Kids
+http://103.182.170.32:8888/play/a02o
+#EXTINF:-1 group-title="India",Disney Channel
+http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 group-title="India",Disney International HD
+http://103.182.170.32:8888/play/a01y
+#EXTINF:-1 group-title="India",Disney Junior
+http://103.182.170.32:8888/play/a03q
+#EXTINF:-1 group-title="-",ETV Bal Bharat
+http://103.182.170.32:8888/play/a022
+#EXTINF:-1 group-title="India",Hungama
+http://103.182.170.32:8888/play/a04b
+#EXTINF:-1 group-title="India",MTV
+http://103.182.170.32:8888/play/a025
+#EXTINF:-1 group-title="India",Movies Now
+http://103.182.170.32:8888/play/a01n
+#EXTINF:-1 group-title="India",Nickelodeon
+http://103.182.170.32:8888/play/a04q
+#EXTINF:-1 group-title="India",Nick Jr.
+http://103.182.170.32:8888/play/a02q
+#EXTINF:-1 group-title="India",Pogo
+http://103.182.170.32:8888/play/a02p
+#EXTINF:-1 group-title="India",SONY Entertainment Television
+http://103.182.170.32:8888/play/a03t
+#EXTINF:-1 group-title="-",SONY MAX
+http://103.182.170.32:8888/play/a04
+#EXTINF:-1 group-title="India",SONY MAX 2
+http://103.182.170.32:8888/play/a02l
+#EXTINF:-1 group-title="-",SONY PIX
+http://103.182.170.32:8888/play/a027
+#EXTINF:-1 group-title="-",SONY SAB
+http://103.182.170.32:8888/play/a03r
+#EXTINF:-1 group-title="-",SONY Sports Ten 1
+http://103.182.170.32:8888/play/a039
+#EXTINF:-1 group-title="-",SONY Sports Ten 2
+http://103.182.170.32:8888/play/a026
+#EXTINF:-1 group-title="-",SONY Sports Ten 3 
+http://103.182.170.32:8888/play/a03a
+#EXTINF:-1 group-title="-",SONY Sports Ten 4
+http://103.182.170.32:8888/play/a036
+#EXTINF:-1 group-title="-",SONY Sports Ten 5
+http://103.182.170.32:8888/play/a034
+#EXTINF:-1 group-title="-",SONY YAY!
+http://103.182.170.32:8888/play/a04m
+#EXTINF:-1 group-title="-",Star Gold
+http://103.182.170.32:8888/play/a02j
+#EXTINF:-1 group-title="-",Star Movies
+http://103.182.170.32:8888/play/a029
+#EXTINF:-1 group-title="-",Star Movies Select
+http://103.182.170.32:8888/play/a028
+#EXTINF:-1 group-title="-",Star Plus
+http://103.182.170.32:8888/play/a03o
+#EXTINF:-1 group-title="-",Star Plus 
+http://103.182.170.32:8888/play/a03z
+#EXTINF:-1 group-title="-",Sonic
+http://103.182.170.32:8888/play/a02s
+#EXTINF:-1 group-title="-",Star Bharat
+http://103.182.170.32:8888/play/a033
+#EXTINF:-1 group-title="-",Star Gold 2
+http://103.182.170.32:8888/play/a01z
+#EXTINF:-1 group-title="-",Star Jalsh
+http://103.182.170.32:8888/play/a046
+#EXTINF:-1 group-title="-",Star Pravah
+http://103.182.170.32:8888/play/a04n
+#EXTINF:-1 group-title="-",Star Sports 1
+http://103.182.170.32:8888/play/a040
+#EXTINF:-1 group-title="-",Star Sports 1 Hindi
+http://103.182.170.32:8888/play/a04e
+#EXTINF:-1 group-title="-",Star Sports 2
+http://103.182.170.32:8888/play/a03e
+#EXTINF:-1 group-title="-",Star Sports 2 Hindi
+http://103.182.170.32:8888/play/a04p
+#EXTINF:-1 group-title="-",Star Sports 2 Tami
+http://103.182.170.32:8888/play/a02i
+#EXTINF:-1 group-title="-",Star Sports Select 1
+http://103.182.170.32:8888/play/a045
+#EXTINF:-1 group-title="-",Star Sports Select 2
+http://103.182.170.32:8888/play/a047
+#EXTINF:-1 group-title="-",Sun Bangla
+http://103.182.170.32:8888/play/a01v
+#EXTINF:-1 group-title="-",Sun Life
+http://103.182.170.32:8888/play/a03f
+#EXTINF:-1 group-title="-",TLC 
+http://103.182.170.32:8888/play/a01q
+#EXTINF:-1 group-title="-",Travelxp 
+http://103.182.170.32:8888/play/a01x
+#EXTINF:-1 group-title="-",Zee Bangla
+http://103.182.170.32:8888/play/a048
+#EXTINF:-1 group-title="-",Zee Bangla Cinema
+http://103.182.170.32:8888/play/a044
+#EXTINF:-1 group-title="-",Zee Bollywood
+http://103.182.170.32:8888/play/a02r
+#EXTINF:-1 group-title="-",Zee Cafe
+http://103.182.170.32:8888/play/a01w
+#EXTINF:-1 group-title="-",Zee Classic
+http://103.182.170.32:8888/play/a054
+#EXTINF:-1 group-title="-",Zee TV
+http://103.182.170.32:8888/play/a04r
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/960px-KBS_World_%282009%29.svg.png",KBS World
 http://121.143.97.131:9981/stream/channelid/576334703?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png",ORF 2 Europe 
