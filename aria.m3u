@@ -1811,7 +1811,7 @@ https://tvpass.org/live/SyfyEast/hd
 https://tvpass.org/live/tv-land-eastern/hd
 #EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",TCM
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",TCM West
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network / Adult Swim
 https://tvpass.org/live/CartoonNetworkEast/hd
@@ -1885,6 +1885,16 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/HSN2_2018.svg/revision/latest?cb=20221114163129" group-title="United States",HSN 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png",HBO Comedy 
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="",HBO Hits 
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="",HBO Drama
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="",HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1200px-Ion_logo.svg.png",Ion
 http://108.14.66.42:5004/auto/v31.1
 #EXTINF:-1 group-title="United States" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/02/IONPLusRebrand_WhiteLogo_800x318.png",Ion Plus
