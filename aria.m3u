@@ -1079,6 +1079,8 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png",Telemundo
 http://170.239.188.252:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png",TVE Internacional 
+http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/1200px-TVP_Polonia_Logo_2020.svg.png",TVP Polonia
 http://46.171.186.177:9981/stream/channelid/84900303?ticket=ABD35AA61F7BD155126A9D72BA4A07738BE0DF0C&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png" group-title="Israel" tvg-rec="3",Kan 11
