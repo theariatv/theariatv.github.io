@@ -1153,7 +1153,7 @@ http://93.49.98.215:55555/Rai%20Movie%20HD
 http://93.49.98.215:55555/Rai%20Premium
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png" group-title="Italy",Boing
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-1-it.png.png" group-title="Italy",Real Time
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-1-it.png.png" group-title="Italy",Itaila 1
 https://cachehsi1a.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cielo-it.png" group-title="Italy",Cielo
 http://77.39.161.42:55555/Cielo
@@ -1177,7 +1177,7 @@ http://77.39.161.42:55555/Iris%20HD
 http://77.39.161.42:55555/Focus%20HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/giallo-it.png" group-title="Italy",Giallo
 http://77.39.161.42:55555/GIALLO
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/27-twenty-seven-it.png" group-title="Italy",27Twentyseven
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/twenty-seven-it.png" group-title="Italy",27Twentyseven
 http://77.39.161.42:55555/27Twentyseven%20HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cine34-it.png" group-title="Italy",Cine34
 http://77.39.161.42:55555/Cine34%20HD
@@ -1191,9 +1191,9 @@ https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 http://77.39.161.42:55555/Warner%20TV_1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Italy",Food Network 
 http://93.49.98.215:55555/Food%20Network
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/motor-trend-it.png" group-title="Italy",Motor Trend
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/motor-trend-us.png" group-title="Italy",MotorTrend
 http://93.49.98.215:55555/Motor%20Trend
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/real-time-it.png" group-title="Italy",Real Time
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/real-time-it.png" group-title="Italy",RealTime
 http://93.49.98.215:55555/Real%20Time
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Italy",HGTV
 http://77.39.161.42:55555/HGTV%20%2D%20Home%26Garden
