@@ -1067,6 +1067,8 @@ http://tvh.cyn.cz/stream/channelid/1250511667?profile=pass
 http://tvh.cyn.cz/stream/channelid/1406456571?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest?cb=20191225023419",NuestraTele RCN
 http://181.78.4.250:8098/play/a03n/index.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/29/Rai_World_Premium_%282017-.n.v.%29.png/revision/latest?cb=20170627122650",Rai World Premium 
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://telepez.github.io/imagenes/RT.webp",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png",Show Turk
