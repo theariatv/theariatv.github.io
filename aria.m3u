@@ -1463,6 +1463,8 @@ https://45.159.74.22/Boomerang/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/55/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A1%D0%9E%D0%9B%D0%9D%D0%A6%D0%95.png/revision/latest?cb=20230717235537" group-title="Russia",Solnce
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/San_Marino_RTV_logo_2025.png" group-title="San Marino",San Marino RTV
+http://77.39.161.42:55555/RTV%20San%20Marino
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="712b72f52504133103fbaaea8210d5f9",KBS 1TV [Not 24/7]
 http://121.143.97.131:9981/stream/channelid/1970416497?profile=pass
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" tvg-id="565bb62dc52849cbf4cbd406b6bbdebc",KBS 2TV [Not 24/7]
@@ -1939,6 +1941,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png" group-title="United States,QVC3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.comunicazione.va/content/dam/comunicazione/tentativi-e-proposte/logo%20vatican%20media.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" group-title="Vatican City",Vatican Media
+http://77.39.161.42:55555/Vatican%20Media%20HD
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846",AXN
 http://113.177.113.214:9981/stream/channelid/1660500100?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/3/33/CBeebies_logo.png/revision/latest?cb=20240425113704",CBeeBies
