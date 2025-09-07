@@ -231,6 +231,9 @@ http://94.140.179.76:9981/stream/channelid/797606576?profile=pass
 http://94.140.179.76:9981/stream/channelid/1055186061?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play5-be.png",Play5
 http://94.140.179.76:9981/stream/channelid/1264893039?profile=pass
+#EXTINF:-1 group-title="Bosnia and Herzegovina",BHT 1 HD
+#EXTVLCOPT:http-user-agent=Chrome
+https://mob.webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 #EXTINF:-1 group-title="Bosnia and Herzegovina",Arena 1X2 HD
 http://31.47.28.102:8000/play/a00c
 #EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Fight HD
