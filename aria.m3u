@@ -231,6 +231,28 @@ http://94.140.179.76:9981/stream/channelid/797606576?profile=pass
 http://94.140.179.76:9981/stream/channelid/1055186061?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play5-be.png",Play5
 http://94.140.179.76:9981/stream/channelid/1264893039?profile=pass
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Arena 1X2 HD
+http://31.47.28.102:8000/play/a00c
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Fight HD
+http://31.47.28.102:8000/play/a00x
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Sport 1 HD
+http://31.47.28.102:8000/play/a002
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Sport 2 HD
+http://31.47.28.102:8000/play/a003
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Sport 3 HD
+http://31.47.28.102:8000/play/a004
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Sport 4 HD
+http://31.47.28.102:8000/play/a005
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Sport 5 HD
+http://31.47.28.102:8000/play/a006
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Sport 6 HD
+http://31.47.28.102:8000/play/a007
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Sport Premium 1 HD
+http://31.47.28.102:8000/play/a008
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Sport Premium 2 HD
+http://31.47.28.102:8000/play/a00a
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Sport Premium 3 HD
+http://31.47.28.102:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-1-bg.png" group-title="Bulgaria",BNT 1
 http://213.169.39.30:5086/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-2-bg.png" group-title="Bulgaria",BNT 2
