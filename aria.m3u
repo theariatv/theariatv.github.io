@@ -214,9 +214,11 @@ https://a1xs.vip/700006
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="Australia",Fox Sports 507 
 https://a1xs.vip/700007
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vrt-1-be.png",VRT 1
-http://82.159.175.201:9981/stream/channelid/21272943?profile=pass
+http://192.145.57.85:9981/stream/channelid/2124641217?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vrt-canvas-be.png",VRT Canvas
-http://94.140.179.76:9981/stream/channelid/2082143210?profile=pass
+http://192.145.57.85:9981/stream/channelid/288829476?profile=pass
+#EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/ketnet-be.png",Ketnet
+http://192.145.57.85:9981/stream/channelid/1372631070?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/la-une-be.png",La Une
 http://94.140.179.76:9981/stream/channelid/811293455?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/la-trois-be.png",La Trois
