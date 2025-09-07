@@ -1347,6 +1347,14 @@ http://185.236.230.212:9981/play/a0ab
 http://185.236.230.212:9981/play/a0ae
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-lounge-nl.png",RTL Lounge
 http://130.162.32.84/NL/RTLLounge/index.m3u8
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/disney-channel-nl.png",Disney Channel 
+http://192.145.57.85:9981/stream/channelid/1728151730?profile=pass
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network 
+http://192.145.57.85:9981/stream/channelid/306311534?profile=pass
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png",Nickelodeon 
+http://192.145.57.85:9981/stream/channelid/1258469272?profile=pass
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/veronica-nl.png",Veronica/Disney Jr.
+http://192.145.57.85:9981/stream/channelid/1079686859?profile=pass
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 
 https://a1xs.vip/140001
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="NL: Ziggo Sport 2 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 2 
