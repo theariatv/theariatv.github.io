@@ -359,6 +359,10 @@ http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
 http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
 #EXTINF:-1 group-title="China" tvg-logo="",CCTV-14
 http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
+#EXTINF:-1 group-title="Columbia" tvg-logo="",RCN Más
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/RCN/20-hls/live-media.m3u8
+#EXTINF:-1 group-title="Columbia" tvg-logo="",Caracol
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARACOL/20-hls/live-media.m3u8
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 HD
