@@ -1338,6 +1338,8 @@ http://45.189.151.7:8000/play/a00n/index.m3u8
 http://177.53.154.70:9981/stream/channelid/1718960791?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Moldova_1_2025.svg/1200px-TV_Moldova_1_2025.svg.png" group-title="Moldova",Moldova 1
 https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV_Monaco_logo.png" group-title="Monaco",TVMonaco
+http://149.249.198.5:9981/stream/channelid/1580675096?profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/TVCG_1_2024_logo_with_wordmark.svg/revision/latest?cb=20240406174721" group-title="Montenegro",TVCG 1
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TVCG_2_2024_logo_with_wordmark.svg/revision/latest?cb=20240406175439" group-title="Montenegro",TVCG 2
