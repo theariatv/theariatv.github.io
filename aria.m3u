@@ -274,7 +274,7 @@ http://200.77.176.130:8000/udp/224.0.0.4:49152
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7188
 #EXTINF:-1 tvg-id="Rede.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/rede-tv-br.png" group-title="Brazil",Rede TV!
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/26406
-#EXTINF:-1 tvg-id="Adult.Swim.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/adult-swim-br.png" group-title="Brazil",Adult Swim
+#EXTINF:-1 tvg-id="Adult.Swim.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png" group-title="Brazil",Adult Swim
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60667
 #EXTINF:-1 tvg-id="TNT.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-br.png" group-title="Brazil",TNT
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/36121
@@ -282,12 +282,32 @@ http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/36121
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60668
 #EXTINF:-1 tvg-id="TNT.Novelas.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-novelas-br.png" group-title="Brazil",TNT Novelas
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60678
+#EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png" group-title="Brazil",AMC
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/26421
 #EXTINF:-1 tvg-id="TLC.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tlc-us.png" group-title="Brazil",TLC
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60671
 #EXTINF:-1 tvg-id="HGTV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Brazil",HGTV
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/26424
+#EXTINF:-1 tvg-id="Investigacao.Discovery.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/investigation-discovery-us.png" group-title="Brazil",Investigation Discovery 
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60760
+#EXTINF:-1 tvg-id="Discovery.Turbo.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-turbo-br.png" group-title="Brazil",Discovery Turbo
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7146
+#EXTINF:-1 tvg-id="Paramount.Network.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/paramount-network-us.png" group-title="Brazil",Paramount Network 
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60725
+#EXTINF:-1 tvg-id="Discovery.Theater.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-theater-br.png" group-title="Brazil",Discovery Theater 
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60776
+#EXTINF:-1 tvg-id="Discovery.World.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-world-br.png" group-title="Brazil",Discovery World
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7145
+#EXTINF:-1 tvg-id="Discovery.Home.and.Health.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/discovery-home-and-health-mx.png" group-title="Brazil",Discovery Home and Health 
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/22263
+#EXTINF:-1 tvg-id="Discovery.Kids.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-kids-br.png" group-title="Brazil",Discovery Kids
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/26426
+#EXTINF:-1 tvg-id="Discovery.Science.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-science-br.png" group-title="Brazil",Discovery Science 
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60773
 #EXTINF:-1 tvg-id="Food.Network.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Brazil",Food Network 
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/13723
+#EXTINF:-1 tvg-id="CNN.Brasil.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/cnn-brasil-br.png" group-title="Brazil",CNN Brasil
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/28739
 #EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloob-br.png" group-title="Brazil",Gloob
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7155
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloobhino-br.png" group-title="Brazil",Gloobinho
@@ -300,6 +320,32 @@ http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/46178
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7156
 #EXTINF:-1 tvg-id="Globoplay.Novelas.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/globoplay-novelas-br.png" group-title="Brazil",Globoplay Novelas
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7152
+#EXTINF:-1 tvg-id="BIS.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/bis-br.png" group-title="Brazil",BIS
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7162
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/arte1-br.png" group-title="Brazil",Arte1
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60674
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/arte1-br.png" group-title="Brazil",Arte1
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/13631
+#EXTINF:-1 tvg-id="Band.News.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-news-br.png" group-title="Brazil",BAND News
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7150
+#EXTINF:-1 tvg-id="Band.News.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-sport-br.png" group-title="Brazil",BAND Sport
+https://theariatv.github.io/channeldead.mp4
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="Brazil",Nickelodeon 
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7141
+#EXTINF:-1 tvg-id="Nick.Jr.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Brazil",Nick Jr
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60732
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/megapix-br.png" group-title="Brazil",Megapix
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/13720
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/space-br.png" group-title="Brazil",Space 
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/36122
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv-br.png" group-title="Brazil",Sportv
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/2189
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv-2-br.png" group-title="Brazil",Sportv 2
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/22222
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv-3-br.png" group-title="Brazil",Sportv 3
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7153
+#EXTINF:-1 tvg-id="Studio.Universal.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/studio-universal-br.png" group-title="Brazil",Studio Universal 
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60684
 #EXTINF:-1 tvg-id="Canal.Saude.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-saude-br.png" group-title="Brazil",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-id="Agro.Canal.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/agro-canal-br.png" group-title="Brazil",Agro Canal
