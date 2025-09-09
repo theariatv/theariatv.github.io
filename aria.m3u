@@ -265,11 +265,41 @@ http://213.169.39.30:5144/
 #EXTINF:-1 tvg-id="TV.Cultura.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tv-cultura-br.png" group-title="Brazil",TV Cultura 
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Brazil",SBT
-http://200.77.176.130:8000/udp/224.0.0.2:49152
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7179
 #EXTINF:-1 tvg-id="TV.Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Brazil",Globo
 http://200.77.176.130:8000/udp/224.0.0.1:49152
 #EXTINF:-1 tvg-id="Record.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-br.png" group-title="Brazil",Record
 http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1 tvg-id="Band.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-br.png" group-title="Brazil",BAND
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7188
+#EXTINF:-1 tvg-id="Rede.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/rede-tv-br.png" group-title="Brazil",Rede TV!
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/26406
+#EXTINF:-1 tvg-id="Adult.Swim.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/adult-swim-br.png" group-title="Brazil",Adult Swim
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60667
+#EXTINF:-1 tvg-id="TNT.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-br.png" group-title="Brazil",TNT
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/36121
+#EXTINF:-1 tvg-id="TNT.Series.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-series-br.png" group-title="Brazil",TNT Series
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60668
+#EXTINF:-1 tvg-id="TNT.Novelas.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-novelas-br.png" group-title="Brazil",TNT Novelas
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60678
+#EXTINF:-1 tvg-id="TLC.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tlc-us.png" group-title="Brazil",TLC
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60671
+#EXTINF:-1 tvg-id="HGTV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Brazil",HGTV
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/26424
+#EXTINF:-1 tvg-id="Food.Network.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Brazil",Food Network 
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/13723
+#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloob-br.png" group-title="Brazil",Gloob
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7155
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloobhino-br.png" group-title="Brazil",Gloobinho
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/22196
+#EXTINF:-1 tvg-id="GNT.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gnt-br.png" group-title="Brazil",GNT
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/13770#EXTINF:-1%20tvg-id=%22H2.br%22%20tvg-name=%22H2%20FHD%22%20tvg-logo=%22http://logocanais.ddns.net/Logo/H21.png%22%20group-title=%22Canais:%20Document%C3%A1rios%22,H2%20FHD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/multishow-br.png" group-title="Brazil",Multishow
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/46178
+#EXTINF:-1 tvg-id="Globo.News.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/globo-news-br.png" group-title="Brazil",Globo News
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7156
+#EXTINF:-1 tvg-id="Globoplay.Novelas.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/globoplay-novelas-br.png" group-title="Brazil",Globoplay Novelas
+http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7152
 #EXTINF:-1 tvg-id="Canal.Saude.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-saude-br.png" group-title="Brazil",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-id="Agro.Canal.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/agro-canal-br.png" group-title="Brazil",Agro Canal
