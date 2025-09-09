@@ -270,6 +270,12 @@ http://200.77.176.130:8000/udp/224.0.0.2:49152
 http://200.77.176.130:8000/udp/224.0.0.1:49152
 #EXTINF:-1 tvg-id="Record.TV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-br.png" group-title="Brazil",Record
 http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1 tvg-id="Canal.Saude.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-saude-br.png" group-title="Brazil",Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-id="Agro.Canal.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/agro-canal-br.png" group-title="Brazil",Agro Canal
+https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
+#EXTINF:-1 tvg-id="Canal.Rural.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-rural-br.png" group-title="Brazil",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
 http://38.143.48.212:9981/stream/channelid/818444930?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png",Bravo
