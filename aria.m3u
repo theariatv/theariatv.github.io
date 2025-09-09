@@ -308,6 +308,10 @@ http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60773
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/13723
 #EXTINF:-1 tvg-id="CNN.Brasil.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/cnn-brasil-br.png" group-title="Brazil",CNN Brasil
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/28739
+#EXTINF:-1 tvg-id="TV.Brasil.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tv-brasil-br.png" group-title="Brazil",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Gov.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-gov-br.png" group-title="Brazil",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloob-br.png" group-title="Brazil",Gloob
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7155
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gloobhino-br.png" group-title="Brazil",Gloobinho
@@ -2144,3 +2148,5 @@ http://113.177.113.214:9981/stream/channelid/1133768036?profile=pass
 http://113.177.113.214:9981/stream/channelid/1722586611?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/1200px-VTV8_logo_2016_final.svg.png",VTV78
 http://113.177.113.214:9981/stream/channelid/2061849201?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://yt3.googleusercontent.com/2VzgjBz1GRNJBFZ0JcaJad1M089lVy3ihBz2NeGeyvbAQHSNSMz7lSDymO8njLY_lhy3AFcTXKw=s900-c-k-c0x00ffffff-no-rj",Vietnam Today 
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
