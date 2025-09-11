@@ -231,6 +231,8 @@ http://94.140.179.76:9981/stream/channelid/797606576?profile=pass
 http://94.140.179.76:9981/stream/channelid/1055186061?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play5-be.png",Play5
 http://94.140.179.76:9981/stream/channelid/1264893039?profile=pass
+#EXTINF:-1 group-title="Belarus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/belsat-pl.png",Belsat
+http://78.56.193.170:9981/stream/channelid/358696833?profile=pass
 #EXTINF:-1 group-title="Bosnia and Herzegovina",BHT 1 HD
 #EXTVLCOPT:http-user-agent=Chrome
 https://mob.webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
@@ -1204,6 +1206,8 @@ http://170.239.188.252:8000/play/a050/index.m3u8
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/1200px-TVP_Polonia_Logo_2020.svg.png",TVP Polonia
 http://46.171.186.177:9981/stream/channelid/84900303?ticket=ABD35AA61F7BD155126A9D72BA4A07738BE0DF0C&profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-world-pl.png",TVP World
+http://78.56.193.170:9981/stream/channelid/2017205348?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png" group-title="Israel" tvg-rec="3",Kan 11
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2332/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/keshet12-il.png" group-title="Israel" tvg-rec="3",Keshet 12
@@ -1391,9 +1395,9 @@ http://181.78.4.250:8098/play/a08y/index.m3u8
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV1_logolnk.lt.png",TV1
 http://78.56.193.170:9981/stream/channelid/328469358?profile=pass
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LRT_TV_Logo_2022.svg/250px-LRT_TV_Logo_2022.svg.png",LRT TV
-http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6360/index.m3u8
+http://78.56.193.170:9981/stream/channelid/1423507139?profile=pass
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png",LRT Plius
-http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6362/index.m3u8
+http://78.56.193.170:9981/stream/channelid/2006312263?profile=pass
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://play-lh.googleusercontent.com/CxJPaEVfX018WxwGaGedmCmBYpZlzqsI2PrGNCdofITvoeysAeHYovPeqMmAOCRdsBY",TV3
 http://78.56.193.170:9981/stream/channelid/850565852?profile=pass
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LNK_logotipas.png",LNK
@@ -1544,10 +1548,16 @@ https://tvh.cyn.cz/stream/channelid/682431392?profile=pass
 http://46.171.186.177:9981/stream/channelid/77275677?ticket=CB174F8D04542D654601B3AC1A1A4F04DF7DA618&profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-historia-pl.png",TVP Historia
 https://tvh.cyn.cz/stream/channelid/636863764?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-historia-2-pl.png",TVP Historia 2
+http://78.56.193.170:9981/stream/channelid/1981573022?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
 https://tvh.cyn.cz/stream/channelid/1849809109?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-kultura-2-pl.png",TVP Kultura 2
+http://78.56.193.170:9981/stream/channelid/375643321?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-dokument-pl.png",TVP Dokument
 https://tvh.cyn.cz/stream/channelid/1984451512?profile=pass
+#EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-wilno-pl.png",TVP Wilno
+http://78.56.193.170:9981/stream/channelid/1739882013?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/TVN_logo_2024.svg.png",TVN
 https://tvh.cyn.cz/stream/channelid/1616667038?profile=pass
 #EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVN7_logo_2021.svg/250px-TVN7_logo_2021.svg.png",TVN 7
