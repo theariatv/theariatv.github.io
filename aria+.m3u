@@ -190,6 +190,8 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40758.ts
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40760.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png",CHCH (CHCH-DT)
 http://38.143.48.212:9981/stream/channelid/834583504?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://harbourcats.com/wp-content/uploads/2017/06/CHEK_logo_2022.svg_.png",CHEK (CHEK-DT)
+https://livecdn.use1-0004.jwplive.com/live/sites/HGOnqYhO/media/i9sjcGbc/live.isml/.mpd
 #EXTINF:-1 group-title="Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png",CityTV Toronto
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40752.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CMT.Canada.ca" tvg-logo="https://media.starlite.best/cmt.canada.ca.png",CMT
