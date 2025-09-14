@@ -768,6 +768,8 @@ https://viamotionhsi.netplus.ch/live/eds/onehd/browser-dash/onehd.mpd
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Germany",Comedy Central 
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://commons.wikimedia.org/wiki/File:Comedy_Central_%2B1_Logo_2021.svg" group-title="Germany",Comedy Central +1
+http://77.23.37.6:9981/stream/channelid/58190975?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1200px-Deluxe_Music_Logo_2019.svg.png" group-title="Germany",Deluxe Music SD
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/welt-de.png",WELT
@@ -778,11 +780,11 @@ http://149.249.198.5:9981/stream/channelid/40846484?profile=pass
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Germany",RiC+
 https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42997d52-337b-4fbe-8693-aa8605f5cfab/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title="Germany",Disney Channel 
-http://77.23.37.6:9981/stream/channelid/907988442?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/disney-channel-dk" group-title="Germany",Disney Channel
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychannelde.mpd
 #EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/toggo-plus-de.png",Toggo Plus 
 http://212.95.30.186:9981/stream/channelid/288150308?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="Germany",Nickelodeon/Comedy Central +1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nickelodeon-de.png" group-title="Germany",Nickelodeon
 http://77.23.37.6:9981/stream/channelid/58190975?profile=pass
 #EXTINF:-1 group-title="Greece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png",ERT 1
 http://193.92.205.210:666/stream/channelid/995341409?ticket=5B223EE0AEED416785F454C4CB195162F022E00B&profile=pass
