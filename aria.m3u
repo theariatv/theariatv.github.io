@@ -1699,7 +1699,7 @@ http://210.126.10.17:5004/auto/v5027
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTBC2.jpg/revision/latest?cb=20190616070617",JTBC 2
 http://210.126.10.17:5004/auto/v5045
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png",Mnet
-http://210.126.10.17:5004/auto/v5042
+https://everylive.space/live/mnet/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png" group-title="Spain",La 1 
 http://83.63.50.226:9981/stream/channelid/1467144271?ticket=6FB05E46F799FD4EE5AB0C60B783879682C69252&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png" group-title="Spain",La 2 
