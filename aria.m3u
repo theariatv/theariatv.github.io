@@ -1197,7 +1197,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://telepez.github.io/imagenes/RT.webp",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Star-TVE-logo-300x169.png/revision/latest?cb=20150911200636",Star TVE
-http://45.163.139.42:8080/
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png",Show Turk
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
@@ -1703,7 +1703,7 @@ https://everylive.space/live/mnet/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png" group-title="Spain",La 1 
 http://83.63.50.226:9981/stream/channelid/1467144271?ticket=6FB05E46F799FD4EE5AB0C60B783879682C69252&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png" group-title="Spain",La 2 
-http://83.63.50.226:9981/stream/channelid/1429257344?ticket=10D846B10884BD4009FFB8E353E0B9CDC1C57B6B&profile=pass
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png" group-title="Spain",Antena 3 
 http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cuatro-es.png" group-title="Spain",Cuatro 
@@ -1731,15 +1731,15 @@ http://213.97.163.175:4022/udp/239.10.20.52:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/squirrel-es.png" group-title="Spain",Squirrel 
 http://83.63.50.226:9981/stream/channelid/173171682?ticket=AF1192F50CFAF1F33D7538C82570559AEDD71D75&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clan-es.png" group-title="Spain",Clan
-http://83.63.50.226:9981/stream/channelid/1627097868?ticket=BB72E0652E81C33B7D75D8E5321E04B19AF7163E&profile=pass
+https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png" group-title="Spain",Boing
 http://213.97.163.175:4022/udp/239.10.20.50:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/sx3-es.png" group-title="Spain",SX3
 http://213.97.163.175:4022/udp/239.10.20.102:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png" group-title="Spain",24h
-http://83.63.50.226:9981/stream/channelid/1006422367?ticket=F6D4FDAB47AE62921087BEE75F3946CD30DE553F&profile=pass
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png" group-title="Spain",Teledeporte (TDP)
-http://83.63.50.226:9981/stream/channelid/348070975?ticket=CE468C9D8547A34D578D6598B0D159DCE2762A88&profile=pass
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/a/ab/RTS_1_2014.svg/revision/latest?cb=20230617140939" group-title="Serbia",RTS 1
 https://webtvstream.bhtelecom.ba/hls19/rts1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/RTS_2_2014.svg/revision/latest?cb=20180130131828" group-title="Serbia",RTS 2
