@@ -852,6 +852,8 @@ https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 http://195.189.60.31:8003/play/a09o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/M2_%282022-%29.png" group-title="Hungary",M2
 http://195.189.60.31:8003/play/a09x/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/M4P_v.png/revision/latest?cb=20250820092111" group-title="Hungary",M4 Sport+
+http://77.234.85.235:9981/stream/channelid/1250417629?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/M5logo.png" group-title="Hungary",M5
 http://195.189.60.31:8003/play/a0fd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/RTL_Hungary_2022.png" group-title="Hungary",RTL 
@@ -1188,6 +1190,8 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",CCTV-4
 http://58.19.180.108:9981/stream/channelid/1411564127?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Duna_World_HD_2012.svg.png" group-title="International",Duna World/M4 Sport+
+http://77.234.85.235:9981/stream/channelid/195242986?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Cubavisi%25_3FnIntl2022.webp/revision/latest?cb=20230723155246",Cubavision Internacional 
 https://hometv.andismirre.de/stream/channelid/1530919155?profile=ffmpeg
 #EXTINF:-1 group-title="International" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/euro-d-buyuk.png?rkt=DfS6Tgv6Hjr93k3",Euro D
@@ -1720,16 +1724,20 @@ http://176.65.146.237:8401/play/a0ae/index.m3u8
 http://213.97.163.175:4022/udp/239.10.20.20:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/telecinco-es.png" group-title="Spain",TeleCinco 
 http://213.97.163.175:4022/udp/239.10.20.19:1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/la-sexta-es.png" group-title="Spain",La Sexta 
-http://185.189.225.150:85/LaSexta/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/lasexta-es.png" group-title="Spain",La Sexta 
+http://83.63.50.226:9981/stream/channelid/55679957?ticket=BEE678E994F1571037FEFF18360CE90E9456D629&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/veo7-es.png" group-title="Spain",Veo7
 http://213.97.163.175:4022/udp/239.10.20.54:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ten-es.png" group-title="Spain",TEN
-http://83.63.50.226:9981/stream/channelid/132024166?ticket=9B96EC565FFBB929E7493D847E5EDB5FBFD403BA&profile=pass
+http://83.63.50.226:9981/stream/channelid/1349494453?ticket=131D76BF52B27F2280DA13CF7A2EA9F9F69F312C&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/mega-es.png" group-title="Spain",MEGA
-http://83.63.50.226:9981/stream/channelid/2046120540?ticket=7F9FA9B92C26D493DC9511BDA0794FC329E84A4C&profile=pass
+http://83.63.50.226:9981/stream/channelid/1448246896?ticket=B709E180B8984A4999ACC22A587A8C5EDFD46A81&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/neox-es.png" group-title="Spain",Neox
 http://176.65.146.237:8401/play/a0ag/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/bemad-es.png" group-title="Spain",BeMad
+http://83.63.50.226:9981/stream/channelid/766119716?ticket=4D83FCEE54EFD14AED4F4719D98D99D7FAB5A77C&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png" group-title="Spain",Nova
+http://83.63.50.226:9981/stream/channelid/1553561540?ticket=0A473D5AA41246C3F05C089DCD6C52195724370F&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dmax-es.png" group-title="Spain",DMAX
 http://213.97.163.175:4022/udp/239.10.20.53:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tv3-es.png" group-title="Spain",TV3
