@@ -872,10 +872,6 @@ http://195.189.60.31:8003/play/a0c9/index.m3u8
 http://195.189.60.31:8003/play/a0ci/index.m3u8
 #EXTINF:-1 group-title="Iceland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/R%C3%9AV_2019_logo.svg",RÚV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
-#EXTINF:-1 group-title="Hungary",M5
-http://195.189.60.31:8003/play/a0fd/index.m3u8
-#EXTINF:-1 group-title="Hungary",M2/Petőfi
-http://195.189.60.31:8003/play/a09x/index.m3u8
 #EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/ZjMzNmU2NTJlZTIyZjU4ZjliMWI2ZmI3NjBjOGRkMTFmODA0ZWUzZGI4ODE2NmFhMmQyNDBkYjFiMDY0NzUzMw/default",IRIB TV1
 https://stream2.removie.raha.af/live/smil:iribtv1.smil/chunklist_w1989776299_b1500000.m3u8
 #EXTINF:-1 group-title="Iran" tvg-logo="https://static.telewebion.com/channelsLogo/MzYyMzM1NmVhYjc5MmZlY2ZmNzJlMGY3ZmJjZjc5Y2UwNDkyODQxNDU4YzU5MjE0MzFlYjg4NWM4NDZiNzA5NA/default",IRIB TV3
