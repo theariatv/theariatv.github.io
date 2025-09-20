@@ -1002,8 +1002,6 @@ https://sltwohls.wns.live/hls/stream.m3u8
 https://m3u.iranvids.com/manoto/output.m3u8
 #EXTINF:-1 group-title="Iran" tvg-logo="",PBC Tapesh
 https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8
-#EXTINF:-1 group-title="Iran" tvg-logo="",BBC Persian
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="Iran" tvg-logo="",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Iran" tvg-logo="",24/7 Box
@@ -1083,9 +1081,11 @@ https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Movies Now
 http://103.182.170.32:8888/play/a01n
 #EXTINF:-1 group-title="India",Nickelodeon
-http://103.182.170.32:8888/play/a04q
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickSD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Nick Jr.
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
+#EXTINF:-1 group-title="India",Nickelodeon HD+
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Pogo
 http://103.182.170.32:8888/play/a02p
 #EXTINF:-1 group-title="India",SONY Entertainment Television
@@ -1121,7 +1121,7 @@ http://103.182.170.32:8888/play/a03o
 #EXTINF:-1 group-title="India",Star Plus 
 http://103.182.170.32:8888/play/a03z
 #EXTINF:-1 group-title="India",Sonic
-http://103.182.170.32:8888/play/a02s
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Star Bharat
 http://103.182.170.32:8888/play/a033
 #EXTINF:-1 group-title="India",Star Gold 2
@@ -1141,9 +1141,9 @@ http://103.182.170.32:8888/play/a04p
 #EXTINF:-1 group-title="India",Star Sports 2 Tami
 http://103.182.170.32:8888/play/a02i
 #EXTINF:-1 group-title="India",Star Sports Select 1
-http://103.182.170.32:8888/play/a045
+https://a1xs.vip/8000011
 #EXTINF:-1 group-title="India",Star Sports Select 2
-http://103.182.170.32:8888/play/a047
+https://a1xs.vip/8000012
 #EXTINF:-1 group-title="India",Sun Bangla
 http://103.182.170.32:8888/play/a01v
 #EXTINF:-1 group-title="India",Sun Life
@@ -1178,6 +1178,8 @@ https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp",BBC World News
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="",BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/1200px-BVN_logo.svg.png",BVN
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",CCTV-4
