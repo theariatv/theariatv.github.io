@@ -1056,14 +1056,16 @@ http://103.182.170.32:8888/play/a03v
 http://103.182.170.32:8888/play/a04o
 #EXTINF:-1 group-title="India",Cartoon Network HD+
 http://103.182.170.32:8888/play/a035
-#EXTINF:-1 group-title="India",Colors Bangla Cinema
-http://103.182.170.32:8888/play/a04a
+#EXTINF:-1 group-title="India",Colors Bangla
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Colors Cineplex Bollywood
-http://103.182.170.32:8888/play/a01o
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Colors Cineplex
-http://103.182.170.32:8888/play/a04i
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Colors
-http://103.182.170.32:8888/play/a041
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
+#EXTINF:-1 group-title="India",Colors Infinity
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Discovery Kids
 http://103.182.170.32:8888/play/a02o
 #EXTINF:-1 group-title="India",Disney Channel
@@ -1077,13 +1079,13 @@ http://103.182.170.32:8888/play/a022
 #EXTINF:-1 group-title="India",Hungama
 http://103.182.170.32:8888/play/a04b
 #EXTINF:-1 group-title="India",MTV
-http://103.182.170.32:8888/play/a025
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Movies Now
 http://103.182.170.32:8888/play/a01n
 #EXTINF:-1 group-title="India",Nickelodeon
 http://103.182.170.32:8888/play/a04q
 #EXTINF:-1 group-title="India",Nick Jr.
-http://103.182.170.32:8888/play/a02q
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Pogo
 http://103.182.170.32:8888/play/a02p
 #EXTINF:-1 group-title="India",SONY Entertainment Television
