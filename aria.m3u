@@ -412,6 +412,8 @@ http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 http://38.143.48.212:9981/stream/channelid/399303638?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png",HGTV
 http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/knowledge-network-ca.png",Knowledge Network 
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="Lifetime.TV.-.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/lifetime-us.png",Lifetime TV
 http://38.143.48.212:9981/stream/channelid/1090723913?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png",Movie Time
