@@ -1216,6 +1216,8 @@ http://170.239.188.252:8000/play/a050/index.m3u8
 http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/1200px-TVP_Polonia_Logo_2020.svg.png",TVP Polonia
 http://46.171.186.177:9981/stream/channelid/84900303?ticket=ABD35AA61F7BD155126A9D72BA4A07738BE0DF0C&profile=pass
+#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TVRi_Logo_2022.svg/1200px-TVRi_Logo_2022.svg.png",TVRi
+http://92.247.25.42:11536/
 #EXTINF:-1 group-title="International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-world-pl.png",TVP World
 http://78.56.193.170:9981/stream/channelid/2017205348?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png" group-title="Israel" tvg-rec="3",Kan 11
