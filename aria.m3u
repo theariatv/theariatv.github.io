@@ -778,10 +778,12 @@ https://viamotionhsi.netplus.ch/live/eds/onehd/browser-dash/onehd.mpd
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Germany",Comedy Central 
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://commons.wikimedia.org/wiki/File:Comedy_Central_%2B1_Logo_2021.svg" group-title="Germany",Comedy Central +1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Comedy_Central_%2B1_Logo_2021.svg" group-title="Germany",Comedy Central +1
 http://77.23.37.6:9981/stream/channelid/58190975?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1200px-Deluxe_Music_Logo_2019.svg.png" group-title="Germany",Deluxe Music SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1200px-Deluxe_Music_Logo_2019.svg.png" group-title="Germany",Deluxe Music
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1920px-MTV_2021_%28brand_version%29.svg.png" group-title="Germany",MTV
+http://tv.schulzens.com/stream/channelid/1057715699?profile=pass
 #EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/welt-de.png",WELT
 http://149.249.198.5:9981/stream/channelid/1548387079?profile=pass
 #EXTINF:-1 group-title="Germany" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/xplore-de.png",Xplore
