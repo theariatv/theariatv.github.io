@@ -1376,11 +1376,13 @@ http://181.78.4.250:8098/play/a08z/index.m3u8
 http://181.78.4.250:8098/play/a091/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png" group-title="Latin America",MTV
 http://181.78.4.250:8098/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history.png" group-title="Latin America",History 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Latin America",HBO
 http://181.78.4.250:8098/play/a08w/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-us.png" group-title="Latin America",History 
+https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Latin America",A&E
 http://181.78.4.250:8098/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/investigaton-discovery.png" group-title="Latin America",Discovery ID
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/investigaton-discovery-us.png" group-title="Latin America",Discovery ID
 http://181.78.4.250:8098/play/a08x/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Latin America",Food Network 
 http://181.78.4.250:8098/play/a092/index.m3u8
