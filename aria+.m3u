@@ -528,6 +528,14 @@ http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/1647
 http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/2171
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nicktoons-us.png" group-title="France",Nicktoons
 http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/1648
+#EXTINF:-1 tvg-id="sportdigital.de"tvg-logo="https://i.imgur.com/8KiZkJF.png" group-title="Germany",Sportdigital Fussball
+https://a1xs.vip/120001
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://i.imgur.com/EhInbSW.png" group-title="Germany", Sky Sport Bundesliga
+https://a1xs.vip/120002
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://i.imgur.com/0iFbfLa.png" group-title="Germany", Sky Sport Top Event
+https://a1xs.vip/120003
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-logo="https://i.imgur.com/9QfVskT.png" group-title="Germany", Sky Sport Premier League
+https://a1xs.vip/120004
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Sj%C3%B3nvarpi%C3%B0.svg/250px-Sj%C3%B3nvarpi%C3%B0.svg.png" group-title="Iceland",RÚV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 #EXTINF:-1 tvg-logo="https://www.ruv.is/spilari/RUV2_192.png" group-title="Iceland",RÚV 2
