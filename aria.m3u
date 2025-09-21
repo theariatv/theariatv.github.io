@@ -1384,6 +1384,22 @@ https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
 http://181.78.4.250:8098/play/a05w/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/investigaton-discovery-us.png" group-title="Latin America",Discovery ID
 http://181.78.4.250:8098/play/a08x/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN
+http://201.230.121.186:8000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN Premium
+http://201.230.121.186:8000/play/a0n6/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://telepez.github.io/imagenes/ESPN2.webp",ESPN 2
+http://201.230.121.186:8000/play/a0kd/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://telepez.github.io/imagenes/ESPN3.webp",ESPN 3
+http://201.230.121.186:8000/play/a0jg/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://telepez.github.io/imagenes/ESPN4.webp",ESPN 4
+http://201.230.121.186:8000/play/a0mv/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png",ESPN 5
+http://201.230.121.186:8000/play/a0ij/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png",ESPN 6
+http://201.230.121.186:8000/play/a0mx/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png",ESPN 7
+http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Latin America",Food Network 
 http://181.78.4.250:8098/play/a092/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png" group-title="Latin America",FX
