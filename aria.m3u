@@ -224,7 +224,7 @@ http://94.140.179.76:9981/stream/channelid/811293455?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/la-trois-be.png",La Trois
 http://94.140.179.76:9981/stream/channelid/1504907165?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vtm-be.png",VTM
-http://94.140.179.76:9981/stream/channelid/1117843098?profile=pass
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vtm2-be.png",VTM 2
 http://94.140.179.76:9981/stream/channelid/797606576?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play4-be.png",Play4
