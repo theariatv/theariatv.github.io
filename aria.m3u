@@ -458,6 +458,12 @@ http://38.143.48.212:9981/stream/channelid/984041359?profile=pass
 http://38.143.48.212:9981/stream/channelid/1265777165?profile=pass
 #EXTINF:-1 group-title="Canada",Weather Network
 http://38.143.48.212:9981/stream/channelid/524858336?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1200px-La_Red_Logotipo_2021.svg.png" group-title="Chile",La Red
+http://38.250.127.17:9800/play/a09n/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="Chile",Chilevision
+http://38.250.127.17:9800/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logotipo_de_Mega_%282020-%29.svg" group-title="Chile",MEGA
+http://38.250.127.17:9800/play/a066/index.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png",CCTV-1
 http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 #EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png",CCTV-2
@@ -1395,17 +1401,17 @@ http://181.78.4.250:8098/play/a08x/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN
 http://201.230.121.186:8000/play/a0fi/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN Premium
-http://201.230.121.186:8000/play/a0n6/index.m3u8
+http://38.250.127.17:9800/play/a05x/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://telepez.github.io/imagenes/ESPN2.webp",ESPN 2
-http://201.230.121.186:8000/play/a0kd/index.m3u8
+http://38.250.127.17:9800/play/a08q/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://telepez.github.io/imagenes/ESPN3.webp",ESPN 3
 http://201.230.121.186:8000/play/a0jg/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://telepez.github.io/imagenes/ESPN4.webp",ESPN 4
-http://201.230.121.186:8000/play/a0mv/index.m3u8
+http://38.250.127.17:9800/play/a05l/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png",ESPN 5
-http://201.230.121.186:8000/play/a0ij/index.m3u8
+http://38.250.127.17:9800/play/a06f/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png",ESPN 6
-http://201.230.121.186:8000/play/a0mx/index.m3u8
+http://38.250.127.17:9800/play/a05n/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Latin America",Food Network 
@@ -1436,6 +1442,8 @@ http://181.78.4.250:8098/play/a08h/index.m3u8
 http://181.78.4.250:8098/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Latin America",Nick Jr.
 http://181.78.4.250:8098/play/a08y/index.m3u8
+#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png" group-title="Latin America",Kanal D Drama
+http://38.250.127.17:9800/play/a076/index.m3u8
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV1_logolnk.lt.png",TV1
 http://78.56.193.170:9981/stream/channelid/328469358?profile=pass
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LRT_TV_Logo_2022.svg/250px-LRT_TV_Logo_2022.svg.png",LRT TV
