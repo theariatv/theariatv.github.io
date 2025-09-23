@@ -63,6 +63,8 @@ http://plyr.streamlinecsn.online/memfs/15e8bdd0-bd6d-417b-8fde-77d65780f245.m3u8
 http://plyr.streamlinecsn.online/memfs/a7f9acc7-9d77-4427-aea5-e199eb4ea0cd.m3u8
 #EXTINF:-1 tvg-id="cnx.uk" tvg-name="ClassiCNX" tvg-logo="https://static.wikia.nocookie.net/csn/images/3/3f/CNX_Logo.png" group-title="Aria Web Channels",ClassiCNX
 http://plyr.streamlinecsn.online/memfs/7094d23d-3702-4c2f-bc06-de25aac1d065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aria Web Channels",4GTV
+https://4gtv.ngrok.app/hls/stream.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bang_Bang_logo_2009.png",Bang Bang
 https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?id=DAL_1_004&video_id=16377&token=142cda7d50870275a9ca7988ff001b32ab30709b&authority_instance_id=spectar-prd-digitalb&profile_id=1&application_installation_id=1&uuid=backoffice1&subscriber_id=1&application_id=backoffice1&detected_delivery_method=hls&playlist_template=nginx&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783
 #EXTINF:-1 group-title="Albania" tvg-logo="https://albaniandubs.weebly.com/uploads/5/7/8/2/57825701/bubble-tv-albanian-dubs_orig.png",Bubble TV
