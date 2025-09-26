@@ -1702,12 +1702,16 @@ http://188.24.11.82:9981/stream/channelid/1807800659?ticket=6D3906EEA43056A9A1CB
 http://188.24.11.82:9981/stream/channelid/1661955109?ticket=952F3E931DE041660E0C01A8E6E59C99C65BE468&profile=pass
 #EXTINF:-1 group-title="Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/pro-tv-ro.png",Pro TV
 http://188.24.11.82:9981/stream/channelid/1593684681?ticket=6BC724B09A3C36D760112771B967D9AA4BE64562&profile=pass
-#EXTINF:-1 group-title="Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/primatv-ro.png",Prima TV
+#EXTINF:-1 group-title="Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-tv-ro.png",Prima TV
 http://188.24.11.82:9981/stream/channelid/1379443192?ticket=960BBA4BF226ED148AC0CFAE82ADF78D0F63589B&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1004px-Antena_1_Logo_%282022-present%29.svg.png",Antena 1
+http://188.24.11.82:9981/stream/channelid/1172957691?ticket=7620D125CAB7072720A9BF8B4C59BDA98C60D02E&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/antena3-ro.png",Antena 3
+http://188.24.11.82:9981/stream/channelid/1510945120?ticket=4AC8841F27D237255E0F206E2BAE76F1ED8E1E77&profile=pass
+#EXTINF:-1 group-title="Romania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/acasa-ro.png",Acasa
+http://188.24.11.82:9981/stream/channelid/1226053263?ticket=2C053025B70D68ECDEB33A48F7478A95CB96E7F1&profile=pass
 #EXTINF:-1 group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/JimJam.png",JimJam
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://saruman1.tharen.cfd/jimy/usergenq3n0lz7kr.m3u8
+http://188.24.11.82:9981/stream/channelid/583167830?ticket=72AB7DEB7B12AC9E98835243C8E5B9A3AAA3F246&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nicktoons-us.png" group-title="Russia",Nicktoons
 https://45.159.74.22/Boomerang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2x2_TV_Logo.svg" group-title="Russia",2x2
