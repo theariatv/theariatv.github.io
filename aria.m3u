@@ -1158,15 +1158,15 @@ http://185.104.253.35:9981/stream/channelid/1424747411?profile=pass
 http://185.104.253.35:9981/stream/channelid/1980218373?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",Al Jazeera English
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 group-title="International" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp",BBC News
+#EXTINF:-1 group-title="International" tvg-logo="",BBC News
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="",BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="287b9612ad6a1270c1b9421634158941",BBC Arabic
-http://185.104.253.35:9981/stream/channelid/311851816?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg" group-title="Internatonal",France Info
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg" group-title="International",France Info
 http://62.129.183.89:9981/stream/channelid/1521535542?ticket=A80AA3148D412311E7E3E0FA6D1045E614736F4A&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png" group-title="Internatonal",France 24 Arabic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png" group-title="International",France 24 Arabic
 http://185.104.253.35:9981/stream/channelid/1635083552?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/1200px-BVN_logo.svg.png",BVN
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
