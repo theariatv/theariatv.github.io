@@ -1164,10 +1164,6 @@ http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg" group-title="International",France Info
-http://62.129.183.89:9981/stream/channelid/1521535542?ticket=A80AA3148D412311E7E3E0FA6D1045E614736F4A&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png" group-title="International",France 24 Arabic
-http://185.104.253.35:9981/stream/channelid/1635083552?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/1200px-BVN_logo.svg.png",BVN
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",CCTV-4
@@ -1178,6 +1174,10 @@ http://77.234.85.235:9981/stream/channelid/195242986?profile=pass
 https://hometv.andismirre.de/stream/channelid/1530919155?profile=ffmpeg
 #EXTINF:-1 group-title="International" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/euro-d-buyuk.png?rkt=DfS6Tgv6Hjr93k3",Euro D
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png" group-title="International",France 24 Arabic
+http://185.104.253.35:9981/stream/channelid/1635083552?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg" group-title="International",France Info
+http://62.129.183.89:9981/stream/channelid/1521535542?ticket=A80AA3148D412311E7E3E0FA6D1045E614736F4A&profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/HRT_International_logo.png",HRT International
 http://5.57.74.130:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220811142013",Markíza International
@@ -1186,6 +1186,8 @@ http://tvh.cyn.cz/stream/channelid/1250511667?profile=pass
 http://tvh.cyn.cz/stream/channelid/1406456571?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest?cb=20191225023419",NuestraTele RCN
 http://181.78.4.250:8098/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-news-24-it.png" group-title="International",Rai News 24
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/29/Rai_World_Premium_%282017-.n.v.%29.png/revision/latest?cb=20170627122650",Rai World Premium 
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://telepez.github.io/imagenes/RT.webp",RT
@@ -1940,11 +1942,11 @@ http://86.180.115.121:1990/stream/channelid/903016744?profile=pass
 http://86.180.115.121:1990/stream/channelid/706020549?profile=pass
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png",Sky Arts
 http://86.180.115.121:1990/stream/channelid/99503184?profile=pass
-#EXTINF:-1 tvg-id="Sky.Mix.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png",Sky Mix
+#EXTINF:-1 tvg-id="Sky.Mix.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-uk.png",Sky Mix
 http://86.180.115.121:1990/stream/channelid/914757818?profile=pass
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://www.pbsamerica.co.uk/wp-content/themes/pbs-2022/img/logo.png",PBS America
 http://86.180.115.121:1990/stream/channelid/2146487133?profile=pass
-#EXTINF:-1 tvg-id="Sky.News.HD.uk" "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" group-title="United Kingdom",Sky News
+#EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" group-title="United Kingdom",Sky News
 http://86.180.115.121:1990/stream/channelid/47242596?profile=pass
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="United Kingdom",BBC News
 http://86.180.115.121:1990/stream/channelid/396948315?profile=pass
