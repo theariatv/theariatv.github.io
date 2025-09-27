@@ -1852,6 +1852,26 @@ http://212.252.72.103:7070/play/a03n
 http://212.252.72.103:7070/play/a013
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Türkyie",CNBC-e
 https://theariatv.github.io/channeldead.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="United Arab Emirates",Abu Dhabi TV
+http://185.104.253.35:9981/stream/channelid/1880551777?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="United Arab Emirates",Baraem
+http://185.104.253.35:9981/stream/channelid/553480487?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png" group-title="United Arab Emirates",Cartoon Network Arabic
+http://185.104.253.35:9981/stream/channelid/955795570?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-1-ae.png" group-title="United Arab Emirates",MBC 1
+http://185.104.253.35:9981/stream/channelid/620286514?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-2-ae.png" group-title="United Arab Emirates",MBC 2
+http://185.104.253.35:9981/stream/channelid/457905501?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-3-ae.png" group-title="United Arab Emirates",MBC 3
+http://185.104.253.35:9981/stream/channelid/1938078284?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-4-ae.png" group-title="United Arab Emirates",MBC 4
+http://185.104.253.35:9981/stream/channelid/1632864303?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-4-ae.png" group-title="United Arab Emirates",MBC Drama
+http://185.104.253.35:9981/stream/channelid/1555012233?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="United Arab Emirates",National Geograhic Abu Dhabi
+http://185.104.253.35:9981/stream/channelid/2094368666?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="United Arab Emirates",Spacetoon
+http://185.104.253.35:9981/stream/channelid/976323078?profile=pass
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png",BBC One
 http://86.180.115.121:1990/stream/channelid/2113595444?profile=pass
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",BBC Two
