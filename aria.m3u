@@ -681,51 +681,45 @@ https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 group-title="Finland",TLC
 http://80.221.20.81:9981/stream/channelid/22525729?profile=pass
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="France",TF1
-http://90.40.83.122:9981/stream/channelid/893223062?profile=matroska
+http://62.129.183.89:9981/stream/channelid/1258506449?ticket=EAB184889D0C968B97E087C1B8B2FF886626710B&profile=pass
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png" group-title="France",France 2
-http://90.40.83.122:9981/stream/channelid/2027325649?profile=matroska
+http://62.129.183.89:9981/stream/channelid/1684826233?ticket=F659A7C59DD058AFF5D19E80D28D2BFA3CAA1399&profile=pass
 #EXTINF:-1 tvg-id="France.3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" group-title="France",France 3
-http://90.40.83.122:9981/stream/channelid/574547255?profile=matroska
+http://62.129.183.89:9981/stream/channelid/1787369880?ticket=4B3A18ED5FAAC6FD88265381AA6EF0F1B72029E4&profile=pass
 #EXTINF:-1 tvg-id="France.4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-4-fr.png" group-title="France",France 4
-http://90.40.83.122:9981/stream/channelid/974905124?profile=matroska
+http://62.129.183.89:9981/stream/channelid/1251912851?ticket=B2B022EF3C9D2925D48648DCF69A975272A88464&profile=pass
 #EXTINF:-1 tvg-id="France.5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png" group-title="France",France 5
-http://90.40.83.122:9981/stream/channelid/1585542704?profile=matroska
+http://62.129.183.89:9981/stream/channelid/781150505?ticket=AFEA18A8ADB948B28922E356E38C0D55164A5036&profile=pass
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" group-title="France",M6
-http://90.40.83.122:9981/stream/channelid/1928933416?profile=matroska
+http://62.129.183.89:9981/stream/channelid/140591709?ticket=D774A2F06E2B7E4CF5C286B321585D3DF0EC6C4A&profile=pass
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/arte-fr.png" group-title="France",Arte
-http://90.40.83.122:9981/stream/channelid/1684895299?profile=matroska
+http://62.129.183.89:9981/stream/channelid/476680185?ticket=0E268AC329BF7BB9945FC70B0178EA467F4B4804&profile=pass
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/w9-fr.png" group-title="France",W9
-http://90.40.83.122:9981/stream/channelid/1541155611?profile=matroska
+http://62.129.183.89:9981/stream/channelid/187486656?ticket=8123C658BF2C51851B9422EC136AC46586939021&profile=pass
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" group-title="France",TFX
-http://90.40.83.122:9981/stream/channelid/1861896921?profile=matroska
-#EXTINF:-1 tvg-id="TF1.Series.Film.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-series-film-fr.png" group-title="France",TF1 Séries Film
-http://90.40.83.122:9981/stream/channelid/700225656?profile=matroska
+http://62.129.183.89:9981/stream/channelid/57664586?ticket=A48F41971C1C88B641D1FE747E1B969366C1147A&profile=pass
+#EXTINF:-1 tvg-id="TF1.Series.Films.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/TF1_S%C3%A9ries_Films.svg" group-title="France",TF1 Séries Films
+http://62.129.183.89:9981/stream/channelid/1852875657?ticket=80DA2D01D62967BD35E13A3647B1185228F8004F&profile=pass
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" group-title="France",TMC
-http://90.40.83.122:9981/stream/channelid/886481291?profile=matroska
+http://62.129.183.89:9981/stream/channelid/1120316469?ticket=C44F042C68390D1813EF8FAB0766532C4E095BBB&profile=pass
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/gulli-fr.png" group-title="France",Gulli
-http://90.40.83.122:9981/stream/channelid/1053985294?profile=matroska
+http://62.129.183.89:9981/stream/channelid/610442607?ticket=5C022F1FB43C8CC3E7A7C0F0BC58AD7FDE523666&profile=passa
 #EXTINF:-1 tvg-id="CSTAR.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-star-fr.png" group-title="France",CSTAR
-http://90.40.83.122:9981/stream/channelid/841001636?profile=matroska
+http://62.129.183.89:9981/stream/channelid/541002557?ticket=86D2F41B0DAE129E88BBE90B03A534B7E96D8C61&profile=pass
 #EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png" group-title="France",T18
-http://90.40.83.122:9981/stream/channelid/1164509511?profile=matroska
+http://62.129.183.89:9981/stream/channelid/1742100987?ticket=FCD9F00F9C06779195F0D53532D32064574743BD&profile=pass
 #EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://images.bfmtv.com/Q_UDNO97UTAUkivr_A7fbW7_tWw=/0x157:720x562/720x0/images/Le-logo-de-la-chaine-de-Ouest-France-NOVO19-2066003.jpg" group-title="France",NOVO19 
-http://90.40.83.122:9981/stream/channelid/325116454?profile=matroska
-#EXTINF:-1 tvg-id="RMC.Story.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-story-fr.png" group-title="France",RMC Story
-http://90.40.83.122:9981/stream/channelid/1427341577?profile=matroska
+http://62.129.183.89:9981/stream/channelid/135417969?ticket=1F39720368FA2728A7F6DE1FA7D4F104D7690AD6&profile=pass
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/6ter-fr.png" group-title="France",6ter
-http://90.40.83.122:9981/stream/channelid/2065807921?profile=matroska
-#EXTINF:-1 tvg-id="RMC.Découverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-decouverte-fr.png" group-title="France",RMC Découverte
-http://90.40.83.122:9981/stream/channelid/286623769?profile=matroska
-#EXTINF:-1 tvg-id="Chérie.25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cherie-25-fr.png" group-title="France",Chérie 25
-http://90.40.83.122:9981/stream/channelid/1210374143?profile=matroska
+http://62.129.183.89:9981/stream/channelid/1807280799?ticket=7A2C71851ED3833D8C295FEC9279D4C49DE5310E&profile=pass
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/lci-fr.png" group-title="France",LCI
-http://90.40.83.122:9981/stream/channelid/259651712?profile=matroska
+http://62.129.183.89:9981/stream/channelid/1744121452?ticket=844DCB9AB0C179B4FC236E67F8CE31996671C91B&profile=pass
 #EXTINF:-1 tvg-id="france.info.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-info-fr.png" group-title="France",France Info
-http://90.40.83.122:9981/stream/channelid/515438836?profile=matroska
+http://62.129.183.89:9981/stream/channelid/1521535542?ticket=A80AA3148D412311E7E3E0FA6D1045E614736F4A&profile=pass
 #EXTINF:-1 tvg-id="CNEWS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-news-fr.png" group-title="France",CNEWS
-http://90.40.83.122:9981/stream/channelid/841001636?profile=matroska
+http://62.129.183.89:9981/stream/channelid/127360986?ticket=3EB1E62B6D2A5A1D9FAFED8C8C4E37D513D2941E&profile=pass
 #EXTINF:-1 tvg-id="BRM.TV.fr" tvg-logo="https://image.pitchbook.com/dWDSQSDJ8ecWy934fnow6ctIBBg1691505723976_200x200" group-title="France",BFM TV
-http://90.40.83.122:9981/stream/channelid/1109988586?profile=matroska
+http://62.129.183.89:9981/stream/channelid/507071864?ticket=86E99ADF197E91D5805D3A098E1BD452931F0630&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/1200px-Pirveli_Arkhi_Logo_2022.svg.png" group-title="Georgia",Pirveli Arkhi (1TV)
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwMrBPeRCuNpL2M8TlkH0JNW3QOgLOBRjVV0N1kp7Xg&s=10" group-title="Georgia",Pirveli Arkhi Sporti (1TV Sport)
@@ -1158,12 +1152,22 @@ https://go2thls.wns.live/hls/stream.m3u8
 http://193.92.205.210:666/stream/channelid/156817259?ticket=A880FEEEC8FF79E329A41AAAD88906F5A76A2B71&profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/RTS_Svet.svg/revision/latest?cb=20200327134807" group-title="International",RTS Svet
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
-#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",Al Jazeera 
+#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Al-Arabiya_new_logo.svg",Al Arabiya
+http://185.104.253.35:9981/stream/channelid/1424747411?profile=pass
+#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Aljazeera.svg",Al Jazeera 
+http://185.104.253.35:9981/stream/channelid/1980218373?profile=pass
+#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",Al Jazeera English
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 group-title="International" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp",BBC World News
+#EXTINF:-1 group-title="International" tvg-logo="https://telepez.github.io/imagenes/BBC_World_News.webp",BBC News
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="287b9612ad6a1270c1b9421634158941",BBC Arabic
+http://185.104.253.35:9981/stream/channelid/311851816?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg" group-title="Internatonal",France Info
+http://62.129.183.89:9981/stream/channelid/1521535542?ticket=A80AA3148D412311E7E3E0FA6D1045E614736F4A&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png" group-title="Internatonal",France 24 Arabic
+http://185.104.253.35:9981/stream/channelid/1635083552?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/1200px-BVN_logo.svg.png",BVN
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",CCTV-4
@@ -1192,6 +1196,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Sky_News_Arabia_2022_logo.svg" group-title="Internatonal",Sky News Arabia
+http://185.104.253.35:9981/stream/channelid/232968588?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://telepez.github.io/imagenes/Univision.webp",Univision
 http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png",Telemundo
