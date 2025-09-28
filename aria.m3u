@@ -1173,7 +1173,7 @@ http://58.19.180.108:9981/stream/channelid/1411564127?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Duna_World_HD_2012.svg.png" group-title="International",Duna World/M4 Sport+
 http://77.234.85.235:9981/stream/channelid/195242986?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Cubavisi%25_3FnIntl2022.webp/revision/latest?cb=20230723155246",Cubavision Internacional 
-https://hometv.andismirre.de/stream/channelid/1530919155?profile=ffmpeg
+https://dvrfl06.bozztv.com/astv-cubavisionint/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/euro-d-buyuk.png?rkt=DfS6Tgv6Hjr93k3",Euro D
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png" group-title="International",France 24 Arabic
