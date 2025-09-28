@@ -1388,6 +1388,19 @@ http://38.250.127.17:9800/play/a06f/index.m3u8
 http://38.250.127.17:9800/play/a05n/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="Latin America",FOX SPORTS
+#EXTVLCOPT:http-referrer=https://netplay.sv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://netplay.sv/multimedia/live/canal-010/playlist.m3u8
+#EXTINF:-1 group-title="Latin America",FOX SPORTS 2
+#EXTVLCOPT:http-referrer=https://netplay.sv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://netplay.sv/multimedia/live/canal-031/playlist.m3u8
+#EXTINF:-1 group-title="Latin America",FOX SPORTS 3
+#EXTVLCOPT:http-referrer=https://netplay.sv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://netplay.sv/multimedia/live/canal-108/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Latin America",Food Network 
 http://181.78.4.250:8098/play/a092/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png" group-title="Latin America",FX
@@ -1402,6 +1415,10 @@ http://181.78.4.250:8098/play/a07c/index.m3u8
 http://181.78.4.250:8098/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/star-channel-br.png" group-title="Latin America",Star Channel 
 http://181.78.4.250:8098/play/a061/index.m3u8
+#EXTINF:-1 group-title="Latin America" SONY CHANNEL
+#EXTVLCOPT:http-referrer=https://netplay.sv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://netplay.sv/multimedia/live/canal-035/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/paramount-network-us.png" group-title="Latin America",Paramount Network 
 http://181.78.4.250:8098/play/a079/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="Latin America",Animal Planet
