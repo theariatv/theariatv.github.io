@@ -111,6 +111,12 @@ http://89.187.191.99:8080/klantv/index.m3u8
 http://89.187.191.99:8080/klanplus/index.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",Euronews
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6XTxBguw3sWNrLEPRO_eKRBvdu4FJ4sBx8FPww_e5w&s",TNT Sports Premium 
+http://38.250.127.17:9800/play/a06g/index.m3u8
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png",TyC Sports 
+https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf5f9962-2aa6-4d6c-ad48-493d36996bd2/dj5vvne-64f3d23d-f7fd-4eef-8340-1dbfcd8b64d0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZjVmOTk2Mi0yYWE2LTRkNmMtYWQ0OC00OTNkMzY5OTZiZDIvZGo1dnZuZS02NGYzZDIzZC1mN2ZkLTRlZWYtODM0MC0xZGJmY2Q4YjY0ZDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jd2xDZfFILvxKAibu7Ib66-YZ5t1lr-DqTKOLBlCEU4",Paka Paka
+http://38.250.127.17:9800/play/a0am/index.m3u8
 #EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png",First Channel America
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
 #EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/hRQwSwnr/1000024588-removebg-preview.png",First Channel News
@@ -466,6 +472,8 @@ http://38.250.127.17:9800/play/a09n/index.m3u8
 http://38.250.127.17:9800/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logotipo_de_Mega_%282020-%29.svg" group-title="Chile",MEGA
 http://38.250.127.17:9800/play/a066/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile",CNN Chile
+http://138.36.253.13:8008/play/a00k/index.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png",CCTV-1
 http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 #EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png",CCTV-2
@@ -494,8 +502,10 @@ http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
 http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
 #EXTINF:-1 group-title="Columbia" tvg-logo="",RCN Más
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/RCN/20-hls/live-media.m3u8
-#EXTINF:-1 group-title="Columbia" tvg-logo="",Caracol
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARACOL/20-hls/live-media.m3u8
+#EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",Caracol
+http://38.250.127.17:9800/play/a05v/index.m3u8
+#EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg.png",Win Sports
+http://38.250.127.17:9800/play/a0ae/index.m3u8
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 HD
