@@ -1388,19 +1388,6 @@ http://38.250.127.17:9800/play/a06f/index.m3u8
 http://38.250.127.17:9800/play/a05n/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
-#EXTINF:-1 group-title="Latin America",FOX SPORTS
-#EXTVLCOPT:http-referrer=https://netplay.sv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://netplay.sv/multimedia/live/canal-010/playlist.m3u8
-#EXTINF:-1 group-title="Latin America",FOX SPORTS 2
-#EXTVLCOPT:http-referrer=https://netplay.sv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://netplay.sv/multimedia/live/canal-031/playlist.m3u8
-#EXTINF:-1 group-title="Latin America",FOX SPORTS 3
-#EXTVLCOPT:http-referrer=https://netplay.sv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://netplay.sv/multimedia/live/canal-108/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Latin America",Food Network 
 http://181.78.4.250:8098/play/a092/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png" group-title="Latin America",FX
@@ -1469,6 +1456,18 @@ http://170.78.211.115:8000/play/a0ll/index.m3u8
 http://45.189.151.7:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://w7.pngwing.com/pngs/686/771/png-transparent-las-estrellas-televisa-television-channel-logo-star-television-angle-triangle.png",Las Estrellas
 http://177.53.154.70:9981/stream/channelid/1718960791?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Mexico",Fox Sports
+#EXTVLCOPT:http-referrer=https://netplay.sv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://netplay.sv/multimedia/live/canal-010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Mexico",Fox Sports 2
+#EXTVLCOPT:http-referrer=https://netplay.sv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://netplay.sv/multimedia/live/canal-031/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Mexico",Fox Sports 3
+#EXTVLCOPT:http-referrer=https://netplay.sv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://netplay.sv/multimedia/live/canal-108/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Moldova_1_2025.svg/1200px-TV_Moldova_1_2025.svg.png" group-title="Moldova",Moldova 1
 https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV_Monaco_logo.png" group-title="Monaco",TVMonaco
