@@ -728,3 +728,31 @@ https://a1xs.vip/1000051
 https://a1xs.vip/1000052
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://i.imgur.com/X3eFHe6.png" group-title="United Kingdom",Nicktoons 
 https://a1xs.vip/100054
+EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png",CBS (WCBS)
+http://108.14.66.42:5004/auto/v2.1
+EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png",CBS West (KCBS)
+http://kstv.us:8080/live/Purn3542/38791114838/48785.ts
+#EXTINF:-1 group-title="United States" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png",NBC (WNBC)
+http://108.14.66.42:5004/auto/v4.1
+#EXTINF:-1 group-title="United States" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png",NBC West (KNBC)
+http://kstv.us:8080/live/Purn3542/38791114838/48790.ts
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC (WABC)
+http://108.14.66.42:5004/auto/v7.1
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC West (KABC)
+http://kstv.us:8080/live/Purn3542/38791114838/48784.ts
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png",FOX (WNYW)
+http://108.14.66.42:5004/auto/v5.1
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png",FOX West (KTTV)
+http://kstv.us:8080/live/Purn3542/38791114838/48788.ts
+#EXTINF:-1 group-title="United States" tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75",The CW (WPIX)
+http://108.14.66.42:5004/auto/v11.1
+#EXTINF:-1 group-title="United States" tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75",The CW West (KTLA)
+http://kstv.us:8080/live/Purn3542/38791114838/48787.ts
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png",MyNetworkTV (WWOR)
+http://108.14.66.42:5004/auto/v9.1
+#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png",MyNetworkTV West (KCOP)
+http://kstv.us:8080/live/Purn3542/38791114838/48789.ts
+#EXTINF:-1 group-title="United States" tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp",Univision 
+http://108.14.66.42:5004/auto/v41.1
+#EXTINF:-1 group-title="United States" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png",Telemundo 
+http://108.14.66.42:5004/auto/v47.1
