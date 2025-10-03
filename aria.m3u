@@ -1292,8 +1292,6 @@ https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 http://93.49.98.215:55555/Rai%20Movie%20HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" group-title="Italy",Rai Premium 
 http://93.49.98.215:55555/Rai%20Premium
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png" group-title="Italy",Boing
-https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-1-it.png.png" group-title="Italy",Itaila 1
 https://cachehsi1a.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cielo-it.png" group-title="Italy",Cielo
@@ -1325,11 +1323,11 @@ http://77.39.161.42:55555/Cine34%20HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la-5-it.png" group-title="Italy",La 5
 http://77.39.161.42:55555/La5%20HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/nove-it.png" group-title="Italy",Nove
-http://77.39.161.42:55555/NOVE_1
+http://77.39.161.42:55555/NOVE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dmax-it.png" group-title="Italy",DMAX
 https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png" group-title="Italy",Warner TV (Becoming Discovery Channel on 5th October)
-http://77.39.161.42:55555/Warner%20TV_1
+http://93.49.98.215:55555/Warner%20TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Italy",Food Network 
 http://93.49.98.215:55555/Food%20Network
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/motor-trend-us.png" group-title="Italy",MotorTrend
@@ -1338,14 +1336,16 @@ http://93.49.98.215:55555/Motor%20Trend
 http://93.49.98.215:55555/Real%20Time
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Italy",HGTV
 http://77.39.161.42:55555/HGTV%20%2D%20Home%26Garden
-#EXTINF:-1 group-title="Italy",Boing Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png" group-title="Italy",Boing
+http://93.49.98.215:55555/Boing%20HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/735px-Boing_Plus_logo_2020.svg.png?20201201165658" group-title="Italy",Boing Plus
 http://77.39.161.42:55555/Boing%20Plus
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/frisbee-it.png" group-title="Italy",Frisbee
 http://93.49.98.215:55555/frisbee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/k2-it.png" group-title="Italy",K2
 http://93.49.98.215:55555/K2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-it.png" group-title="Italy",Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-it.png" group-title="Italy",Super!/Super! Junior
+http://93.49.98.215:55555/Super!
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png" group-title="Italy",Cartoonito 
 http://77.39.161.42:55555/Cartoonito%20HD
 #EXTINF:-1 tvg-logo="https://api.cvmtv.com/storage/logos/ko8Z2ui2HPKwUmw6FW6DaV666PoaFVWeWqpKMYMI.png" group-title="Jamaica",CVM TV
