@@ -384,7 +384,7 @@ https://livecdn.use1-0004.jwplive.com/live/sites/HGOnqYhO/media/i9sjcGbc/live.is
 http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="cpac.francais.ca" tvg-logo="https://media.starlite.best/cpac.francais.ca.png",CPAC
 http://38.143.48.212:9981/stream/channelid/1514524920?profile=pass
-#EXTINF:-1 group-title="Canada" tvg-id="CTV.News.Channel.ca" tvg-logo="https://media.starlite.best/ctv.news.channel.ca.png",CTV News
+#EXTINF:-1 group-title="Canada" tvg-id="CTV.News.Channel.ca" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CTV-News-Channel-Reverse-Screen-Logo-The-Lede-1.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1",CTV News Channel
 http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.Comedy.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-comedy-channel-ca.png",CTV Comedy
 http://38.143.48.212:9981/stream/channelid/874242496?profile=pass
@@ -414,7 +414,7 @@ http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="FX.Networks.Canada.ca" tvg-logo="https://media.starlite.best/fx.networks.ca.png",FX Canada
 http://38.143.48.212:9981/stream/channelid/1924145856?profile=pass
-#EXTINF:-1 group-title="Canada" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png",Global Toronto (CIII)
+#EXTINF:-1 group-title="Canada" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png",Global Toronto (CIII)
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png",History
 http://38.143.48.212:9981/stream/channelid/399303638?profile=pass
