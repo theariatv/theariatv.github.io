@@ -13,6 +13,10 @@ https://rhine.webchnl.live/memfs/53fec556-2421-48ac-9b8a-203f48ae1ca1.m3u8
 https://rhine.webchnl.live/memfs/55263779-40ab-45c9-ac64-636ff0963419.m3u8
 #EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/toonmx.png",Cartoon Network Omega
 https://rhine.webchnl.live/memfs/9eb075a9-0682-41ce-846d-8cc714a8f4fc.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/testing.png",chnl.testing
+https://rhine.webchnl.live/memfs/e1a5f114-bbb9-488a-8016-3b763b564ec2.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/crossrift.png",CrossRift
+https://rhine.webchnl.live/memfs/47d19130-274d-443f-b757-b6165019fdb1.m3u8
 #EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/ccdb.png",Comedy Central DoneBetter
 https://rhine.webchnl.live/memfs/9d3e259c-f7e2-4b66-bf4c-24738db87597.m3u8
 #EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/dijit.png",DIJIT
@@ -49,6 +53,8 @@ https://rhine.webchnl.live/memfs/ac0f016c-e39c-4fa5-885d-b90aec65b076.m3u8
 https://rhine.webchnl.live/memfs/86695e51-c500-4939-b3e8-73a2db21741d.m3u8
 #EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/whiplashcinema.png",Whiplash Cinema
 https://rhine.webchnl.live/memfs/3727506f-9e14-4f8e-af12-cdc8c597640c.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/yoyo.png",Yoyo
+https://rhine.webchnl.live/memfs/242e59c8-1c7e-4c08-a9a8-e41b17f1ae17.m3u8
 #EXTINF:-1 tvg-id="csn.uk" tvg-name="CSN" tvg-logo="https://static.wikia.nocookie.net/csn/images/e/eb/CSNLogo5.png" group-title="Aria Web Channels",CSN
 http://plyr.streamlinecsn.online/memfs/eda3c430-a21e-4ea7-87d6-68db49abbeaf.m3u8
 #EXTINF:-1 vg-id="csnx.uk" tvg-name="CSNX" tvg-logo="https://static.wikia.nocookie.net/csn/images/c/c7/CSNX.png" group-title="Aria Web Channels",CSNX
@@ -207,20 +213,6 @@ http://115.69.40.212:55555/9GemHD%20Newcastle
 http://115.69.40.212:55555/9Life%20Newcastle
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/9-rush-au.png",9Rush
 http://44.32.200.212:5004/auto/v96
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="Australia",Fox Sports 501 
-https://a1xs.vip/700001
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="Australia",Fox Sports 502 
-https://a1xs.vip/700002
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="Australia",Fox Sports 503 
-https://a1xs.vip/700003
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="Australia",Fox Sports 504 
-https://a1xs.vip/700004
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="https://i.imgur.com/angJkah.png" group-title="Australia",Fox Sports 505 
-https://a1xs.vip/700005
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 FHD" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="Australia",Fox Sports 506 
-https://a1xs.vip/700006
-#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="Australia",Fox Sports 507 
-https://a1xs.vip/700007
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vrt-1-be.png",VRT 1
 http://192.145.57.85:9981/stream/channelid/2124641217?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vrt-canvas-be.png",VRT Canvas
