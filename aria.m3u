@@ -720,6 +720,12 @@ http://62.129.183.89:9981/stream/channelid/1744121452?ticket=844DCB9AB0C179B4FC2
 http://62.129.183.89:9981/stream/channelid/1521535542?ticket=A80AA3148D412311E7E3E0FA6D1045E614736F4A&profile=pass
 #EXTINF:-1 tvg-id="CNEWS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-news-fr.png" group-title="France",CNEWS
 http://62.129.183.89:9981/stream/channelid/127360986?ticket=3EB1E62B6D2A5A1D9FAFED8C8C4E37D513D2941E&profile=pass
+#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ab1-fr.png" group-title="France",AB1
+http://45.90.106.7:8779/play/PtQn571Pr6@ZkT5C/index.m3u8
+#EXTINF:-1 tvg-id="AB3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ab3-fr.png" group-title="France",AB3
+http://45.90.106.7:8779/play/BtQgs384K6@TnD5M/index.m3u8
+#EXTINF:-1 tvg-id="Chérie.25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-life-fr.png" group-title="France",RMC Life
+http://45.90.106.7:9790/play/SkR4180N7@T6B
 #EXTINF:-1 tvg-id="BRM.TV.fr" tvg-logo="https://image.pitchbook.com/dWDSQSDJ8ecWy934fnow6ctIBBg1691505723976_200x200" group-title="France",BFM TV
 http://62.129.183.89:9981/stream/channelid/507071864?ticket=86E99ADF197E91D5805D3A098E1BD452931F0630&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/1200px-Pirveli_Arkhi_Logo_2022.svg.png" group-title="Georgia",Pirveli Arkhi (1TV)
