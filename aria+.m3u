@@ -515,13 +515,27 @@ http://1tv41.icu:8080/5ZCJFs/416986/119471
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/disney-channel-de.png" group-title="Denmark",Disney Channel 
 http://qgvwnqgr.mexamo.xyz/live/911FA6VS/2T3C7P57/16317.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-j-fr.png" group-title="France",Canal J
-http://99.27.51.145:9908/stream/channelid/969028499?ticket=94605C1455E77212A2AC134969B53DE4174CD59E&profile=pass
+http://45.90.106.7:9790/play/BfQm2084L6@U4N
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="France",Nickelodeon
-http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/1647
+http://45.90.106.7:9790/play/FwZ4209O4@U4V
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Nickelodeon_Junior_logo_2023_%28outline%29.svg" group-title="France",Nickelodeon Junior
-http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/2171
+http://45.90.106.7:9790/play/TcQd428P5@Y7M
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nicktoons-us.png" group-title="France",Nicktoons
-http://hdlocal.de:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/1648
+http://45.90.106.7:9790/play/CzQL529P7@E4V
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cartoon-network-fr.png" group-title="France",Cartoon Network
+http://45.90.106.7:9790/play/VrQl2079K0@Y5B
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="France",Cartoonito
+http://45.90.106.7:9790/play/TqK5084L3@J4B
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png" group-title="France",Boomerang
+http://45.90.106.7:9790/play/BzW5096K3@L7V
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/Logo_Game_One_%282024%29.svg" group-title="France",Game One
+http://45.90.106.7:9790/play/ZvQm5022U6@E5Q
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="France",GONG
+http://45.90.106.7:9790/play/EvS759O6@U5J
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="France",Mangas
+http://45.90.106.7:9790/play/TbZ4097U5@F5L
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/syfy-uk.png" group-title="France",SYFY
+http://45.90.106.7:9790/play/BsXA5294N2@R1E
 #EXTINF:-1 tvg-id="sportdigital.de"tvg-logo="https://i.imgur.com/8KiZkJF.png" group-title="Germany",Sportdigital Fussball
 https://a1xs.vip/120001
 #EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://i.imgur.com/EhInbSW.png" group-title="Germany", Sky Sport Bundesliga
