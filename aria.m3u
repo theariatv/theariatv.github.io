@@ -1318,7 +1318,7 @@ http://77.39.161.42:55555/La5%20HD
 http://77.39.161.42:55555/NOVE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dmax-it.png" group-title="Italy",DMAX
 https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png" group-title="Italy",Warner TV (Becoming Discovery Channel on 5th October)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png" group-title="Italy",Discovery Channel
 http://93.49.98.215:55555/Warner%20TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Italy",Food Network 
 http://93.49.98.215:55555/Food%20Network
