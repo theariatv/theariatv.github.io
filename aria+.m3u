@@ -664,9 +664,9 @@ https://m3ufilter.media4u.top/live/media4u/media4u/1802.ts
 https://m3ufilter.media4u.top/live/media4u/media4u/1803.ts
 #EXTINF:-1 group-title="South Africa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/m-net-za.png",M-Net
 https://m3ufilter.media4u.top/live/media4u/media4u/1765.ts
-#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-logo="https://i.imgur.com/CeKvKIu.png" group-title="United Kingdom",MTV
+#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-uk.png" group-title="United Kingdom",MTV
 https://a1xs.vip/1000037
-#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="https://i.imgur.com/1eM0KX8.png" group-title="United Kingdom",Discovery 
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png" group-title="United Kingdom",Discovery 
 https://a1xs.vip/1000033
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://pixvid.org/images/2025/02/10/sky-atlantic.png" group-title="United Kingdom",Sky Atlantic
 https://a1xs.vip/210001
