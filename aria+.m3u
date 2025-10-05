@@ -399,7 +399,7 @@ http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="TVO.Toronto.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png",TVO
 http://user.scalecdn.co:8080/live/26725074/92867131/59856.ts
 #EXTINF:-1 group-title="Canada" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/UC-LOGO-90px.png/revision/latest?cb=20231213194918",Univision Canada 
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/107545.ts
+http://stream.ultimate-tvservice.com:8080/live/shept77/tins8/265137.ts
 #EXTINF:-1 group-title="Canada" tvg-id="USA.Network.(CAN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png",USA Network
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112754.ts
 #EXTINF:-1 group-title="Canada" tvg-id="Vision.TV.Eastern.ca" tvg-logo="https://media.starlite.best/vision.tv.ca.png",Vision TV
@@ -443,7 +443,7 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/113000.ts
 #EXTINF:-1 group-title="Canada" tvg-id="explora.ca" tvg-logo=""https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-explora-ca.png",ICI Explora
 https://m3ufilter.media4u.top/live/media4u/media4u/3297.ts
 #EXTINF:-1 group-title="Canada" tvg-id="rdi.news.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-rdi-ca.png",ICI RDI
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112816.ts
+http://stream.ultimate-tvservice.com:8080/live/shept77/tins8/264642.ts
 #EXTINF:-1 group-title="Canada" tvg-id="ici.tele.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-tele-ca.png",ICI Tele
 https://tvnow.best/api/stream/burns/burns/livetv.epg/ici.tele.ca.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="lcn.ca" tvg-logo="https://media.starlite.best/lcn.ca.png",LCN
