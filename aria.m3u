@@ -707,7 +707,7 @@ http://62.129.183.89:9981/stream/channelid/1852875657?ticket=80DA2D01D62967BD35E
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" group-title="France",TMC
 http://62.129.183.89:9981/stream/channelid/1120316469?ticket=C44F042C68390D1813EF8FAB0766532C4E095BBB&profile=pass
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/gulli-fr.png" group-title="France",Gulli
-http://62.129.183.89:9981/stream/channelid/610442607?ticket=5C022F1FB43C8CC3E7A7C0F0BC58AD7FDE523666&profile=passa
+http://62.129.183.89:9981/stream/channelid/610442607?ticket=5C022F1FB43C8CC3E7A7C0F0BC58AD7FDE523666&profile=pass
 #EXTINF:-1 tvg-id="CSTAR.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-star-fr.png" group-title="France",CSTAR
 http://62.129.183.89:9981/stream/channelid/541002557?ticket=86D2F41B0DAE129E88BBE90B03A534B7E96D8C61&profile=pass
 #EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png" group-title="France",T18
