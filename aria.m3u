@@ -1345,9 +1345,9 @@ http://93.49.98.215:55555/Super!
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png" group-title="Italy",Cartoonito 
 http://77.39.161.42:55555/Cartoonito%20HD
 #EXTINF:-1 tvg-logo="https://api.cvmtv.com/storage/logos/ko8Z2ui2HPKwUmw6FW6DaV666PoaFVWeWqpKMYMI.png" group-title="Jamaica",CVM TV
-https://fl5.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
+https://fl25.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Television_Jamaica_Logo.png/revision/latest?cb=20211223085709" group-title="Jamaica",TVJ
-https://fl5.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
+https://fl25.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png" group-title="Latin America",A&E
 http://181.78.4.250:8098/play/a07f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png" group-title="Latin America",AMC
