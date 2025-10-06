@@ -119,6 +119,8 @@ http://89.187.191.99:8080/klanplus/index.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6XTxBguw3sWNrLEPRO_eKRBvdu4FJ4sBx8FPww_e5w&s",TNT Sports Premium 
 http://38.250.127.17:9800/play/a06g/index.m3u8
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png",Telefe
+http://162.207.11.109:9981/stream/channelid/3389287?profile=pass
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png",TyC Sports 
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png",GEN TV
@@ -494,8 +496,12 @@ http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
 http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
 #EXTINF:-1 group-title="China" tvg-logo="",CCTV-14
 http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
-#EXTINF:-1 group-title="Columbia" tvg-logo="",RCN Más
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/RCN/20-hls/live-media.m3u8
+#EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",RCN 
+http://162.207.11.109:9981/stream/channelid/96275356?profile=pass
+#EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/250px-RCN_Novelas_logo_2019.png",RCN Novelas
+http://162.207.11.109:9981/stream/channelid/247677504?profile=pass
+#EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png",CityTV
+http://162.207.11.109:9981/stream/channelid/1037732737?profile=pass
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",Caracol
 http://38.250.127.17:9800/play/a05v/index.m3u8
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg.png",Win Sports
@@ -1372,6 +1378,8 @@ http://181.78.4.250:8098/play/a091/index.m3u8
 http://181.78.4.250:8098/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Latin America",HBO
 http://181.78.4.250:8098/play/a08w/index.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/220px-TCM_Latam_logo.svg.png",TCM
+http://162.207.11.109:9981/stream/channelid/2007678241?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-us.png" group-title="Latin America",History 
 https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Latin America",A&E
@@ -1412,6 +1420,16 @@ http://181.78.4.250:8098/play/a061/index.m3u8
 #EXTVLCOPT:http-referrer=https://netplay.sv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://netplay.sv/multimedia/live/canal-035/playlist.m3u8
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfxiivz-1f7aa464-8d25-4cf4-8012-205f514177c1.png/v1/fill/w_958,h_522/universal_channel_logo_concept_2023_by_blackwbofficial_dfxiivz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTIyIiwicGF0aCI6Ii9mLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYi9kZnhpaXZ6LTFmN2FhNDY0LThkMjUtNGNmNC04MDEyLTIwNWY1MTQxNzdjMS5wbmciLCJ3aWR0aCI6Ijw9OTU4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.LpwQb6eZrdOjZqhJ5Xm8mECwekHx3L_XbZ8sN1KzbQI",Universal Channel 
+http://162.207.11.109:9981/stream/channelid/16335323?profile=pass
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038",Universal Comedy
+http://162.207.11.109:9981/stream/channelid/454783357?profile=pass
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056",Universal Reality 
+http://162.207.11.109:9981/stream/channelid/1220719451?profile=pass
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Universal_Crime.svg/revision/latest/scale-to-width-down/250?cb=20220311032018",Universal Crime
+http://162.207.11.109:9981/stream/channelid/1841750406?profile=pass
+#EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855",Universal Premiere
+http://162.207.11.109:9981/stream/channelid/1447537139?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/paramount-network-us.png" group-title="Latin America",Paramount Network 
 http://181.78.4.250:8098/play/a079/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="Latin America",Animal Planet
@@ -1426,6 +1444,10 @@ http://181.78.4.250:8098/play/a08h/index.m3u8
 http://181.78.4.250:8098/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Latin America",Nick Jr.
 http://181.78.4.250:8098/play/a08y/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Latin America",TeenNick 
+http://162.207.11.109:9981/stream/channelid/1159717502?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tooncast-br.png" group-title="Latin America",Tooncast
+http://162.207.11.109:9981/stream/channelid/146144282?profile=pass
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png" group-title="Latin America",Kanal D Drama
 http://38.250.127.17:9800/play/a076/index.m3u8
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV1_logolnk.lt.png",TV1
