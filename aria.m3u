@@ -2017,13 +2017,13 @@ http://86.180.115.121:1990/stream/channelid/1993018842?profile=pass
 #EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png",CBS (WPEC)
 https://fl25.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png",NBC (WVGN)
-https://fl25.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
+https://fl7.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC (WFTS)
-https://fl25.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+https://fl7.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png",FOX (WFLX)
-https://fl25.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+https://fl7.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75",The CW (WTOG)
-https://fl25.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+https://fl7.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png",MyNetworkTV (WWOR)
 http://108.14.66.42:5004/auto/v9.1
 #EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png",MeTV
