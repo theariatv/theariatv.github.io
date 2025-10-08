@@ -506,6 +506,14 @@ http://162.207.11.109:9981/stream/channelid/1037732737?profile=pass
 http://38.250.127.17:9800/play/a05v/index.m3u8
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg.png",Win Sports
 http://38.250.127.17:9800/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RepretelCanal62024.svg/1200px-RepretelCanal62024.svg.png" group-title="Costa Rica",Repretel 6
+http://201.237.193.180:9981/stream/channelid/1914694040?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica",Teletica
+http://201.237.193.180:9981/stream/channelid/2039568413?profile=pass
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20210312052039" group-title="Costa Rica",Canal 8
+http://201.237.193.180:9981/stream/channelid/2109973730?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RepretelCanal112024.svg/1200px-RepretelCanal112024.svg.png" group-title="Costa Rica",Repretel 11
+http://201.237.193.180:9981/stream/channelid/220443661?profile=pass
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 HD
@@ -1404,6 +1412,8 @@ http://38.250.127.17:9800/play/a06f/index.m3u8
 http://38.250.127.17:9800/play/a05n/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png" group-title="Latin America",Tigo Sports
+http://201.237.193.180:9981/stream/channelid/333632199?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Latin America",Food Network 
 http://181.78.4.250:8098/play/a092/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png" group-title="Latin America",FX
