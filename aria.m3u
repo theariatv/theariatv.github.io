@@ -1720,6 +1720,10 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/San_Marino_RTV_logo_2025.png" group-title="San Marino",San Marino RTV
 http://77.39.161.42:55555/RTV%20San%20Marino
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png" group-title="Slovenia",TV SLO 1
+http://93.103.246.35:10205/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/Eurosport_Logo_2015.svg_.png" group-title="Slovenia",Eurosport
+http://93.103.246.35:10206/
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="712b72f52504133103fbaaea8210d5f9",KBS 1TV [Not 24/7]
 http://121.143.97.131:9981/stream/channelid/1970416497?profile=pass
 #EXTINF:-1 group-title="South Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" tvg-id="565bb62dc52849cbf4cbd406b6bbdebc",KBS 2TV [Not 24/7]
