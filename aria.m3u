@@ -71,14 +71,21 @@ http://plyr.streamlinecsn.online/memfs/a7f9acc7-9d77-4427-aea5-e199eb4ea0cd.m3u8
 http://plyr.streamlinecsn.online/memfs/7094d23d-3702-4c2f-bc06-de25aac1d065.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aria Web Channels",4GTV
 https://4gtv.ngrok.app/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://recordcaboverde.com/wp-content/uploads/2024/09/LOGO-VETORIZADO-BRANCO-HORIZONTAL-ok-1024x398.png" group-title="Africa",Record Cabo Verde
+http://41.74.140.96:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Africa" tvg-id=""" tvg-logo="",TVA
+http://41.74.140.96:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TIVER_Logo.png/revision/latest?cb=20220515042741" group-title="Africa",Tiver
+http://41.74.140.96:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtc.cv/upload/img/apresentador/logotipo_tcv.png" group-title="Africa",TCV
+http://41.74.140.96:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bang_Bang_logo_2009.png",Bang Bang
 https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?id=DAL_1_004&video_id=16377&token=142cda7d50870275a9ca7988ff001b32ab30709b&authority_instance_id=spectar-prd-digitalb&profile_id=1&application_installation_id=1&uuid=backoffice1&subscriber_id=1&application_id=backoffice1&detected_delivery_method=hls&playlist_template=nginx&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783
 #EXTINF:-1 group-title="Albania" tvg-logo="https://albaniandubs.weebly.com/uploads/5/7/8/2/57825701/bubble-tv-albanian-dubs_orig.png",Bubble TV
 http://89.187.191.99:8080/rtv21junior/index.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/%C3%87ufo_logo.png",Cufo
 https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?id=DAL_1_005&video_id=12498&token=142cda7d50870275a9ca7988ff001b32ab30709b&authority_instance_id=spectar-prd-digitalb&profile_id=1&application_installation_id=1&uuid=backoffice1&subscriber_id=1&application_id=backoffice1&detected_delivery_method=hls&playlist_template=nginx&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11
-#EXTINF:-1 group-title="Albania" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-2-digitalb.gif",SuperSport 2
-http://89.187.191.99:8080/ss2hd/index.m3u8
+#EXTINF:-1 group-title="Albania" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-2-digitalb.gif"supersport-2-digitalb.gif0/ss2hd/index.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/vizion-plus-al.png",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/news24-al.png",News 24
