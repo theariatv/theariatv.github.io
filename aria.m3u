@@ -79,49 +79,14 @@ http://41.74.140.96:8000/play/a007/index.m3u8
 http://41.74.140.96:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtc.cv/upload/img/apresentador/logotipo_tcv.png" group-title="Africa",TCV
 http://41.74.140.96:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bang_Bang_logo_2009.png",Bang Bang
-https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?id=DAL_1_004&video_id=16377&token=142cda7d50870275a9ca7988ff001b32ab30709b&authority_instance_id=spectar-prd-digitalb&profile_id=1&application_installation_id=1&uuid=backoffice1&subscriber_id=1&application_id=backoffice1&detected_delivery_method=hls&playlist_template=nginx&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783
-#EXTINF:-1 group-title="Albania" tvg-logo="https://albaniandubs.weebly.com/uploads/5/7/8/2/57825701/bubble-tv-albanian-dubs_orig.png",Bubble TV
-http://89.187.191.99:8080/rtv21junior/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/%C3%87ufo_logo.png",Cufo
-https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?id=DAL_1_005&video_id=12498&token=142cda7d50870275a9ca7988ff001b32ab30709b&authority_instance_id=spectar-prd-digitalb&profile_id=1&application_installation_id=1&uuid=backoffice1&subscriber_id=1&application_id=backoffice1&detected_delivery_method=hls&playlist_template=nginx&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11
-#EXTINF:-1 group-title="Albania" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-2-digitalb.gif"supersport-2-digitalb.gif0/ss2hd/index.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/vizion-plus-al.png",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/news24-al.png",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/tring-super-al.png",Tring Super
-http://89.187.191.99:8080/tringsuper/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/tring-series-al.png",Tring Series
-http://89.187.191.99:8080/jollyhd/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/tring-sport-1-al.png",Tring Sport 1
-http://89.187.191.99:8080/tringsport1/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/tring-sport-2-al.png",Tring Sport 2
-http://89.187.191.99:8080/tringsport2/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/tring-sport-3-al.png",Tring Sport 3
-http://89.187.191.99:8080/tringsport3/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/tring-world-al.png",Tring World
-http://89.187.191.99:8080/tringworld/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/tring-comedy-al.png",Tring Comedy
-http://89.187.191.99:8080/tringcomedy/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/tring-shqip-al.png",Tring Shqip
-http://89.187.191.99:8080/tringshqip/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/tip-tv-al.png",Tip TV
-http://89.187.191.99:8080/tiptv/index.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/a2-cnn-al.png",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/ora-news-al.png",Ora News
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/3-plus-al.png",3 Plus 
-http://89.187.191.99:8080/3plus/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/top-channel-al.png",TOP Channel
-http://89.187.191.99:8080/topchannel/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/top-news-al.png",TOP News
-http://89.187.191.99:8080/topnews/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/tv-klan-al.png",TV Klan
-http://89.187.191.99:8080/klantv/index.m3u8
-#EXTINF:-1 group-title="Albania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/klan-plus-al.png",Klan Plus
-http://89.187.191.99:8080/klanplus/index.m3u8
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",Euronews
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6XTxBguw3sWNrLEPRO_eKRBvdu4FJ4sBx8FPww_e5w&s",TNT Sports Premium 
