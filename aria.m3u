@@ -1494,8 +1494,16 @@ http://170.78.211.115:8000/play/a0la/index.m3u8
 http://170.78.211.115:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest/scale-to-width-down/315?cb=20250307002717",BitMe
 http://181.78.4.250:8098/play/0122/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png" group-title="Mexico",Canal Once
+https://s5.mexside.net:1936/stream/stream/playlist.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg",Canal 5
 http://170.78.211.115:8000/play/a0ll/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_Canal_14_M%C3%A9xico.svg" group-title="Mexico",Canal Catorce
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Mexico",TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="" group-title="Mexico",TV Migrante 
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png/revision/latest?cb=20200422173832" group-title="Mexico",Golden Premier
 http://38.7.195.43:8000/play/a0uz
 #EXTINF:-1 tvg-logo="" group-title="Mexico",Golden Plus
