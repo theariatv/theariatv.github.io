@@ -19,6 +19,8 @@ https://rhine.webchnl.live/memfs/e1a5f114-bbb9-488a-8016-3b763b564ec2.m3u8
 https://rhine.webchnl.live/memfs/47d19130-274d-443f-b757-b6165019fdb1.m3u8
 #EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/ccdb.png",Comedy Central DoneBetter
 https://rhine.webchnl.live/memfs/9d3e259c-f7e2-4b66-bf4c-24738db87597.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-name="deflect" tvg-logo="https://webchnl.live/assets/img/channelicons/deflect.png",deflect
+https://rhine.webchnl.live/memfs/8a788628-af64-4fae-8dac-2fcb9d1c4eae.m3u8
 #EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/dijit.png",DIJIT
 https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8
 #EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/disneydb.png",Disney Channel DoneBetter
@@ -35,6 +37,10 @@ https://rhine.webchnl.live/memfs/533d2680-8556-4139-98cd-b09f6ba89d5b.m3u8
 https://rhine.webchnl.live/memfs/48e4dd44-3c78-4c9e-99c6-058604ab2962.m3u8
 #EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/nickdb.png",Nickelodeon DoneBetter
 https://rhine.webchnl.live/memfs/df872e66-4bfe-4cc8-9b47-7d617ac6ad8b.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-name="Object Central" tvg-logo="https://webchnl.live/assets/img/channelicons/objectcentral.png",Object Central
+https://rhine.webchnl.live/memfs/dfac9472-bf8f-455c-8306-68184073a2f8.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/onr.png",ONR
+https://rhine.webchnl.live/memfs/a1d25eab-0048-4698-b2c0-3c4ced3d2efc.m3u8
 #EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/placid.png",Placid
 https://rhine.webchnl.live/memfs/7d25f0a4-6d46-4091-ba8e-63becd013d6d.m3u8
 #EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/ava.png",Radio AVA
