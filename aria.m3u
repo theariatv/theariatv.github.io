@@ -446,6 +446,8 @@ http://38.250.127.17:9800/play/a09n/index.m3u8
 http://38.250.127.17:9800/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logotipo_de_Mega_%282020-%29.svg" group-title="Chile",MEGA
 http://38.250.127.17:9800/play/a066/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Chile",ETC
+http://181.78.201.70:8000/play/a0tu/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile",CNN Chile
 http://138.36.253.13:8008/play/a00k/index.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png",CCTV-1
@@ -1146,6 +1148,10 @@ https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.
 http://121.143.97.131:9981/stream/channelid/576334703?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png",ORF 2 Europe 
 http://188.174.204.193:9981/stream/channelid/248337322
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Atreseries_2020_alt.svg/revision/latest?cb=20200629153130" group-title="International",Atres Series Internacional 
+http://181.78.201.70:8000/play/a0sp/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Antena3Internacional2025.png/250px-Antena3Internacional2025.png" group-title="International",Antena 3 Internacional 
+http://181.78.201.70:8000/play/a0mv/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="",GO2 Travel
 https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SkyNewsWeatherChannelAU.svg/1200px-SkyNewsWeatherChannelAU.svg.png",Sky News Weather
@@ -1440,6 +1446,10 @@ http://181.78.4.250:8098/play/a08y/index.m3u8
 http://162.207.11.109:9981/stream/channelid/1159717502?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tooncast-br.png" group-title="Latin America",Tooncast
 http://162.207.11.109:9981/stream/channelid/146144282?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg.png" group-title="Latin America",Disney Channel
+http://181.78.201.70:8000/play/a0up/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Latin America",Disney Jr.
+
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png" group-title="Latin America",Kanal D Drama
 http://38.250.127.17:9800/play/a076/index.m3u8
 #EXTINF:-1 group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV1_logolnk.lt.png",TV1
