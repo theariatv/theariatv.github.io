@@ -1553,7 +1553,7 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TVCG_MNE_2024_logo.svg/revision/latest?cb=20240406171908" group-title="Montenegro",TVCG MNE
 https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/playlist.m3u8
 #EXTINF:-1 group-title="North Korea" tvg-logo="https://i.ibb.co/4nbQ0Bt1/Logo-of-the-Korean-Central-Television-svg.png",Korea Central Television (KCTV)
-https://tv.nknews.org/tvdash/stream.mpd
+https://tv.intchoson.com/kctv/main_stream.m3u8
 #EXTINF:-1 group-title="North Macedonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_of_MRT_1_%282012-%29.svg/1200px-Logo_of_MRT_1_%282012-%29.svg.png",MRT 1 (MPT 1)
 http://46.217.182.69:9981/stream/channelid/2136120294?ticket=BFF0B78E6B9B3B41D43207081CB86BDB0FEF740D&profile=pass
 #EXTINF:-1 group-title="North Macedonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_2_%282012-%29.svg/1200px-Logo_of_MRT_2_%282012-%29.svg.png",MRT 2 (MPT 2)
