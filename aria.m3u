@@ -99,6 +99,8 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
 http://38.250.127.17:9800/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png",Telefe
 http://38.7.195.43:8000/play/a0vc
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png",TyC Sports 
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png",GEN TV
@@ -213,6 +215,8 @@ http://94.140.179.76:9981/stream/channelid/797606576?profile=pass
 http://94.140.179.76:9981/stream/channelid/1055186061?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play5-be.png",Play5
 http://94.140.179.76:9981/stream/channelid/1264893039?profile=pass
+#EXTINF:-1 group-title="Belgium" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/RTL-TVI_logo_2023.svg/1200px-RTL-TVI_logo_2023.svg.png",RTL TVI
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 group-title="Belarus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/belsat-pl.png",Belsat
 http://78.56.193.170:9981/stream/channelid/358696833?profile=pass
 #EXTINF:-1 group-title="Bosnia and Herzegovina",BHT 1 HD
