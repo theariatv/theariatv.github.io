@@ -1366,16 +1366,42 @@ http://77.39.161.42:55555/Cartoonito%20HD
 https://fl5.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Television_Jamaica_Logo.png/revision/latest?cb=20211223085709" group-title="Jamaica",TVJ
 https://fl5.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-proxy.wowow.co.jp/uploads/attachment/file/43304/2e678067-e153-4991-a150-58ced8360d63.png?w=800&h=800" group-title="Japan",WOWOW Prime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",NHK BS
+https://43.100.9.67/api/streams/live/bs101/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",WOWOW Prime
 https://43.100.9.67/api/streams/live/bs191/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",WOWOW Prime
+https://43.100.9.67/api/streams/live/bs191/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",WOWOW Live
+https://43.100.9.67/api/streams/live/bs192/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",WOWOW Cinema
+https://43.100.9.67/api/streams/live/bs193/1080p/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",MTV
 https://43.100.9.67/api/streams/live/cs323/1080p/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Dlife
 https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Fuji TV One
+https://43.100.9.67/api/streams/live/cs307/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Fuji TV Two
+https://43.100.9.67/api/streams/live/cs308/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Fuji TV Next
+https://43.100.9.67/api/streams/live/cs309/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",J Sports 1
+https://43.100.9.67/api/streams/live/bs242/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",J Sports 2 
+https://43.100.9.67/api/streams/live/bs243/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",J Sports 3
+https://43.100.9.67/api/streams/live/bs244/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",J Sports 4 
+https://43.100.9.67/api/streams/live/bs245/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Disney Channel
+https://43.100.9.67/api/streams/live/cs307/1080p/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Disney Jr.
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs23
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Fuji TV
-https://mt01.utako.moe/Fuji_TV/index.m3u8
+https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Cartoon Network
+https://43.100.9.67/api/streams/live/cs307/1080p/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Kids Station
+https://43.100.9.67/api/streams/live/cs307/1080p/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png" group-title="Latin America",A&E
 http://181.78.4.250:8098/play/a07f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png" group-title="Latin America",AMC
