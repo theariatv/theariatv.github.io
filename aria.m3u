@@ -1395,13 +1395,13 @@ https://43.100.9.67/api/streams/live/bs244/1080p-60fps/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",J Sports 4 
 https://43.100.9.67/api/streams/live/bs245/1080p-60fps/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Disney Channel
-https://43.100.9.67/api/streams/live/cs307/1080p/mpegts
+https://43.100.9.67/api/streams/live/bs256/1080p/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Disney Jr.
 https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Cartoon Network
-https://43.100.9.67/api/streams/live/cs307/1080p/mpegts
+https://43.100.9.67/api/streams/live/cs331/1080p/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Japan",Kids Station
-https://43.100.9.67/api/streams/live/cs307/1080p/mpegts
+https://43.100.9.67/api/streams/live/cs330/1080p/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png" group-title="Latin America",A&E
 http://181.78.4.250:8098/play/a07f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png" group-title="Latin America",AMC
