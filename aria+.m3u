@@ -1,12 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="Comedy.Central.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Leaving on Aria+",Comedy Central Brazil
 http://79.127.238.195/592109/Aws0824/71847
-#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png",Family Channel
-http://websafety101.net:5050/powreb2000@yahoo.com/TwvfeLjAfb/423763
-#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="Family.Channel.Canada.-.West.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png",Family Channel West
-http://user.scalecdn.co:8080/live/26725074/92867131/647744.ts
-#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="Family.Jr..ca" tvg-logo="https://media.starlite.best/family.jr.ca.png",Family Jr
-http://websafety101.net:5050/powreb2000@yahoo.com/TwvfeLjAfb/418464
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Game_One_2024.jpg" group-title="Leaving on Aria+",Game One
 http://45.90.106.7:9790/play/ZvQm5022U6@E5Q
 #EXTINF:-1 tvg-id="MTV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png" group-title="Leaving on Aria+",MTV Brazil
@@ -41,10 +35,6 @@ http://79.127.238.195/592109/Aws0824/72205
 http://79.127.238.195/592109/Aws0824/72201
 #EXTINF:-1 tvg-id="Paramount.Network.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/paramount-network-us.png" group-title="Leaving on Aria+",Paramount Network Brazil
 http://79.127.238.195/592109/Aws0824/72217
-#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="WildBrain.TV.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/wildbrain-tv-ca.png",WildBrain TV
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112867.ts
-#EXTINF:-1 group-title="Leaving on Aria+" tvg-id="Télémagino.ca" tvg-logo="https://d60d34ithxz8n.cloudfront.net/ca-logos/19aae87681fb7545a7f8b12b094f5eda.png?k=YuF2DwEskK9RDtJWAxeJbpo7YUB7VdYQ4hnktyMqup9hklnV5sxy2V%2F5EGY3kuoD31WBFsj8IoPs%2BhFGP4SORJH9F4TJDNdNjQ53nuuYqHfLDOfzOOUfR1APiazFifTa",Telemagino
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/114196.ts
 #EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/TopGear2018.png/revision/latest?cb=20180604065310" group-title="Aria+ Exclusive",BBC Top Gear 24/7
