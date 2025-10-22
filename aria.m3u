@@ -384,8 +384,6 @@ http://38.143.48.212:9981/stream/channelid/1478849894?profile=pass
 http://38.143.48.212:9981/stream/channelid/1459580512?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="Discovery.Channel.ca" tvg-logo="https://media.starlite.best/discovery.channel.ca.png",Discovery Channel
 http://38.143.48.212:9981/stream/channelid/686709663?profile=pass
-#EXTINF:-1 group-title="Canada" tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png",Family Channel
-http://38.143.48.212:9981/stream/channelid/653225259?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="Flavour.Network.Canada.ca" tvg-logo="https://i.ibb.co/Fb8t9Gh9/Flavour-Network-logo-svg.png",Flavour Network
 http://38.143.48.212:9981/stream/channelid/1724607227?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="Food.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png",Food Network
