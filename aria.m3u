@@ -81,6 +81,8 @@ https://4gtv.ngrok.app/hls/stream.m3u8
 http://41.74.140.96:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Africa" tvg-id=""" tvg-logo="",TVA
 http://41.74.140.96:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tviafrica.png" group-title="Africa",TVI África 
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TIVER_Logo.png/revision/latest?cb=20220515042741" group-title="Africa",Tiver
 http://41.74.140.96:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtc.cv/upload/img/apresentador/logotipo_tcv.png" group-title="Africa",TCV
@@ -740,6 +742,8 @@ http://45.90.106.7:8779/play/BtQgs384K6@TnD5M/index.m3u8
 http://45.90.106.7:9790/play/SkR4180N7@T6B
 #EXTINF:-1 tvg-id="BRM.TV.fr" tvg-logo="https://image.pitchbook.com/dWDSQSDJ8ecWy934fnow6ctIBBg1691505723976_200x200" group-title="France",BFM TV
 http://62.129.183.89:9981/stream/channelid/507071864?ticket=86E99ADF197E91D5805D3A098E1BD452931F0630&profile=pass
+#EXTINF:-1 tvg-logo="https://static.s-sfr.fr/amac/BOL/Photos/image_bfm2.png" tvg-id="BFM2.fr@HD" group-title="France",BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/1200px-Pirveli_Arkhi_Logo_2022.svg.png" group-title="Georgia",Pirveli Arkhi (1TV)
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwMrBPeRCuNpL2M8TlkH0JNW3QOgLOBRjVV0N1kp7Xg&s=10" group-title="Georgia",Pirveli Arkhi Sporti (1TV Sport)
@@ -1772,6 +1776,10 @@ http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
 http://94.61.151.242:9981/stream/channelid/16607114?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.Noticais.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-noticias-pt.png",SIC Noticias
 http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png",TVI Ficção 
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/TVI_Reality_%282017%29.png",TVI Reality 
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="Globo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/globo-pt.png",Globo
 http://94.61.151.242:9981/stream/channelid/1131975227?profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/6/62/Cartoon_Network_South_Korea.png/revision/latest?cb=20191113004608" group-title="South Korea" tvg-logo="",Cartoon Network
