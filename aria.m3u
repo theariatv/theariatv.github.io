@@ -670,15 +670,15 @@ http://84.50.161.79:9981/stream/channelid/647532614?ticket=692741F8E05D31A538487
 http://84.50.161.79:9981/stream/channelid/598248126?ticket=BAC8C3E854BA45EC12151B21EF3A060EB23CEF41&profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c5/KVF_logo_2019.png/revision/latest?cb=20240211201557" group-title="Faroe Islands",KVF 1
 https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w676428681_b804000_slfao.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="Finland",YLE TV1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="Finland",Yle TV1
 http://88.86.133.164:9981/stream/channelid/1310432328?profile=matroska
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535" group-title="Finland",YLE TV2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535" group-title="Finland",Yle TV2
 http://88.86.133.164:9981/stream/channelid/1539655346?profile=matroska
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MTV3_logo_2019.svg/1200px-MTV3_logo_2019.svg.png" group-title="Finland",MTV3
 http://88.86.133.164:9981/stream/channelid/590688323?profile=matroska
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png" group-title="Finland",Nelonen
 http://88.86.133.164:9981/stream/channelid/2000720401?profile=matroska
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1200px-Yle_Teema_%26_Fem.svg.png" group-title="Finland",YLE Teema & Fam
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1200px-Yle_Teema_%26_Fem.svg.png" group-title="Finland",Yle Teema & Fam
 http://88.86.133.164:9981/stream/channelid/1156247623?profile=matroska
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MTV_Sub_Logo_2022.svg/1200px-MTV_Sub_Logo_2022.svg.png" group-title="Finland",MTV Sub
 http://88.86.133.164:9981/stream/channelid/1465356632?profile=matroska
