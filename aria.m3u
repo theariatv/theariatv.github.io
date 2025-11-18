@@ -1,66 +1,58 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-logo="" group-title="This Is Aria",Aria (Promo)
 https://theariatv.github.io/aria2.mp4
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/2x2.png",2x2_English
+#EXTINF:-1 tvg-id="2x2" tvg-name="2x2_english" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/2x2.png" group-title="Aria Web Channels",2x2_english
 https://rhine.webchnl.live/memfs/be88c390-19d4-4362-aaf9-a2eb6a3f758c.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/bamro.png",Bamro
-https://rhine.webchnl.live/memfs/242e59c8-1c7e-4c08-a9a8-e41b17f1ae17.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/boomreborn.png",Boomerang Reborn
+#EXTINF:-1 tvg-id="boomreborn" tvg-name="Boomerang Reborn" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/boomreborn.png" group-title="Aria Web Channels",Boomerang Reborn
 https://rhine.webchnl.live/memfs/0a6adc63-1ea7-49f1-9de1-1a81ad597e72.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/cnextras.png",Cartoon Network Extras
+#EXTINF:-1 tvg-id="cnextras" tvg-name="Cartoon Network Extras" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/cnextras.png" group-title="Aria Web Channels",Cartoon Network Extras
 https://rhine.webchnl.live/memfs/53fec556-2421-48ac-9b8a-203f48ae1ca1.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/cnmulti.png",Cartoon Network Multi
+#EXTINF:-1 tvg-id="cnmulti" tvg-name="Cartoon Network Multi" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/cnmulti.png" group-title="Aria Web Channels",Cartoon Network Multi
 https://rhine.webchnl.live/memfs/55263779-40ab-45c9-ac64-636ff0963419.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/toonmx.png",Cartoon Network Omega
+#EXTINF:-1 tvg-id="mrsat" tvg-name="MRSAT" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/mrsat.png" group-title="Aria Web Channels",MRSAT
 https://rhine.webchnl.live/memfs/9eb075a9-0682-41ce-846d-8cc714a8f4fc.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/testing.png",chnl.testing
+#EXTINF:-1 tvg-id="testing" tvg-name="chnl.testing" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/testing.png" group-title="Aria Web Channels",chnl.testing
 https://rhine.webchnl.live/memfs/e1a5f114-bbb9-488a-8016-3b763b564ec2.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/crossrift.png",CrossRift
+#EXTINF:-1 tvg-id="crossrift" tvg-name="CrossRift" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/crossrift.png" group-title="Aria Web Channels",CrossRift
 https://rhine.webchnl.live/memfs/47d19130-274d-443f-b757-b6165019fdb1.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/ccdb.png",Comedy Central DoneBetter
-https://rhine.webchnl.live/memfs/9d3e259c-f7e2-4b66-bf4c-24738db87597.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-name="deflect" tvg-logo="https://webchnl.live/assets/img/channelicons/deflect.png",deflect
+#EXTINF:-1 tvg-id="deflect" tvg-name="Deflect" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/deflect.png" group-title="Aria Web Channels",Deflect
 https://rhine.webchnl.live/memfs/8a788628-af64-4fae-8dac-2fcb9d1c4eae.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/dijit.png",DIJIT
+#EXTINF:-1 tvg-id="dijit" tvg-name="DIJIT / Joy.Rebel" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/dijit.png" group-title="Aria Web Channels",DIJIT / Joy.Rebel
 https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/disneydb.png",Disney Channel DoneBetter
-https://rhine.webchnl.live/memfs/b8883ef3-28f0-4ff4-bfd9-b863e4317cc4.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/donebetter.png",DoneBetter
+#EXTINF:-1 tvg-id="donebetter" tvg-name="DoneBetter" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/donebetter.png" group-title="Aria Web Channels",DoneBetter
 https://rhine.webchnl.live/memfs/a0277a2e-9e76-4060-9e07-5d6495e60a66.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/eel_ch.png",Eel Channel
+#EXTINF:-1 tvg-id="eel_ch" tvg-name="Eel Channel" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/eel_ch.png" group-title="Aria Web Channels",Eel Channel
 https://rhine.webchnl.live/memfs/ee44b078-5b16-4484-b054-76079dc2d45c.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/flashbak.png",flashBAK
+#EXTINF:-1 tvg-id="flashbak" tvg-name="flashBAK" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/flashbak.png" group-title="Aria Web Channels",flashBAK
 https://rhine.webchnl.live/memfs/d839aad2-f86a-49d9-bef3-e7c4c2b8e9f0.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/jnime.png",JNIME
-https://rhine.webchnl.live/memfs/533d2680-8556-4139-98cd-b09f6ba89d5b.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/nickgas.png",Nick GaS
+#EXTINF:-1 tvg-id="nickgas" tvg-name="Nick GaS" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/nickgas.png" group-title="Aria Web Channels",Nick GaS
 https://rhine.webchnl.live/memfs/48e4dd44-3c78-4c9e-99c6-058604ab2962.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/nickdb.png",Nickelodeon DoneBetter
+#EXTINF:-1 tvg-id="cartoondb" tvg-name="Cartoon Network DoneBetter" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/cartoondb.png" group-title="Aria Web Channels",Cartoon Network DoneBetter
 https://rhine.webchnl.live/memfs/df872e66-4bfe-4cc8-9b47-7d617ac6ad8b.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-name="Object Central" tvg-logo="https://webchnl.live/assets/img/channelicons/objectcentral.png",Object Central
+#EXTINF:-1 tvg-id="objectcentral" tvg-name="Object Central | HD" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/objectcentral.png" group-title="Aria Web Channels",Object Central | HD
 https://rhine.webchnl.live/memfs/dfac9472-bf8f-455c-8306-68184073a2f8.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/onr.png",ONR
+#EXTINF:-1 tvg-id="onr" tvg-name="ONR" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/onr.png" group-title="Aria Web Channels",ONR
 https://rhine.webchnl.live/memfs/a1d25eab-0048-4698-b2c0-3c4ced3d2efc.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/placid.png",Placid
+#EXTINF:-1 tvg-id="placid" tvg-name="Placid" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/placid.png" group-title="Aria Web Channels",Placid
 https://rhine.webchnl.live/memfs/7d25f0a4-6d46-4091-ba8e-63becd013d6d.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/ava.png",Radio AVA
-https://ir.bnkd.xyz/memfs/9f242947-8d94-4fa5-bfba-860d9b4a1764.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/s2.png",S2
-https://rhine.webchnl.live/memfs/a1d25eab-0048-4698-b2c0-3c4ced3d2efc.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/soul.png",Soul
-https://ir.bnkd.xyz/memfs/11cbbd1a-dab8-4c5e-86c0-dcc004f79a8d.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/spark.png",spark
+#EXTINF:-1 tvg-id="quant" tvg-name="quant" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/quant.png" group-title="Aria Web Channels",quant
 https://rhine.webchnl.live/memfs/52b4200e-6ea9-4119-be31-0e73fa9c7d64.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/vertex.png",Vertex
-https://rhine.webchnl.live/memfs/b99dbea4-c17c-45a2-922e-9a25fc5a45e3.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/whiplash.png",Whiplash
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/whiplash.png" group-title="Aria Web Channels",Whiplash
 https://rhine.webchnl.live/memfs/ac0f016c-e39c-4fa5-885d-b90aec65b076.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/whiplash2.png",Whiplash II
+#EXTINF:-1 tvg-id="whiplash2" tvg-name="Whiplash II" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/whiplash2.png" group-title="Aria Web Channels",Whiplash II
 https://rhine.webchnl.live/memfs/86695e51-c500-4939-b3e8-73a2db21741d.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/whiplashcinema.png",Whiplash Cinema
+#EXTINF:-1 tvg-id="whiplashcinema" tvg-name="Whiplash Cinema" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/whiplashcinema.png" group-title="Aria Web Channels",Whiplash Cinema
 https://rhine.webchnl.live/memfs/3727506f-9e14-4f8e-af12-cdc8c597640c.m3u8
-#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://webchnl.live/assets/img/channelicons/yoyo.png",Yoyo
+#EXTINF:-1 tvg-id="yoyo" tvg-name="Yoyo" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/yoyo.png" group-title="Aria Web Channels",Yoyo
 https://rhine.webchnl.live/memfs/242e59c8-1c7e-4c08-a9a8-e41b17f1ae17.m3u8
+#EXTINF:-1 tvg-id="windowtv" tvg-name="Window TV" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/windowtv.png" group-title="Aria Web Channels",Window TV
+https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8
+#EXTINF:-1 tvg-id="zenith" tvg-name="░ zén!th ░" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/zenith.png" group-title="Aria Web Channels",░ zén!th ░
+https://rhine.webchnl.live/memfs/cb13ac41-a487-45a3-a9d2-cd98906819dd.m3u8
+#EXTINF:-1 tvg-id="toonbox" tvg-name="Toonbox" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/toonbox.png" group-title="Aria Web Channels",Toonbox
+https://rhine.webchnl.live/memfs/f4a9ef8b-521a-432e-87bf-c2bcebe9405a.m3u8
+#EXTINF:-1 tvg-id="wrongturn" tvg-name="wrongturn" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/wrongturn.png" group-title="Aria Web Channels",wrongturn
+https://rhine.webchnl.live/memfs/fa47748d-5612-444c-9051-b6a4c4aea99e.m3u8
 #EXTINF:-1 tvg-id="csn.uk" tvg-name="CSN" tvg-logo="https://static.wikia.nocookie.net/csn/images/e/eb/CSNLogo5.png" group-title="Aria Web Channels",CSN
 http://plyr.streamlinecsn.online/memfs/eda3c430-a21e-4ea7-87d6-68db49abbeaf.m3u8
 #EXTINF:-1 vg-id="csnx.uk" tvg-name="CSNX" tvg-logo="https://static.wikia.nocookie.net/csn/images/c/c7/CSNX.png" group-title="Aria Web Channels",CSNX
@@ -77,6 +69,8 @@ http://plyr.streamlinecsn.online/memfs/a7f9acc7-9d77-4427-aea5-e199eb4ea0cd.m3u8
 http://plyr.streamlinecsn.online/memfs/7094d23d-3702-4c2f-bc06-de25aac1d065.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aria Web Channels",4GTV
 https://4gtv.ngrok.app/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aria Web Channels",Cartoon Network España
+http://cnespana.duckdns.org:8080/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://recordcaboverde.com/wp-content/uploads/2024/09/LOGO-VETORIZADO-BRANCO-HORIZONTAL-ok-1024x398.png" group-title="Africa",Record Cabo Verde
 http://41.74.140.96:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Africa" tvg-id=""" tvg-logo="",TVA
