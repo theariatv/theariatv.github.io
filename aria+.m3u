@@ -9,30 +9,6 @@ http://45.90.106.7:9790/play/ZvQm5022U6@E5Q
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=506578&extension=ts
 #EXTINF:-1 tvg-id="MTV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png" group-title="Leaving on Aria+",MTV Brazil
 http://79.127.238.195/592109/Aws0824/72171
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-club-uk.png" group-title="Leaving on Aria+",Club MTV 
-http://pl.online24.pm/play/46/75BA4FC1CA5013E/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-club-uk.png" group-title="Leaving on Aria+",Club MTV UK
-http://pl.online24.pm/play/46/75BA4FC1CA5013E/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-hits-uk.png" group-title="Leaving on Aria+",MTV Hits
-http://pl.online24.pm/play/238/75BA4FC1CA5013E/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-hits-uk.png" group-title="Leaving on Aria+",MTV Hits France
-http://45.90.106.7:9790/play/QmU5097K3@B4X
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/hd/mtv-live-hd-uk.png" group-title="Leaving on Aria+",MTV Live HD
-http://pl.online24.pm/play/144/75BA4FC1CA5013E/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-music-uk.png" group-title="Leaving on Aria+",MTV Music UK
-http://technologycloud.eu/premium/premium1/163792
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-music-uk.png" group-title="Leaving on Aria+",MTV Music Italy
-http://line.ultrab.xyz/live/ZeeALI1/465841/101112.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-80s-uk.png" group-title="Leaving on Aria+",MTV 80s
-http://pl.online24.pm/play/516/75BA4FC1CA5013E/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-80s-uk.png" group-title="Leaving on Aria+",MTV 80s UK
-http://pl.online24.pm/play/516/75BA4FC1CA5013E/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-90s-uk.png" group-title="Leaving on Aria+",MTV 90s
-http://pl.online24.pm/play/239/75BA4FC1CA5013E/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-90s-uk.png" group-title="Leaving on Aria+",MTV 90s UK
-http://23.227.140.75:5050/powreb2000@yahoo.com/TwvfeLjAfb/508012
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-00s-uk.png" group-title="Leaving on Aria+",MTV 00s
-http://pl.online24.pm/play/278/75BA4FC1CA5013E/video.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="Leaving on Aria+",Nickelodeon Brazil
 http://79.127.238.195/592109/Aws0824/72205
 #EXTINF:-1 tvg-id="Nick.Jr.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Leaving on Aria+",Nick Jr Brazil
