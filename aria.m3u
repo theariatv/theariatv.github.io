@@ -1891,10 +1891,10 @@ http://213.97.163.175:4022/udp/239.10.20.100:1234
 http://213.97.163.175:4022/udp/239.10.20.101:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/esport3-es.png" group-title="Spain",Esport3
 http://213.97.163.175:4022/udp/239.10.20.103:1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/paramount-network-es.png" group-title="Spain",Paramount Network 
-http://213.97.163.175:4022/udp/239.10.20.52:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Squirrel_TV_logo.svg/1920px-Squirrel_TV_logo.svg.png" group-title="Spain",Squirrel
 http://176.65.146.237:8401/play/a09h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/paramount-network-es.png" group-title="Spain",Sqirrel Dos
+http://213.97.163.175:4022/udp/239.10.20.52:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clan-es.png" group-title="Spain",Clan
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png" group-title="Spain",Boing
