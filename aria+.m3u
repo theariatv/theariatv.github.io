@@ -1,20 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-series-fr.png" group-title="Leaving on Aria+",Canal+ Séries
-http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8
-#EXTINF:-1 tvg-id="Comedy.Central.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Leaving on Aria+",Comedy Central Brazil
-http://79.127.238.195/592109/Aws0824/71847
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Game_One_2024.jpg" group-title="Leaving on Aria+",Game One
-http://45.90.106.7:9790/play/ZvQm5022U6@E5Q
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/J-One.png" group-title="Leaving on Aria+",J-One
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=506578&extension=ts
-#EXTINF:-1 tvg-id="MTV.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png" group-title="Leaving on Aria+",MTV Brazil
-http://79.127.238.195/592109/Aws0824/72171
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="Leaving on Aria+",Nickelodeon Brazil
-http://79.127.238.195/592109/Aws0824/72205
-#EXTINF:-1 tvg-id="Nick.Jr.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Leaving on Aria+",Nick Jr Brazil
-http://79.127.238.195/592109/Aws0824/72201
-#EXTINF:-1 tvg-id="Paramount.Network.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/paramount-network-us.png" group-title="Leaving on Aria+",Paramount Network Brazil
-http://79.127.238.195/592109/Aws0824/72217
 #EXTINF:-1 group-title="Aria+ Exclusive" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/TopGear2018.png/revision/latest?cb=20180604065310" group-title="Aria+ Exclusive",BBC Top Gear 24/7
