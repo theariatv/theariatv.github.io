@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-logo="" group-title="This Is Aria",Aria (Promo)
 https://theariatv.github.io/aria2.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="Andorra",RTVA
+https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
 #EXTINF:-1 tvg-id="2x2" tvg-name="2x2_english" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/2x2.png" group-title="Aria Web Channels",2x2_english
 https://rhine.webchnl.live/memfs/be88c390-19d4-4362-aaf9-a2eb6a3f758c.m3u8
 #EXTINF:-1 tvg-id="boomreborn" tvg-name="Boomerang Reborn" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/boomreborn.png" group-title="Aria Web Channels",Boomerang Reborn
@@ -53,6 +55,8 @@ https://rhine.webchnl.live/memfs/242e59c8-1c7e-4c08-a9a8-e41b17f1ae17.m3u8
 https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8
 #EXTINF:-1 tvg-id="zenith" tvg-name="░ zén!th ░" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/zenith.png" group-title="Aria Web Channels",░ zén!th ░
 https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn271.picsart.com/2a5ca8bb-c621-4c2f-8731-960d6794f83f/511979701017201.png?to=crop&type=webp&r=540x540&q=85" group-title="Aria Web Channels",Valuto Cinema 4K
+http://199.245.173.253:5004/auto/v3.12
 #EXTINF:-1 tvg-id="toonbox" tvg-name="Toonbox" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/toonbox.png" group-title="Aria Web Channels",Toonbox
 https://rhine.webchnl.live/memfs/f4a9ef8b-521a-432e-87bf-c2bcebe9405a.m3u8
 #EXTINF:-1 tvg-id="wrongturn" tvg-name="wrongturn" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/wrongturn.png" group-title="Aria Web Channels",wrongturn
@@ -473,6 +477,8 @@ http://38.7.195.43:8000/play/a02o
 http://181.78.201.70:8000/play/a0tu/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile",CNN Chile
 http://138.36.253.13:8008/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Vive_VTR.jpg/revision/latest?cb=20190412011653&path-prefix=es" group-title="Chile",Canal Vive
+https://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png",CCTV-1
 http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 #EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png",CCTV-2
@@ -544,11 +550,19 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/1200px-Logo_RIK_1_2017.svg.png",RIK 1
-http://31.121.110.30:4000/play/a023/index.m3u8
+http://213.7.216.229:8888/udp/239.23.0.1:1234
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/2560px-Logo_RIK_2_2017.svg.png",RIK 2
-http://31.121.110.30:4000/play/a024/index.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.diasmedia.com/sites/default/files/styles/scale-logo-inner/public/410x180_sigma_c.png?itok=EO24OIzT",Sigma
-http://31.121.110.30:4000/play/a025/index.m3u8
+http://213.7.216.229:8888/udp/239.23.0.2:1234
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9f/RIK_HD_%282023-.n.v.%29.png/revision/latest?cb=20250117013511",RIK HD
+http://213.7.216.229:8888/udp/239.23.0.5:1234
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0KxuK-jH1Bv6kxXCx8lajLuCS8k9S0b6Ag&s",ANT1
+http://213.7.216.229:8888/udp/239.23.6.1:1234
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Omega_Transparent.png",Omega
+http://213.7.216.229:8888/udp/239.23.6.2:1234
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.diasmedia.com/sites/default/files/styles/scale-logo-inner/public/410x180_sigma_c.png?itok=EO24OIzT",TV Sigma
+http://213.7.216.229:8888/udp/239.23.6.3:1234
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://yt3.googleusercontent.com/eLkJ8Kw29bL6OiZlFPEWYRukNrhEDJL0oTi5t1Lg76Jj2N5S_nyC6mb1T1KjZLth-heWaChFDA=s900-c-k-c0x00ffffff-no-rj",Vergina TV
+http://213.7.216.229:8888/udp/239.23.5.1:1234
 #EXTINF:-1 group-title="Czechia" tvg-id="Disney.Channel.cz",Disney Channel
 https://webstream.odjezdy.online/CZ/Disney/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1200px-%C4%8CT1_logo_2012.svg.png" group-title="Czechia" tvg-id="ČT1.cz",ČT 1
@@ -1101,7 +1115,7 @@ https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Colors Infinity
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
 #EXTINF:-1 group-title="India",Discovery Kids
-http://103.182.170.32:8888/play/a02o
+https://mac.zenplay.top/linear-live.php?id=1116&amp;vtoken=&amp;e=.m3u8
 #EXTINF:-1 group-title="India",Disney Channel
 http://103.182.170.32:8888/play/a04g
 #EXTINF:-1 group-title="India",Disney International HD
@@ -1270,10 +1284,14 @@ http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2346/index.m3u8
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2345/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hop-il.png" group-title="Israel" tvg-rec="3",Hop!
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12244/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/nickelodeon-il.png" group-title="Israel" tvg-rec="3",Nickelodeon
+http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-nickelodeon-il/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Israel" tvg-rec="3",Nick Jr.
-http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2337/index.m3u8
+http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Israel" tvg-rec="3",TeenNick 
-http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2334/index.m3u8
+http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/disney-channel-il.png" group-title="Israel" tvg-rec="3",Disney Channel
+http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/junior-il.png" group-title="Israel" tvg-rec="3",Junior
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2366/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/baby-channel-il.png" group-title="Israel" tvg-rec="3",Baby TV
