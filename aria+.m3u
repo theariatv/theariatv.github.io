@@ -524,14 +524,52 @@ http://45.90.106.7:9790/play/EvS759O6@U5J
 http://45.90.106.7:9790/play/TbZ4097U5@F5L
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/syfy-uk.png" group-title="France",SYFY
 http://45.90.106.7:9790/play/BsXA5294N2@R1E
-#EXTINF:-1 tvg-id="sportdigital.de"tvg-logo="https://i.imgur.com/8KiZkJF.png" group-title="Germany",Sportdigital Fussball
-https://a1xs.vip/120001
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://i.imgur.com/EhInbSW.png" group-title="Germany", Sky Sport Bundesliga
-https://a1xs.vip/120002
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://i.imgur.com/0iFbfLa.png" group-title="Germany", Sky Sport Top Event
-https://a1xs.vip/120003
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-logo="https://i.imgur.com/9QfVskT.png" group-title="Germany", Sky Sport Premier League
-https://a1xs.vip/120004
+#EXTINF:-1 tvg-id="SkyOne(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-one-de.png" group-title="Sky Germany",Sky One
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411520&extension=ts&play_token=x3lEEwVINs
+#EXTINF:-1 tvg-id="SkyShowcase(src05).de" tvg-name="Sky Showcase HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-showcase-de.png" group-title="Germany",Sky Showcase
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236429&extension=ts&play_token=cBUTe3wUcu
+#EXTINF:-1 tvg-id="SkyAtlantic(src05).de" tvg-name="Sky Atlantic HD DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-atlantic-de.png" group-title="Germany",Sky Atlanti
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411510&extension=ts&play_token=8o77P8f9A2
+#EXTINF:-1 tvg-id="SkyKrimi(src05).de" tvg-name="Sky Krimi HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-krimi-de.png" group-title="Germany",Sky Krimi
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411492&extension=ts&play_token=57I7wmNRv8
+#EXTINF:-1 tvg-id="SkySciFi(German).de" tvg-name="Sky Sci-Fi HD DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sci-fi-de.png" group-title="Germany",Sky Sci-Fi
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411488&extension=ts&play_token=rz3si9A6Wi
+#EXTINF:-1 tvg-id="SkyCrime(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-crime-de.png" group-title="Germany",Sky Crime
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=533813&extension=ts&play_token=1S9uQBJFIK
+#EXTINF:-1 tvg-id="SkyDocumentaries(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-documentaries-it.png" group-title="Germany",Sky Documentaries
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=718585&extension=ts&play_token=SVTT9aMalW
+#EXTINF:-1 tvg-id="SkyNature(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-nature-it.png" group-title="Germany",Sky Nature
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=718584&extension=ts&play_token=7cTeqb5e7S
+#EXTINF:-1 tvg-id="SkyCinemaPremiere(src05).de" tvg-name="Sky Cinema Premiere HD DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-premiere-de.png" group-title="Germany",Sky Cinema Premiere
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236499&extension=ts&play_token=8XUzoJgW7V
+#EXTINF:-1 tvg-id="SkyCinemaHighlights(src05).de" tvg-name="Sky Cinema Highlights HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-highlights-de.png" group-title="Germany",Sky Cinema Highlight
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236555&extension=ts&play_token=MxATXyE248
+#EXTINF:-1 tvg-id="SkyCinemaAction(src05).de" tvg-name="Sky Cinema Action HD DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-action-de.png" group-title="Germany",Sky Cinema Action
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236569&extension=ts&play_token=DfYcGf9yA8
+#EXTINF:-1 tvg-id="SkyCinemaFamily(src05).de" tvg-name="Sky Cinema Family HD DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-family-de.png" group-title="Germany",Sky Cinema Family
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236527&extension=ts&play_token=Yoy5cn9oJf
+#EXTINF:-1 tvg-id="SkyCinemaClassics(src05).de" tvg-name="Sky Cinema Classics HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-classics-de.png" group-title="Germany",Sky Cinema Classics
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236541&extension=ts&play_token=6kbItRuSOf
+#EXTINF:-1 tvg-id="SkySportNews(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-news-de.png" group-title="Germany",Sky Sport News
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235955&extension=ts
+#EXTINF:-1 tvg-id="SkySportTopEvent(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="Sky Sport (Germany)",Sky Sport Top Event
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235941&extension=ts
+#EXTINF:-1 tvg-id="SkySportPremierLeague(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" group-title="Germany",Sky Sport Premier League
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235927&extension=ts
+#EXTINF:-1 tvg-id="SkySportBundesliga(src05).de"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png" group-title="Germany",Sky Sport Bundesliga
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=971682&extension=ts
+#EXTINF:-1 tvg-id="SkySportMix(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-de.png" group-title="Germany",Sky Sport Mix
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235913&extension=ts
+#EXTINF:-1 tvg-id="SkySportF1(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-f1-de.png" group-title="Germany",Sky Sport F1
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235899&extension=ts
+#EXTINF:-1 tvg-id="SkySportGolf(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-golf-de.png" group-title="Germany",Sky Sport Golf
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235885&extension=ts
+#EXTINF:-1 tvg-id="SkySportTennis(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-tennis-de.png" group-title="Germany",Sky Sport Tennis
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235871&extension=ts
+#EXTINF:-1 tvg-id="sportdigitalFussball(src05).de" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png" group-title="Germany",sportdigital Fussball
+http://line.liondnscloud.ru:80/play/live.php?mac=00:1A:79:AE:4F:6E&stream=699725&extension=ts&play_token=HrxV7ZifSm
+#EXTINF:-1 tvg-id="SportDigital1plus(src05).de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sportdigital1%2B_Alternative_Logo_2025.svg/500px-Sportdigital1%2B_Alternative_Logo_2025.svg.png" group-title="Germany",sportdigital 1+
+http://line.liondnscloud.ru:80/play/live.php?mac=00:1A:79:AE:4F:6E&stream=699726&extension=ts&play_token=P77Cwqm0Xr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Sj%C3%B3nvarpi%C3%B0.svg/250px-Sj%C3%B3nvarpi%C3%B0.svg.png" group-title="Iceland",RÚV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 #EXTINF:-1 tvg-logo="https://www.ruv.is/spilari/RUV2_192.png" group-title="Iceland",RÚV 2
@@ -724,37 +762,19 @@ https://a1xs.vip/210007
 https://a1xs.vip/210005
 #EXTINF:-1 tvg-id="Cartoon.Net.HD.uk" tvg-logo="https://pixvid.org/images/2025/02/27/cartoon-network.png" group-title="United Kingdom",Cartoon Network 
 https://a1xs.vip/1000050
-#EXTINF:-1 tvg-id="NickelodeonHD.uk" tvg-logo="https://pixvid.org/images/2025/02/27/Nickelodeon.png" group-title="United Kingdom",Nickelodeon
-https://a1xs.vip/1000051
-#EXTINF:-1 tvg-id="Nick.Jr..HD.uk" tvg-logo="https://pixvid.org/images/2025/02/27/Nick_Jr.png" group-title="United Kingdom",Nick Jr. 
-https://a1xs.vip/1000052
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://i.imgur.com/X3eFHe6.png" group-title="United Kingdom",Nicktoons 
-https://a1xs.vip/100054
-EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png",CBS (WCBS)
-http://108.14.66.42:5004/auto/v2.1
-EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png",CBS West (KCBS)
-http://kstv.us:8080/live/Purn3542/38791114838/48785.ts
-#EXTINF:-1 group-title="United States" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png",NBC (WNBC)
-http://108.14.66.42:5004/auto/v4.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png",NBC West (KNBC)
-http://kstv.us:8080/live/Purn3542/38791114838/48790.ts
-#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC (WABC)
-http://108.14.66.42:5004/auto/v7.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC West (KABC)
-http://kstv.us:8080/live/Purn3542/38791114838/48784.ts
-#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png",FOX (WNYW)
-http://108.14.66.42:5004/auto/v5.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png",FOX West (KTTV)
-http://kstv.us:8080/live/Purn3542/38791114838/48788.ts
-#EXTINF:-1 group-title="United States" tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75",The CW (WPIX)
-http://108.14.66.42:5004/auto/v11.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75",The CW West (KTLA)
-http://kstv.us:8080/live/Purn3542/38791114838/48787.ts
-#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png",MyNetworkTV (WWOR)
-http://108.14.66.42:5004/auto/v9.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png",MyNetworkTV West (KCOP)
-http://kstv.us:8080/live/Purn3542/38791114838/48789.ts
-#EXTINF:-1 group-title="United States" tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp",Univision 
-http://108.14.66.42:5004/auto/v41.1
-#EXTINF:-1 group-title="United States" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png",Telemundo 
-http://108.14.66.42:5004/auto/v47.1
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoon-network-uk.png" group-title="United Kingdom",Cartoon Network HD UK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162233&extension=ts
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png" group-title="United Kingdom",Boomerang
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=717690&extension=ts
+#EXTINF:-1 tvg-id="Cartoonito.uk tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="United Kingdom",Cartoonito
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162238&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nickelodeon-uk.png" group-title="United Kingdom",Nickelodeon
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162232&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon.+1.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nickelodeon-plus-uk.png" group-title="United Kingdom",Nickelodeon +1 UK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162236&extension=ts
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png" group-title="United Kingdom",Nicktoons/NickAlvinnn/NickSpongeBob
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162241&extension=ts
+#EXTINF:-1 tvg-id="NickJr.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-jr-uk.png" group-title="United Kingdom",Nick Jr. 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162242&extension=ts
+#EXTINF:-1 tvg-id="625DisneyJr(src01).uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/disney-jr-uk.png" group-title="United Kingdom",Disney Jr.
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=1739582&extension=ts
