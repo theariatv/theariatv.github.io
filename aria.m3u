@@ -359,6 +359,8 @@ https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD172530908281
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="APTN.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/aptn-ca.png",APTN
 http://38.143.48.212:9981/stream/channelid/818444930?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-id="Boomerang.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png",Boomerang
+http://hottest.vip/play/live.php?mac=00:1A:79:AB:9B:51&stream=177332&extension=ts&play_token=odsx4gln4q
 #EXTINF:-1 group-title="Canada" tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png",Bravo
 http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
@@ -455,6 +457,8 @@ http://38.143.48.212:9981/stream/channelid/984041359?profile=pass
 http://38.143.48.212:9981/stream/channelid/1265777165?profile=pass
 #EXTINF:-1 group-title="Canada",Weather Network
 http://38.143.48.212:9981/stream/channelid/524858336?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-id="YTV.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png",YTV
+http://38.22.17.91:14584/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1200px-La_Red_Logotipo_2021.svg.png" group-title="Chile",La Red
 http://38.250.127.17:9800/play/a09n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="Chile",Chilevision
@@ -692,25 +696,35 @@ http://84.50.161.79:9981/stream/channelid/598248126?ticket=BAC8C3E854BA45EC12151
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c5/KVF_logo_2019.png/revision/latest?cb=20240211201557" group-title="Faroe Islands",KVF 1
 https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w676428681_b804000_slfao.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="Finland",Yle TV1
-http://88.86.133.164:9981/stream/channelid/1310432328?profile=matroska
+http:\\80.221.31.29:9981\stream\channelid\1080839017?profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535" group-title="Finland",Yle TV2
-http://88.86.133.164:9981/stream/channelid/1539655346?profile=matroska
+http:\\80.221.31.29:9981\stream\channelid\456220597?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MTV3_logo_2019.svg/1200px-MTV3_logo_2019.svg.png" group-title="Finland",MTV3
-http://88.86.133.164:9981/stream/channelid/590688323?profile=matroska
+http:\\80.221.31.29:9981\stream\channelid\1605478521?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png" group-title="Finland",Nelonen
-http://88.86.133.164:9981/stream/channelid/2000720401?profile=matroska
+http://80.221.31.29:9981/stream/channelid/669565459?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1200px-Yle_Teema_%26_Fem.svg.png" group-title="Finland",Yle Teema & Fam
-http://88.86.133.164:9981/stream/channelid/1156247623?profile=matroska
+http:\\80.221.31.29:9981\stream\channelid\49694262?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MTV_Sub_Logo_2022.svg/1200px-MTV_Sub_Logo_2022.svg.png" group-title="Finland",MTV Sub
-http://88.86.133.164:9981/stream/channelid/1465356632?profile=matroska
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Kanal_5_%26_TV5_Logo_2024.svg" group-title="Finland",TV5
-http://88.86.133.164:9981/stream/channelid/819147108?profile=matroska
+http:\\80.221.31.29:9981\stream\channelid\141762177?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MTV_Ava_Logo_2022.svg/960px-MTV_Ava_Logo_2022.svg.png" group-title="Finland",MTV Ava
+http:\\80.221.31.29:9981\stream\channelid\141762177?profile=pass
+ss#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Kanal_5_%26_TV5_Logo_2024.svg" group-title="Finland",TV5
+http://80.221.31.29:9981/stream/channelid/1571059657?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/6%27eren_%26_Kutonen_Logo_2024.svg/1200px-6%27eren_%26_Kutonen_Logo_2024.svg.png" group-title="Finland",Kutonen
-http://88.86.133.164:9981/stream/channelid/866295582?profile=matroska
+http://80.221.31.29:9981/stream/channelid/290949840?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Frii_Logo_2024.svg/960px-Frii_Logo_2024.svg.png" group-title="Finland",Frii
+http://80.221.31.29:9981/stream/channelid/297655209?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hero_color_RGB.png/1280px-Hero_color_RGB.png" group-title="Finland",Hero
+http://80.221.31.29:9981/stream/channelid/905280041?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jim_color_RGB.png/960px-Jim_color_RGB.png" group-title="Finland",Jim
+http://80.221.31.29:9981/stream/channelid/363747951?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Liv_color_RGB.png" group-title="Finland",Liv
+http://80.221.31.29:9981/stream/channelid/2146693547?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tlc-uk.png" group-title="Finland",,TLC
-http://88.86.133.164:9981/stream/channelid/515715009?profile=matroska
+http://80.221.31.29:9981/stream/channelid/22525729?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/finland/star-channel-fi.png" group-title="Finland",,Star Channel
-http://88.86.133.164:9981/stream/channelid/1454785063?profile=matroska
+http://80.221.31.29:9981/stream/channelid/758592575?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png" group-title="Finland",National Geographic
 http://88.86.133.164:9981/stream/channelid/231553848?profile=matroska
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/MTV_Uutiset_2022_II.svg/revision/latest?cb=20230401223036" group-title="Finland",MTV Uutiset
@@ -1070,22 +1084,22 @@ https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Iran" tvg-logo="",Caltex Music
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One
-http://84.203.21.1:9981/stream/channelid/130762250?profile=pass
+http://84.203.20.23:9981/stream/channelid/130762250?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest?cb=20220529161203" group-title="Ireland",RTÉ2
-http://185.99.136.50:9981/stream/channelid/190697840?profile=pass
+http://84.203.20.23:9981/stream/channelid/966397051?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Virgin_Media_One_logo_2018.svg.png" group-title="Ireland",Virgin Media One
-http://84.203.21.1:9981/stream/channelid/1145924194?profile=pass
+http://84.203.20.23:9981/stream/channelid/1145924194?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png" group-title="Ireland",TG4
-http://84.203.21.1:9981/stream/channelid/1042352985?profile=pass
+https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Virgin_Media_Two_logo_2018.svg/250px-Virgin_Media_Two_logo_2018.svg.png" group-title="Ireland",Virgin Media Two
-http://84.203.21.1:9981/stream/channelid/957092576?profile=pass
+http://84.203.20.23:9981/stream/channelid/957092576?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.virginmediatelevision.ie/graphics/2018/tv-guide-three-logo.png" group-title="Ireland",Virgin Media Three
-http://84.203.21.1:9981/stream/channelid/1835889741?profile=pass
+http://84.203.20.23:9981/stream/channelid/1835889741?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Virgin_Media_Four.svg/revision/latest?cb=20240825184606" group-title="Ireland",Virgin Media Four
-http://84.203.21.1:9981/stream/channelid/881832135?profile=pass
+http://84.203.20.23:9981/stream/channelid/881832135?profile=pass
 #EXTINF:-1 group-title="Ireland",Tithe an Oireachtais
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg/revision/latest?cb=20210310103914" group-title="Ireland",RTÉ One +1
-http://84.203.21.1:9981/stream/channelid/1674916096?profile=pass
+http://84.203.20.23:9981/stream/channelid/1674916096?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest?cb=20220529161203" group-title="Ireland",RTÉ2 +1
 http://84.203.21.1:9981/stream/channelid/1801849984?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png" group-title="Ireland",TG4 +1
@@ -2055,7 +2069,7 @@ http://86.180.115.121:1990/stream/channelid/2113595444?profile=pass
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png",BBC Two
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:-1 tvg-id="ITV1.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",ITV1
-http://86.180.115.121:1990/stream/channelid/743478963?profile=pass
+http:\\82.68.56.43:9981\stream\channelid\991521084?profile=pass
 #EXTINF:-1 tvg-id="Channel.4.hd.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png",Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png",5
@@ -2071,15 +2085,17 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 #EXTINF:-1 tvg-id="ITV4.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png",ITV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 #EXTINF:-1 tvg-id="ITV.Quiz.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-quiz-uk.png",ITV Quiz
-http://86.180.115.121:1990/stream/channelid/682175816?profile=pass
+http:\\82.68.56.43:9981\stream\channelid\330902622?profile=pass
+#EXTINF:-1 tvg-id="STV.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/stv-uk.png",STV
+https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
 #EXTINF:-1 tvg-id="E4.hd.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-uk.png" group-title="United Kingdom",E4
-http://86.180.115.121:1990/stream/channelid/991225730?profile=pass
+http:\\82.68.56.43:9981\stream\channelid\1288613582?profile=pass
 #EXTINF:-1 tvg-id="E4.Extra.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-extra-uk.png" group-title="United Kingdom",E4 Extra
-http://86.180.115.121:1990/stream/channelid/1300932663?profile=pass
+http:\\82.68.56.43:9981\stream\channelid\1731879647?profile=pass
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/film-4-uk.png" group-title="United Kingdom",Film4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/4-seven-uk.png"  group-title="United Kingdom",4seven
-http://86.180.115.121:1990/stream/channelid/1564569275?profile=pass
+http:\\82.68.56.43:9981\stream\channelid\281530257?profile=pass
 #EXTINF:-1 tvg-id="More4.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-uk.png",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1 tvg-id="BBC.ALBA.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png" group-title="United Kingdom",BBC ALBA
@@ -2091,11 +2107,13 @@ http://86.180.115.121:1990/stream/channelid/914757818?profile=pass
 #EXTINF:-1 tvg-id="Challange.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/challenge-uk.png" group-title="United Kingdom",Challange
 http://86.180.115.121:1990/stream/channelid/242741757?profile=pass
 #EXTINF:-1 tvg-id="5ACTION.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-action-uk.png" group-title="United Kingdom",5ACTION
-http://86.180.115.121:1990/stream/channelid/1345604442?profile=pass
+http://176.65.146.99:57/
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-usa-uk.png" group-title="United Kingdom",5USA
-http://31.127.61.186:9981/stream/channelid/318669546?profile=pass
+http://176.65.146.99:41/
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-star-uk.png" group-title="United Kingdom",5STAR
-http://86.180.115.121:1990/stream/channelid/1244781175?profile=pass
+http://176.65.146.99:29/
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-select-uk.png" group-title="United Kingdom",5SELECT
+http://176.65.146.99:59/
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/That%27s_TV_logo.png",That's TV 
 http://86.180.115.121:1990/stream/channelid/1980028771?profile=pass
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/That%27s_TV_2.svg/revision/latest?cb=20240103151500",That's TV 2
@@ -2109,7 +2127,7 @@ http://193.237.220.135:55555/That's%20Summer
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NnxpHKJF/Clubland-2022-OSB.png" group-title="United Kingdom",Clubland TV
 http://193.237.220.135:55555/Clubland%20TV
 #EXTINF:-1 tvg-id="Great.TV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png" group-title="United Kingdom",Great! TV
-http://86.180.115.121:1990/stream/channelid/707188153?profile=pass
+http://176.65.146.99:60/
 #EXTINF:-1 tvg-id="Great.Action.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-uk.png" group-title="United Kingdom",Great! Action 
 http://86.180.115.121:1990/stream/channelid/1397877790?profile=pass
 #EXTINF:-1 tvg-id="Great.Movies.uk" tvg-logo="" group-title="United Kingdom",Great! Mystery 
@@ -2123,13 +2141,15 @@ http://185.99.136.50:9981/stream/channelid/944647027?profile=pass
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="https://www.pbsamerica.co.uk/wp-content/themes/pbs-2022/img/logo.png",PBS America
 http://86.180.115.121:1990/stream/channelid/2146487133?profile=pass
 #EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" group-title="United Kingdom",Sky News
-http://86.180.115.121:1990/stream/channelid/47242596?profile=pass
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="United Kingdom",BBC News
 http://86.180.115.121:1990/stream/channelid/396948315?profile=pass
 #EXTINF:-1 tvg-id="GB.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" group-title="United Kingdom",GB News
 http://86.180.115.121:1990/stream/channelid/1566175602?profile=pass
 #EXTINF:-1 tvg-id="TalkTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talk-tv-uk.png" group-title="United Kingdom",Talk TV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="United Kingdom",CNBC
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBBC.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png",CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:-1 tvg-id="CBeebies.HD.uk" group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png",CBeebies
@@ -2142,6 +2162,8 @@ http://86.180.115.121:1990/stream/channelid/214743974?profile=pass
 http://86.180.115.121:1990/stream/channelid/549388043?profile=pass
 #EXTINF:-1 tvg-id="Channel.5.+1.uk" group-title="United Kingdom" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2025-03/5%2B1-logo.png?itok=I7ZVZAp6",5 +1
 http://86.180.115.121:1990/stream/channelid/986844643?profile=pass
+#EXTINF:-1 tvg-id="U&Davejavu.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-davejavu-uk.png" group-title="United Kingdom",U&Davejavu
+http:\\82.68.56.43:9981\stream\channelid\1021226135?profile=pass
 #EXTINF:-1 tvg-id="E4.+1.uk" group-title="United Kingdom" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/E4-%2B1-RGB-Colour-Positive-255x140.png?itok=B49Vws0Y",E4 +1
 http://86.180.115.121:1990/stream/channelid/1993018842?profile=pass
 #EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png",CBS (WPEC)
@@ -2389,16 +2411,20 @@ http://113.177.113.214:9981/stream/channelid/66742514?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png",Cartoon Network 
 http://113.177.113.214:9981/stream/channelid/1508867775?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV1_logo_2013_final.svg",VTV1
-http://113.177.113.214:9981/stream/channelid/224733925?profile=pass
+http://171.224.203.69:81/stream/channelid/1734959414?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/VTV2_logo_2013_final.svg",VTV2
-http://113.177.113.214:9981/stream/channelid/1479547667?profile=pass
+http://171.224.203.69:81/stream/channelid/1136978185?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/VTV3_logo_2013_final.svg",VTV3
-http://113.177.113.214:9981/stream/channelid/1978056989?profile=pass
+http://171.224.203.69:81/stream/channelid/1473258167?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
-http://113.177.113.214:9981/stream/channelid/1133768036?profile=pass
+http://171.224.203.69:81/stream/channelid/843500589?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/1280px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png",VTV Cần Thơ
+http://171.224.203.69:81/stream/channelid/249882884?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",VTV7
-http://113.177.113.214:9981/stream/channelid/1722586611?profile=pass
-#EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/1200px-VTV8_logo_2016_final.svg.png",VTV78
-http://113.177.113.214:9981/stream/channelid/2061849201?profile=pass
+http://171.224.203.69:81/stream/channelid/596087552?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/1200px-VTV8_logo_2016_final.svg.png",VTV8
+http://171.224.203.69:81/stream/channelid/645769983?profile=pass
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV9_logo_2016_final.svg/1200px-VTV9_logo_2016_final.svg.png",VTV9
+http://171.224.203.69:81/stream/channelid/1351936880?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://yt3.googleusercontent.com/2VzgjBz1GRNJBFZ0JcaJad1M089lVy3ihBz2NeGeyvbAQHSNSMz7lSDymO8njLY_lhy3AFcTXKw=s900-c-k-c0x00ffffff-no-rj",Vietnam Today 
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+http://171.224.203.69:81/stream/channelid/1391053628?profile=pass
