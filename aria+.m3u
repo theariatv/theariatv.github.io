@@ -760,9 +760,7 @@ https://a1xs.vip/210006
 https://a1xs.vip/210007
 #EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-comedy.png" group-title="United Kingdom",Sky Cinema Comedy
 https://a1xs.vip/210005
-#EXTINF:-1 tvg-id="Cartoon.Net.HD.uk" tvg-logo="https://pixvid.org/images/2025/02/27/cartoon-network.png" group-title="United Kingdom",Cartoon Network 
-https://a1xs.vip/1000050
-#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoon-network-uk.png" group-title="United Kingdom",Cartoon Network HD UK
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoon-network-uk.png" group-title="United Kingdom",Cartoon Network
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162233&extension=ts
 #EXTINF:-1 tvg-id="Boomerang.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png" group-title="United Kingdom",Boomerang
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=717690&extension=ts
