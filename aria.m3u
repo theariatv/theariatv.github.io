@@ -1652,26 +1652,38 @@ https://a1xs.vip/140002
 https://a1xs.vip/140003
 #EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="NL: Ziggo Sport 4 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 4 
 https://a1xs.vip/140004
-#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8616" tvg-id="2873775b4b455d688ceebe2b2ed817dc",TVNZ 1
-https://tv.wyatts-server.com/stream/channelid/1534554920?profile=pass
-#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8617" tvg-id="be943e8f6dac2667f09eeaeb308e6c62",TVNZ 2
-https://tv.wyatts-server.com/stream/channelid/255759550?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TVNZ_1_logo.svg/250px-TVNZ_1_logo.svg.png" tvg-id="2873775b4b455d688ceebe2b2ed817dc",TVNZ 1
+http://121.74.22.14:62381/stream/channelid/966568054?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/TVNZ_2_logo.svg/1280px-TVNZ_2_logo.svg.png" tvg-id="be943e8f6dac2667f09eeaeb308e6c62",TVNZ 2
+http://121.74.22.14:62381/stream/channelid/1463900109?profile=pass
 #EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/6816" tvg-id="e76db0e276ca6c0872144209face3fa6",Three
 https://tv.wyatts-server.com/stream/channelid/1655729639?profile=pass
-#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8619" tvg-id="0af7b5c937da72624ae1ef92d00484bb",TVNZ DUKE
-https://tv.wyatts-server.com/stream/channelid/1236662026?profile=pass
-#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/6814" tvg-id="2034e0f575394d30879986db918eb064",Sky Open
-https://tv.wyatts-server.com/stream/channelid/1977627680?profile=pass
-#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8621" tvg-id="cc02633c8f0d0f7c0945de5160e4afd5",Rush
-https://tv.wyatts-server.com/stream/channelid/1013121740?profile=pass
-#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/6815" tvg-id="f52cf6d5294321bb94a2adcb30ca2d0e",Bravo
-https://tv.wyatts-server.com/stream/channelid/1442196725?profile=pass
-#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/8623" tvg-id="60ead8a7f72119acb3449cf2746e1832",eden
-https://tv.wyatts-server.com/stream/channelid/668527200?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/TVNZ_Duke_logo.svg/1280px-TVNZ_Duke_logo.svg.png",TVNZ DUKE
+http://121.74.22.14:62381/stream/channelid/643592719?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://tv.wyatts-server.com/imagecache/6814" tvg-id="",Sky Open
+http://121.74.22.14:62381/stream/channelid/176982190?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/MK_SKY5_LogoSmall_250x180.png" tvg-id="",Sky 5
+http://121.74.22.14:62381/stream/channelid/1199483279?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Comedy_%28New_Zealand%29.png/250px-Sky_Comedy_%28New_Zealand%29.png" tvg-id="",Sky Comedy
+http://121.74.22.14:62381/stream/channelid/2070625020?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sky_Kids_%28New_Zealand%29.png/250px-Sky_Kids_%28New_Zealand%29.png" tvg-id="",Sky Kids
+http://121.74.22.14:62381/stream/channelid/1674944943?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Vibe_NZ.svg/revision/latest?cb=20230830141147" tvg-id="",Vibe
+http://121.74.22.14:62381/stream/channelid/227072710?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Jones-channel-logo.png/revision/latest?cb=20170512172822" tvg-id="",Jones!
+http://121.74.22.14:62381/stream/channelid/1592022771?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Rush_NZ_TV_logo.png" tvg-id="cc02633c8f0d0f7c0945de5160e4afd5",Rush
+http://121.74.22.14:62381/stream/channelid/1322716785?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/1280px-Bravo_2024.svg.png",Bravo
+http://121.74.22.14:62381/stream/channelid/1310797355?profile=pass
+#EXTINF:-1 group-title="New Zealand" tvg-logo="https://freeviewnz.tv/Media/deudpzom/008-eden-logo-red.png?width=800&format=webp&quality=90",eden
+http://121.74.22.14:62381/stream/channelid/1278593079?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BBC_Brit.svg/250px-BBC_Brit.svg.png" group-title="New Zealand",BBC Brit
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc116/bbcbrithdraw/bbcbrithdraw.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/250px-BBC_Lifestyle2.svg.png" group-title="New Zealand",BBC Lifestyle
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cbeebies2022.svg/revision/latest/scale-to-width-down/300?cb=20260123044400" group-title="New Zealand",Cbeebies
+http://121.74.22.14:62381/stream/channelid/1578993444?profile=pass
 #EXTINF:-1 group-title="New Zealand",Bravo +1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 group-title="New Zealand" tvg-id="ParliamentTV.nz",Parliament TV
