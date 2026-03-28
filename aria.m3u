@@ -488,13 +488,13 @@ http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
 #EXTINF:-1 group-title="China" tvg-logo="",CCTV-14
 http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",RCN 
-http://162.207.11.109:9981/stream/channelid/96275356?profile=pass
+http://astra.fibernetisp.com.co/play/a03s/index.m3u8
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/250px-RCN_Novelas_logo_2019.png",RCN Novelas
 http://162.207.11.109:9981/stream/channelid/247677504?profile=pass
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png",CityTV
 http://162.207.11.109:9981/stream/channelid/1037732737?profile=pass
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",Caracol
-http://38.250.127.17:9800/play/a05v/index.m3u8
+http://astra.fibernetisp.com.co/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg.png",Win Sports
 http://38.250.127.17:9800/play/a0ae/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RepretelCanal62024.svg/1200px-RepretelCanal62024.svg.png" group-title="Costa Rica",Repretel 6
@@ -2003,7 +2003,7 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 group-title="Thailand",Boom 
 https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png" group-title="Türkyie",aTV
-http://92.44.60.75:81/stream/channelid/418740200?ticket=E6DC6387AD9363FE491B61BA80E17B7E8D10E217&profile=pass
+http://194.156.236.41:8002/play/a00q
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png" group-title="Türkyie",a2
 http://92.44.60.75:81/stream/channelid/1592189257?ticket=446D232FB27B399B9E69CB23208660BA77C3C8FC&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-haber-tr.png" group-title="Türkyie",A Haber
@@ -2021,9 +2021,9 @@ http://212.252.72.103:7070/play/a00t
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tlc-tr.png" group-title="Türkyie",TLC
 http://212.252.72.103:7070/play/a00u
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tv-tr.png" group-title="Türkyie",Show TV
-http://212.252.72.103:7070/play/a00w
+http://194.156.236.41:8002/play/a009
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-max-tr.png" group-title="Türkyie",Show Max
-http://212.252.72.103:7070/play/a00z
+http://194.156.236.41:8002/play/a00b
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Türkyie",STAR TV 
 http://212.252.72.103:7070/play/a00r
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="Türkyie",TRT 1
@@ -2037,7 +2037,7 @@ http://212.252.72.103:7070/play/a01k
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-5-tr.png" group-title="Türkyie",TV8.5
 http://212.252.72.103:7070/play/a01l
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/250px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Türkyie",NOW
-http://212.252.72.103:7070/play/a01o
+http://194.156.236.41:8002/play/a00t
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/minika-go-tr.png" group-title="Türkyie",minikaGO
 http://212.252.72.103:7070/play/a01b
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/minika-cocuk-tr.png" group-title="Türkyie",minikaCOCUK
