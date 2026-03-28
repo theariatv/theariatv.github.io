@@ -442,7 +442,7 @@ http://38.7.195.43:8000/play/a02g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="Chile",CHV Noticias 
 http://38.7.195.43:8000/play/a02i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logotipo_de_Mega_%282020-%29.svg" group-title="Chile",MEGA
-http://38.250.127.17:9800/play/a066/index.m3u8
+http://177.93.46.178:8001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Mega_2_Branding_%282%29.jpg" group-title="Chile",MEGA 2
 http://38.7.195.43:8000/play/a028
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RzCO1IBS2apaz17btCM4JMmgPE4bvb8brS3C_9Rp5FNbxxsipFQOYLCMh8TqeWIt-mrmy-b8=s900-c-k-c0x00ffffff-no-rj" group-title="Chile",MEGA Tiempo
@@ -492,7 +492,7 @@ http://astra.fibernetisp.com.co/play/a03s/index.m3u8
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/250px-RCN_Novelas_logo_2019.png",RCN Novelas
 http://162.207.11.109:9981/stream/channelid/247677504?profile=pass
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png",CityTV
-http://162.207.11.109:9981/stream/channelid/1037732737?profile=pass
+http://177.93.46.178:8001/play/a076/index.m3u8
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",Caracol
 http://astra.fibernetisp.com.co/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Columbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg.png",Win Sports
@@ -1434,6 +1434,8 @@ http://181.78.4.250:8098/play/a08m/index.m3u8
 http://181.78.4.250:8098/play/a08z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/lifetime-us.png" group-title="Latin America",Lifetime
 http://181.78.4.250:8098/play/a091/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/e-entertainment-us.png" group-title="Latin America",E!
+http://177.93.46.178:8001/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png" group-title="Latin America",MTV
 http://181.78.4.250:8098/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Latin America",HBO
@@ -1444,24 +1446,24 @@ http://162.207.11.109:9981/stream/channelid/2007678241?profile=pass
 https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/history2-ca.png" group-title="Latin America",History2
 http://186.145.137.48:11034/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Latin America",A&E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Latin America",HGTV
 http://181.78.4.250:8098/play/a05w/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/investigaton-discovery-us.png" group-title="Latin America",Discovery ID
 http://181.78.4.250:8098/play/a08x/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN
-http://201.230.121.186:8000/play/a0fi/index.m3u8
+http://177.93.46.178:8001/play/a07e/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN Premium
-http://38.250.127.17:9800/play/a05x/index.m3u8
+http://177.93.46.178:8001/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://telepez.github.io/imagenes/ESPN2.webp",ESPN 2
-http://38.250.127.17:9800/play/a08q/index.m3u8
+http://177.93.46.178:8001/play/a00q/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://telepez.github.io/imagenes/ESPN3.webp",ESPN 3
 http://201.230.121.186:8000/play/a0jg/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://telepez.github.io/imagenes/ESPN4.webp",ESPN 4
-http://38.250.127.17:9800/play/a05l/index.m3u8
+http://177.93.46.178:8001/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png",ESPN 5
-http://38.250.127.17:9800/play/a06f/index.m3u8
+http://177.93.46.178:8001/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png",ESPN 6
-http://38.250.127.17:9800/play/a05n/index.m3u8
+http://177.93.46.178:8001/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png",ESPN 7
 http://201.230.121.186:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png" group-title="Latin America",Tigo Sports
@@ -1489,7 +1491,7 @@ http://186.145.137.48:11038/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://netplay.sv/multimedia/live/canal-035/playlist.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfxiivz-1f7aa464-8d25-4cf4-8012-205f514177c1.png/v1/fill/w_958,h_522/universal_channel_logo_concept_2023_by_blackwbofficial_dfxiivz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTIyIiwicGF0aCI6Ii9mLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYi9kZnhpaXZ6LTFmN2FhNDY0LThkMjUtNGNmNC04MDEyLTIwNWY1MTQxNzdjMS5wbmciLCJ3aWR0aCI6Ijw9OTU4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.LpwQb6eZrdOjZqhJ5Xm8mECwekHx3L_XbZ8sN1KzbQI",Universal Channel 
-http://162.207.11.109:9981/stream/channelid/16335323?profile=pass
+http://177.93.46.178:8001/play/a03y/index.m3u8
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038",Universal Comedy
 http://162.207.11.109:9981/stream/channelid/454783357?profile=pass
 #EXTINF:-1 group-title="Latin America" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056",Universal Reality 
@@ -1573,7 +1575,7 @@ http://38.7.195.43:8000/play/a0us
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1024px-Nickelodeon_2023_logo.svg.png",Nickelodeon
 http://45.189.151.7:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://w7.pngwing.com/pngs/686/771/png-transparent-las-estrellas-televisa-television-channel-logo-star-television-angle-triangle.png",Las Estrellas
-http://38.7.195.43:8000/play/a0uq
+http://177.93.46.178:8001/play/a04s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Mexico",Fox Sports
 #EXTVLCOPT:http-referrer=https://netplay.sv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
