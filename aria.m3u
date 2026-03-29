@@ -888,9 +888,9 @@ http://live.dreamtv.gy/live/c2eds/GLCEleVate/HLS/GLCEleVate.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png" group-title="Hungary",Duna
 https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png" group-title="Hungary",M1
-http://195.189.60.31:8003/play/a09o/index.m3u8
+http://46.149.191.219:9100/play/a03b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/M2_%282022-%29.png" group-title="Hungary",M2
-http://195.189.60.31:8003/play/a09x/index.m3u8
+http://46.149.191.219:9100/play/a03c
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/M4P_v.png/revision/latest?cb=20250820092111" group-title="Hungary",M4 Sport+
 http://77.234.85.235:9981/stream/channelid/1250417629?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/M5logo.png" group-title="Hungary",M5
@@ -904,7 +904,7 @@ http://195.189.60.31:8003/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTL_H%C3%A1rom_%282022%2C_stacked%29.svg/1200px-RTL_H%C3%A1rom_%282022%2C_stacked%29.svg.png" group-title="Hungary",RTL Három 
 http://195.189.60.31:8003/play/a0i6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/TV2_2008.svg" group-title="Hungary",TV2
-http://195.189.60.31:8003/play/a0a9/index.m3u8
+http://46.149.191.219:9100/play/a03f
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV2_Comedy_%28June_2020%29.svg/revision/latest/scale-to-width-down/250?cb=20200711143557" group-title="Hungary",TV2 Comedy
 http://195.189.60.31:8003/play/a0cm/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ttte/images/f/f1/TV2Kidslogo.png/revision/latest?cb=20201018161106" group-title="Hungary",TV2 Kids
@@ -1621,7 +1621,7 @@ http://46.217.182.69:9981/stream/channelid/255511820?ticket=3BB9A5495FE43815F6F5
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-nl.png",NPO 1
 http://86.85.245.213:9981/stream/channelid/228930093?profile=pass
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo2-nl.png",NPO 2
-http://86.85.245.213:9981/stream/channelid/1091595793?profile=pass
+http://46.149.191.219:9100/play/a00c
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo3-nl.png",NPO 3
 http://86.85.245.213:9981/stream/channelid/1341758705?profile=pass
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-extra-nl.png",NPO 1 Extra
@@ -1638,14 +1638,20 @@ http://185.236.230.212:9981/play/a0ab
 http://185.236.230.212:9981/play/a0ae
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-lounge-nl.png",RTL Lounge
 http://130.162.32.84/NL/RTLLounge/index.m3u8
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/sbs6-nl.png",SBS6
+http://46.149.191.219:9100/play/a00d
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/star-channel-nl.png",Star Channel
+http://46.149.191.219:9100/play/a02z
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/disney-channel-nl.png",Disney Channel 
-http://192.145.57.85:9981/stream/channelid/1728151730?profile=pass
+http://46.149.191.219:9100/play/a009
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network 
 http://192.145.57.85:9981/stream/channelid/306311534?profile=pass
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png",Nickelodeon 
 http://192.145.57.85:9981/stream/channelid/1258469272?profile=pass
 #EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/veronica-nl.png",Veronica/Disney Jr.
 http://192.145.57.85:9981/stream/channelid/1079686859?profile=pass
+#EXTINF:-1 group-title="Netherlands" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-nl.png",ESPN
+http://46.149.191.219:9100/play/a00e
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="NL: Ziggo Sport FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 
 https://a1xs.vip/140001
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="NL: Ziggo Sport 2 FHD" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands",Ziggo Sport 2 
