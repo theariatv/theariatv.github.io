@@ -683,26 +683,28 @@ http://80.221.31.29:9981/stream/channelid/669565459?profile=pass
 http:\\80.221.31.29:9981\stream\channelid\49694262?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MTV_Sub_Logo_2022.svg/1200px-MTV_Sub_Logo_2022.svg.png" group-title="Finland",MTV Sub
 http:\\80.221.31.29:9981\stream\channelid\141762177?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MTV_Ava_Logo_2022.svg/960px-MTV_Ava_Logo_2022.svg.png" group-title="Finland",MTV Ava
-http:\\80.221.31.29:9981\stream\channelid\141762177?profile=pass
-ss#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Kanal_5_%26_TV5_Logo_2024.svg" group-title="Finland",TV5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Kanal_5_TV5_2024.svg/revision/latest?cb=20240115083428" group-title="Finland",TV5
 http://80.221.31.29:9981/stream/channelid/1571059657?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/6%27eren_%26_Kutonen_Logo_2024.svg/1200px-6%27eren_%26_Kutonen_Logo_2024.svg.png" group-title="Finland",Kutonen
-http://80.221.31.29:9981/stream/channelid/290949840?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Frii_Logo_2024.svg/960px-Frii_Logo_2024.svg.png" group-title="Finland",Frii
-http://80.221.31.29:9981/stream/channelid/297655209?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hero_color_RGB.png/1280px-Hero_color_RGB.png" group-title="Finland",Hero
-http://80.221.31.29:9981/stream/channelid/905280041?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jim_color_RGB.png/960px-Jim_color_RGB.png" group-title="Finland",Jim
-http://80.221.31.29:9981/stream/channelid/363747951?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Liv_color_RGB.png" group-title="Finland",Liv
 http://80.221.31.29:9981/stream/channelid/2146693547?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jim_color_RGB.png/960px-Jim_color_RGB.png" group-title="Finland",Jim
+http://80.221.31.29:9981/stream/channelid/363747951?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/6%27eren_%26_Kutonen_Logo_2024.svg/1200px-6%27eren_%26_Kutonen_Logo_2024.svg.png" group-title="Finland",Kutonen
+http://80.221.31.29:9981/stream/channelid/290949840?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tlc-uk.png" group-title="Finland",,TLC
 http://80.221.31.29:9981/stream/channelid/22525729?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/finland/star-channel-fi.png" group-title="Finland",,Star Channel
 http://80.221.31.29:9981/stream/channelid/758592575?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MTV_Ava_Logo_2022.svg/960px-MTV_Ava_Logo_2022.svg.png" group-title="Finland",MTV Ava
+http:\\80.221.31.29:9981\stream\channelid\141762177?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hero_color_RGB.png/1280px-Hero_color_RGB.png" group-title="Finland",Hero
+http://80.221.31.29:9981/stream/channelid/905280041?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Frii_Logo_2024.svg/960px-Frii_Logo_2024.svg.png" group-title="Finland",Frii
+http://80.221.31.29:9981/stream/channelid/297655209?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png" group-title="Finland",National Geographic
-http://88.86.133.164:9981/stream/channelid/231553848?profile=matroska
+http://80.221.31.29:9981/stream/channelid/1542376468?profile=pass
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Viaplay_TV_Stacked.svg/revision/latest?cb=20240402102301" group-title="Finland",Viaplay TV
+https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/MTV_Uutiset_2022_II.svg/revision/latest?cb=20230401223036" group-title="Finland",MTV Uutiset
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="France",TF1
