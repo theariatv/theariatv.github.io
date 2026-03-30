@@ -464,7 +464,7 @@ http://138.36.253.13:8008/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Vive_VTR.jpg/revision/latest?cb=20190412011653&path-prefix=es" group-title="Chile",Canal Vive
 https://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png",CCTV-1
-http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
+http://183.205.129.173:9981/stream/channelid/841604340?profile=pass
 #EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png",CCTV-2
 http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
 #EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CCTV-3_%E7%BB%BC%E8%89%BA.svg/revision/latest?cb=20230514004707",CCTV-3
