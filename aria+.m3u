@@ -536,7 +536,7 @@ http://45.90.106.7:9790/play/EvS759O6@U5J
 http://45.90.106.7:9790/play/TbZ4097U5@F5L
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/syfy-uk.png" group-title="France",SYFY
 http://45.90.106.7:9790/play/BsXA5294N2@R1E
-#EXTINF:-1 tvg-id="SkyOne(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-one-de.png" group-title="Sky Germany",Sky One
+#EXTINF:-1 tvg-id="SkyOne(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-one-de.png" group-title="Germany",Sky One
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411520&extension=ts&play_token=x3lEEwVINs
 #EXTINF:-1 tvg-id="SkyShowcase(src05).de" tvg-name="Sky Showcase HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-showcase-de.png" group-title="Germany",Sky Showcase
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236429&extension=ts&play_token=cBUTe3wUcu
@@ -564,7 +564,7 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236527&exten
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236541&extension=ts&play_token=6kbItRuSOf
 #EXTINF:-1 tvg-id="SkySportNews(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-news-de.png" group-title="Germany",Sky Sport News
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235955&extension=ts
-#EXTINF:-1 tvg-id="SkySportTopEvent(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="Sky Sport (Germany)",Sky Sport Top Event
+#EXTINF:-1 tvg-id="SkySportTopEvent(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="Germany",Sky Sport Top Event
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235941&extension=ts
 #EXTINF:-1 tvg-id="SkySportPremierLeague(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" group-title="Germany",Sky Sport Premier League
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235927&extension=ts
