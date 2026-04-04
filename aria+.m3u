@@ -189,9 +189,13 @@ http://kstv.us:8080/live/Felix12/3330312491/40760.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png",CHCH (CHCH-DT)
 http://kstv.us:8080/live/Felix12/3330312491/40754.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CHEK.Victoria.BC.ca" tvg-logo="https://harbourcats.com/wp-content/uploads/2017/06/CHEK_logo_2022.svg_.png",CHEK (CHEK-DT)
-https://livecdn.use1-0004.jwplive.com/live/sites/HGOnqYhO/media/i9sjcGbc/live.isml/.mpd
+http://103.176.90.186:80/live/f956994304/de7dd50f24/812561.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png",CityTV Toronto
 http://kstv.us:8080/live/Felix12/3330312491/40752.ts
+#EXTINF:-1 group-title="Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png",CityTV Montreal
+http://103.176.90.186:80/live/f956994304/de7dd50f24/627007.ts
+#EXTINF:-1 group-title="Canada" tvg-id="CITY.Vancouver.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png",CityTV Vancouver
+http://103.176.90.186:80/live/f956994304/de7dd50f24/627005.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CMT.Canada.ca" tvg-logo="https://media.starlite.best/cmt.canada.ca.png",CMT
 http://kstv.us:8080/live/Felix12/3330312491/40750.ts
 #EXTINF:-1 group-title="Canada" tvg-id="Cottage.Life.ca" tvg-logo="https://media.starlite.best/cottage.life.ca.png",Cottage Life
@@ -215,11 +219,11 @@ http://kstv.us:8080/live/Felix12/3330312491/40746.ts
 #EXTINF:-1 group-title="Canada" tvg-id="ctv.drama.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-drama-channel-ca.png",CTV Drama
 http://kstv.us:8080/live/Felix12/3330312491/40766.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.Life.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-life-channel-ca.png",CTV Life
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/5216.ts
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626974.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png",CTV Nature
-https://theariatv.github.io/channeldead.mp4
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626961.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png",CTV Speed
-https://theariatv.github.io/channeldead.mp4
+http://103.176.90.186:80/live/f956994304/de7dd50f24/758234.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.Sci-Fi.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-sci-fi-channel-ca.png",CTV Sci Fi
 http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png",CTV Wild
@@ -270,20 +274,22 @@ http://kstv.us:8080/live/Felix12/3330312491/40704.ts
 http://user.scalecdn.co:8080/live/26725074/92867131/3081.ts
 #EXTINF:-1 group-title="Canada" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png",Global Toronto (CIII-DT)
 http://kstv.us:8080/live/Felix12/3330312491/40703.ts
+#EXTINF:-1 group-title="Canada" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Edmonton_GuideLogo_240x144.png",Global Edmonton (CITV-DT)
+http://103.176.90.186:80/live/f956994304/de7dd50f24/709013.ts
 #EXTINF:-1 group-title="Canada" tvg-id="global.bc.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png",Global BC (CHAN-DT)
 http://theariatv.github.io/channeldead.mp4
 #EXTINF:-1 group-title="Canada" tvg-id="Global.Halifax.(CIHF).ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Maritimes_GuideLogo_240x144.png",Global Maritimes (CIHF-DT)
-http://theariatv.github.io/channeldead.mp4
+http://103.176.90.186:80/live/f956994304/de7dd50f24/943895.ts
 #EXTINF:-1 group-title="Canada" tvg-id="Global.News.BC1.ca" tvg-logo="https://globalnews.ca/wp-content/uploads/2015/01/BC1-pos-hor.png?w=320",Global News BC1
 http://theariatv.github.io/channeldead.mp4
 #EXTINF:-1 group-title="Canada" tvg-id="HBO1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png",HBO
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40697.ts
 #EXTINF:-1 group-title="Canada" tvg-id="HBO.2.HD.(HBO2).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40696.ts
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626932.ts
 #EXTINF:-1 group-title="Canada" tvg-id="Home.Network.ca" tvg-logo="https://i.ibb.co/fGMcLQTP/Home-Network-logo-svg.png",Home Network
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112786.ts
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626931.ts
 #EXTINF:-1 group-title="Canada" tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png",History
-https://tvnow.best/api/stream/burns/burns/livetv.epg/history.canada.east.ca.m3u8
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626930.ts
 #EXTINF:-1 group-title="Canada" tvg-id="History.2.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg",History 2
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112783.ts
 #EXTINF:-1 group-title="Canada" tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png",HGTV
@@ -311,27 +317,27 @@ http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik0rUt8A8pfM5PLHOw-La3mLukPvJv89DF6F7RBTpVY1M.png" group-title="Canada",Miracle
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40681.ts
 #EXTINF:-1 group-title="Canada" tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png",Much
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112805.ts
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626919.ts
 #EXTINF:-1 group-title="Canada" tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png",National Geographic
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40674.ts
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626918.ts
 #EXTINF:-1 group-title="Canada" tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://i.ibb.co/N28fsF0z/National-Geographic-Wild-logo-svg.png",National Geographic Wild
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48380.ts
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626917.ts
 #EXTINF:-1 group-title="Canada" tvg-id="NBA.TV.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/nba-tv-ca.png",NBA TV Canada
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/107514.ts
 #EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png",Omni East
 https://debate-elections-2019.akamaized.net/797771366e8c441ba9feb981da8cf83b/us-west-2/89871584001/playlist.m3u8
-#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png",Omni Québec 
+#EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png",Omni Québec/ ICI Television
 https://debate-elections-2019.akamaized.net/2dba917cc589465ead367550ab2af416/us-west-2/89871584001/playlist.m3u8
 #EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png",Omni Prairies
 https://debate-elections-2019.akamaized.net/17bf2014ad1149f7a01b31ccb65c28ab/us-west-2/89871584001/playlist.m3u8
 #EXTINF:-1 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png",Omni BC
 https://debate-elections-2019.akamaized.net/1159b64905eb49bbb9c7b7e0d5c88624/us-west-2/89871584001/playlist.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="One.Soccer.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/one-soccer-ca.png",One Soccer
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/123909.ts
+http://103.176.90.186:80/live/f956994304/de7dd50f24/1151908.ts
 #EXTINF:-1 group-title="Canada" tvg-id="ONE.TV.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s26777_h15_ac.png",One TV
 http://kstv.us:8080/live/Felix12/3330312491/40637.ts
 #EXTINF:-1 group-title="Canada" tvg-id="outtv.ca" tvg-logo="https://play-lh.googleusercontent.com/jsVXFQfgTUMbNvWmk3Ccy4eVFSysQMI0vTEiTzgbLddzIGnPfsFLJ6OK29BRwGYhaPw",OUTtv
-http://the.ts
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626906.ts
 #EXTINF:-1 group-title="Canada" tvg-id="Oxygen.True.Crime.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png",Oxygen True Crimes
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112794.ts
 #EXTINF:-1 group-title="Canada" tvg-id="REV.TV.HDTV.(Canada).(REVHD).ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s106713_h15_ab.png",Rev TV
@@ -367,7 +373,7 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40717.ts
 #EXTINF:-1 group-title="Canada" tvg-id="super.channel.fuse.ca" tvg-logo="https://media.starlite.best/super.channel.fuse.ca.png",Super Channel Fuse
 http://theariatv.github.io/channeldead.mp4
 #EXTINF:-1 group-title="Canada" tvg-id="Super.Channel.Heart.and.Home.ca" tvg-logo="https://media.starlite.best/super.channel.heart.home.ca.png",Super Channel Heart & Home
-http://theariatv.github.io/channeldead.mp4
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626889.ts
 #EXTINF:-1 group-title="Canada" tvg-id="super.channel.vault.ca" tvg-logo="https://media.starlite.best/super.channel.vault.ca.png",Super Channel Vault
 http://theariatv.github.io/channeldead.mp4
 #EXTINF:-1 group-title="Canada" tvg-id="super.channel.quest.ca" tvg-logo="https://broadcastdialogue.com/wp-content/uploads/2024/09/super-channel-quest.png",Super Channel Quest
@@ -381,7 +387,7 @@ https://m3ufilter.media4u.top/live/media4u/media4u/2957.ts
 #EXTINF:-1 group-title="Canada" tvg-id="Toon-a-vision.ca" tvg-logo=https://upload.wikimedia.org/wikipedia/en/0/04/ToonAVision_logo.png",Toon-A-Vision
 http://kstv.us:8080/live/Felix12/3330312491/40715.ts
 #EXTINF:-1 group-title="Canada" tvg-id="TLN.ca" tvg-logo="https://i.ibb.co/cKnhRZX6/TLN-2015.png",TLN
-https://tvnow.best/api/stream/burns/burns/livetv.epg/tln.west.ca.m3u8
+http://103.176.90.186:80/live/f956994304/de7dd50f24/626886.ts
 #EXTINF:-1 group-title="Canada" tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png",Treehouse
 http://kstv.us:8080/live/Felix12/3330312491/40652.ts
 #EXTINF:-1 group-title="Canada" tvg-id="TSC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsc-ca.png",TSC
