@@ -86,7 +86,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6XTxBguw3sWNrLEPRO_eKRBvdu4FJ4sBx8FPww_e5w&s",TNT Sports Premium 
 http://38.250.127.17:9800/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png",Telefe
-http://38.7.195.43:8000/play/a0vc
+https://latam-cache-sv2-cdn.latamlive.net/TELEFE_AR_IP_ENC_LIVE/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png",TyC Sports 
@@ -1255,7 +1255,7 @@ http://78.56.193.170:9981/stream/channelid/2017205348?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png" group-title="Israel" tvg-rec="3",Kan 11
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2332/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/keshet12-il.png" group-title="Israel" tvg-rec="3",Keshet 12
-http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2329/index.m3u8
+https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/reshet13-il.png" group-title="Israel" tvg-rec="3",Reshet 13
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2330/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel14-il.png" group-title="Israel" tvg-rec="3",Channel 14
@@ -1303,9 +1303,9 @@ https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="Italy",Rai 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png" group-title="Italy",Rai 4
-http://93.49.98.215:55555/Rai%204
+http://84.220.194.107:9981/stream/channelid/519303508?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png" group-title="Italy",Rai 5
-http://93.49.98.215:55555/Rai%205
+http://84.220.194.107:9981/stream/channelid/388737623?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4k-it.png" group-title="Italy",Rai 4K
 http://93.49.98.215:55555/Rai%204K
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-news-24-it.png" group-title="Italy",Rai News 24
@@ -1317,13 +1317,13 @@ https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-gulp-it.png" group-title="Italy",Rai Gulp
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-yoyo-it.png" group-title="Italy",Rai YoYo
-http://93.49.98.215:55555/Rai%20YoYo
+http://84.220.194.107:9981/stream/channelid/29285153?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-scuola-it.png" group-title="Italy",Rai Scuola
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italy",Rai Movie
-http://93.49.98.215:55555/Rai%20Movie%20HD
+http://84.220.194.107:9981/stream/channelid/1233176894?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" group-title="Italy",Rai Premium 
-http://93.49.98.215:55555/Rai%20Premium
+http://84.220.194.107:9981/stream/channelid/878509227?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-1-it.png.png" group-title="Italy",Itaila 1
 https://cachehsi1a.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cielo-it.png" group-title="Italy",Cielo
@@ -1331,7 +1331,7 @@ http://77.39.161.42:55555/Cielo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-2-it.png" group-title="Italy",Italia 2
 http://77.39.161.42:55555/Mediaset%20Italia2%20HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rete4-it.png" group-title="Italy",Rete 4
-http://77.39.161.42:55555/Rete4%20HD
+http://84.220.194.107:9981/stream/channelid/924450816?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tgcom24-it.png" group-title="Italy",TGCOM 24
 http://77.39.161.42:55555/TGCOM24%20HD_1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png" group-title="Italy",La7
@@ -1341,7 +1341,7 @@ http://93.49.98.215:55555/LA7d_2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png" group-title="Italy",Canale 5
 https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png" group-title="Italy",TV8
-http://93.49.98.215:55555/TV8%20HD
+http://84.220.194.107:9981/stream/channelid/1329185929?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/iris-it.png" group-title="Italy",Iris
 http://77.39.161.42:55555/Iris%20HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/focus-it.png" group-title="Italy",Focus
@@ -2080,6 +2080,8 @@ http://212.252.72.103:7070/play/a03n
 http://212.252.72.103:7070/play/a013
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Türkyie",CNBC-e
 https://theariatv.github.io/channeldead.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Ukraine",TET
+https://iptv.prosto.tv/id11/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="United Arab Emirates",Abu Dhabi TV
 http://185.104.253.35:9981/stream/channelid/1880551777?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="United Arab Emirates",Baraem
