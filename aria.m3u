@@ -507,20 +507,22 @@ http://201.237.193.180:9981/stream/channelid/2039568413?profile=pass
 http://201.237.193.180:9981/stream/channelid/2109973730?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RepretelCanal112024.svg/1200px-RepretelCanal112024.svg.png" group-title="Costa Rica",Repretel 11
 http://201.237.193.180:9981/stream/channelid/220443661?profile=pass
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 HD
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 
 http://93.115.108.250:4022/udp/239.1.2.93:1234
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-3-hr.png?raw=true",HRT 3 HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-4-hr.png?raw=true",HRT 4 HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-hr.png?raw=true",RTL Televizija HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl2-hr.png?raw=true",RTL 2 HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 
+http://89.201.195.79:9981/stream/channelid/795316169?profile=pass
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-3-hr.png?raw=true",HRT 3 
+http://89.201.195.79:9981/stream/channelid/875896935?profile=pass
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-4-hr.png?raw=true",HRT 4 
+http://89.201.195.79:9981/stream/channelid/1628606773?profile=pass
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-hr.png?raw=true",RTL Televizija 
+http://89.201.195.79:9981/stream/channelid/1323943180?profile=pass
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl2-hr.png?raw=true",RTL 2 
+http://89.201.195.79:9981/stream/channelid/1630449942?profile=pass
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-kockica-hr.png?raw=true",RTL Kockica
+http://89.201.195.79:9981/stream/channelid/1668826655?profile=pass
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/nova-hr.png?raw=true",Nova HD
-https://live.s2.cyn.cz/Nova/video.m3u8
+http://89.201.195.79:9981/stream/channelid/294410472?profile=pass
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/doma-hr.png?raw=true",Doma HD
 https://live.s2.cyn.cz/Doma/video.m3u8
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true",Doma HD
@@ -529,10 +531,6 @@ https://live.s2.cyn.cz/RTL_Living_HR/video.m3u8
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/Promo/default/index.mpd
 #EXTINF:-1 group-title="Croatia" tvg-logo="",N1 info HR (CNN Croatia)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
-#EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 HD
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/1200px-Logo_RIK_1_2017.svg.png",RIK 1
 http://213.7.216.229:8888/udp/239.23.0.1:1234
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/2560px-Logo_RIK_2_2017.svg.png",RIK 2
@@ -1882,6 +1880,12 @@ http://77.39.161.42:55555/RTV%20San%20Marino
 http://93.103.246.35:10205/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_of_TV_SLO_2_HD_%282012-%29.png" group-title="Slovenia",TV SLO 2
 http://95.143.230.238:9981/stream/channelid/1649525381?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Slo3.png" group-title="Slovenia",TV SLO 3
+http://89.201.195.79:9981/stream/channelid/112693928?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TV_Maribor.jpg/120px-TV_Maribor.jpg" group-title="Slovenia",TV Maribor
+http://89.201.195.79:9981/stream/channelid/395198200?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_K-C_2013_Logo.png/120px-TV_K-C_2013_Logo.png" group-title="Slovenia",TV Koper-Capodistria
+http://89.201.195.79:9981/stream/channelid/312651670?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/Eurosport_Logo_2015.svg_.png" group-title="Slovenia",Eurosport
 http://93.103.246.35:10206/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Jednotka_2026.svg/revision/latest?cb=20260220235246" group-title="Slovakia",Jednotka
