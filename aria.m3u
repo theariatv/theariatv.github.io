@@ -420,15 +420,15 @@ http://38.143.48.212:9981/stream/channelid/1546770827?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="treehouse.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png",Treehouse
 http://38.143.48.212:9981/stream/channelid/704089388?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png",TSN 1
-http://38.143.48.212:9981/stream/channelid/1102959901?profile=pass
+https://stream.decentdoubts.net/805/index.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png",TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
+https://stream.decentdoubts.net/806/index.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png",TSN 3
 http://38.143.48.212:9981/stream/channelid/139110812?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png",TSN 4
-http://38.143.48.212:9981/stream/channelid/1776294404?profile=pass
+https://stream.decentdoubts.net/701/index.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN 5
-http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
+https://stream.decentdoubts.net/809/index.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="TVO.Toronto.ON.ca" tvg-logo="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png",TVO
 http://38.143.48.212:9981/stream/channelid/984041359?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="W.(WTN).-.East.ca" tvg-logo="https://i.ibb.co/QFD0ZH55/Eg8fa2a0-200x200.png",W Network
