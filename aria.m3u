@@ -188,9 +188,9 @@ http://44.32.200.212:5004/auto/v96
 #EXTINF:-1 group-title="Australia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/bbc-first-au.png",BBC First
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc113/bbcfirsthdraw/bbcfirsthdraw.m3u8
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vrt-1-be.png",VRT 1
-http://192.145.57.85:9981/stream/channelid/2124641217?profile=pass
+http://83.85.109.250:9981/stream/channelid/1709495449?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vrt-canvas-be.png",VRT Canvas
-http://192.145.57.85:9981/stream/channelid/288829476?profile=pass
+http://83.85.109.250:9981/stream/channelid/1420477824?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/ketnet-be.png",Ketnet
 http://192.145.57.85:9981/stream/channelid/1372631070?profile=pass
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/la-une-be.png",La Une
