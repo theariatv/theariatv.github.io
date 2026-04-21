@@ -1833,33 +1833,43 @@ https://pltv.uzis-room.ch/play/207
 #EXTINF:-1 group-title="Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/minimini-plus-pl.png",Minimini+
 https://pltv.uzis-room.ch/play/211
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-1-pt.png",RTP 1
-http://185.228.163.146:8000/play/a002
+https://tv.jassuncao.work/stream/channelid/1231390338?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-2-pt.png",RTP 2
-http://185.228.163.146:8000/play/a003
+https://tv.jassuncao.work/stream/channelid/695922566?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.3.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-notícias-pt.png",RTP Notícias
-http://185.228.163.146:8000/play/a007
+https://tv.jassuncao.work/stream/channelid/848847833?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.Maderia.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-maderia-pt.png",RTP Maderia
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48488.ts
+https://tv.jassuncao.work/stream/channelid/1715732000?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP.Acores.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-acores-pt.png",RTP Acores
+https://tv.jassuncao.work/stream/channelid/302424033?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="RTP.Memoria.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-memoria-pt.png",RTP Memoria
-http://94.61.151.242:9981/stream/channelid/2112311547?profile=pass
+https://tv.jassuncao.work/stream/channelid/55184791?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-pt.png",SIC
-http://185.228.163.146:8000/play/a004
+https://tv.jassuncao.work/stream/channelid/1045394095?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.K.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-k-pt.png",SIC K
-http://185.228.163.146:8000/play/a01q
+https://tv.jassuncao.work/stream/channelid/943759774?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.Radical.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-radical-pt.png",SIC Radical
-http://94.61.151.242:9981/stream/channelid/1379380866?profile=pass
+https://tv.jassuncao.work/stream/channelid/842908837?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.Caras.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-caras-pt.png",SIC Caras
-http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
+https://tv.jassuncao.work/stream/channelid/1724319966?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.Mulher.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-mulher-pt.png",SIC Mulher
-http://94.61.151.242:9981/stream/channelid/16607114?profile=pass
+https://tv.jassuncao.work/stream/channelid/1622743882?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.Noticais.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-noticias-pt.png",SIC Noticias
-http://94.61.151.242:9981/stream/channelid/1891676464?profile=pass
+https://tv.jassuncao.work/stream/channelid/2019850241?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvi-pt.png",TVI
+https://tv.jassuncao.work/stream/channelid/1284794752?profile=pass
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png",TVI Ficção 
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/TVI_Reality_%282017%29.png",TVI Reality 
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-id="Globo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/globo-pt.png",Globo
-http://94.61.151.242:9981/stream/channelid/1131975227?profile=pass
+https://tv.jassuncao.work/stream/channelid/620926503?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="Panda.Kids.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/panda-kids-pt.png",Panda Kids
+https://tv.jassuncao.work/stream/channelid/1580152897?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="Canal.Panda.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal-panda-pt.png",Canal Panda
+https://tv.jassuncao.work/stream/channelid/1025224952?profile=pass
+#EXTINF:-1 group-title="Portugal" tvg-id="Biggs.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/biggs-pt.png",Biggs
+https://tv.jassuncao.work/stream/channelid/1212496408?profile=pass
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/6/62/Cartoon_Network_South_Korea.png/revision/latest?cb=20191113004608" group-title="South Korea" tvg-logo="",Cartoon Network
 https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=EZYDWDyS1Bw7xiDHQvH0k39UGRrzeEZKFmbKHj7s&secret=afcfe5f046e1218d3cc5b160b4d5118b&time=1749703097
 #EXTINF:-1 group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/TVR_1_2022_logo.png",TVR 1
@@ -2491,13 +2501,13 @@ http://113.177.113.214:9981/stream/channelid/66742514?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png",Cartoon Network 
 http://113.177.113.214:9981/stream/channelid/1508867775?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV1_logo_2013_final.svg",VTV1
-http://171.224.203.69:81/stream/channelid/1734959414?profile=pass
+https://vips-livecdn.fptplay.net/live/media/VTV1HD/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/VTV2_logo_2013_final.svg",VTV2
-http://171.224.203.69:81/stream/channelid/1136978185?profile=pass
+https://vips-livecdn.fptplay.net/live/media/VTV2HD/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/VTV3_logo_2013_final.svg",VTV3
-http://171.224.203.69:81/stream/channelid/1473258167?profile=pass
+https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
-http://171.224.203.69:81/stream/channelid/843500589?profile=pass
+https://vips-livecdn.fptplay.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/1280px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png",VTV Cần Thơ
 http://171.224.203.69:81/stream/channelid/249882884?profile=pass
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",VTV7
