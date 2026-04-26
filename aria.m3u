@@ -2103,17 +2103,17 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 group-title="Thailand",Boom 
 https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png" group-title="Türkyie",aTV
-http://194.156.236.41:8002/play/a00q
+http://95.70.222.188:1234/stream/tivibuulusal/atvhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png" group-title="Türkyie",a2
-http://92.44.60.75:81/stream/channelid/1592189257?ticket=446D232FB27B399B9E69CB23208660BA77C3C8FC&profile=pass
+http://95.70.222.188:1234/stream/tivibuulusal/a2hd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-haber-tr.png" group-title="Türkyie",A Haber
-http://212.252.72.103:7070/play/a01d
+http://95.70.222.188:1234/stream/tivibuhaber/ahbaerhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png" group-title="Türkyie",CNN Türk
 http://212.252.72.103:7070/play/a012
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png" group-title="Türkyie",Kanal D
-http://92.44.60.75:81/stream/channelid/2089362198?ticket=B099DF4AD251AFAB99D5FE331F28882DB88BEF99&profile=pass
+http://95.70.222.188:1234/stream/tivibuulusal/kanald/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="Türkyie",Kanal 7
-http://212.252.72.103:7070/play/a01p
+http://95.70.222.188:1234/stream/tivibuulusal/kanal7hd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/ntv-tr.png" group-title="Türkyie",NTV
 http://212.252.72.103:7070/play/a00s
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/dmax-tr.png" group-title="Türkyie",DMAX
@@ -2121,11 +2121,11 @@ http://212.252.72.103:7070/play/a00t
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tlc-tr.png" group-title="Türkyie",TLC
 http://212.252.72.103:7070/play/a00u
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tv-tr.png" group-title="Türkyie",Show TV
-http://194.156.236.41:8002/play/a009
+http://95.70.222.188:1234/stream/tivibuulusal/showtvhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-max-tr.png" group-title="Türkyie",Show Max
 http://194.156.236.41:8002/play/a00b
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Türkyie",STAR TV 
-http://212.252.72.103:7070/play/a00r
+http://95.70.222.188:1234/stream/tivibuulusal/startvhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="Türkyie",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-2-tr.png" group-title="Türkyie",TRT 2
@@ -2143,19 +2143,29 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-diyanet-cocuk-tr.png" group-title="Türkyie",TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-tr.png" group-title="Türkyie",TV8
-http://212.252.72.103:7070/play/a01k
+http://95.70.222.188:1234/stream/tivibuulusal/tv8hd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv-8-5-tr.png" group-title="Türkyie",TV8.5
-http://212.252.72.103:7070/play/a01l
+http://95.70.222.188:1234/stream/tivibuulusal/tv85hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/250px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Türkyie",NOW
-http://194.156.236.41:8002/play/a00t
+http://95.70.222.188:1234/stream/tivibuulusal/nowhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/minika-go-tr.png" group-title="Türkyie",minikaGO
-http://212.252.72.103:7070/play/a01b
+http://95.70.222.188:1234/stream/tivibucocuk/minikago/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/minika-cocuk-tr.png" group-title="Türkyie",minikaCOCUK
-http://212.252.72.103:7070/play/a03n
+http://95.70.222.188:1234/stream/tivibucocuk/minikacocuk/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cartoonito-tr.png" group-title="Türkyie",Cartoonito
+http://95.70.222.188:1234/stream/tivibucocuk/cartoonito/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cartoon-network-tr.png" group-title="Türkyie",Cartoon Network
+http://95.70.222.188:1234/stream/tivibucocuk/cartoonnetwork/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="Türkyie",Nickelodeon
+http://95.70.222.188:1234/stream/tivibucocuk/nickelodeon/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nicktoons-us.png" group-title="Türkyie",Nick Toons
+http://95.70.222.188:1234/stream/tivibucocuk/nicktoons/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Türkyie",Nick Jr.
+http://95.70.222.188:1234/stream/tivibucocuk/nickjr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/teve-2-tr.png" group-title="Türkyie",Teve2
-http://212.252.72.103:7070/play/a013
+http://95.70.222.188:1234/stream/tivibuulusal/teve2/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Türkyie",CNBC-e
-https://theariatv.github.io/channeldead.mp4
+http://95.70.222.188:1234/stream/tivibuulusal/cnbce/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="Ukraine",TET
 https://iptv.prosto.tv/id11/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="United Arab Emirates",Abu Dhabi TV
