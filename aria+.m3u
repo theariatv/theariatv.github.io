@@ -188,6 +188,8 @@ http://kstv.us:8080/live/Felix12/3330312491/40758.ts
 http://kstv.us:8080/live/Felix12/3330312491/40760.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png",CHCH (CHCH-DT)
 http://kstv.us:8080/live/Felix12/3330312491/40754.ts
+#EXTINF:-1 group-title="Canada" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ntv-ca.png",NTV (CJON-DT)
+http://skynetdigital.us/live/Mdprime/XWDJKHMQBG/445317.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CHEK.Victoria.BC.ca" tvg-logo="https://harbourcats.com/wp-content/uploads/2017/06/CHEK_logo_2022.svg_.png",CHEK (CHEK-DT)
 http://103.176.90.186:80/live/f956994304/de7dd50f24/812561.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png",CityTV Toronto
