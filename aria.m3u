@@ -1344,89 +1344,87 @@ http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2370/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/luli-il.png" group-title="Israel" tvg-rec="3",Luli
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2364/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Italy",Rai 1
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" group-title="Italy",Rai 2
-https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="Italy",Rai 3
-https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png" group-title="Italy",Rai 4
-http://84.220.194.107:9981/stream/channelid/519303508?profile=pass
+http://91.146.94.234:10001/play/a02p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png" group-title="Italy",Rai 5
-http://84.220.194.107:9981/stream/channelid/388737623?profile=pass
+http://91.146.94.234:10001/play/a03a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4k-it.png" group-title="Italy",Rai 4K
-http://93.49.98.215:55555/Rai%204K
+http://91.146.94.234:10001/play/a131
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-news-24-it.png" group-title="Italy",Rai News 24
-https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Italy",Rai Sport
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+http://79.127.207.193/RaiSport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-storia-it.png" group-title="Italy",Rai Storia
-https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+http://79.127.207.193/RaiStoria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-gulp-it.png" group-title="Italy",Rai Gulp
-https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+http://79.127.207.193/RaiGulp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-yoyo-it.png" group-title="Italy",Rai YoYo
-http://84.220.194.107:9981/stream/channelid/29285153?profile=pass
+http://91.146.94.234:10001/play/a039
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-scuola-it.png" group-title="Italy",Rai Scuola
-https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+http://79.127.207.193/RaiScuola/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italy",Rai Movie
-http://84.220.194.107:9981/stream/channelid/1233176894?profile=pass
+http://91.146.94.234:10001/play/a02r
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" group-title="Italy",Rai Premium 
-http://84.220.194.107:9981/stream/channelid/878509227?profile=pass
+http://91.146.94.234:10001/play/a02q
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-1-it.png.png" group-title="Italy",Itaila 1
-https://cachehsi1a.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cielo-it.png" group-title="Italy",Cielo
+https://netplus.zappr.stream/italia1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cielo-it.png" group-title="Italy",Cielo [X]
 http://77.39.161.42:55555/Cielo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-2-it.png" group-title="Italy",Italia 2
-http://77.39.161.42:55555/Mediaset%20Italia2%20HD
+http://91.146.94.234:10001/play/a03n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rete4-it.png" group-title="Italy",Rete 4
-http://84.220.194.107:9981/stream/channelid/924450816?profile=pass
+https://netplus.zappr.stream/rete4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tgcom24-it.png" group-title="Italy",TGCOM 24
-http://77.39.161.42:55555/TGCOM24%20HD_1
+http://91.146.94.234:10001/play/a08t
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png" group-title="Italy",La7
-http://93.49.98.215:55555/LA7%20HD_2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7d-it.png" group-title="Italy",La7 D
-http://93.49.98.215:55555/LA7d_2
+https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7d-it.png" group-title="Italy",LA7 Cinema (La7 D)
+http://91.146.94.234:10001/play/a03r
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png" group-title="Italy",Canale 5
-https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+https://netplus.zappr.stream/canale5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png" group-title="Italy",TV8
-http://84.220.194.107:9981/stream/channelid/1329185929?profile=pass
+http://91.146.94.234:10001/play/a03b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/iris-it.png" group-title="Italy",Iris
-http://77.39.161.42:55555/Iris%20HD
+http://91.146.94.234:10001/play/a03i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/focus-it.png" group-title="Italy",Focus
-http://77.39.161.42:55555/Focus%20HD
+http://91.146.94.234:10001/play/a03d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/giallo-it.png" group-title="Italy",Giallo
-http://77.39.161.42:55555/GIALLO
+http://91.146.94.234:10001/play/a09p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/twenty-seven-it.png" group-title="Italy",27Twentyseven
-http://77.39.161.42:55555/27Twentyseven%20HD
+http://91.146.94.234:10001/play/a08u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cine34-it.png" group-title="Italy",Cine34
-http://77.39.161.42:55555/Cine34%20HD
+http://91.146.94.234:10001/play/a04o
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la-5-it.png" group-title="Italy",La 5
-http://77.39.161.42:55555/La5%20HD
+http://91.146.94.234:10001/play/a03k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/nove-it.png" group-title="Italy",Nove
-http://77.39.161.42:55555/NOVE
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dmax-it.png" group-title="Italy",DMAX
+http://91.146.94.234:10001/play/a09q
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dmax-it.png" group-title="Italy",DMAX [X]
 https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png" group-title="Italy",Discovery Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png" group-title="Italy",Discovery Channel [X]
 http://93.49.98.215:55555/Warner%20TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Italy",Food Network 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Italy",Food Network [X]
 http://93.49.98.215:55555/Food%20Network
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/motor-trend-us.png" group-title="Italy",MotorTrend
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/motor-trend-us.png" group-title="Italy",MotorTrend [X]
 http://93.49.98.215:55555/Motor%20Trend
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/real-time-it.png" group-title="Italy",RealTime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/real-time-it.png" group-title="Italy",RealTime [X]
 http://93.49.98.215:55555/Real%20Time
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Italy",HGTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Italy",HGTV [X]
 http://77.39.161.42:55555/HGTV%20%2D%20Home%26Garden
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png" group-title="Italy",Boing
-http://93.49.98.215:55555/Boing%20HD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/735px-Boing_Plus_logo_2020.svg.png?20201201165658" group-title="Italy",Boing Plus
+http://91.146.94.234:10001/play/a03j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/735px-Boing_Plus_logo_2020.svg.png?20201201165658" group-title="Italy",Boing Plus [X]
 http://77.39.161.42:55555/Boing%20Plus
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/frisbee-it.png" group-title="Italy",Frisbee
-http://93.49.98.215:55555/frisbee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/k2-it.png" group-title="Italy",K2
 http://93.49.98.215:55555/K2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-it.png" group-title="Italy",Super!/Super! Junior
-http://93.49.98.215:55555/Super!
+http://91.146.94.234:10001/play/a0j8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png" group-title="Italy",Cartoonito 
-http://77.39.161.42:55555/Cartoonito%20HD
+http://91.146.94.234:10001/play/a03p
 #EXTINF:-1 tvg-logo="https://api.cvmtv.com/storage/logos/ko8Z2ui2HPKwUmw6FW6DaV666PoaFVWeWqpKMYMI.png" group-title="Jamaica",CVM TV
 https://fl5.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Television_Jamaica_Logo.png/revision/latest?cb=20211223085709" group-title="Jamaica",TVJ
