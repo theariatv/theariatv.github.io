@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-logo="" group-title="This Is Aria",Aria (Promo)
+https://theariatv.github.io/aria2.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="Andorra",RTVA
 https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
 #EXTINF:-1 tvg-id="2x2" tvg-name="2x2_english" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/2x2.png" group-title="Aria Web Channels",2x2_english
