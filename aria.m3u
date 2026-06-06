@@ -1518,7 +1518,7 @@ http://181.78.4.250:8098/play/a060/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-us.png" group-title="Latin America",Discovery Channel 
 http://181.78.4.250:8098/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Latin America",Comedy Central 
-http://181.78.4.250:8098/play/a073/index.m3u8
+http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/home-and-health-br.png" group-title="Latin America",Discovery Home and Health
 http://181.78.4.250:8098/play/a07c/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-science-br.png" group-title="Latin America",Discovery Science 
