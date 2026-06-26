@@ -3,39 +3,31 @@
 https://theariatv.github.io/aria2.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="Andorra",RTVA
 https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
-#EXTINF:-1 tvg-id="2x2" tvg-name="2x2_english" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/2x2.png" group-title="Aria Web Channels",2x2_english
-https://rhine.webchnl.live/memfs/be88c390-19d4-4362-aaf9-a2eb6a3f758c.m3u8
-#EXTINF:-1 tvg-id="boomreborn" tvg-name="Boomerang Reborn" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/boomreborn.png" group-title="Aria Web Channels",Boomerang Reborn
-https://rhine.webchnl.live/memfs/0a6adc63-1ea7-49f1-9de1-1a81ad597e72.m3u8
-#EXTINF:-1 tvg-id="cnextras" tvg-name="Cartoon Network Extras" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/cnextras.png" group-title="Aria Web Channels",Cartoon Network Extras
-https://rhine.webchnl.live/memfs/53fec556-2421-48ac-9b8a-203f48ae1ca1.m3u8
-#EXTINF:-1 tvg-id="chroma" tvg-name="Chroma" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/chroma.png" group-title="Aria Web Channels",Chroma
-https://rhine.webchnl.live/memfs/cdb5b0cd-2a64-4b76-a1af-91fb8176df21.m3u8
-#EXTINF:-1 tvg-id="crossrift" tvg-name="CrossRift" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/crossrift.png" group-title="Aria Web Channels",CrossRift
-https://rhine.webchnl.live/memfs/47d19130-274d-443f-b757-b6165019fdb1.m3u8
-#EXTINF:-1 tvg-id="deflect" tvg-name="Deflect" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/deflect.png" group-title="Aria Web Channels",Deflect
-https://rhine.webchnl.live/memfs/8a788628-af64-4fae-8dac-2fcb9d1c4eae.m3u8
-#EXTINF:-1 tvg-id="dijit" tvg-name="DIJIT/Joy.Rebel" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/dijit.png" group-title="Aria Web Channels",DIJIT/Joy.Rebel
-https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8
-#EXTINF:-1 tvg-id="donebetter" tvg-name="DoneBetter" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/donebetter.png" group-title="Aria Web Channels",DoneBetter
-https://rhine.webchnl.live/memfs/a0277a2e-9e76-4060-9e07-5d6495e60a66.m3u8
-#EXTINF:-1 tvg-id="eel_ch" tvg-name="Eel Channel" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/eel_ch.png" group-title="Aria Web Channels",Eel Channel
-https://rhine.webchnl.live/memfs/ee44b078-5b16-4484-b054-76079dc2d45c.m3u8
-#EXTINF:-1 tvg-id="flashbak" tvg-name="flashBAK" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/flashbak.png" group-title="Aria Web Channels",flashBAK
-https://rhine.webchnl.live/memfs/d839aad2-f86a-49d9-bef3-e7c4c2b8e9f0.m3u8
-#EXTINF:-1 tvg-id="placid" tvg-name="Placid" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/placid.png" group-title="Aria Web Channels",Placid
-https://rhine.webchnl.live/memfs/7d25f0a4-6d46-4091-ba8e-63becd013d6d.m3u8
-#EXTINF:-1 tvg-id="spark" tvg-name="spark" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/spark.png" group-title="Aria Web Channels",Spark
-https://cdn.global.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/whiplash.png" group-title="Aria Web Channels",Whiplash
+#EXTINF:-1 tvg-id="2x2" tvg-name="2x2_english" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/2x2_logo_2021.svg" group-title="Aria Web Channels",2x2_english
+https://mci01.nive.live/18/index.m3u8
+#EXTINF:-1 tvg-id="boomerangreborn" tvg-name="Boomerang Reborn" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/boomerangreborn.png" group-title="Aria Web Channels",Boomerang Reborn
+https://twitch-m3u8.bastypro112.workers.dev/boomerangrebornalt/index.m3u8
+#EXTINF:-1 tvg-id="cnextras" tvg-logo="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png" group-title="Aria Web Channels",Cartoon Network/Toomani Extras
+https://mci01.nive.live/8/index.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://cdn.vaughnsoft.net/profile/1781875585/eel_ch.jpg" tvg-id="",Eel Channel
+https://mci01.nive.live/28/index.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/a/a1/TD_AGAIN.png/800px-TD_AGAIN.png" tvg-id="",Toon Disney
+https://mci01.nive.live/29/index.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg" tvg-id="",Placid
+https://toy.vcdn.fyi/placid/index.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://api.mistweather.com/api/v1.5/image/a5dacfb2-b663-40f8-a959-9cf03326f28c?width=96&height=96&fit=inside" tvg-id="",Magical
+https://watch.mistweather.com/hls/magicaltv/playlist.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://static.wikitide.net/indietvwiki/2/22/Animax_NA_logo_%282025-12-05%29-v1234.svg" tvg-id="",Animax_NA
+https://animax.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" tvg-id="C1.1.146.ersatztv.org",Whiplash
 https://cdn.whiplash.cc/whiplash/index.m3u8
-#EXTINF:-1 tvg-id="whiplash2" tvg-name="Whiplash II" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/whiplash2.png" group-title="Aria Web Channels",Whiplash II
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png" tvg-id="C2.1.147.ersatztv.org",Whiplash 2
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
-#EXTINF:-1 tvg-id="whiplashcinema" tvg-name="Whiplash Cinema" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/whiplashcinema.png" group-title="Aria Web Channels",Whiplash Cinema
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" tvg-id="C3.1.148.ersatztv.org",Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
-#EXTINF:-1 tvg-id="windowtv" tvg-name="Window TV" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/windowtv.png" group-title="Aria Web Channels",Window TV
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png" tvg-id="C3.147.ersatztv.org",Window TV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
-#EXTINF:-1 tvg-id="atlas"  tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" group-title="Aria Web Channels",Atlas
+#EXTINF:-1 group-title="Aria Web Channels" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" tvg-id="C7.151.ersatztv.org",Atlas
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-id="zenith" tvg-name="zén!th" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png?v=1773360618" group-title="Aria Web Channels",zén!th
 https://live.azenagroup.com/zenith/index.m3u8
