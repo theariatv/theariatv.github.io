@@ -84,15 +84,15 @@ https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 #EXTINF:-1 group-title="Armenia" tvg-logo="https://i.ibb.co/1GhzFH2F/1000024586-removebg-preview.png",First Channel International
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/atv-at.png",ATV 
-http://95.143.230.238:9981/stream/channelid/1315847318?profile=pass
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/atv2-at.png",ATV 2
-https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+http://212.186.45.34:9981/stream/channelid/577097005?profile=pass
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png",ORF 1 
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+http://212.186.45.34:9981/stream/channelid/2103421083?profile=pass
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png",ORF 2 
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/330px-ORF_III_Logo_Monochrom.svg.png",ORF III
-http://212.95.30.186:9981/stream/channelid/817337321?profile=pass
+http://212.186.45.34:9981/stream/channelid/940428526?profile=pass
 #EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ORF_Sport_%2B_Logo_2024.svg/2560px-ORF_Sport_%2B_Logo_2024.svg.png",ORF Sport+
 http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
 #EXTINF:-1 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-kids-at.png",ORF Kids 
@@ -100,7 +100,7 @@ https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
 #EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/250px-Puls4.svg.png",Puls 4
 http://95.143.230.238:9981/stream/channelid/1162587148?profile=pass
 #EXTINF:-1 group-title="Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Puls_24_Logo_2022.svg/1200px-Puls_24_Logo_2022.svg.png",Puls 24
-http://212.186.45.34:9981/stream/channelid/1840087075?profile=pass
+http://212.186.45.34:9981/stream/channelid/1503561128?profile=pass
 #EXTINF:-1 group-title="Austria" tvg-id="ServusTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/servus-tv-at.png",ServusTV HD
 http://95.143.230.238:9981/stream/channelid/226843454?profile=pass
 #EXTINF:-1 group-title="Austria" tvg-id="Tirol TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/tirol-tv-at.png",Tirol TV
