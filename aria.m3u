@@ -328,6 +328,8 @@ http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
 http://38.143.48.212:9981/stream/channelid/1520310405?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png",CBC
 http://stream.cammonitorplus.net/1704/index.m3u8
+#EXTINF:-1 group-title="Canada" tvg-id="CBUT.HDTV.(CBUTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png",CBC West
+http://44.25.145.45:5004/auto/v2.1
 #EXTINF:-1 group-title="Canada" tvg-id="CBC.News.Network.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png",CBC News Network 
 http://38.143.48.212:9981/stream/channelid/1944859004?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="CHCH.Hamilton.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png",CHCH (CHCH-DT)
@@ -336,6 +338,8 @@ http://38.143.48.212:9981/stream/channelid/834583504?profile=pass
 https://livecdn.use1-0004.jwplive.com/live/sites/HGOnqYhO/media/i9sjcGbc/live.isml/.mpd
 #EXTINF:-1 group-title="Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png",CityTV 
 http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
+#EXTINF:-1 group-title="Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png",CityTV Vancouver (CKVU)
+http://44.25.145.45:5004/auto/v27.1
 #EXTINF:-1 group-title="Canada" tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cmt-ca.png",CMT
 http://161.129.178.2/cmt/playlist.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="cpac.francais.ca" tvg-logo="https://media.starlite.best/cpac.francais.ca.png",CPAC
@@ -356,8 +360,12 @@ http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
 http://38.143.48.212:9981/stream/channelid/2101272479?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Toronto (CFTO)
 http://stream.cammonitorplus.net/1714/index.m3u8
-#EXTINF:-1 group-title="Canada" tvg-id="CTV1.(CKVR).Barrie,.ON.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2.png",CTV2 (CKVR)
+#EXTINF:-1 group-title="Canada" tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Vancover (CIVT)
+http://44.25.145.45:5004/auto/v32.1
+#EXTINF:-1 group-title="Canada" tvg-id="CTV1.(CKVR).Barrie,.ON.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2.png",CTV2 Barrie (CKVR)
 http://stream.cammonitorplus.net/1736/index.m3u8
+#EXTINF:-1 group-title="Canada" tvg-id="CTV1.(CKVR).Barrie,.ON.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2.png",CTV2 Victoria (CIVI)
+http://44.25.145.45:5004/auto/v23.1
 #EXTINF:-1 group-title="Canada" tvg-id="deja.view.ca" tvg-logo="https://media.starlite.best/deja.view.ca.png",Deja View
 http://38.143.48.212:9981/stream/channelid/1478849894?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="dtour.ca" tvg-logo="https://media.starlite.best/dtour.ca.png",DTOUR
@@ -378,6 +386,8 @@ http://161.129.178.2/fx/playlist.m3u8
 http://161.129.178.5/fxx/playlist.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png",Global Toronto (CIII)
 http://stream.cammonitorplus.net/1730/index.m3u8
+#EXTINF:-1 group-title="Canada" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png",Global BC (CHAN)
+http://44.25.145.45:5004/auto/v8.1
 #EXTINF:-1 group-title="Canada" tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://globalnews.ca/wp-content/uploads/2015/01/BC1-pos-hor.png?w=320",Global News BC1
 http://stream.cammonitorplus.net/1729/index.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="History.Canada.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png",History
