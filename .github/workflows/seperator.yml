@@ -1,0 +1,87 @@
+name: Sort aria.m3u into Groups
+
+on:
+  push:
+    paths:
+      - 'aria.m3u'
+  workflow_dispatch:
+
+permissions:
+  contents: write 
+
+jobs:
+  sort-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Parse and sort M3U using Bash
+        run: |
+          mkdir -p stable
+          
+          # Check if file exists
+          if [ ! -f "aria.m3u" ]; then
+            echo "aria.m3u not found!"
+            exit 1
+          fi
+
+          current_group="Uncategorized"
+          current_extinf=""
+
+          # Read line by line
+          while IFS= read -r line || [ -n "$line" ]; do
+            # Skip empty lines or the main header
+            if [[ -z "$line" ]] || [[ "$line" == "#EXTM3U"* ]]; then 
+              continue 
+            fi
+            
+            # If it's a metadata line
+            if [[ "$line" == "#EXTINF:"* ]]; then
+              current_extinf="$line"
+              
+              # Extract group-title using bash regex
+              if [[ "$line" =~ group-title=\"([^\"]+)\" ]]; then
+                current_group="${BASH_REMATCH[1]}"
+              else
+                current_group="Uncategorized"
+              fi
+              
+              # Sanitize the group name for safe filenames (removes / \ * ? : " < > | )
+              safe_filename=$(echo "$current_group" | tr -d '\\/*?:"<>|' | xargs)
+              if [[ -z "$safe_filename" ]]; then 
+                safe_filename="Unknown_Group" 
+              fi
+              
+              # Add the #EXTM3U header to the new file if it doesn't exist yet
+              if [[ ! -f "stable/${safe_filename}.m3u" ]]; then
+                echo "#EXTM3U" > "stable/${safe_filename}.m3u"
+              fi
+              
+            # If it's the URL line following a metadata line
+            elif [[ -n "$current_extinf" ]]; then
+              safe_filename=$(echo "$current_group" | tr -d '\\/*?:"<>|' | xargs)
+              
+              # Append both the metadata and the URL to the group's file
+              echo "$current_extinf" >> "stable/${safe_filename}.m3u"
+              echo "$line" >> "stable/${safe_filename}.m3u"
+              
+              # Reset for the next channel
+              current_extinf=""
+            fi
+          done < aria.m3u
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add stable/
+          
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "Auto-sort aria.m3u via bash"
+            git push
+          fi
