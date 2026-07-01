@@ -1,0 +1,46 @@
+name: Generate M3U Playlists
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'channels/**'
+      - 'generator.py'
+      - '.github/workflows/**'
+  pull_request:
+    branches:
+      - main
+      - master
+    paths:
+      - 'channels/**'
+      - 'generator.py'
+
+jobs:
+  generate-playlists:
+    runs-on: ubuntu-latest
+    
+    # Required permissions to allow GitHub Actions to push changes back to the repository
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run playlist generator
+        run: python generator.py
+
+      - name: Commit and push generated M3U files (Push events only)
+        if: github.event_name == 'push'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update m3u playlists [skip ci]"
+          file_pattern: main/
+          branch: ${{ github.head_ref || github.ref_name }}
