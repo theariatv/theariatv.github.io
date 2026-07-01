@@ -15,7 +15,7 @@ on:
       - master
     paths:
       - 'channels/**'
-      - 'generator.py'
+      - 'channels.py'
 
 jobs:
   generate-playlists:
@@ -35,7 +35,7 @@ jobs:
           python-version: '3.11'
 
       - name: Run playlist generator
-        run: python generator.py
+        run: python channels.py
 
       - name: Commit and push generated M3U files (Push events only)
         if: github.event_name == 'push'
