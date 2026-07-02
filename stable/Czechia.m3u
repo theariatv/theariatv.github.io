@@ -30,7 +30,7 @@ https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live
 #EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" group-title="Czech Republic 🇨🇿",Prima
 https://sktv.mxnticek.eu/new/stream.php?ch=Prima
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" group-title="Czech Republic 🇨🇿",CNN Prima News
-http://90.178.86.156:9981/stream/channelid/1443888704?ticket=B2AC43F9C197099EE2A723A8B5D26A8402094755&profile=pass
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
 #EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-zoom-cz.png" group-title="Czech Republic 🇨🇿",Prima Zoom
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaZoom
 #EXTINF:-1 tvg-id="PrimaLove.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-love-cz.png" group-title="Czech Republic 🇨🇿",Prima Love
@@ -85,14 +85,8 @@ http://tvh.cyn.cz/stream/channelid/196862385?profile=pass
 http://tvh.cyn.cz/stream/channelid/1759467266?profile=pass
 #EXTINF:-1 tvg-id="ČT24.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/1200px-%C4%8CT24_logo.png" group-title="Czech Republic 🇨🇿",ČT 24
 http://tvh.cyn.cz/stream/channelid/1020391357?profile=pass
-#EXTINF:-1 tvg-id="ČT.Sport.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="Czech Republic 🇨🇿",ČT Sport
-http://90.178.86.156:9981/stream/channelid/1745304008?ticket=ACF82485DC378262BD28880929F9F185FB17865F&profile=pass
 #EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prima_2013.svg/250px-Prima_2013.svg.png" group-title="Czech Republic 🇨🇿",TV Prima
 http://90.178.86.156:9981/stream/channelid/1669214446?ticket=BDA09228D9A1E3C5444CB168C684A21C7FE37A29&profile=pass
-#EXTINF:-1 tvg-id="Prima.COOL.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",Prima COOL
-https://webstream.odjezdy.online/CZ/PrimaCool/video.m3u8
-#EXTINF:-1 tvg-id="Prima.Krimi.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",Prima KRIMI
-http://90.178.86.156:9981/stream/channelid/434374074?ticket=7C393BCECE5427E6BEB3714B4C4B220EC2D33EB5&profile=pass
 #EXTINF:-1 tvg-id="Prima.Show.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",Prima SHOW
 http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass
 #EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",OCKO
