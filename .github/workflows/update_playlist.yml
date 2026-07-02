@@ -1,0 +1,41 @@
+name: Weekly IPTV Channels Update
+
+on:
+  schedule:
+    # Runs automatically every Monday at 00:00 UTC
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+    # Allows manual triggering from the GitHub interface
+
+permissions:
+  contents: write
+
+jobs:
+  update-channels:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run the conversion script
+        run: python update_da_playlists.py
+
+      - name: Commit and Push generated Markdown files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # The -A parameter ensures new files are added, existing ones are updated,
+          # and any deleted states are correctly removed from the channels folder.
+          git add -A channels/
+          
+          # If there are no changes, git commit will fail. 
+          # "|| echo" prevents the workflow from failing.
+          git commit -m "Auto-update playlists in the channels directory" || echo "No changes to commit"
+          git push
