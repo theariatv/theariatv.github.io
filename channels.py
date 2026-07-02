@@ -24,7 +24,10 @@ def parse_md_files():
         return
 
     for file_path in md_files:
-        state_name = os.path.basename(file_path).replace(".md", "")
+        raw_filename = os.path.basename(file_path).replace(".md", "")
+        
+        # Fallback state name in case the file has no heading (e.g., "united_states" -> "United States")
+        state_name = raw_filename.replace("_", " ").title()
         
         state_stable = []
         state_unstable = []
@@ -34,6 +37,12 @@ def parse_md_files():
 
         for line in lines:
             line = line.strip()
+
+            # Extract custom title from markdown header (e.g., "# United States 🇺🇸")
+            if line.startswith("#") and not line.startswith("#EXT") and not "Kanály:" in line:
+                clean_title = re.sub(r'^#+\s*', '', line).strip()
+                if clean_title:
+                    state_name = clean_title
 
             if line.startswith("|") and not line.startswith("| # |") and not line.startswith("|:-"):
                 parts = [p.strip() for p in line.split("|")]
@@ -49,12 +58,14 @@ def parse_md_files():
                     logo_match = re.search(r'src="(.*?)"', logo_raw)
                     logo = logo_match.group(1) if logo_match else ""
 
-                    epg_id = parts[5].strip()
+                    # Fix for the &nbsp; issue - completely strip it out
+                    epg_id = parts[5].replace("&nbsp;", "").strip()
                     stream_type = parts[6].lower().strip()
 
                     if not link:
                         continue
 
+                    # Generate the M3U line with the properly formatted group-title and empty tvg-id if needed
                     m3u_entry = f'#EXTINF:-1 tvg-id="{epg_id}" tvg-logo="{logo}" group-title="{state_name}",{channel_name}\n{link}\n'
 
                     if stream_type == "stable":
@@ -67,14 +78,14 @@ def parse_md_files():
 
         # 1. Stable state playlist (saved in root /stable/)
         if state_stable:
-            state_stable_file = os.path.join(OUTPUT_DIR, "stable", f"{state_name}.m3u")
+            state_stable_file = os.path.join(OUTPUT_DIR, "stable", f"{raw_filename}.m3u")
             with open(state_stable_file, "w", encoding="utf-8") as out:
                 out.write("#EXTM3U\n" + "".join(state_stable))
             mega_aria.extend(state_stable)
 
         # 2. Extended state playlist (saved in root /aria+/)
         if state_unstable:
-            state_unstable_file = os.path.join(OUTPUT_DIR, "aria+", f"{state_name}.m3u")
+            state_unstable_file = os.path.join(OUTPUT_DIR, "aria+", f"{raw_filename}.m3u")
             with open(state_unstable_file, "w", encoding="utf-8") as out:
                 out.write("#EXTM3U\n" + "".join(state_unstable))
             mega_aria_plus.extend(state_unstable)
