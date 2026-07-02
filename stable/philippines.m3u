@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="philippines",GMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="Philippines",GMA
 https://ott.m3u8.nathcreqtives.com/gma/manifest.m3u8

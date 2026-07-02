@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV1_logolnk.lt.png" group-title="lithuania",TV1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV1_logolnk.lt.png" group-title="Lithuania",TV1
 http://78.56.193.170:9981/stream/channelid/328469358?profile=pass
-#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LRT_TV_Logo_2022.svg/250px-LRT_TV_Logo_2022.svg.png" group-title="lithuania",LRT TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LRT_TV_Logo_2022.svg/250px-LRT_TV_Logo_2022.svg.png" group-title="Lithuania",LRT TV
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6360/index.m3u8
-#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png" group-title="lithuania",LRT Plius
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/250px-LRT_Plius_Logo_2022.svg.png" group-title="Lithuania",LRT Plius
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6362/index.m3u8
-#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://play-lh.googleusercontent.com/CxJPaEVfX018WxwGaGedmCmBYpZlzqsI2PrGNCdofITvoeysAeHYovPeqMmAOCRdsBY" group-title="lithuania",TV3
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/CxJPaEVfX018WxwGaGedmCmBYpZlzqsI2PrGNCdofITvoeysAeHYovPeqMmAOCRdsBY" group-title="Lithuania",TV3
 http://78.56.193.170:9981/stream/channelid/850565852?profile=pass
-#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LNK_logotipas.png" group-title="lithuania",LNK
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LNK_logotipas.png" group-title="Lithuania",LNK
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6405/index.m3u8
-#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TV8_Logo_2022.svg/120px-TV8_Logo_2022.svg.png" group-title="lithuania",TV8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TV8_Logo_2022.svg/120px-TV8_Logo_2022.svg.png" group-title="Lithuania",TV8
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/6355/index.m3u8
-#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV3_Plus_Logo_2021.svg/1200px-TV3_Plus_Logo_2021.svg.png" group-title="lithuania",TV3 Plus
+#EXTINF:-1 tvg-id="" tvg-logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV3_Plus_Logo_2021.svg/1200px-TV3_Plus_Logo_2021.svg.png" group-title="Lithuania",TV3 Plus
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12001/index.m3u8

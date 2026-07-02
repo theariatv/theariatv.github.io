@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/belsat-pl.png" group-title="belarus",Belsat
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/belsat-pl.png" group-title="Belarus",Belsat
 http://78.56.193.170:9981/stream/channelid/358696833?profile=pass
