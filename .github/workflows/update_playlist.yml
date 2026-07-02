@@ -24,7 +24,7 @@ jobs:
           python-version: '3.11'
 
       - name: Run the conversion script
-        run: python update_da_playlists.py
+        run: python updater.py
 
       - name: Commit and Push generated Markdown files
         run: |
