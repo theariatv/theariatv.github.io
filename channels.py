@@ -6,10 +6,41 @@ import re
 INPUT_DIR = "./channels"       # Directory containing the state .md files
 OUTPUT_DIR = "."               # ROOT directory for the generated .m3u files
 
+# Dictionary for automatic flag assignment
+FLAG_MAP = {
+    "United States": "🇺🇸", "Guyana": "🇬🇾", "Cyprus": "🇨🇾", "Türkyie": "🇹🇷", "Turkey": "🇹🇷",
+    "Slovakia": "🇸🇰", "Japan": "🇯🇵", "Iceland": "🇮🇸", "Spain": "🇪🇸", "Columbia": "🇨🇴", "Colombia": "🇨🇴",
+    "Argentina": "🇦🇷", "Australia": "🇦🇺", "Finland": "🇫🇮", "North Macedonia": "🇲🇰", "Germany": "🇩🇪",
+    "Portugal": "🇵🇹", "Singapore": "🇸🇬", "Brazil": "🇧🇷", "Lithuania": "🇱🇹", "Philippines": "🇵🇭",
+    "Poland": "🇵🇱", "Belarus": "🇧🇾", "Bulgaria": "🇧🇬", "Vietnam": "🇻🇳", "San Marino": "🇸🇲",
+    "Norway": "🇳🇴", "Montenegro": "🇲🇪", "United Arab Emirates": "🇦🇪", "Israel": "🇮🇱", "Iran": "🇮🇷",
+    "Mexico": "🇲🇽", "Albania": "🇦🇱", "Greece": "🇬🇷", "Slovenia": "🇸🇮", "North Korea": "🇰🇵",
+    "Switzerland": "🇨🇭", "Bosnia and Herzegovina": "🇧🇦", "Serbia": "🇷🇸", "Vatican City": "🇻🇦",
+    "Croatia": "🇭🇷", "Denmark": "🇩🇰", "Monaco": "🇲🇨", "Andorra": "🇦🇩", "Ukraine": "🇺🇦",
+    "Austria": "🇦🇹", "New Zealand": "🇳🇿", "Moldova": "🇲🇩", "Russia": "🇷🇺", "Netherlands": "🇳🇱",
+    "Estonia": "🇪🇪", "Italy": "🇮🇹", "Romania": "🇷🇴", "Chile": "🇨🇱", "France": "🇫🇷", "South Africa": "🇿🇦",
+    "Georgia": "🇬🇪", "Belgium": "🇧🇪", "Costa Rica": "🇨🇷", "India": "🇮🇳", "United Kingdom": "🇬🇧",
+    "Czech Republic": "🇨🇿", "Czechia": "🇨🇿", "Hungary": "🇭🇺", "China": "🇨🇳", "South Korea": "🇰🇷",
+    "Sweden": "🇸🇪", "Faroe Islands": "🇫🇴", "Ireland": "🇮🇪", "Armenia": "🇦🇲", "Azerbaijan": "🇦🇿",
+    "Luxembourg": "🇱🇺", "Jamaica": "🇯🇲", "Thailand": "🇹🇭", "Canada": "🇨🇦", "Latin America": "🌎",
+    "International": "🌍", "Caribbean": "🏝️", "Africa": "🌍"
+}
+
 def ensure_directories():
     """Creates the output folder structure if it doesn't exist."""
     os.makedirs(os.path.join(OUTPUT_DIR, "stable"), exist_ok=True)
     os.makedirs(os.path.join(OUTPUT_DIR, "aria+"), exist_ok=True)
+
+def apply_flag(name):
+    """Appends a flag emoji to the state name if it's missing."""
+    clean_name = name.strip()
+    # Check if the name already ends with an emoji/flag or if it's in our map
+    for country, flag in FLAG_MAP.items():
+        if country.lower() == clean_name.lower():
+            if flag not in clean_name:
+                return f"{clean_name} {flag}"
+            break
+    return clean_name
 
 def parse_md_files():
     ensure_directories()
@@ -30,7 +61,7 @@ def parse_md_files():
     for file_path in md_files:
         raw_filename = os.path.basename(file_path).replace(".md", "")
         
-        # Fallback state name in case the file has no heading (e.g., "united_states" -> "United States")
+        # Fallback state name in case the file has no heading
         state_name = raw_filename.replace("_", " ").title()
         
         state_stable = []
@@ -42,11 +73,14 @@ def parse_md_files():
         for line in lines:
             line = line.strip()
 
-            # Extract custom title from markdown header (e.g., "# United States 🇺🇸")
+            # Extract custom title from markdown header
             if line.startswith("#") and not line.startswith("#EXT") and not "Kanály:" in line:
                 clean_title = re.sub(r'^#+\s*', '', line).strip()
                 if clean_title:
                     state_name = clean_title
+
+            # Apply flag to the state name
+            state_name = apply_flag(state_name)
 
             if line.startswith("|") and not line.startswith("| # |") and not line.startswith("|:-"):
                 parts = [p.strip() for p in line.split("|")]
@@ -69,7 +103,7 @@ def parse_md_files():
                     if not link:
                         continue
 
-                    # Generate the M3U line with the properly formatted group-title and empty tvg-id if needed
+                    # Generate the M3U line with the properly formatted group-title (with flag)
                     m3u_entry = f'#EXTINF:-1 tvg-id="{epg_id}" tvg-logo="{logo}" group-title="{state_name}",{channel_name}\n{link}\n'
 
                     if stream_type == "stable":
@@ -104,15 +138,7 @@ def parse_md_files():
 
         print(f"Processed state: {state_name} (Stable: {len(state_stable)}, Total: {len(state_unstable)})")
 
-    # Sort dictionary keys alphabetically and compile the final lists
-    for stable_state in sorted(grouped_channels if 'grouped_channels' in locals() else grouped_channels.keys() if False else sorted(list(grouped_channels.keys()))):
-        pass # placeholder loop format block fallback safely handled below via sorted keys loop
-
-    # Correct sorting loop execution for stable mega playlist
-    for sorted_state in sorted(grouped_channels.keys() if 'grouped_channels' in locals() else sorted(list(set(stable_channels_keys := [ch['state'].strip().title() for ch in stable_channels] + [ch['state'].strip().title() for ch in unstable_channels])))):
-        pass
-
-    # Concrete alphabetical compilation block
+    # Compile the final lists alphabetically sorted by state_name (which includes the flag)
     for sorted_state in sorted(mega_stable_dict.keys()):
         mega_aria.extend(mega_stable_dict[sorted_state])
 
@@ -127,7 +153,7 @@ def parse_md_files():
         out.writelines(mega_aria_plus)
 
     print("\n--- DONE ---")
-    print(f"Playlists generated in root directory (strictly sorted alphabetically by group-title).")
+    print("Playlists generated in root directory (strictly sorted alphabetically by group-title).")
 
 if __name__ == "__main__":
     parse_md_files()
