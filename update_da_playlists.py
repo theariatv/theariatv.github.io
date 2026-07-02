@@ -114,10 +114,20 @@ def generate_markdown_by_state(stable_channels, unstable_channels, output_dir="c
 
     # Merge and generate files
     for state, channels in grouped_channels.items():
-        safe_filename = "".join([c if c.isalnum() else "_" for c in state]).lower()
-        safe_filename = re.sub(r'_+', '_', safe_filename).strip('_')
+        # Vytvoření bezpečného názvu bez vynucení malých písmen přes .lower()
+        safe_filename_base = "".join([c if c.isalnum() else "_" for c in state])
+        safe_filename_base = re.sub(r'_+', '_', safe_filename_base).strip('_')
         
-        file_path = os.path.join(output_dir, f"{safe_filename}.md")
+        target_filename = f"{safe_filename_base}.md"
+        
+        # Chytré hledání: Zkontroluje složku bez ohledu na velikost písmen
+        if os.path.exists(output_dir):
+            for existing_file in os.listdir(output_dir):
+                if existing_file.lower() == target_filename.lower():
+                    target_filename = existing_file
+                    break
+        
+        file_path = os.path.join(output_dir, target_filename)
 
         # Load existing data to avoid destruction of manual edits
         existing_title, existing_channels = parse_existing_markdown(file_path)
