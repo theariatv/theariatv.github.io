@@ -46,10 +46,10 @@
 | 42 | ČT :D (06-20h CET) | [>](http://tvh.cyn.cz/stream/channelid/1759467266?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/%C4%8CT-D_logo.svg"/> | ČT.Déčko.cz | unstable |
 | 43 | ČT Art (20-04h CET) | [>](http://tvh.cyn.cz/stream/channelid/1759467266?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/%C4%8CT_art.svg/250px-%C4%8CT_art.svg.png"/> | ČT.art.cz | stable |
 | 44 | ČT 24 | [>](http://tvh.cyn.cz/stream/channelid/1020391357?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/1200px-%C4%8CT24_logo.png"/> | ČT24.cz | stable |
-| 45 | ČT Sport | [>](http://90.178.86.156:9981/stream/channelid/1745304008?ticket=ACF82485DC378262BD28880929F9F185FB17865F&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png"/> | ČT.Sport.cz | stable |
+| 45 | ČT Sport | [>](http://90.178.86.156:9981/stream/channelid/1745304008?ticket=ACF82485DC378262BD28880929F9F185FB17865F&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png"/> | ČT.Sport.cz | unstable |
 | 46 | TV Prima | [>](http://90.178.86.156:9981/stream/channelid/1669214446?ticket=BDA09228D9A1E3C5444CB168C684A21C7FE37A29&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prima_2013.svg/250px-Prima_2013.svg.png"/> | Prima.cz | stable |
-| 47 | Prima COOL | [>](https://webstream.odjezdy.online/CZ/PrimaCool/video.m3u8) | Prima COOL | Prima.COOL.cz | stable |
-| 48 | Prima KRIMI | [>](http://90.178.86.156:9981/stream/channelid/434374074?ticket=7C393BCECE5427E6BEB3714B4C4B220EC2D33EB5&profile=pass) | Prima KRIMI | Prima.Krimi.cz | stable |
+| 47 | Prima COOL | [>](https://webstream.odjezdy.online/CZ/PrimaCool/video.m3u8) | Prima COOL | Prima.COOL.cz | unstable |
+| 48 | Prima KRIMI | [>](http://90.178.86.156:9981/stream/channelid/434374074?ticket=7C393BCECE5427E6BEB3714B4C4B220EC2D33EB5&profile=pass) | Prima KRIMI | Prima.Krimi.cz | unstable |
 | 49 | Prima SHOW | [>](http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass) | Prima SHOW | Prima.Show.cz | stable |
 | 50 | OCKO | [>](http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass) | OCKO | Óčko.cz | stable |
 | 51 | OCKO STAR | [>](http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass) | OCKO STAR | Óčko.STAR.cz | stable |
