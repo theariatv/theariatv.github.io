@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",NHK BS
+https://43.100.9.67/api/streams/live/bs101/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",WOWOW Prime
+https://43.100.9.67/api/streams/live/bs191/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",WOWOW Live
+https://43.100.9.67/api/streams/live/bs192/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",WOWOW Cinema
+https://43.100.9.67/api/streams/live/bs193/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",MTV
+https://43.100.9.67/api/streams/live/cs323/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",Dlife
+https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",Fuji TV One
+https://43.100.9.67/api/streams/live/cs307/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",Fuji TV Two
+https://43.100.9.67/api/streams/live/cs308/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",Fuji TV Next
+https://43.100.9.67/api/streams/live/cs309/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",J Sports 1
+https://43.100.9.67/api/streams/live/bs242/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",J Sports 2
+https://43.100.9.67/api/streams/live/bs243/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",J Sports 3
+https://43.100.9.67/api/streams/live/bs244/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",J Sports 4
+https://43.100.9.67/api/streams/live/bs245/1080p-60fps/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",Disney Channel
+https://43.100.9.67/api/streams/live/bs256/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",Disney Jr.
+https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",Cartoon Network
+https://43.100.9.67/api/streams/live/cs331/1080p/mpegts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="japan",Kids Station
+https://43.100.9.67/api/streams/live/cs330/1080p/mpegts

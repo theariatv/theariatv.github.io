@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",BHT 1 HD
+https://mob.webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",Arena 1X2 HD
+http://31.47.28.102:8000/play/a00c
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",Arena Fight HD
+http://31.47.28.102:8000/play/a00x
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",Arena Sport 1 HD
+http://31.47.28.102:8000/play/a002
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",Arena Sport 2 HD
+http://31.47.28.102:8000/play/a003
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",Arena Sport 3 HD
+http://31.47.28.102:8000/play/a004
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",Arena Sport 4 HD
+http://31.47.28.102:8000/play/a005
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",Arena Sport 5 HD
+http://31.47.28.102:8000/play/a006
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",Arena Sport 6 HD
+http://31.47.28.102:8000/play/a007
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",Arena Sport Premium 1 HD
+http://31.47.28.102:8000/play/a008
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",Arena Sport Premium 2 HD
+http://31.47.28.102:8000/play/a00a
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="bosnia_and_herzegovina",Arena Sport Premium 3 HD
+http://31.47.28.102:8000/play/a00b

@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-1-es.png" group-title="spain",La 1
+http://176.65.146.237:8401/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tve-2-es.png" group-title="spain",La 2
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png" group-title="spain",Antena 3
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cuatro-es.png" group-title="spain",Cuatro
+http://213.97.163.175:4022/udp/239.10.20.20:1234
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/telecinco-es.png" group-title="spain",TeleCinco
+http://213.97.163.175:4022/udp/239.10.20.19:1234
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/lasexta-es.png" group-title="spain",La Sexta
+http://83.63.50.226:9981/stream/channelid/55679957?ticket=BEE678E994F1571037FEFF18360CE90E9456D629&profile=pass
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/veo7-es.png" group-title="spain",Veo7
+http://213.97.163.175:4022/udp/239.10.20.54:1234
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ten-es.png" group-title="spain",TEN
+http://83.63.50.226:9981/stream/channelid/1349494453?ticket=131D76BF52B27F2280DA13CF7A2EA9F9F69F312C&profile=pass
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/mega-es.png" group-title="spain",MEGA
+http://83.63.50.226:9981/stream/channelid/1448246896?ticket=B709E180B8984A4999ACC22A587A8C5EDFD46A81&profile=pass
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/neox-es.png" group-title="spain",Neox
+http://176.65.146.237:8401/play/a0ag/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/bemad-es.png" group-title="spain",BeMad
+http://176.65.146.99:4307/
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png" group-title="spain",Nova
+http://83.63.50.226:9981/stream/channelid/1553561540?ticket=0A473D5AA41246C3F05C089DCD6C52195724370F&profile=pass
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dmax-es.png" group-title="spain",DMAX
+http://213.97.163.175:4022/udp/239.10.20.53:1234
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tv3-es.png" group-title="spain",TV3
+http://213.97.163.175:4022/udp/239.10.20.100:1234
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png" group-title="spain",3/24
+http://213.97.163.175:4022/udp/239.10.20.101:1234
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/esport3-es.png" group-title="spain",Esport3
+http://213.97.163.175:4022/udp/239.10.20.103:1234
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Squirrel_TV_logo.svg/1920px-Squirrel_TV_logo.svg.png" group-title="spain",Squirrel
+http://176.65.146.237:8401/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="spain",Sqirrel Dos
+http://213.97.163.175:4022/udp/239.10.20.52:1234
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="spain",A3Series
+http://176.65.146.99:4310/
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clan-es.png" group-title="spain",Clan
+http://176.65.146.99:4306/
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png" group-title="spain",Boing
+http://213.97.163.175:4022/udp/239.10.20.50:1234
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/sx3-es.png" group-title="spain",SX3
+http://213.97.163.175:4022/udp/239.10.20.102:1234
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/24h-es.png" group-title="spain",24h
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png" group-title="spain",Teledeporte (TDP)
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8

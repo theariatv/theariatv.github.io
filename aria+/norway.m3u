@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/norway/nrk1-no.png" group-title="norway",NRK 1
+http://groundhogday.in/live/Jok123/Jok123/3414721.ts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/norway/nrk2-no.png" group-title="norway",NRK 2
+http://groundhogday.in/live/Jok123/Jok123/3414722.ts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/norway/nrk3-no.png" group-title="norway",NRK 3/NRK Super
+http://groundhogday.in/live/Jok123/Jok123/3414723.ts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/norway/tv2-no.png" group-title="norway",TV 2
+http://groundhogday.in/live/Jok123/Jok123/3414724.ts
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/disney-channel-de.png" group-title="norway",Disney Channel
+http://qgvwnqgr.mexamo.xyz/live/911FA6VS/2T3C7P57/290505.ts

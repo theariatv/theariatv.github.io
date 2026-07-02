@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",&flix
+http://103.182.170.32:8888/play/a02a
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",&tv
+http://103.182.170.32:8888/play/a03v
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Cartoon Network
+http://103.182.170.32:8888/play/a04o
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Cartoon Network HD+
+http://103.182.170.32:8888/play/a035
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Colors Bangla
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Colors Cineplex Bollywood
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Colors Cineplex
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Colors Infinity
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Disney Channel
+http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Disney International HD
+http://103.182.170.32:8888/play/a01y
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Disney Junior
+http://103.182.170.32:8888/play/a03q
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",ETV Bal Bharat
+http://103.182.170.32:8888/play/a022
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Hungama
+http://103.182.170.32:8888/play/a04b
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",MTV
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Movies Now
+http://103.182.170.32:8888/play/a01n
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Nickelodeon
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickSD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Nick Jr.
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Nickelodeon HD+
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Pogo
+http://103.182.170.32:8888/play/a02p
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",SONY Entertainment Television
+http://103.182.170.32:8888/play/a03t
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",SONY MAX
+http://103.182.170.32:8888/play/a04
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",SONY MAX 2
+http://103.182.170.32:8888/play/a02l
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",SONY PIX
+http://103.182.170.32:8888/play/a027
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",SONY SAB
+http://103.182.170.32:8888/play/a03r
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",SONY YAY!
+http://103.182.170.32:8888/play/a04m
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Star Gold
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Star Movies
+https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Star Movies Select
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Star Bharat
+https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Star Gold 2
+https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Zee Bangla
+http://103.182.170.32:8888/play/a048
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Zee Bangla Cinema
+http://103.182.170.32:8888/play/a044
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Zee Bollywood
+http://103.182.170.32:8888/play/a02r
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Zee Cafe
+http://103.182.170.32:8888/play/a01w
+#EXTINF:-1 tvg-id="&nbsp;" tvg-logo="" group-title="india",Zee Classic
+http://103.182.170.32:8888/play/a054
