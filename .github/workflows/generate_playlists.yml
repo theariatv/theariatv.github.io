@@ -42,5 +42,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: auto-update m3u playlists [skip ci]"
-          file_pattern: main/
+          file_pattern: 'aria.m3u aria+.m3u stable/ aria+/' 
           branch: ${{ github.head_ref || github.ref_name }}
