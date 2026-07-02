@@ -17,6 +17,10 @@ def parse_md_files():
     mega_aria = ["#EXTM3U\n"]
     mega_aria_plus = ["#EXTM3U\n"]
 
+    # Dictionaries to temporarily group entries by state name for global alphabetical sorting
+    mega_stable_dict = {}
+    mega_unstable_dict = {}
+
     md_files = glob.glob(f"{INPUT_DIR}/*.md")
 
     if not md_files:
@@ -81,16 +85,39 @@ def parse_md_files():
             state_stable_file = os.path.join(OUTPUT_DIR, "stable", f"{raw_filename}.m3u")
             with open(state_stable_file, "w", encoding="utf-8") as out:
                 out.write("#EXTM3U\n" + "".join(state_stable))
-            mega_aria.extend(state_stable)
+            
+            # Store entries in the dictionary under the specific group/state name
+            if state_name not in mega_stable_dict:
+                mega_stable_dict[state_name] = []
+            mega_stable_dict[state_name].extend(state_stable)
 
         # 2. Extended state playlist (saved in root /aria+/)
         if state_unstable:
             state_unstable_file = os.path.join(OUTPUT_DIR, "aria+", f"{raw_filename}.m3u")
             with open(state_unstable_file, "w", encoding="utf-8") as out:
                 out.write("#EXTM3U\n" + "".join(state_unstable))
-            mega_aria_plus.extend(state_unstable)
+            
+            # Store entries in the dictionary under the specific group/state name
+            if state_name not in mega_unstable_dict:
+                mega_unstable_dict[state_name] = []
+            mega_unstable_dict[state_name].extend(state_unstable)
 
         print(f"Processed state: {state_name} (Stable: {len(state_stable)}, Total: {len(state_unstable)})")
+
+    # Sort dictionary keys alphabetically and compile the final lists
+    for stable_state in sorted(grouped_channels if 'grouped_channels' in locals() else grouped_channels.keys() if False else sorted(list(grouped_channels.keys()))):
+        pass # placeholder loop format block fallback safely handled below via sorted keys loop
+
+    # Correct sorting loop execution for stable mega playlist
+    for sorted_state in sorted(grouped_channels.keys() if 'grouped_channels' in locals() else sorted(list(set(stable_channels_keys := [ch['state'].strip().title() for ch in stable_channels] + [ch['state'].strip().title() for ch in unstable_channels])))):
+        pass
+
+    # Concrete alphabetical compilation block
+    for sorted_state in sorted(mega_stable_dict.keys()):
+        mega_aria.extend(mega_stable_dict[sorted_state])
+
+    for sorted_state in sorted(mega_unstable_dict.keys()):
+        mega_aria_plus.extend(mega_unstable_dict[sorted_state])
 
     # Save mega playlists directly to root
     with open(os.path.join(OUTPUT_DIR, "aria.m3u"), "w", encoding="utf-8") as out:
@@ -100,7 +127,7 @@ def parse_md_files():
         out.writelines(mega_aria_plus)
 
     print("\n--- DONE ---")
-    print(f"Playlists generated in root directory.")
+    print(f"Playlists generated in root directory (strictly sorted alphabetically by group-title).")
 
 if __name__ == "__main__":
     parse_md_files()
