@@ -1,6 +1,35 @@
 import os
 import re
 
+FLAG_MAP = {
+    "United States": "🇺🇸", "Guyana": "🇬🇾", "Cyprus": "🇨🇾", "Türkyie": "🇹🇷", "Turkey": "🇹🇷",
+    "Slovakia": "🇸🇰", "Japan": "🇯🇵", "Iceland": "🇮🇸", "Spain": "🇪🇸", "Columbia": "🇨🇴", "Colombia": "🇨🇴",
+    "Argentina": "🇦🇷", "Australia": "🇦🇺", "Finland": "🇫🇮", "North Macedonia": "🇲🇰", "Germany": "🇩🇪",
+    "Portugal": "🇵🇹", "Singapore": "🇸🇬", "Brazil": "🇧🇷", "Lithuania": "🇱🇹", "Philippines": "🇵🇭",
+    "Poland": "🇵🇱", "Belarus": "🇧🇾", "Bulgaria": "🇧🇬", "Vietnam": "🇻🇳", "San Marino": "🇸🇲",
+    "Norway": "🇳🇴", "Montenegro": "🇲🇪", "United Arab Emirates": "🇦🇪", "Israel": "🇮🇱", "Iran": "🇮🇷",
+    "Mexico": "🇲🇽", "Albania": "🇦🇱", "Greece": "🇬🇷", "Slovenia": "🇸🇮", "North Korea": "🇰🇵",
+    "Switzerland": "🇨🇭", "Bosnia and Herzegovina": "🇧🇦", "Serbia": "🇷🇸", "Vatican City": "🇻🇦",
+    "Croatia": "🇭🇷", "Denmark": "🇩🇰", "Monaco": "🇲🇨", "Andorra": "🇦🇩", "Ukraine": "🇺🇦",
+    "Austria": "🇦🇹", "New Zealand": "🇳🇿", "Moldova": "🇲🇩", "Russia": "🇷🇺", "Netherlands": "🇳🇱",
+    "Estonia": "🇪🇪", "Italy": "🇮🇹", "Romania": "🇷🇴", "Chile": "🇨🇱", "France": "🇫🇷", "South Africa": "🇿🇦",
+    "Georgia": "🇬🇪", "Belgium": "🇧🇪", "Costa Rica": "🇨🇷", "India": "🇮🇳", "United Kingdom": "🇬🇧",
+    "Czech Republic": "🇨🇿", "Czechia": "🇨🇿", "Hungary": "🇭🇺", "China": "🇨🇳", "South Korea": "🇰🇷",
+    "Sweden": "🇸🇪", "Faroe Islands": "🇫🇴", "Ireland": "🇮🇪", "Armenia": "🇦🇲", "Azerbaijan": "🇦🇿",
+    "Luxembourg": "🇱🇺", "Jamaica": "🇯🇲", "Thailand": "🇹🇭", "Canada": "🇨🇦", "Latin America": "🌎",
+    "International": "🌍", "Caribbean": "🏝️", "Africa": "🌍"
+}
+
+def apply_flag(name):
+    """Appends a flag emoji to the state name if it's missing."""
+    clean_name = name.strip()
+    for country, flag in FLAG_MAP.items():
+        if country.lower() == clean_name.lower():
+            if flag not in clean_name:
+                return f"{clean_name} {flag}"
+            break
+    return clean_name
+
 def parse_m3u(file_path, stream_type):
     """
     Reads the .m3u file and extracts data including 'group-title', 'tvg-logo', and 'tvg-id'.
@@ -32,9 +61,14 @@ def parse_m3u(file_path, stream_type):
             match_logo = logo_pattern.search(line)
             match_id = id_pattern.search(line)
             
-            state = match_group.group(1).strip() if match_group else "Uncategorized"
+            # Clean up the group title immediately (fixes "united_states" bug)
+            state_raw = match_group.group(1).strip() if match_group else "Uncategorized"
+            state = state_raw.replace("_", " ").title()
+            
             logo = match_logo.group(1).strip() if match_logo else ""
-            epg_id = match_id.group(1).strip() if match_id else "&nbsp;"
+            
+            # Aggressively strip &nbsp; from parsed M3U EPG ID
+            epg_id = match_id.group(1).replace("&nbsp;", "").strip() if match_id else ""
             
             current_channel['name'] = name
             current_channel['state'] = state
@@ -65,7 +99,7 @@ def parse_existing_markdown(file_path):
         for line in f:
             line = line.strip()
             
-            # Capture the custom heading (e.g., "# Czech Republic 🇨🇿")
+            # Capture the custom heading
             if line.startswith('#') and not title:
                 title = line
                 
@@ -73,18 +107,19 @@ def parse_existing_markdown(file_path):
             elif line.startswith('|') and not ':-:' in line and not '| # |' in line:
                 parts = [p.strip() for p in line.split('|')]
                 
-                # Check if it's a valid row with exactly 8 pipe separations 
-                # (empty start, num, name, link, logo, epg, type, empty end)
+                # Check if it's a valid row
                 if len(parts) >= 8:
-                    name = parts[2]
+                    name = parts[2].strip()
                     
                     # Safely extract the raw URL from the markdown link syntax [>](url)
                     url_match = re.search(r'\[.*?\]\((.*?)\)', parts[3])
-                    url = url_match.group(1) if url_match else parts[3]
+                    url = url_match.group(1) if url_match else parts[3].strip()
                     
-                    logo_col = parts[4]
-                    epg_id = parts[5]
-                    c_type = parts[6]
+                    logo_col = parts[4].strip()
+                    
+                    # Aggressively strip &nbsp; from existing markdown EPG ID
+                    epg_id = parts[5].replace("&nbsp;", "").strip()
+                    c_type = parts[6].strip()
                     
                     # Store existing records
                     existing_channels[name] = {
@@ -132,9 +167,9 @@ def generate_markdown_by_state(stable_channels, unstable_channels, output_dir="c
         # Load existing data to avoid destruction of manual edits
         existing_title, existing_channels = parse_existing_markdown(file_path)
         
-        # Keep custom title if it exists, otherwise generate a default one
+        # Keep custom title if it exists, otherwise generate a default one WITH FLAG
         if not existing_title:
-            existing_title = f"# {state}"
+            existing_title = f"# {apply_flag(state)}"
 
         # Merge new M3U data into existing channels
         for ch in channels:
@@ -151,7 +186,7 @@ def generate_markdown_by_state(stable_channels, unstable_channels, output_dir="c
                     existing_channels[name]['logo_col'] = new_logo_col
                     
                 # Only overwrite EPG ID if the current one is missing/placeholder
-                if ch['epg_id'] != "&nbsp;" and (existing_channels[name]['epg_id'] == "&nbsp;" or existing_channels[name]['epg_id'] == ""):
+                if ch['epg_id'] and not existing_channels[name]['epg_id']:
                     existing_channels[name]['epg_id'] = ch['epg_id']
             else:
                 # Append completely new channel from the M3U playlist
