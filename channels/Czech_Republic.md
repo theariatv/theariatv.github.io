@@ -8,14 +8,14 @@
 | 4 | ČT sport | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CTsport) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png"/> | CTSport.cz | stable |
 | 5 | ČT :D | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT_D) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png"/> | CTDecko.cz | stable |
 | 6 | ČT art | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CTart) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png"/> | CTart.cz | stable |
-| 7 | ČT sport Plus | [>](https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png"/> |  | stable |
+| 7 | ČT sport Plus | [>](https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png"/> | &nbsp; | stable |
 | 8 | TV Nova Ⓢ | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Nova) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png"/> | tvnova.cz | stable |
 | 9 | Nova Cinema | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png"/> | NovaCinema.cz | stable |
 | 10 | Nova Action | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png"/> | NovaAction.cz | stable |
 | 11 | Nova Fun | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png"/> | NovaFun.cz | stable |
 | 12 | Nova Gold | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png"/> | NovaGold.cz | stable |
 | 13 | Nova Lady | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png"/> | NovaLady.cz | stable |
-| 14 | TN Live | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png"/> |  | stable |
+| 14 | TN Live | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png"/> | &nbsp; | stable |
 | 15 | Prima | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Prima) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png"/> | Prima.cz | stable |
 | 16 | CNN Prima News | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png"/> | CNNPrimaNews.cz | stable |
 | 17 | Prima Zoom | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaZoom) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-zoom-cz.png"/> | PrimaZoom.cz | stable |
@@ -55,28 +55,28 @@
 | 51 | JOJ Family | [>](http://tvh.cyn.cz/stream/channelid/1693764695?profile=pass) | JOJ Family | JOJ.Family.cz | stable |
 | 52 | AMC | [>](http://185.236.230.212:9981/play/a0bb) | AMC | AMC.cz | stable |
 | 53 | AUTOMOTORSPORT HD | [>](http://tvh.cyn.cz/stream/channelid/1879523926?profile=pass) | AUTOMOTORSPORT HD | Auto.Motor.Sport.cz | stable |
-| 54 | CANAL+ ACTION HD | [>](http://185.236.230.212:9981/play/a0bw) | CANAL+ ACTION HD |  | stable |
-| 55 | CANAL+ SPORT | [>](http://185.236.230.212:9981/play/a0bu) | CANAL+ SPORT |  | stable |
-| 56 | CARTOON NETWORK | [>](http://185.236.230.212:9981/play/a0b7) | CARTOON NETWORK |  | stable |
-| 57 | CINEMAX HD | [>](http://185.236.230.212:9981/play/a0c0) | CINEMAX HD |  | stable |
+| 54 | CANAL+ ACTION HD | [>](http://185.236.230.212:9981/play/a0bw) | CANAL+ ACTION HD | &nbsp; | stable |
+| 55 | CANAL+ SPORT | [>](http://185.236.230.212:9981/play/a0bu) | CANAL+ SPORT | &nbsp; | stable |
+| 56 | CARTOON NETWORK | [>](http://185.236.230.212:9981/play/a0b7) | CARTOON NETWORK | &nbsp; | stable |
+| 57 | CINEMAX HD | [>](http://185.236.230.212:9981/play/a0c0) | CINEMAX HD | &nbsp; | stable |
 | 58 | CNN PRIMA NEWS HD | [>](http://185.236.230.212:9981/play/a0bf) | CNN PRIMA NEWS HD | CNN.Prima.News.cz | stable |
 | 59 | CS FILM | [>](http://185.236.230.212:9981/play/a0ay) | CS FILM | CS.Film.cz | stable |
 | 60 | CS HISTORY | [>](http://185.236.230.212:9981/play/a0cm) | CS HISTORY | CS.History.cz | stable |
 | 61 | CS MYSTERY | [>](http://185.236.230.212:9981/play/a0ch) | CS MYSTERY | CS.Mystery.cz | stable |
-| 62 | EPIC DRAMA HD CZ/HU/VO | [>](http://185.236.230.212:9981/play/a0bg) | EPIC DRAMA HD CZ/HU/VO |  | stable |
-| 63 | FILM EUROPE HD | [>](http://185.236.230.212:9981/play/a0c1) | FILM EUROPE HD |  | stable |
-| 64 | FILMBOX EXTRA HD | [>](http://185.236.230.212:9981/play/a0c2) | FILMBOX EXTRA HD |  | stable |
-| 65 | FILMBOX FAMILY | [>](http://185.236.230.212:9981/play/a0c5) | FILMBOX FAMILY |  | stable |
-| 66 | FILMBOX HD | [>](http://185.236.230.212:9981/play/a0ax) | FILMBOX HD |  | stable |
-| 67 | HOBBY TV | [>](http://185.236.230.212:9981/play/a0c4) | HOBBY TV |  | stable |
-| 68 | JIMJAM | [>](http://185.236.230.212:9981/play/a0c6) | JIMJAM |  | stable |
+| 62 | EPIC DRAMA HD CZ/HU/VO | [>](http://185.236.230.212:9981/play/a0bg) | EPIC DRAMA HD CZ/HU/VO | &nbsp; | stable |
+| 63 | FILM EUROPE HD | [>](http://185.236.230.212:9981/play/a0c1) | FILM EUROPE HD | &nbsp; | stable |
+| 64 | FILMBOX EXTRA HD | [>](http://185.236.230.212:9981/play/a0c2) | FILMBOX EXTRA HD | &nbsp; | stable |
+| 65 | FILMBOX FAMILY | [>](http://185.236.230.212:9981/play/a0c5) | FILMBOX FAMILY | &nbsp; | stable |
+| 66 | FILMBOX HD | [>](http://185.236.230.212:9981/play/a0ax) | FILMBOX HD | &nbsp; | stable |
+| 67 | HOBBY TV | [>](http://185.236.230.212:9981/play/a0c4) | HOBBY TV | &nbsp; | stable |
+| 68 | JIMJAM | [>](http://185.236.230.212:9981/play/a0c6) | JIMJAM | &nbsp; | stable |
 | 69 | JOJ CINEMA HD | [>](http://185.236.230.212:9981/play/a0cl) | JOJ CINEMA HD | JOJ.Cinema.cz | stable |
-| 70 | LALA TV | [>](http://185.236.230.212:9981/play/a0by) | LALA TV |  | stable |
-| 71 | NICK JR | [>](http://185.236.230.212:9981/play/a0b4) | NICK JR |  | stable |
+| 70 | LALA TV | [>](http://185.236.230.212:9981/play/a0by) | LALA TV | &nbsp; | stable |
+| 71 | NICK JR | [>](http://185.236.230.212:9981/play/a0b4) | NICK JR | &nbsp; | stable |
 | 72 | NICKELODEON | [>](http://185.236.230.212:9981/play/a0co) | NICKELODEON | Nickelodeon.cz | stable |
 | 73 | NICKTOONS | [>](http://185.236.230.212:9981/play/a0b9) | NICKTOONS | Nicktoons.cz | stable |
-| 74 | Nova | [>](http://tvh.cyn.cz/stream/channelid/14674568?profile=pass) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/8/89/TV_Nova_%282024%29.svg/revision/latest?cb=20240813192427&path-prefix=es"/> |  | stable |
-| 75 | NOVA FUN HD | [>](http://185.236.230.212:9981/play/a0bk) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png"/> |  | stable |
-| 76 | NOVA GOLD | [>](http://185.236.230.212:9981/play/a0bj) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png"/> |  | stable |
-| 77 | NOVA LADY | [>](http://185.236.230.212:9981/play/a0bl) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png"/> |  | stable |
-| 78 | NOVA SPORT 2 HD | [>](http://185.236.230.212:9981/play/a0bh) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png"/> |  | stable |
+| 74 | Nova | [>](http://tvh.cyn.cz/stream/channelid/14674568?profile=pass) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/8/89/TV_Nova_%282024%29.svg/revision/latest?cb=20240813192427&path-prefix=es"/> | &nbsp; | stable |
+| 75 | NOVA FUN HD | [>](http://185.236.230.212:9981/play/a0bk) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png"/> | &nbsp; | stable |
+| 76 | NOVA GOLD | [>](http://185.236.230.212:9981/play/a0bj) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png"/> | &nbsp; | stable |
+| 77 | NOVA LADY | [>](http://185.236.230.212:9981/play/a0bl) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png"/> | &nbsp; | stable |
+| 78 | NOVA SPORT 2 HD | [>](http://185.236.230.212:9981/play/a0bh) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png"/> | &nbsp; | stable |
