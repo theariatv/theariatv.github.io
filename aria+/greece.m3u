@@ -25,3 +25,5 @@ http://193.92.205.210:666/stream/channelid/1724988607?ticket=F0A4C6CBC94A83ACB06
 http://193.92.205.210:666/stream/channelid/2093067483?ticket=6A2C592AA031EABF9B5D2EB17874AAD15B94691B&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Greece 🇬🇷",Nickelodeon
 http://193.92.205.210:666/stream/channelid/332003718?ticket=5A96C45C5BD1FCCFF6A32BC17251B02524EB6183&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png" group-title="Greece 🇬🇷",ERT 2 Sport
+http://193.92.205.210:666/stream/channelid/1499176004?ticket=3CEE47EB35A03AC38B040489F41A614327A4E5E3&profile=pass
