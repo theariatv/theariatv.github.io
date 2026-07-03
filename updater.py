@@ -17,11 +17,11 @@ FLAG_MAP = {
     "Czech Republic": "🇨🇿", "Czechia": "🇨🇿", "Hungary": "🇭🇺", "China": "🇨🇳", "South Korea": "🇰🇷",
     "Sweden": "🇸🇪", "Faroe Islands": "🇫🇴", "Ireland": "🇮🇪", "Armenia": "🇦🇲", "Azerbaijan": "🇦🇿",
     "Luxembourg": "🇱🇺", "Jamaica": "🇯🇲", "Thailand": "🇹🇭", "Canada": "🇨🇦", "Latin America": "🌎",
-    "International": "🌍", "Caribbean": "🏝️", "Africa": "🌍"
+    "International": "🌍", "Caribbean": "🏝️", "Africa": "🌍", "Aria Web Channels": "📺"
 }
 
 def apply_flag(name):
-    """Appends a flag emoji to the state name if it's missing."""
+    """Přidá správnou vlajku k čistému názvu státu."""
     clean_name = name.strip()
     for country, flag in FLAG_MAP.items():
         if country.lower() == clean_name.lower():
@@ -30,9 +30,21 @@ def apply_flag(name):
             break
     return clean_name
 
+def clean_state_name(raw_name):
+    """
+    Agresivně vyčistí název státu ze zdrojového M3U.
+    Smaže emoji a speciální znaky, aby se předešlo duplikátům (např. 'Slovakia' vs 'Slovakia 🇸🇰').
+    """
+    name = raw_name.replace("_", " ")
+    # Ponechá pouze písmena, číslice, mezery, pomlčky a apostrofy (emoji budou smazána)
+    name = re.sub(r'[^\w\s\-\'&]', '', name)
+    # Odstraní přebytečné mezery, které mohly vzniknout po smazání emoji
+    name = re.sub(r'\s+', ' ', name)
+    return name.strip().title()
+
 def parse_m3u(file_path):
     """
-    Reads the .m3u file and extracts data including 'group-title', 'tvg-logo', and 'tvg-id'.
+    Načte .m3u soubor a extrahuje data včetně EPG, Loga a Skupiny.
     """
     channels = []
     if not os.path.exists(file_path):
@@ -61,8 +73,9 @@ def parse_m3u(file_path):
             match_logo = logo_pattern.search(line)
             match_id = id_pattern.search(line)
             
+            # Vyčištění názvu skupiny od případných emoji z M3U
             state_raw = match_group.group(1).strip() if match_group else "Uncategorized"
-            state = state_raw.replace("_", " ").title()
+            state = clean_state_name(state_raw)
             
             logo = match_logo.group(1).strip() if match_logo else ""
             epg_id = match_id.group(1).replace("&nbsp;", "").strip() if match_id else ""
@@ -98,7 +111,7 @@ def update_markdowns():
         if ch['url'] not in plus_urls:
             all_channels.append(ch)
             
-    # 4. Seskupení podle států do LISTŮ, aby se nesmazaly duplikáty s ohledem na stejný název!
+    # 4. Seskupení podle čistých názvů států (zabrání duplikátům!)
     grouped_channels = {}
     for ch in all_channels:
         state = ch['state']
@@ -108,12 +121,12 @@ def update_markdowns():
 
     os.makedirs("channels", exist_ok=True)
 
-    # 5. Generování souborů
+    # 5. Generování MD souborů
     for state, channels in grouped_channels.items():
-        safe_filename = "".join([c if c.isalnum() else "_" for c in state])
-        safe_filename = re.sub(r'_+', '_', safe_filename).strip('_')
+        safe_filename_base = "".join([c if c.isalnum() else "_" for c in state])
+        safe_filename_base = re.sub(r'_+', '_', safe_filename_base).strip('_')
         
-        target_filename = f"{safe_filename}.md"
+        target_filename = f"{safe_filename_base}.md"
         
         # Chytré hledání existujícího souboru (ignoruje case-sensitivity)
         if os.path.exists("channels"):
@@ -124,21 +137,12 @@ def update_markdowns():
         
         file_path = os.path.join("channels", target_filename)
 
-        # Zachování existujícího nadpisu (kvůli ručně dělaným vlaječkám), jinak generujeme nový
-        existing_title = ""
-        if os.path.exists(file_path):
-            with open(file_path, 'r', encoding='utf-8') as f:
-                for line in f:
-                    if line.startswith('#'):
-                        existing_title = line.strip()
-                        break
-                        
-        if not existing_title:
-            existing_title = f"# {apply_flag(state)}"
+        # Vždy vynutíme konzistentní nadpis se správnou vlajkou
+        final_title = f"# {apply_flag(state)}"
 
         # Zápis do MD
         with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(f"{existing_title}\n\n")
+            f.write(f"{final_title}\n\n")
             f.write("| # | Channel | Link | Logo | EPG id | Type |\n")
             f.write("|:-:|:-------:|:----:|:----:|:------:|:----:|\n")
 
