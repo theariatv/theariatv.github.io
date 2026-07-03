@@ -17,6 +17,8 @@ http://94.21.17.223:9981/stream/channelid/1268791284?profile=pass
 http://94.21.17.223:9981/stream/channelid/1573183651?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-harom-hu.png" group-title="Hungary 🇭🇺",RTL HÁROM HD
 http://94.21.17.223:9981/stream/channelid/1395685967?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-gold-hu.png" group-title="Hungary 🇭🇺",RTL Gold
+http://94.21.17.223:9981/stream/channelid/1353866233?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/sorozat-plus-hu.png" group-title="Hungary 🇭🇺",Sorozat+
 http://94.21.17.223:9981/stream/channelid/1235570618?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-hu.png" group-title="Hungary 🇭🇺",TV2 HD
@@ -31,6 +33,12 @@ http://94.21.17.223:9981/stream/channelid/1070816965?profile=pass
 http://94.21.17.223:9981/stream/channelid/281454826?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" group-title="Hungary 🇭🇺",Izaura TV
 http://94.21.17.223:9981/stream/channelid/2002656064?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-sef-hu.png" group-title="Hungary 🇭🇺",TV2 Séf
+http://94.21.17.223:9981/stream/channelid/2135567331?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-kids-hu.png" group-title="Hungary 🇭🇺",TV2 Kids
+http://94.21.17.223:9981/stream/channelid/979813027?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" group-title="Hungary 🇭🇺",TV2 Comedy
+http://94.21.17.223:9981/stream/channelid/1612404241?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/fem3-hu.png" group-title="Hungary 🇭🇺",FEM3
 http://94.21.17.223:9981/stream/channelid/237760902?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spiler-1-hu.png" group-title="Hungary 🇭🇺",Spíler 1 HD

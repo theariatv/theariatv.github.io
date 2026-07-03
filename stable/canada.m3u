@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png" group-title="Canada 🇨🇦",Omni Québec/ ICI Television
+https://debate-elections-2019.akamaized.net/2dba917cc589465ead367550ab2af416/us-west-2/89871584001/playlist.m3u8
 #EXTINF:-1 tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="Canada 🇨🇦",Bravo
 http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
 #EXTINF:-1 tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada 🇨🇦",CBC
@@ -21,8 +23,6 @@ http://44.25.145.45:5004/auto/v23.1
 http://stream.cammonitorplus.net/1730/index.m3u8
 #EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png" group-title="Canada 🇨🇦",Global BC (CHAN)
 http://44.25.145.45:5004/auto/v8.1
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png" group-title="Canada 🇨🇦",Omni Québec
-https://debate-elections-2019.akamaized.net/2dba917cc589465ead367550ab2af416/us-west-2/89871584001/playlist.m3u8
 #EXTINF:-1 tvg-id="starz.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/STZ_1_BellMedia_bk_rgb_2022.png" group-title="Canada 🇨🇦",Starz 1
 http://161.129.178.5/starz/playlist.m3u8
 #EXTINF:-1 tvg-id="starz.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/STZ_2_BellMedia_bk_rgb_2022.png" group-title="Canada 🇨🇦",Starz 2

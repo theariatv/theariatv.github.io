@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SkyOne(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-one-de.png" group-title="Germany 🇩🇪",Sky One
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411520&extension=ts&play_token=x3lEEwVINs
+#EXTINF:-1 tvg-id="SkyShowcase(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-showcase-de.png" group-title="Germany 🇩🇪",Sky Showcase
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236429&extension=ts&play_token=cBUTe3wUcu
+#EXTINF:-1 tvg-id="SkyAtlantic(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-atlantic-de.png" group-title="Germany 🇩🇪",Sky Atlanti
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411510&extension=ts&play_token=8o77P8f9A2
+#EXTINF:-1 tvg-id="SkyKrimi(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-krimi-de.png" group-title="Germany 🇩🇪",Sky Krimi
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411492&extension=ts&play_token=57I7wmNRv8
+#EXTINF:-1 tvg-id="SkySciFi(German).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sci-fi-de.png" group-title="Germany 🇩🇪",Sky Sci-Fi
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411488&extension=ts&play_token=rz3si9A6Wi
+#EXTINF:-1 tvg-id="SkyCrime(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-crime-de.png" group-title="Germany 🇩🇪",Sky Crime
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=533813&extension=ts&play_token=1S9uQBJFIK
+#EXTINF:-1 tvg-id="SkyDocumentaries(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-documentaries-it.png" group-title="Germany 🇩🇪",Sky Documentaries
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=718585&extension=ts&play_token=SVTT9aMalW
+#EXTINF:-1 tvg-id="SkyNature(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-nature-it.png" group-title="Germany 🇩🇪",Sky Nature
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=718584&extension=ts&play_token=7cTeqb5e7S
+#EXTINF:-1 tvg-id="SkyCinemaPremiere(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-premiere-de.png" group-title="Germany 🇩🇪",Sky Cinema Premiere
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236499&extension=ts&play_token=8XUzoJgW7V
+#EXTINF:-1 tvg-id="SkyCinemaHighlights(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-highlights-de.png" group-title="Germany 🇩🇪",Sky Cinema Highlight
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236555&extension=ts&play_token=MxATXyE248
+#EXTINF:-1 tvg-id="SkyCinemaAction(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-action-de.png" group-title="Germany 🇩🇪",Sky Cinema Action
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236569&extension=ts&play_token=DfYcGf9yA8
+#EXTINF:-1 tvg-id="SkyCinemaFamily(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-family-de.png" group-title="Germany 🇩🇪",Sky Cinema Family
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236527&extension=ts&play_token=Yoy5cn9oJf
+#EXTINF:-1 tvg-id="SkyCinemaClassics(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-classics-de.png" group-title="Germany 🇩🇪",Sky Cinema Classics
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236541&extension=ts&play_token=6kbItRuSOf
+#EXTINF:-1 tvg-id="SkySportNews(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-news-de.png" group-title="Germany 🇩🇪",Sky Sport News
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235955&extension=ts
+#EXTINF:-1 tvg-id="SkySportTopEvent(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="Germany 🇩🇪",Sky Sport Top Event
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235941&extension=ts
+#EXTINF:-1 tvg-id="SkySportPremierLeague(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" group-title="Germany 🇩🇪",Sky Sport Premier League
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235927&extension=ts
+#EXTINF:-1 tvg-id="SkySportBundesliga(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png" group-title="Germany 🇩🇪",Sky Sport Bundesliga
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=971682&extension=ts
+#EXTINF:-1 tvg-id="SkySportMix(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-de.png" group-title="Germany 🇩🇪",Sky Sport Mix
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235913&extension=ts
+#EXTINF:-1 tvg-id="SkySportF1(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-f1-de.png" group-title="Germany 🇩🇪",Sky Sport F1
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235899&extension=ts
+#EXTINF:-1 tvg-id="SkySportGolf(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-golf-de.png" group-title="Germany 🇩🇪",Sky Sport Golf
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235885&extension=ts
+#EXTINF:-1 tvg-id="SkySportTennis(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-tennis-de.png" group-title="Germany 🇩🇪",Sky Sport Tennis
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235871&extension=ts
+#EXTINF:-1 tvg-id="sportdigitalFussball(src05).de" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png" group-title="Germany 🇩🇪",sportdigital Fussball
+http://line.liondnscloud.ru:80/play/live.php?mac=00:1A:79:AE:4F:6E&stream=699725&extension=ts&play_token=HrxV7ZifSm
+#EXTINF:-1 tvg-id="SportDigital1plus(src05).de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sportdigital1%2B_Alternative_Logo_2025.svg/500px-Sportdigital1%2B_Alternative_Logo_2025.svg.png" group-title="Germany 🇩🇪",sportdigital 1+
+http://line.liondnscloud.ru:80/play/live.php?mac=00:1A:79:AE:4F:6E&stream=699726&extension=ts&play_token=P77Cwqm0Xr
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png" group-title="Germany 🇩🇪",Das Erste
 http://191.96.100.245:1234/stream/amazontv/daserste/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-de.png" group-title="Germany 🇩🇪",ZDF
@@ -97,49 +143,3 @@ https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychan
 http://212.95.30.186:9981/stream/channelid/288150308?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nickelodeon-de.png" group-title="Germany 🇩🇪",Nickelodeon/Comedy Central+1
 http://77.23.37.6:9981/stream/channelid/58190975?profile=pass
-#EXTINF:-1 tvg-id="SkyOne(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-one-de.png" group-title="Germany 🇩🇪",Sky One
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411520&extension=ts&play_token=x3lEEwVINs
-#EXTINF:-1 tvg-id="SkyShowcase(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-showcase-de.png" group-title="Germany 🇩🇪",Sky Showcase
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236429&extension=ts&play_token=cBUTe3wUcu
-#EXTINF:-1 tvg-id="SkyAtlantic(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-atlantic-de.png" group-title="Germany 🇩🇪",Sky Atlanti
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411510&extension=ts&play_token=8o77P8f9A2
-#EXTINF:-1 tvg-id="SkyKrimi(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-krimi-de.png" group-title="Germany 🇩🇪",Sky Krimi
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411492&extension=ts&play_token=57I7wmNRv8
-#EXTINF:-1 tvg-id="SkySciFi(German).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sci-fi-de.png" group-title="Germany 🇩🇪",Sky Sci-Fi
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=411488&extension=ts&play_token=rz3si9A6Wi
-#EXTINF:-1 tvg-id="SkyCrime(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-crime-de.png" group-title="Germany 🇩🇪",Sky Crime
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=533813&extension=ts&play_token=1S9uQBJFIK
-#EXTINF:-1 tvg-id="SkyDocumentaries(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-documentaries-it.png" group-title="Germany 🇩🇪",Sky Documentaries
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=718585&extension=ts&play_token=SVTT9aMalW
-#EXTINF:-1 tvg-id="SkyNature(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-nature-it.png" group-title="Germany 🇩🇪",Sky Nature
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=718584&extension=ts&play_token=7cTeqb5e7S
-#EXTINF:-1 tvg-id="SkyCinemaPremiere(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-premiere-de.png" group-title="Germany 🇩🇪",Sky Cinema Premiere
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236499&extension=ts&play_token=8XUzoJgW7V
-#EXTINF:-1 tvg-id="SkyCinemaHighlights(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-highlights-de.png" group-title="Germany 🇩🇪",Sky Cinema Highlight
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236555&extension=ts&play_token=MxATXyE248
-#EXTINF:-1 tvg-id="SkyCinemaAction(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-action-de.png" group-title="Germany 🇩🇪",Sky Cinema Action
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236569&extension=ts&play_token=DfYcGf9yA8
-#EXTINF:-1 tvg-id="SkyCinemaFamily(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-family-de.png" group-title="Germany 🇩🇪",Sky Cinema Family
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236527&extension=ts&play_token=Yoy5cn9oJf
-#EXTINF:-1 tvg-id="SkyCinemaClassics(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-cinema-classics-de.png" group-title="Germany 🇩🇪",Sky Cinema Classics
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1236541&extension=ts&play_token=6kbItRuSOf
-#EXTINF:-1 tvg-id="SkySportNews(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-news-de.png" group-title="Germany 🇩🇪",Sky Sport News
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235955&extension=ts
-#EXTINF:-1 tvg-id="SkySportTopEvent(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="Germany 🇩🇪",Sky Sport Top Event
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235941&extension=ts
-#EXTINF:-1 tvg-id="SkySportPremierLeague(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" group-title="Germany 🇩🇪",Sky Sport Premier League
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235927&extension=ts
-#EXTINF:-1 tvg-id="SkySportBundesliga(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png" group-title="Germany 🇩🇪",Sky Sport Bundesliga
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=971682&extension=ts
-#EXTINF:-1 tvg-id="SkySportMix(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-de.png" group-title="Germany 🇩🇪",Sky Sport Mix
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235913&extension=ts
-#EXTINF:-1 tvg-id="SkySportF1(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-f1-de.png" group-title="Germany 🇩🇪",Sky Sport F1
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235899&extension=ts
-#EXTINF:-1 tvg-id="SkySportGolf(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-golf-de.png" group-title="Germany 🇩🇪",Sky Sport Golf
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235885&extension=ts
-#EXTINF:-1 tvg-id="SkySportTennis(src05).de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-tennis-de.png" group-title="Germany 🇩🇪",Sky Sport Tennis
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:81:D3:F3&stream=1235871&extension=ts
-#EXTINF:-1 tvg-id="sportdigitalFussball(src05).de" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png" group-title="Germany 🇩🇪",sportdigital Fussball
-http://line.liondnscloud.ru:80/play/live.php?mac=00:1A:79:AE:4F:6E&stream=699725&extension=ts&play_token=HrxV7ZifSm
-#EXTINF:-1 tvg-id="SportDigital1plus(src05).de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sportdigital1%2B_Alternative_Logo_2025.svg/500px-Sportdigital1%2B_Alternative_Logo_2025.svg.png" group-title="Germany 🇩🇪",sportdigital 1+
-http://line.liondnscloud.ru:80/play/live.php?mac=00:1A:79:AE:4F:6E&stream=699726&extension=ts&play_token=P77Cwqm0Xr

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/disney-channel-de.png" group-title="Denmark 🇩🇰",Disney Channel
+http://qgvwnqgr.mexamo.xyz/live/911FA6VS/2T3C7P57/16317.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DR1_logo_2020.svg/1200px-DR1_logo_2020.svg.png" group-title="Denmark 🇩🇰",DR 1
 http://185.233.253.71:9981/stream/channelid/1999834189?ticket=1C67C731CBEF27AE64AC0517124F32C9D9C43384&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/DR2_logo_2020.svg/1200px-DR2_logo_2020.svg.png" group-title="Denmark 🇩🇰",DR 2
@@ -21,5 +23,3 @@ http://185.233.253.71:9981/stream/channelid/1957480935?ticket=12EAEA967B466D55D5
 http://185.233.253.71:9981/stream/channelid/1211268929?ticket=D2D47C6AD1C4AAD8118869946A20235947B2089A&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-news-dk.png" group-title="Denmark 🇩🇰",TV2 News
 http://185.233.253.71:9981/stream/channelid/931172941?ticket=49AFCD397616AE72DE88BCC2EA95E825780800B9&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/disney-channel-de.png" group-title="Denmark 🇩🇰",Disney Channel
-http://qgvwnqgr.mexamo.xyz/live/911FA6VS/2T3C7P57/16317.ts

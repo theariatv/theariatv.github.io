@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-j-fr.png" group-title="France 🇫🇷",Canal J
+http://45.90.106.7:9790/play/BfQm2084L6@U4N
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/nickelodeon-fr.png" group-title="France 🇫🇷",Nickelodeon
+http://45.90.106.7:9790/play/FwZ4209O4@U4V
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/nickelodeon-junior-fr.png" group-title="France 🇫🇷",Nickelodeon Junior
+http://45.90.106.7:9790/play/TcQd428P5@Y7M
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nicktoons-us.png" group-title="France 🇫🇷",Nicktoons
+http://45.90.106.7:9790/play/CzQL529P7@E4V
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cartoon-network-fr.png" group-title="France 🇫🇷",Cartoon Network
+http://45.90.106.7:9790/play/VrQl2079K0@Y5B
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="France 🇫🇷",Cartoonito
+http://45.90.106.7:9790/play/TqK5084L3@J4B
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png" group-title="France 🇫🇷",Boomerang
+http://45.90.106.7:9790/play/BzW5096K3@L7V
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="France 🇫🇷",GONG
+http://45.90.106.7:9790/play/EvS759O6@U5J
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="France 🇫🇷",Mangas
+http://45.90.106.7:9790/play/TbZ4097U5@F5L
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/syfy-uk.png" group-title="France 🇫🇷",SYFY
+http://45.90.106.7:9790/play/BsXA5294N2@R1E
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="France 🇫🇷",TF1
 http://176.65.146.138:8047/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="France.2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png" group-title="France 🇫🇷",France 2
@@ -47,23 +67,3 @@ http://176.65.146.138:8047/play/a07b/index.m3u8
 http://62.129.183.89:9981/stream/channelid/507071864?ticket=86E99ADF197E91D5805D3A098E1BD452931F0630&profile=pass
 #EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://static.s-sfr.fr/amac/BOL/Photos/image_bfm2.png" group-title="France 🇫🇷",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-j-fr.png" group-title="France 🇫🇷",Canal J
-http://45.90.106.7:9790/play/BfQm2084L6@U4N
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/nickelodeon-fr.png" group-title="France 🇫🇷",Nickelodeon
-http://45.90.106.7:9790/play/FwZ4209O4@U4V
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/nickelodeon-junior-fr.png" group-title="France 🇫🇷",Nickelodeon Junior
-http://45.90.106.7:9790/play/TcQd428P5@Y7M
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nicktoons-us.png" group-title="France 🇫🇷",Nicktoons
-http://45.90.106.7:9790/play/CzQL529P7@E4V
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cartoon-network-fr.png" group-title="France 🇫🇷",Cartoon Network
-http://45.90.106.7:9790/play/VrQl2079K0@Y5B
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="France 🇫🇷",Cartoonito
-http://45.90.106.7:9790/play/TqK5084L3@J4B
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png" group-title="France 🇫🇷",Boomerang
-http://45.90.106.7:9790/play/BzW5096K3@L7V
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="France 🇫🇷",GONG
-http://45.90.106.7:9790/play/EvS759O6@U5J
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="France 🇫🇷",Mangas
-http://45.90.106.7:9790/play/TbZ4097U5@F5L
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/syfy-uk.png" group-title="France 🇫🇷",SYFY
-http://45.90.106.7:9790/play/BsXA5294N2@R1E
