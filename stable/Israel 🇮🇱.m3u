@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png" group-title="Israel 🇮🇱",Kan 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/keshet12-il.png" group-title="Israel 🇮🇱",Keshet 12
+https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/reshet13-il.png" group-title="Israel 🇮🇱",Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel14-il.png" group-title="Israel 🇮🇱",Channel 14
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel9-il.png" group-title="Israel 🇮🇱",Channel 9
+http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2331/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/makan33-il.png" group-title="Israel 🇮🇱",Makan 33
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan-kids-il.png" group-title="Israel 🇮🇱",Kan Educational
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/knesset-il.png" group-title="Israel 🇮🇱",Knesset
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12269/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot3-il.png" group-title="Israel 🇮🇱",HOT 3
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12214/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot8-il.png" group-title="Israel 🇮🇱",HOT 8
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12216/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot-entertainment-il.png" group-title="Israel 🇮🇱",HOT Entertainment
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2379/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-tv-drama-il.png" group-title="Israel 🇮🇱",Yes TV Drama
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2343/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-tv-action-il.png" group-title="Israel 🇮🇱",Yes TV Action
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2346/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/yes-tv-comedy-il.png" group-title="Israel 🇮🇱",Yes TV Comedy
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2345/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hop-il.png" group-title="Israel 🇮🇱",Hop!
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12244/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/nickelodeon-il.png" group-title="Israel 🇮🇱",Nickelodeon
+http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-nickelodeon-il/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Israel 🇮🇱",Nick Jr.
+http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Israel 🇮🇱",TeenNick
+http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/disney-channel-il.png" group-title="Israel 🇮🇱",Disney Channel
+http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/junior-il.png" group-title="Israel 🇮🇱",Junior
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2366/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/baby-channel-il.png" group-title="Israel 🇮🇱",Baby TV
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2370/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/luli-il.png" group-title="Israel 🇮🇱",Luli
+http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2364/index.m3u8

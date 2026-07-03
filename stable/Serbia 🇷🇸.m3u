@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/a/ab/RTS_1_2014.svg/revision/latest?cb=20230617140939" group-title="Serbia 🇷🇸",RTS 1
+http://169.150.255.53/RTS1HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/RTS_2_2014.svg/revision/latest?cb=20180130131828" group-title="Serbia 🇷🇸",RTS 2
+http://109.106.239.1:50001/play/a06k
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸",RTS 3
+http://109.106.239.1:50001/play/a08z
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸",RTS Drama
+http://109.106.239.1:50001/play/a08w
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸",RTS Klasika
+http://109.106.239.1:50001/play/a06d
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸",RTS Kolo
+http://109.106.239.1:50001/play/a064
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸",RTS Muzika
+http://109.106.239.1:50001/play/a065
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸",Minimax
+http://109.106.239.1:50001/play/a07t
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸",Pink
+http://109.106.239.1:50001/play/a06l
