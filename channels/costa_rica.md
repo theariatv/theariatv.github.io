@@ -2,7 +2,7 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Repretel 6 | [>](http://201.237.193.180:9981/stream/channelid/1914694040?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RepretelCanal62024.svg/1200px-RepretelCanal62024.svg.png"/> |  | unstable |
-| 2 | Teletica | [>](http://201.237.193.180:9981/stream/channelid/2039568413?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png"/> |  | unstable |
-| 3 | Canal 8 | [>](http://201.237.193.180:9981/stream/channelid/2109973730?profile=pass) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20210312052039"/> |  | unstable |
-| 4 | Repretel 11 | [>](http://201.237.193.180:9981/stream/channelid/220443661?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RepretelCanal112024.svg/1200px-RepretelCanal112024.svg.png"/> |  | unstable |
+| 1 | Repretel 6 | [>](http://201.237.193.180:9981/stream/channelid/1914694040?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RepretelCanal62024.svg/1200px-RepretelCanal62024.svg.png"/> | &nbsp; | stable |
+| 2 | Teletica | [>](http://201.237.193.180:9981/stream/channelid/2039568413?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png"/> | &nbsp; | stable |
+| 3 | Canal 8 | [>](http://201.237.193.180:9981/stream/channelid/2109973730?profile=pass) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20210312052039"/> | &nbsp; | stable |
+| 4 | Repretel 11 | [>](http://201.237.193.180:9981/stream/channelid/220443661?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RepretelCanal112024.svg/1200px-RepretelCanal112024.svg.png"/> | &nbsp; | stable |
