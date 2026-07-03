@@ -30,7 +30,7 @@ def apply_flag(name):
             break
     return clean_name
 
-def parse_m3u(file_path, stream_type):
+def parse_m3u(file_path):
     """
     Reads the .m3u file and extracts data including 'group-title', 'tvg-logo', and 'tvg-id'.
     """
@@ -61,20 +61,18 @@ def parse_m3u(file_path, stream_type):
             match_logo = logo_pattern.search(line)
             match_id = id_pattern.search(line)
             
-            # Clean up the group title immediately (fixes "united_states" bug)
             state_raw = match_group.group(1).strip() if match_group else "Uncategorized"
             state = state_raw.replace("_", " ").title()
             
             logo = match_logo.group(1).strip() if match_logo else ""
-            
-            # Aggressively strip &nbsp; from parsed M3U EPG ID
             epg_id = match_id.group(1).replace("&nbsp;", "").strip() if match_id else ""
             
-            current_channel['name'] = name
-            current_channel['state'] = state
-            current_channel['logo'] = logo
-            current_channel['epg_id'] = epg_id
-            current_channel['type'] = stream_type
+            current_channel = {
+                'name': name,
+                'state': state,
+                'logo': logo,
+                'epg_id': epg_id
+            }
             
         elif not line.startswith("#"):
             if 'name' in current_channel:
@@ -84,144 +82,78 @@ def parse_m3u(file_path, stream_type):
 
     return channels
 
-def parse_existing_markdown(file_path):
-    """
-    Reads an existing markdown file and extracts its title and channel records.
-    This prevents overwriting manual user edits.
-    """
-    title = ""
-    existing_channels = {}
+def update_markdowns():
+    # 1. Přečtení playlistů
+    stable_channels = parse_m3u("aria.m3u")
+    plus_channels = parse_m3u("aria+.m3u")
     
-    if not os.path.exists(file_path):
-        return title, existing_channels
-
-    with open(file_path, 'r', encoding='utf-8') as f:
-        for line in f:
-            line = line.strip()
+    # 2. Vytvoření rychlého setu URL adres, které jsou prokazatelně stable
+    stable_urls = {ch['url'] for ch in stable_channels}
+    
+    # 3. Sloučení (pro případ, že by náhodou nějaký kanál byl v aria, ale chyběl v aria+)
+    plus_urls = {ch['url'] for ch in plus_channels}
+    all_channels = list(plus_channels)
+    
+    for ch in stable_channels:
+        if ch['url'] not in plus_urls:
+            all_channels.append(ch)
             
-            # Capture the custom heading
-            if line.startswith('#') and not title:
-                title = line
-                
-            # Parse the table rows (skip headers)
-            elif line.startswith('|') and not ':-:' in line and not '| # |' in line:
-                parts = [p.strip() for p in line.split('|')]
-                
-                # Check if it's a valid row
-                if len(parts) >= 8:
-                    name = parts[2].strip()
-                    
-                    # Safely extract the raw URL from the markdown link syntax [>](url)
-                    url_match = re.search(r'\[.*?\]\((.*?)\)', parts[3])
-                    url = url_match.group(1) if url_match else parts[3].strip()
-                    
-                    logo_col = parts[4].strip()
-                    
-                    # Aggressively strip &nbsp; from existing markdown EPG ID
-                    epg_id = parts[5].replace("&nbsp;", "").strip()
-                    c_type = parts[6].strip()
-                    
-                    # Store existing records
-                    existing_channels[name] = {
-                        'url': url,
-                        'logo_col': logo_col,
-                        'epg_id': epg_id,
-                        'type': c_type
-                    }
-                    
-    return title, existing_channels
-
-def generate_markdown_by_state(stable_channels, unstable_channels, output_dir="channels"):
-    """
-    Merges parsed M3U channels with existing markdown files without losing manual edits.
-    """
-    all_channels = stable_channels + unstable_channels
+    # 4. Seskupení podle států do LISTŮ, aby se nesmazaly duplikáty s ohledem na stejný název!
     grouped_channels = {}
-
-    # Group by state with Title Case normalization
     for ch in all_channels:
-        state = ch['state'].strip().title()
+        state = ch['state']
         if state not in grouped_channels:
             grouped_channels[state] = []
         grouped_channels[state].append(ch)
 
-    os.makedirs(output_dir, exist_ok=True)
+    os.makedirs("channels", exist_ok=True)
 
-    # Merge and generate files
+    # 5. Generování souborů
     for state, channels in grouped_channels.items():
-        # Vytvoření bezpečného názvu bez vynucení malých písmen přes .lower()
-        safe_filename_base = "".join([c if c.isalnum() else "_" for c in state])
-        safe_filename_base = re.sub(r'_+', '_', safe_filename_base).strip('_')
+        safe_filename = "".join([c if c.isalnum() else "_" for c in state])
+        safe_filename = re.sub(r'_+', '_', safe_filename).strip('_')
         
-        target_filename = f"{safe_filename_base}.md"
+        target_filename = f"{safe_filename}.md"
         
-        # Chytré hledání: Zkontroluje složku bez ohledu na velikost písmen
-        if os.path.exists(output_dir):
-            for existing_file in os.listdir(output_dir):
+        # Chytré hledání existujícího souboru (ignoruje case-sensitivity)
+        if os.path.exists("channels"):
+            for existing_file in os.listdir("channels"):
                 if existing_file.lower() == target_filename.lower():
                     target_filename = existing_file
                     break
         
-        file_path = os.path.join(output_dir, target_filename)
+        file_path = os.path.join("channels", target_filename)
 
-        # Load existing data to avoid destruction of manual edits
-        existing_title, existing_channels = parse_existing_markdown(file_path)
-        
-        # Keep custom title if it exists, otherwise generate a default one WITH FLAG
+        # Zachování existujícího nadpisu (kvůli ručně dělaným vlaječkám), jinak generujeme nový
+        existing_title = ""
+        if os.path.exists(file_path):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    if line.startswith('#'):
+                        existing_title = line.strip()
+                        break
+                        
         if not existing_title:
             existing_title = f"# {apply_flag(state)}"
 
-        # Merge new M3U data into existing channels
-        for ch in channels:
-            name = ch['name']
-            new_logo_col = f'<img height="20" src="{ch["logo"]}"/>' if ch["logo"] else name
-            
-            if name in existing_channels:
-                # Update URL and Type because stream sources change frequently
-                existing_channels[name]['url'] = ch['url']
-                existing_channels[name]['type'] = ch['type']
-                
-                # Only overwrite the Logo if the current one is just text (or missing) and M3U provided a real logo
-                if ch['logo'] and (existing_channels[name]['logo_col'] == name or existing_channels[name]['logo_col'] == ""):
-                    existing_channels[name]['logo_col'] = new_logo_col
-                    
-                # Only overwrite EPG ID if the current one is missing/placeholder
-                if ch['epg_id'] and not existing_channels[name]['epg_id']:
-                    existing_channels[name]['epg_id'] = ch['epg_id']
-            else:
-                # Append completely new channel from the M3U playlist
-                existing_channels[name] = {
-                    'url': ch['url'],
-                    'logo_col': new_logo_col,
-                    'epg_id': ch['epg_id'],
-                    'type': ch['type']
-                }
-
-        # Write the merged content back to the Markdown file
+        # Zápis do MD
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(f"{existing_title}\n\n")
             f.write("| # | Channel | Link | Logo | EPG id | Type |\n")
             f.write("|:-:|:-------:|:----:|:----:|:------:|:----:|\n")
 
-            # Iterate over the merged dictionary and number them sequentially
-            for i, (name, data) in enumerate(existing_channels.items(), start=1):
-                f.write(f"| {i} | {name} | [>]({data['url']}) | {data['logo_col']} | {data['epg_id']} | {data['type']} |\n")
+            for i, ch in enumerate(channels, start=1):
+                # Detekce typu pomocí rychlého vyhledávání v Setu URL
+                c_type = "stable" if ch['url'] in stable_urls else "unstable"
                 
-        print(f"Updated file: {file_path} ({len(existing_channels)} channels)")
+                logo_col = f'<img height="20" src="{ch["logo"]}"/>' if ch["logo"] else ch['name']
+                epg_id = ch['epg_id'] if ch['epg_id'] else "&nbsp;"
+                
+                f.write(f"| {i} | {ch['name']} | [>]({ch['url']}) | {logo_col} | {epg_id} | {c_type} |\n")
+                
+        print(f"Updated file: {file_path} ({len(channels)} channels)")
 
 if __name__ == "__main__":
-    stable_file = "aria.m3u"
-    unstable_file = "aria+.m3u"
-
-    print("Starting extraction and merging from playlists...")
-    stable_data = parse_m3u(stable_file, "stable")
-    unstable_data = parse_m3u(unstable_file, "unstable")
-
-    total_channels = len(stable_data) + len(unstable_data)
-    
-    if total_channels > 0:
-        print(f"Total channels loaded: {total_channels}. Splitting by state and merging...")
-        generate_markdown_by_state(stable_data, unstable_data)
-        print("All MD files have been successfully updated in the 'channels/' directory.")
-    else:
-        print("No channels found. Please check the .m3u files.")
+    print("Starting extraction and rebuilding MD files from M3U...")
+    update_markdowns()
+    print("All MD files have been successfully updated in the 'channels/' directory.")
