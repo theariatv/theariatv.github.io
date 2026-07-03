@@ -1,11 +1,18 @@
-name: Weekly IPTV Channels Update
+name: Sync M3U to Markdown
 
 on:
+  push:
+    branches:
+      - main
+    # Spustí se POUZE, když se upraví tyto konkrétní soubory
+    paths:
+      - 'aria.m3u'
+      - 'aria+.m3u'
+      - 'updater.py'
   schedule:
-    # Runs automatically every Monday at 00:00 UTC
+    # Nechal jsem ti tu i ten cron, kdybys chtěl pravidelnou pojistku
     - cron: '0 0 * * 1'
   workflow_dispatch:
-    # Allows manual triggering from the GitHub interface
 
 permissions:
   contents: write
@@ -13,6 +20,8 @@ permissions:
 jobs:
   update-channels:
     runs-on: ubuntu-latest
+    # DŮLEŽITÉ: Ochrana proti nekonečné smyčce
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
 
     steps:
       - name: Checkout repository
@@ -36,6 +45,6 @@ jobs:
           git add -A channels/
           
           # If there are no changes, git commit will fail. 
-          # "|| echo" prevents the workflow from failing.
-          git commit -m "Auto-update playlists in the channels directory" || echo "No changes to commit"
+          # Přidal jsem [skip ci] do zprávy, aby to nespouštělo další zbytečné akce!
+          git commit -m "chore: auto-update markdowns from m3u [skip ci]" || echo "No changes to commit"
           git push
