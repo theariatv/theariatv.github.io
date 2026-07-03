@@ -59,3 +59,33 @@ http://161.129.178.5/starz/playlist.m3u8
 http://161.129.178.5/starz2/playlist.m3u8
 #EXTINF:-1 tvg-id="Unis.TV.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/TV5_Unis_2026.png/revision/latest/scale-to-width-down/300?cb=20260329105858" group-title="Canada 🇨🇦",TV5 Unis
 http://161.129.178.5/unis/playlist.m3u8
+#EXTINF:-1 tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="Canada 🇨🇦",Bravo
+http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
+#EXTINF:-1 tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada 🇨🇦",CBC
+http://stream.cammonitorplus.net/1704/index.m3u8
+#EXTINF:-1 tvg-id="CBUT.HDTV.(CBUTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada 🇨🇦",CBC West
+http://44.25.145.45:5004/auto/v2.1
+#EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="Canada 🇨🇦",CityTV
+http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
+#EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.montreal.qc.ca.png" group-title="Canada 🇨🇦",CityTV Vancouver (CKVU)
+http://44.25.145.45:5004/auto/v27.1
+#EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CTV-News-Channel-Reverse-Screen-Logo-The-Lede-1.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1" group-title="Canada 🇨🇦",CTV News Channel
+http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
+#EXTINF:-1 tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Canada 🇨🇦",CTV Toronto (CFTO)
+http://stream.cammonitorplus.net/1714/index.m3u8
+#EXTINF:-1 tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Canada 🇨🇦",CTV Vancover (CIVT)
+http://44.25.145.45:5004/auto/v32.1
+#EXTINF:-1 tvg-id="CTV1.(CKVR).Barrie,.ON.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2.png" group-title="Canada 🇨🇦",CTV2 Victoria (CIVI)
+http://44.25.145.45:5004/auto/v23.1
+#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png" group-title="Canada 🇨🇦",Global Toronto (CIII)
+http://stream.cammonitorplus.net/1730/index.m3u8
+#EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png" group-title="Canada 🇨🇦",Global BC (CHAN)
+http://44.25.145.45:5004/auto/v8.1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Omni_TV_2018.svg/1200px-Omni_TV_2018.svg.png" group-title="Canada 🇨🇦",Omni Québec
+https://debate-elections-2019.akamaized.net/2dba917cc589465ead367550ab2af416/us-west-2/89871584001/playlist.m3u8
+#EXTINF:-1 tvg-id="starz.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/STZ_1_BellMedia_bk_rgb_2022.png" group-title="Canada 🇨🇦",Starz 1
+http://161.129.178.5/starz/playlist.m3u8
+#EXTINF:-1 tvg-id="starz.ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/STZ_2_BellMedia_bk_rgb_2022.png" group-title="Canada 🇨🇦",Starz 2
+http://161.129.178.5/starz2/playlist.m3u8
+#EXTINF:-1 tvg-id="Unis.TV.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/TV5_Unis_2026.png/revision/latest/scale-to-width-down/300?cb=20260329105858" group-title="Canada 🇨🇦",TV5 Unis
+http://161.129.178.5/unis/playlist.m3u8

@@ -87,3 +87,47 @@ https://live-th10.myjktv.com/watch/live.m3u8?video=childrens_tv_540&sid=wFdJ4QMT
 https://live-th10.myjktv.com/watch/live.m3u8?video=tooniverse_540&sid=1UJHEirDzlX6b0U2JY7vH7DGkPolJyz1eb9pjKwU&secret=47b667ee1999652cb92cf9cb73c4e654&time=1771648662
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png" group-title="South Korea 🇰🇷",Discovery Channel
 https://live-th10.myjktv.com/watch/live.m3u8?video=discovery_540&sid=MMRDBICzkAZmBTDYPGvofmP3KM7rNouvgDL2ofkK&secret=819db6a6233758d48755a6e3505fa934&time=1771650286
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png" group-title="South Korea 🇰🇷",Cartoon Network
+https://live-th10.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=ibruDlwcarLe4hNycOeEqeww9RLddOcBkRHP5OU3&secret=d85c5f96f376280a040d699f3ebde938&time=1771648839
+#EXTINF:-1 tvg-id="712b72f52504133103fbaaea8210d5f9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="South Korea 🇰🇷",KBS 1TV [Not 24/7]
+http://121.143.97.131:9981/stream/channelid/1970416497?profile=pass
+#EXTINF:-1 tvg-id="565bb62dc52849cbf4cbd406b6bbdebc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="South Korea 🇰🇷",KBS 2TV [Not 24/7]
+http://121.143.97.131:9981/stream/channelid/766925654?profile=pass
+#EXTINF:-1 tvg-id="debf9896476af3d81b9419df3ee5aaf2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="South Korea 🇰🇷",KBS Joy
+http://121.143.97.131:9981/stream/channelid/379109342?profile=pass
+#EXTINF:-1 tvg-id="7fdfaa99feaa68521a276c81832cda90" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="South Korea 🇰🇷",KBS Kids
+http://121.143.97.131:9981/stream/channelid/430628735?profile=pass
+#EXTINF:-1 tvg-id="c746bd5f8418203975a75f308b9cdf48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="South Korea 🇰🇷",KBS Life
+http://121.143.97.131:9981/stream/channelid/1606239943?profile=pass
+#EXTINF:-1 tvg-id="0aa9cafc3c1f4edb31730ccce4573fb0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="South Korea 🇰🇷",KBS Story
+http://121.143.97.131:9981/stream/channelid/2093656330?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png" group-title="South Korea 🇰🇷",EBS 1 [Not 24/7]
+http://121.143.97.131:9981/stream/channelid/1363616043?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/1280px-EBS_2_logo.svg.png" group-title="South Korea 🇰🇷",EBS 2 [Not 24/7]
+http://121.143.97.131:9981/stream/channelid/985201254?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/EBS_kids.svg/revision/latest?cb=20201221111923" group-title="South Korea 🇰🇷",EBS Kids [Not 24/7]
+http://121.143.97.131:9981/stream/channelid/1357549621?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/EBS_English_logo.svg/2560px-EBS_English_logo.svg.png" group-title="South Korea 🇰🇷",EBS English [Not 24/7]
+http://121.143.97.131:9981/stream/channelid/1127058296?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/250px-Seoul_Broadcasting_System_logo.svg.png" group-title="South Korea 🇰🇷",SBS
+http://123.212.201.54:9981/stream/channelid/355749630?ticket=3F59BE4851A5060AD92DA878FDE2ED006CE5AF23&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/M/munhwa-broadcasting-company-logo-5F2839F07B-seeklogo.com.png" group-title="South Korea 🇰🇷",MBC
+http://123.212.201.54:9981/stream/channelid/1555600652?ticket=A2F9DDA5AC88952741F7882B3396977931967F37&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="South Korea 🇰🇷",tvN
+http://210.126.10.17:5004/auto/v5023
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="South Korea 🇰🇷",tvN Show
+https://live-th10.myjktv.com/watch/live.m3u8?video=xtm_540&sid=PFAIITxvW0TtUOE7GDqh12d5WYdLdrMlPprSkxzy&secret=5c986f90b21bf48ab94c72fda0e9a216&time=1771650213
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/JTBC_logo.svg/1200px-JTBC_logo.svg.png" group-title="South Korea 🇰🇷",JTBC
+http://210.126.10.17:5004/auto/v5027
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTBC2.jpg/revision/latest?cb=20190616070617" group-title="South Korea 🇰🇷",JTBC 2
+http://210.126.10.17:5004/auto/v5045
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South Korea 🇰🇷",Mnet
+https://everylive.space/live/mnet/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="South Korea 🇰🇷",JEI TV
+https://live-th10.myjktv.com/watch/live.m3u8?video=jei_jenung_540&sid=0U5gGVD8MUVHzIdG1JINTEXBzFPw1TS9XkiLqQM0&secret=8aabea762716b38bbc4b6c6fa0bbe509&time=1771648766
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="South Korea 🇰🇷",Anibox
+https://live-th10.myjktv.com/watch/live.m3u8?video=childrens_tv_540&sid=wFdJ4QMT2oZBXwymF3VHa465rjFtIHKl4GKeb8tA&secret=1fac8b353644c226b9b4120f289afa86&time=1771648802
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="South Korea 🇰🇷",Tooniverse
+https://live-th10.myjktv.com/watch/live.m3u8?video=tooniverse_540&sid=1UJHEirDzlX6b0U2JY7vH7DGkPolJyz1eb9pjKwU&secret=47b667ee1999652cb92cf9cb73c4e654&time=1771648662
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png" group-title="South Korea 🇰🇷",Discovery Channel
+https://live-th10.myjktv.com/watch/live.m3u8?video=discovery_540&sid=MMRDBICzkAZmBTDYPGvofmP3KM7rNouvgDL2ofkK&secret=819db6a6233758d48755a6e3505fa934&time=1771650286

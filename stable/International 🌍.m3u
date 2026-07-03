@@ -167,3 +167,87 @@ http://46.171.186.177:9981/stream/channelid/84900303?ticket=ABD35AA61F7BD155126A
 http://95.143.230.238:9981/stream/channelid/1167177042?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-world-pl.png" group-title="International 🌍",TVP World
 http://78.56.193.170:9981/stream/channelid/2017205348?profile=pass
+#EXTINF:-1 tvg-id="24HorasInternacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/250px-Logo_Canal_24_horas.svg.png" group-title="International 🌍",24 Horas Internacional
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/960px-KBS_World_%282009%29.svg.png" group-title="International 🌍",KBS World
+http://121.143.97.131:9981/stream/channelid/576334703?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png" group-title="International 🌍",ORF 2 Europe
+http://188.174.204.193:9981/stream/channelid/248337322
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/1920px-TRT_T%C3%BCrk_logo.svg.png" group-title="International 🌍",TRT Turk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/1920px-TRT_World.svg.png" group-title="International 🌍",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Atreseries_2020_alt.svg/revision/latest?cb=20200629153130" group-title="International 🌍",Atres Series Internacional
+http://181.78.201.70:8000/play/a0sp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Antena3Internacional2025.png/250px-Antena3Internacional2025.png" group-title="International 🌍",Antena 3 Internacional
+http://181.78.201.70:8000/play/a0mv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International 🌍",GO2 Travel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SkyNewsWeatherChannelAU.svg/1200px-SkyNewsWeatherChannelAU.svg.png" group-title="International 🌍",Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/New_rik-sat-logo.png/revision/latest?cb=20240329211507" group-title="International 🌍",RIK Sat
+http://193.92.205.210:666/stream/channelid/156817259?ticket=A880FEEEC8FF79E329A41AAAD88906F5A76A2B71&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/RTS_Svet.svg/revision/latest?cb=20200327134807" group-title="International 🌍",RTS Svet
+https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Al-Arabiya_new_logo.svg" group-title="International 🌍",Al Arabiya
+http://185.104.253.35:9981/stream/channelid/1424747411?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Aljazeera.svg" group-title="International 🌍",Al Jazeera
+http://185.104.253.35:9981/stream/channelid/1980218373?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg" group-title="International 🌍",Al Jazeera English
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International 🌍",BBC News
+http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International 🌍",BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International 🌍",BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/1200px-BVN_logo.svg.png" group-title="International 🌍",BVN
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png" group-title="International 🌍",CCTV-4
+http://58.19.180.108:9981/stream/channelid/1411564127?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Duna_World_HD_2012.svg.png" group-title="International 🌍",Duna World/M4 Sport+
+http://77.234.85.235:9981/stream/channelid/195242986?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Cubavisi%25_3FnIntl2022.webp/revision/latest?cb=20230723155246" group-title="International 🌍",Cubavision Internacional
+https://dvrfl06.bozztv.com/astv-cubavisionint/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/euro-d-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="International 🌍",Euro D
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png" group-title="International 🌍",France 24 Arabic
+http://185.104.253.35:9981/stream/channelid/1635083552?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg" group-title="International 🌍",France Info
+http://176.65.146.138:8047/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/HRT_International_logo.png" group-title="International 🌍",HRT International
+http://79.127.207.193/HRTint/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220811142013" group-title="International 🌍",Markíza International
+http://tvh.cyn.cz/stream/channelid/1250511667?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb431ItUI9vrWnI7Lr8OFxmkyIwzW_luy-Xg&s" group-title="International 🌍",Nova International
+http://tvh.cyn.cz/stream/channelid/1406456571?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest?cb=20191225023419" group-title="International 🌍",NuestraTele RCN
+http://181.78.4.250:8098/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-news-24-it.png" group-title="International 🌍",Rai News 24
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/29/Rai_World_Premium_%282017-.n.v.%29.png/revision/latest?cb=20170627122650" group-title="International 🌍",Rai World Premium
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://telepez.github.io/imagenes/RT.webp" group-title="International 🌍",RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Star-TVE-logo-300x169.png/revision/latest?cb=20150911200636" group-title="International 🌍",Star TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="International 🌍",Show Turk
+https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png" group-title="International 🌍",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Sky_News_Arabia_2022_logo.svg" group-title="International 🌍",Sky News Arabia
+http://185.104.253.35:9981/stream/channelid/232968588?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://telepez.github.io/imagenes/Univision.webp" group-title="International 🌍",Univision
+http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-312926260903.png?v=3&w=860" group-title="International 🌍",RTP Mundo
+http://95.143.230.238:9981/stream/channelid/226843454?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png" group-title="International 🌍",Telemundo
+http://170.239.188.252:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="International 🌍",TVE Internacional
+http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/1200px-TVP_Polonia_Logo_2020.svg.png" group-title="International 🌍",TVP Polonia
+http://46.171.186.177:9981/stream/channelid/84900303?ticket=ABD35AA61F7BD155126A9D72BA4A07738BE0DF0C&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TVRi_Logo_2022.svg/1200px-TVRi_Logo_2022.svg.png" group-title="International 🌍",TVRi
+http://95.143.230.238:9981/stream/channelid/1167177042?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-world-pl.png" group-title="International 🌍",TVP World
+http://78.56.193.170:9981/stream/channelid/2017205348?profile=pass

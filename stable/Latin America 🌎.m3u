@@ -239,3 +239,123 @@ http://168.228.44.241:9998/play/a00c/index.m3u8
 https://rtvelivestream.rtve.es/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png" group-title="Latin America 🌎",Kanal D Drama
 http://38.250.127.17:9800/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png" group-title="Latin America 🌎",A&E
+http://181.78.4.250:8098/play/a07f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png" group-title="Latin America 🌎",AMC
+http://181.78.4.250:8098/play/a07m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/axn-mx.png" group-title="Latin America 🌎",AXN
+http://181.78.4.250:8098/play/a08p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/usa-us.png" group-title="Latin America 🌎",USA Network
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Latin America 🌎",Cinemax
+http://181.78.4.250:8098/play/a07o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tnt-us.png" group-title="Latin America 🌎",TNT
+http://181.78.4.250:8098/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-series-br.png" group-title="Latin America 🌎",TNT Series
+http://181.78.4.250:8098/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-novelas-br.png" group-title="Latin America 🌎",TNT Novelas
+http://181.78.4.250:8098/play/a08m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tlc-us.png" group-title="Latin America 🌎",TLC
+http://181.78.4.250:8098/play/a08z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/lifetime-us.png" group-title="Latin America 🌎",Lifetime
+http://181.78.4.250:8098/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/e-entertainment-us.png" group-title="Latin America 🌎",E!
+http://177.93.46.178:8001/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-us.png" group-title="Latin America 🌎",MTV
+http://181.78.4.250:8098/play/a074/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Latin America 🌎",HBO
+http://181.78.4.250:8098/play/a08w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/220px-TCM_Latam_logo.svg.png" group-title="Latin America 🌎",TCM
+http://162.207.11.109:9981/stream/channelid/2007678241?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="Latin America 🌎",History
+https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/history2-ca.png" group-title="Latin America 🌎",History2
+http://186.145.137.48:11034/
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="Latin America 🌎",HGTV
+http://181.78.4.250:8098/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/investigaton-discovery-us.png" group-title="Latin America 🌎",Discovery ID
+http://181.78.4.250:8098/play/a08x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America 🌎",ESPN
+http://177.93.46.178:8001/play/a07e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Latin America 🌎",ESPN Premium
+http://177.93.46.178:8001/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://telepez.github.io/imagenes/ESPN2.webp" group-title="Latin America 🌎",ESPN 2
+http://177.93.46.178:8001/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://telepez.github.io/imagenes/ESPN3.webp" group-title="Latin America 🌎",ESPN 3
+http://201.230.121.186:8000/play/a0jg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://telepez.github.io/imagenes/ESPN4.webp" group-title="Latin America 🌎",ESPN 4
+http://177.93.46.178:8001/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="Latin America 🌎",ESPN 5
+http://177.93.46.178:8001/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png" group-title="Latin America 🌎",ESPN 6
+http://177.93.46.178:8001/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Latin America 🌎",ESPN 7
+http://201.230.121.186:8000/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png" group-title="Latin America 🌎",Tigo Sports
+http://201.237.193.180:9981/stream/channelid/333632199?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Latin America 🌎",Food Network
+http://181.78.4.250:8098/play/a092/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png" group-title="Latin America 🌎",FX
+http://181.78.4.250:8098/play/a060/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-us.png" group-title="Latin America 🌎",Discovery Channel
+http://181.78.4.250:8098/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comedy-central-us.png" group-title="Latin America 🌎",Comedy Central
+http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/home-and-health-br.png" group-title="Latin America 🌎",Discovery Home and Health
+http://181.78.4.250:8098/play/a07c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-science-br.png" group-title="Latin America 🌎",Discovery Science
+http://181.78.4.250:8098/play/a090/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/star-channel-br.png" group-title="Latin America 🌎",Star Channel
+http://181.78.4.250:8098/play/a061/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" group-title="Latin America 🌎",Univision
+http://186.145.137.48:11041/
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/bandamax-lam.png" group-title="Latin America 🌎",Bandamax
+http://168.228.44.241:9998/play/a0c4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/telemundo-us.png" group-title="Latin America 🌎",Telemundo Internacional
+http://186.145.137.48:11038/
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latin America 🌎",SONY CHANNEL
+https://netplay.sv/multimedia/live/canal-035/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-family-us.png" group-title="Latin America 🌎",HBO Family
+http://168.228.44.241:9998/play/a0cb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-xtreme-lam.png" group-title="Latin America 🌎",HBO2
+http://168.228.44.241:9998/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-plus-lam.png" group-title="Latin America 🌎",HBO Plus
+http://168.228.44.241:9998/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfxiivz-1f7aa464-8d25-4cf4-8012-205f514177c1.png/v1/fill/w_958,h_522/universal_channel_logo_concept_2023_by_blackwbofficial_dfxiivz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTIyIiwicGF0aCI6Ii9mLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYi9kZnhpaXZ6LTFmN2FhNDY0LThkMjUtNGNmNC04MDEyLTIwNWY1MTQxNzdjMS5wbmciLCJ3aWR0aCI6Ijw9OTU4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.LpwQb6eZrdOjZqhJ5Xm8mECwekHx3L_XbZ8sN1KzbQI" group-title="Latin America 🌎",Universal Channel
+http://177.93.46.178:8001/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="Latin America 🌎",Universal Comedy
+http://168.228.44.241:9998/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056" group-title="Latin America 🌎",Universal Reality
+http://168.228.44.241:9998/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Universal_Crime.svg/revision/latest/scale-to-width-down/250?cb=20220311032018" group-title="Latin America 🌎",Universal Crime
+http://168.228.44.241:9998/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="Latin America 🌎",Universal Premiere
+http://168.228.44.241:9998/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/paramount-network-us.png" group-title="Latin America 🌎",Paramount Network
+http://181.78.4.250:8098/play/a079/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="Latin America 🌎",Animal Planet
+http://181.78.4.250:8098/play/a08v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png" group-title="Latin America 🌎",Cartoon Network
+http://181.78.4.250:8098/play/a08u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png" group-title="Latin America 🌎",Cartoonito
+http://181.78.4.250:8098/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-kids-br.png" group-title="Latin America 🌎",Discovery Kids
+http://181.78.4.250:8098/play/a08h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="Latin America 🌎",Nickelodeon
+http://181.78.4.250:8098/play/a03t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Latin America 🌎",Nick Jr.
+http://181.78.4.250:8098/play/a08y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Latin America 🌎",TeenNick
+http://162.207.11.109:9981/stream/channelid/1159717502?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tooncast-br.png" group-title="Latin America 🌎",Tooncast
+http://162.207.11.109:9981/stream/channelid/146144282?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg.png" group-title="Latin America 🌎",Disney Channel
+http://181.78.201.70:8000/play/a0up/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Latin America 🌎",Disney Jr.
+http://181.78.201.70:8000/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/960px-ZooMoo_logo.svg.png" group-title="Latin America 🌎",Zoomoo
+http://168.228.44.241:9998/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/clan-es.png" group-title="Latin America 🌎",Clan
+https://rtvelivestream.rtve.es/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png" group-title="Latin America 🌎",Kanal D Drama
+http://38.250.127.17:9800/play/a076/index.m3u8

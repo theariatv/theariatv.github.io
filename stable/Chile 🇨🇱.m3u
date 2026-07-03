@@ -51,3 +51,29 @@ http://181.78.201.70:8000/play/a0tu/index.m3u8
 http://138.36.253.13:8008/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Vive_VTR.jpg/revision/latest?cb=20190412011653&path-prefix=es" group-title="Chile 🇨🇱",Canal Vive
 https://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1200px-La_Red_Logotipo_2021.svg.png" group-title="Chile 🇨🇱",La Red
+http://38.250.127.17:9800/play/a09n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="Chile 🇨🇱",Chilevision
+http://38.7.195.43:8000/play/a02g
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="Chile 🇨🇱",CHV Noticias
+http://38.7.195.43:8000/play/a02i
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logotipo_de_Mega_%282020-%29.svg" group-title="Chile 🇨🇱",MEGA
+http://177.93.46.178:8001/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Mega_2_Branding_%282%29.jpg" group-title="Chile 🇨🇱",MEGA 2
+http://38.7.195.43:8000/play/a028
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/RzCO1IBS2apaz17btCM4JMmgPE4bvb8brS3C_9Rp5FNbxxsipFQOYLCMh8TqeWIt-mrmy-b8=s900-c-k-c0x00ffffff-no-rj" group-title="Chile 🇨🇱",MEGA Tiempo
+http://38.7.195.43:8000/play/a0v3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Mega_Ficci%C3%B3n_2022_1.png/revision/latest?cb=20220402182308&path-prefix=es" group-title="Chile 🇨🇱",MEGA Ficcion
+http://38.7.195.43:8000/play/a0v4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/El13_%282025%29.png" group-title="Chile 🇨🇱",El 13
+http://38.7.195.43:8000/play/a02k
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Teletrece2025.png" group-title="Chile 🇨🇱",Teletrece
+http://38.7.195.43:8000/play/a02m
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/13c_%282025%29.png" group-title="Chile 🇨🇱",13C
+http://38.7.195.43:8000/play/a02o
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Chile 🇨🇱",ETC
+http://181.78.201.70:8000/play/a0tu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile 🇨🇱",CNN Chile
+http://138.36.253.13:8008/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Vive_VTR.jpg/revision/latest?cb=20190412011653&path-prefix=es" group-title="Chile 🇨🇱",Canal Vive
+https://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD

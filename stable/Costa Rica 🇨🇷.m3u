@@ -15,3 +15,11 @@ http://201.237.193.180:9981/stream/channelid/2039568413?profile=pass
 http://201.237.193.180:9981/stream/channelid/2109973730?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RepretelCanal112024.svg/1200px-RepretelCanal112024.svg.png" group-title="Costa Rica 🇨🇷",Repretel 11
 http://201.237.193.180:9981/stream/channelid/220443661?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RepretelCanal62024.svg/1200px-RepretelCanal62024.svg.png" group-title="Costa Rica 🇨🇷",Repretel 6
+http://201.237.193.180:9981/stream/channelid/1914694040?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica 🇨🇷",Teletica
+http://201.237.193.180:9981/stream/channelid/2039568413?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20210312052039" group-title="Costa Rica 🇨🇷",Canal 8
+http://201.237.193.180:9981/stream/channelid/2109973730?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RepretelCanal112024.svg/1200px-RepretelCanal112024.svg.png" group-title="Costa Rica 🇨🇷",Repretel 11
+http://201.237.193.180:9981/stream/channelid/220443661?profile=pass
