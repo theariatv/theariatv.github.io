@@ -3,3 +3,7 @@
 http://78.56.193.170:9981/stream/channelid/328469358?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/CxJPaEVfX018WxwGaGedmCmBYpZlzqsI2PrGNCdofITvoeysAeHYovPeqMmAOCRdsBY" group-title="Lithuania 🇱🇹",TV3
 http://78.56.193.170:9981/stream/channelid/850565852?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV1_logolnk.lt.png" group-title="Lithuania 🇱🇹",TV1
+http://78.56.193.170:9981/stream/channelid/328469358?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/CxJPaEVfX018WxwGaGedmCmBYpZlzqsI2PrGNCdofITvoeysAeHYovPeqMmAOCRdsBY" group-title="Lithuania 🇱🇹",TV3
+http://78.56.193.170:9981/stream/channelid/850565852?profile=pass

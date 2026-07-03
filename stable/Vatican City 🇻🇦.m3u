@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.comunicazione.va/content/dam/comunicazione/tentativi-e-proposte/logo%20vatican%20media.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" group-title="Vatican City 🇻🇦",Vatican Media
 http://77.39.161.42:55555/Vatican%20Media%20HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.comunicazione.va/content/dam/comunicazione/tentativi-e-proposte/logo%20vatican%20media.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" group-title="Vatican City 🇻🇦",Vatican Media
+http://77.39.161.42:55555/Vatican%20Media%20HD
