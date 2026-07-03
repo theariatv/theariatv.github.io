@@ -1,4 +1,4 @@
-# Azerbaijan
+# Azerbaijan 🇦🇿
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

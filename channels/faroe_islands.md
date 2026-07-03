@@ -1,4 +1,4 @@
-# Faroe Islands
+# Faroe Islands 🇫🇴
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

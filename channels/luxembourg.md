@@ -1,4 +1,4 @@
-# Luxembourg
+# Luxembourg 🇱🇺
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

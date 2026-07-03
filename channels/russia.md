@@ -1,4 +1,4 @@
-# Russia
+# Russia 🇷🇺
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

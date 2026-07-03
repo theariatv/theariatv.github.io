@@ -1,4 +1,4 @@
-# Sweden
+# Sweden 🇸🇪
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

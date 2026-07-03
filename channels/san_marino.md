@@ -1,4 +1,4 @@
-# San Marino
+# San Marino 🇸🇲
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

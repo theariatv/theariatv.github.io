@@ -1,4 +1,4 @@
-# Japan
+# Japan 🇯🇵
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

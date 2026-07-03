@@ -1,4 +1,4 @@
-# Switzerland
+# Switzerland 🇨🇭
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

@@ -1,4 +1,4 @@
-# Slovenia
+# Slovenia 🇸🇮
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

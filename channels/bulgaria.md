@@ -1,4 +1,4 @@
-# Bulgaria
+# Bulgaria 🇧🇬
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

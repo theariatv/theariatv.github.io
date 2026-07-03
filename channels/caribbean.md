@@ -1,4 +1,4 @@
-# Caribbean
+# Caribbean 🏝️
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

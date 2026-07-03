@@ -1,4 +1,4 @@
-# Singapore
+# Singapore 🇸🇬
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

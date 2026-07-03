@@ -1,4 +1,4 @@
-# South Africa
+# South Africa 🇿🇦
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

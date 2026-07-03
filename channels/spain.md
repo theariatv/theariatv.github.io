@@ -1,4 +1,4 @@
-# Spain
+# Spain 🇪🇸
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

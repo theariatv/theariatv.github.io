@@ -1,4 +1,4 @@
-# Greece
+# Greece 🇬🇷
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

@@ -1,4 +1,4 @@
-# Georgia
+# Georgia 🇬🇪
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

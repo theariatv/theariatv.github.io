@@ -1,4 +1,4 @@
-# Finland
+# Finland 🇫🇮
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

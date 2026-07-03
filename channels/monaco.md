@@ -1,4 +1,4 @@
-# Monaco
+# Monaco 🇲🇨
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

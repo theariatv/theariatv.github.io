@@ -1,4 +1,4 @@
-# United Arab Emirates
+# United Arab Emirates 🇦🇪
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

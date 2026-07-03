@@ -1,4 +1,4 @@
-# Costa Rica
+# Costa Rica 🇨🇷
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

@@ -1,4 +1,4 @@
-# Bosnia and Herzegovina
+# Bosnia And Herzegovina 🇧🇦
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

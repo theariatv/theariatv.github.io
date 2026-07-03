@@ -1,4 +1,4 @@
-# Norway
+# Norway 🇳🇴
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

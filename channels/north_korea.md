@@ -1,4 +1,4 @@
-# North Korea
+# North Korea 🇰🇵
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

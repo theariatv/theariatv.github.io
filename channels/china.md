@@ -1,4 +1,4 @@
-# China
+# China 🇨🇳
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

@@ -1,4 +1,4 @@
-# Aria Web Channels
+# Aria Web Channels 📺
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

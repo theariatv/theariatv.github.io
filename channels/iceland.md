@@ -1,4 +1,4 @@
-# Iceland
+# Iceland 🇮🇸
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

@@ -1,4 +1,4 @@
-# New Zealand
+# New Zealand 🇳🇿
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

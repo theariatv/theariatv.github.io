@@ -1,4 +1,4 @@
-# South Korea
+# South Korea 🇰🇷
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

@@ -1,4 +1,4 @@
-# Andorra
+# Andorra 🇦🇩
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

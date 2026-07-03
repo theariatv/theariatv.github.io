@@ -1,4 +1,4 @@
-# Belarus
+# Belarus 🇧🇾
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

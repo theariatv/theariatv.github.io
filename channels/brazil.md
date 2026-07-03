@@ -1,4 +1,4 @@
-# Brazil
+# Brazil 🇧🇷
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

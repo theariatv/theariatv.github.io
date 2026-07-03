@@ -1,4 +1,4 @@
-# Africa
+# Africa 🌍
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

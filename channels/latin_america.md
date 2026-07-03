@@ -1,4 +1,4 @@
-# Latin America
+# Latin America 🌎
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

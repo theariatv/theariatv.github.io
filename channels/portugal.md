@@ -1,4 +1,4 @@
-# Portugal
+# Portugal 🇵🇹
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

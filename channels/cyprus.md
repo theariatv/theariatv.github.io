@@ -1,4 +1,4 @@
-# Cyprus
+# Cyprus 🇨🇾
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

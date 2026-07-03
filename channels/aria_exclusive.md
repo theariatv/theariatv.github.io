@@ -1,4 +1,4 @@
-# Aria+ Exclusive
+# Aria Exclusive
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

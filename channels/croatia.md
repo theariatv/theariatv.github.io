@@ -1,4 +1,4 @@
-# Croatia
+# Croatia 🇭🇷
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|

@@ -1,4 +1,4 @@
-# North Macedonia
+# North Macedonia 🇲🇰
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
