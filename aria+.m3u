@@ -258,9 +258,9 @@ http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2193/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/belsat-pl.png" group-title="Belarus 🇧🇾",Belsat
 http://78.56.193.170:9981/stream/channelid/358696833?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vrt-1-be.png" group-title="Belgium 🇧🇪",VRT 1
-http://83.85.109.250:9981/stream/channelid/1709495449?profile=pass
+http://83.85.109.250:9981/stream/channelid/624552086?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vrt-canvas-be.png" group-title="Belgium 🇧🇪",VRT Canvas
-http://83.85.109.250:9981/stream/channelid/1420477824?profile=pass
+http://83.85.109.250:9981/stream/channelid/1344431183?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/ketnet-be.png" group-title="Belgium 🇧🇪",Ketnet
 http://192.145.57.85:9981/stream/channelid/1372631070?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/la-une-be.png" group-title="Belgium 🇧🇪",La Une
