@@ -377,161 +377,161 @@ http://213.7.216.229:8888/udp/239.23.6.2:1234
 http://213.7.216.229:8888/udp/239.23.6.3:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/eLkJ8Kw29bL6OiZlFPEWYRukNrhEDJL0oTi5t1Lg76Jj2N5S_nyC6mb1T1KjZLth-heWaChFDA=s900-c-k-c0x00ffffff-no-rj" group-title="Cyprus 🇨🇾",Vergina TV
 http://213.7.216.229:8888/udp/239.23.5.1:1234
-#EXTINF:-1 tvg-id="CT1.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct1-cz.png" group-title="Czech Republic 🇨🇿",ČT1
+#EXTINF:-1 tvg-id="CT1.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct1-cz.png" group-title="Czechia 🇨🇿",ČT1
 https://sktv.mxnticek.eu/new/stream.php?ch=CT1
-#EXTINF:-1 tvg-id="CT2.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct2-cz.png" group-title="Czech Republic 🇨🇿",ČT2
+#EXTINF:-1 tvg-id="CT2.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct2-cz.png" group-title="Czechia 🇨🇿",ČT2
 https://sktv.mxnticek.eu/new/stream.php?ch=CT2
-#EXTINF:-1 tvg-id="CT24.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct24-cz.png" group-title="Czech Republic 🇨🇿",ČT24
+#EXTINF:-1 tvg-id="CT24.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct24-cz.png" group-title="Czechia 🇨🇿",ČT24
 https://sktv.mxnticek.eu/new/stream.php?ch=CT24
-#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="Czech Republic 🇨🇿",ČT sport
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="Czechia 🇨🇿",ČT sport
 https://sktv.mxnticek.eu/new/stream.php?ch=CTsport
-#EXTINF:-1 tvg-id="CTDecko.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png" group-title="Czech Republic 🇨🇿",ČT :D
+#EXTINF:-1 tvg-id="CTDecko.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png" group-title="Czechia 🇨🇿",ČT :D
 https://sktv.mxnticek.eu/new/stream.php?ch=CT_D
-#EXTINF:-1 tvg-id="CTart.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png" group-title="Czech Republic 🇨🇿",ČT art
+#EXTINF:-1 tvg-id="CTart.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png" group-title="Czechia 🇨🇿",ČT art
 https://sktv.mxnticek.eu/new/stream.php?ch=CTart
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="Czech Republic 🇨🇿",ČT sport Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="Czechia 🇨🇿",ČT sport Plus
 https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus
-#EXTINF:-1 tvg-id="tvnova.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Czech Republic 🇨🇿",TV Nova Ⓢ
+#EXTINF:-1 tvg-id="tvnova.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Czechia 🇨🇿",TV Nova Ⓢ
 https://sktv.mxnticek.eu/new/stream.php?ch=Nova
-#EXTINF:-1 tvg-id="NovaCinema.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" group-title="Czech Republic 🇨🇿",Nova Cinema
+#EXTINF:-1 tvg-id="NovaCinema.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" group-title="Czechia 🇨🇿",Nova Cinema
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
-#EXTINF:-1 tvg-id="NovaAction.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" group-title="Czech Republic 🇨🇿",Nova Action
+#EXTINF:-1 tvg-id="NovaAction.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" group-title="Czechia 🇨🇿",Nova Action
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
-#EXTINF:-1 tvg-id="NovaFun.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png" group-title="Czech Republic 🇨🇿",Nova Fun
+#EXTINF:-1 tvg-id="NovaFun.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png" group-title="Czechia 🇨🇿",Nova Fun
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun
-#EXTINF:-1 tvg-id="NovaGold.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png" group-title="Czech Republic 🇨🇿",Nova Gold
+#EXTINF:-1 tvg-id="NovaGold.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png" group-title="Czechia 🇨🇿",Nova Gold
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
-#EXTINF:-1 tvg-id="NovaLady.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png" group-title="Czech Republic 🇨🇿",Nova Lady
+#EXTINF:-1 tvg-id="NovaLady.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png" group-title="Czechia 🇨🇿",Nova Lady
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Czech Republic 🇨🇿",TN Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Czechia 🇨🇿",TN Live
 https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live
-#EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" group-title="Czech Republic 🇨🇿",Prima
+#EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" group-title="Czechia 🇨🇿",Prima
 https://sktv.mxnticek.eu/new/stream.php?ch=Prima
-#EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" group-title="Czech Republic 🇨🇿",CNN Prima News
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" group-title="Czechia 🇨🇿",CNN Prima News
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
-#EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-zoom-cz.png" group-title="Czech Republic 🇨🇿",Prima Zoom
+#EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-zoom-cz.png" group-title="Czechia 🇨🇿",Prima Zoom
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaZoom
-#EXTINF:-1 tvg-id="PrimaLove.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-love-cz.png" group-title="Czech Republic 🇨🇿",Prima Love
+#EXTINF:-1 tvg-id="PrimaLove.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-love-cz.png" group-title="Czechia 🇨🇿",Prima Love
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaLove
-#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png" group-title="Czech Republic 🇨🇿",Prima STAR
+#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png" group-title="Czechia 🇨🇿",Prima STAR
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaStar
-#EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png" group-title="Czech Republic 🇨🇿",Prima Krimi
+#EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png" group-title="Czechia 🇨🇿",Prima Krimi
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi
-#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png" group-title="Czech Republic 🇨🇿",Prima MAX
+#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png" group-title="Czechia 🇨🇿",Prima MAX
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaMax
-#EXTINF:-1 tvg-id="PrimaCool.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png" group-title="Czech Republic 🇨🇿",Prima Cool
+#EXTINF:-1 tvg-id="PrimaCool.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png" group-title="Czechia 🇨🇿",Prima Cool
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaCool
-#EXTINF:-1 tvg-id="PrimaShow.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png" group-title="Czech Republic 🇨🇿",Prima Show
+#EXTINF:-1 tvg-id="PrimaShow.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png" group-title="Czechia 🇨🇿",Prima Show
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaShow
-#EXTINF:-1 tvg-id="JojFamily.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-family-cz.png" group-title="Czech Republic 🇨🇿",JOJ Family Ⓢ
+#EXTINF:-1 tvg-id="JojFamily.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-family-cz.png" group-title="Czechia 🇨🇿",JOJ Family Ⓢ
 https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Family
-#EXTINF:-1 tvg-id="JojCinema.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png" group-title="Czech Republic 🇨🇿",JOJ Cinema
+#EXTINF:-1 tvg-id="JojCinema.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png" group-title="Czechia 🇨🇿",JOJ Cinema
 https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Cinema
-#EXTINF:-1 tvg-id="CSFilm.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/cs-film-sk.png" group-title="Czech Republic 🇨🇿",CS Film
+#EXTINF:-1 tvg-id="CSFilm.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/cs-film-sk.png" group-title="Czechia 🇨🇿",CS Film
 https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Film
-#EXTINF:-1 tvg-id="CSHistory.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-history-cz.png" group-title="Czech Republic 🇨🇿",CS History
+#EXTINF:-1 tvg-id="CSHistory.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-history-cz.png" group-title="Czechia 🇨🇿",CS History
 https://sktv.mxnticek.eu/new/stream.php?ch=CS%20History
-#EXTINF:-1 tvg-id="CSMystery.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-mystery-cz.png" group-title="Czech Republic 🇨🇿",CS Mystery
+#EXTINF:-1 tvg-id="CSMystery.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-mystery-cz.png" group-title="Czechia 🇨🇿",CS Mystery
 https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Mystery
-#EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-cz.png" group-title="Czech Republic 🇨🇿",Óčko Ⓢ
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-cz.png" group-title="Czechia 🇨🇿",Óčko Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-id="OckoStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-star-cz.png" group-title="Czech Republic 🇨🇿",Óčko Star Ⓢ
+#EXTINF:-1 tvg-id="OckoStar.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-star-cz.png" group-title="Czechia 🇨🇿",Óčko Star Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-expres-cz.png" group-title="Czech Republic 🇨🇿",Óčko Expres Ⓢ
+#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-expres-cz.png" group-title="Czechia 🇨🇿",Óčko Expres Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 tvg-id="SlagrOriginal.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-original-cz.png" group-title="Czech Republic 🇨🇿",Šlágr Originál Ⓢ
+#EXTINF:-1 tvg-id="SlagrOriginal.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-original-cz.png" group-title="Czechia 🇨🇿",Šlágr Originál Ⓢ
 https://stream-6.mazana.tv/slagr.m3u
-#EXTINF:-1 tvg-id="SlagrMuzika.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png" group-title="Czech Republic 🇨🇿",Šlágr Muzika Ⓢ
+#EXTINF:-1 tvg-id="SlagrMuzika.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png" group-title="Czechia 🇨🇿",Šlágr Muzika Ⓢ
 https://stream-33.mazana.tv/slagr2.m3u
-#EXTINF:-1 tvg-id="SlagrPremium.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-premium-cz.png" group-title="Czech Republic 🇨🇿",Šlágr Premium Ⓢ
+#EXTINF:-1 tvg-id="SlagrPremium.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-premium-cz.png" group-title="Czechia 🇨🇿",Šlágr Premium Ⓢ
 https://stream-15.mazana.tv/slagrpremium.m3u
-#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png" group-title="Czech Republic 🇨🇿",Retro Music TV Ⓢ
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png" group-title="Czechia 🇨🇿",Retro Music TV Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PrahaTV.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png" group-title="Czech Republic 🇨🇿",Praha TV
+#EXTINF:-1 tvg-id="PrahaTV.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png" group-title="Czechia 🇨🇿",Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="V1.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png" group-title="Czech Republic 🇨🇿",Východoceská TV
+#EXTINF:-1 tvg-id="V1.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png" group-title="Czechia 🇨🇿",Východoceská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="utv.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",UTV
+#EXTINF:-1 tvg-id="utv.cz" tvg-logo="" group-title="Czechia 🇨🇿",UTV
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 tvg-id="Disney.Channel.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",Disney Channel
+#EXTINF:-1 tvg-id="Disney.Channel.cz" tvg-logo="" group-title="Czechia 🇨🇿",Disney Channel
 https://webstream.odjezdy.online/CZ/Disney/video.m3u8
-#EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1200px-%C4%8CT1_logo_2012.svg.png" group-title="Czech Republic 🇨🇿",ČT 1
+#EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1200px-%C4%8CT1_logo_2012.svg.png" group-title="Czechia 🇨🇿",ČT 1
 http://tvh.cyn.cz/stream/channelid/1921349708?profile=pass
-#EXTINF:-1 tvg-id="ČT2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1200px-%C4%8CT2_logo_2012.svg.png" group-title="Czech Republic 🇨🇿",ČT 2
+#EXTINF:-1 tvg-id="ČT2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1200px-%C4%8CT2_logo_2012.svg.png" group-title="Czechia 🇨🇿",ČT 2
 http://tvh.cyn.cz/stream/channelid/196862385?profile=pass
-#EXTINF:-1 tvg-id="ČT.art.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/%C4%8CT_art.svg/250px-%C4%8CT_art.svg.png" group-title="Czech Republic 🇨🇿",ČT Art (20-04h CET)
+#EXTINF:-1 tvg-id="ČT.art.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/%C4%8CT_art.svg/250px-%C4%8CT_art.svg.png" group-title="Czechia 🇨🇿",ČT Art (20-04h CET)
 http://tvh.cyn.cz/stream/channelid/1759467266?profile=pass
-#EXTINF:-1 tvg-id="ČT24.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/1200px-%C4%8CT24_logo.png" group-title="Czech Republic 🇨🇿",ČT 24
+#EXTINF:-1 tvg-id="ČT24.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/1200px-%C4%8CT24_logo.png" group-title="Czechia 🇨🇿",ČT 24
 http://tvh.cyn.cz/stream/channelid/1020391357?profile=pass
-#EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prima_2013.svg/250px-Prima_2013.svg.png" group-title="Czech Republic 🇨🇿",TV Prima
+#EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prima_2013.svg/250px-Prima_2013.svg.png" group-title="Czechia 🇨🇿",TV Prima
 http://90.178.86.156:9981/stream/channelid/1669214446?ticket=BDA09228D9A1E3C5444CB168C684A21C7FE37A29&profile=pass
-#EXTINF:-1 tvg-id="Prima.Show.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",Prima SHOW
+#EXTINF:-1 tvg-id="Prima.Show.cz" tvg-logo="" group-title="Czechia 🇨🇿",Prima SHOW
 http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass
-#EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",OCKO
+#EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="" group-title="Czechia 🇨🇿",OCKO
 http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass
-#EXTINF:-1 tvg-id="Óčko.STAR.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",OCKO STAR
+#EXTINF:-1 tvg-id="Óčko.STAR.cz" tvg-logo="" group-title="Czechia 🇨🇿",OCKO STAR
 http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass
-#EXTINF:-1 tvg-id="TV.Barrandov.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",TV Barrandov
+#EXTINF:-1 tvg-id="TV.Barrandov.cz" tvg-logo="" group-title="Czechia 🇨🇿",TV Barrandov
 http://90.178.86.156:9981/stream/channelid/1149773228?ticket=56A407B3D9D49568B131C27B70C4B903FD070FE5&profile=pass
-#EXTINF:-1 tvg-id="Barrandov.Krimi.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",Barrandov KRIMI
+#EXTINF:-1 tvg-id="Barrandov.Krimi.cz" tvg-logo="" group-title="Czechia 🇨🇿",Barrandov KRIMI
 http://90.178.86.156:9981/stream/channelid/63674077?ticket=3DD9B00FA8EDFD57654A69FCCB425D310F46D234&profile=pass
-#EXTINF:-1 tvg-id="Kino.Barrandov.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",Barrandov KINO
+#EXTINF:-1 tvg-id="Kino.Barrandov.cz" tvg-logo="" group-title="Czechia 🇨🇿",Barrandov KINO
 http://90.178.86.156:9981/stream/channelid/468144232?ticket=08EE87AD25F9FBE538875ECAE79A083364326C74&profile=pass
-#EXTINF:-1 tvg-id="JOJ.Family.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",JOJ Family
+#EXTINF:-1 tvg-id="JOJ.Family.cz" tvg-logo="" group-title="Czechia 🇨🇿",JOJ Family
 http://tvh.cyn.cz/stream/channelid/1693764695?profile=pass
-#EXTINF:-1 tvg-id="AMC.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",AMC
+#EXTINF:-1 tvg-id="AMC.cz" tvg-logo="" group-title="Czechia 🇨🇿",AMC
 http://185.236.230.212:9981/play/a0bb
-#EXTINF:-1 tvg-id="Auto.Motor.Sport.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",AUTOMOTORSPORT HD
+#EXTINF:-1 tvg-id="Auto.Motor.Sport.cz" tvg-logo="" group-title="Czechia 🇨🇿",AUTOMOTORSPORT HD
 http://tvh.cyn.cz/stream/channelid/1879523926?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",CANAL+ ACTION HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",CANAL+ ACTION HD
 http://185.236.230.212:9981/play/a0bw
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",CANAL+ SPORT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",CANAL+ SPORT
 http://185.236.230.212:9981/play/a0bu
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",CARTOON NETWORK
 http://185.236.230.212:9981/play/a0b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",CINEMAX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",CINEMAX HD
 http://185.236.230.212:9981/play/a0c0
-#EXTINF:-1 tvg-id="CNN.Prima.News.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",CNN PRIMA NEWS HD
+#EXTINF:-1 tvg-id="CNN.Prima.News.cz" tvg-logo="" group-title="Czechia 🇨🇿",CNN PRIMA NEWS HD
 http://185.236.230.212:9981/play/a0bf
-#EXTINF:-1 tvg-id="CS.Film.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",CS FILM
+#EXTINF:-1 tvg-id="CS.Film.cz" tvg-logo="" group-title="Czechia 🇨🇿",CS FILM
 http://185.236.230.212:9981/play/a0ay
-#EXTINF:-1 tvg-id="CS.History.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",CS HISTORY
+#EXTINF:-1 tvg-id="CS.History.cz" tvg-logo="" group-title="Czechia 🇨🇿",CS HISTORY
 http://185.236.230.212:9981/play/a0cm
-#EXTINF:-1 tvg-id="CS.Mystery.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",CS MYSTERY
+#EXTINF:-1 tvg-id="CS.Mystery.cz" tvg-logo="" group-title="Czechia 🇨🇿",CS MYSTERY
 http://185.236.230.212:9981/play/a0ch
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",EPIC DRAMA HD CZ/HU/VO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",EPIC DRAMA HD CZ/HU/VO
 http://185.236.230.212:9981/play/a0bg
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",FILM EUROPE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",FILM EUROPE HD
 http://185.236.230.212:9981/play/a0c1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",FILMBOX EXTRA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",FILMBOX EXTRA HD
 http://185.236.230.212:9981/play/a0c2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",FILMBOX FAMILY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",FILMBOX FAMILY
 http://185.236.230.212:9981/play/a0c5
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",FILMBOX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",FILMBOX HD
 http://185.236.230.212:9981/play/a0ax
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",HOBBY TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",HOBBY TV
 http://185.236.230.212:9981/play/a0c4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",JIMJAM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",JIMJAM
 http://185.236.230.212:9981/play/a0c6
-#EXTINF:-1 tvg-id="JOJ.Cinema.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",JOJ CINEMA HD
+#EXTINF:-1 tvg-id="JOJ.Cinema.cz" tvg-logo="" group-title="Czechia 🇨🇿",JOJ CINEMA HD
 http://185.236.230.212:9981/play/a0cl
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",LALA TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",LALA TV
 http://185.236.230.212:9981/play/a0by
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czech Republic 🇨🇿",NICK JR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Czechia 🇨🇿",NICK JR
 http://185.236.230.212:9981/play/a0b4
-#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-logo="" group-title="Czechia 🇨🇿",NICKELODEON
 http://185.236.230.212:9981/play/a0co
-#EXTINF:-1 tvg-id="Nicktoons.cz" tvg-logo="" group-title="Czech Republic 🇨🇿",NICKTOONS
+#EXTINF:-1 tvg-id="Nicktoons.cz" tvg-logo="" group-title="Czechia 🇨🇿",NICKTOONS
 http://185.236.230.212:9981/play/a0b9
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/TV_Nova_%282024%29.svg/revision/latest?cb=20240813192427&path-prefix=es" group-title="Czech Republic 🇨🇿",Nova
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/TV_Nova_%282024%29.svg/revision/latest?cb=20240813192427&path-prefix=es" group-title="Czechia 🇨🇿",Nova
 http://tvh.cyn.cz/stream/channelid/14674568?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png" group-title="Czech Republic 🇨🇿",NOVA FUN HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png" group-title="Czechia 🇨🇿",NOVA FUN HD
 http://185.236.230.212:9981/play/a0bk
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" group-title="Czech Republic 🇨🇿",NOVA GOLD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" group-title="Czechia 🇨🇿",NOVA GOLD
 http://185.236.230.212:9981/play/a0bj
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png" group-title="Czech Republic 🇨🇿",NOVA LADY
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Nova_Lady_2021.png/1200px-Logo_Nova_Lady_2021.png" group-title="Czechia 🇨🇿",NOVA LADY
 http://185.236.230.212:9981/play/a0bl
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Czech Republic 🇨🇿",NOVA SPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Czechia 🇨🇿",NOVA SPORT 2 HD
 http://185.236.230.212:9981/play/a0bh
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DR1_logo_2020.svg/1200px-DR1_logo_2020.svg.png" group-title="Denmark 🇩🇰",DR 1
 http://212.10.107.47:9981/stream/channelid/1548418828?profile=pass
