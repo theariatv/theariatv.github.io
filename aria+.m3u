@@ -3013,18 +3013,16 @@ http://86.180.115.121:1990/stream/channelid/986844643?profile=pass
 http:\\82.68.56.43:9981\stream\channelid\1021226135?profile=pass
 #EXTINF:-1 tvg-id="E4.+1.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/E4-%2B1-RGB-Colour-Positive-255x140.png?itok=B49Vws0Y" group-title="United Kingdom 🇬🇧",E4 +1
 http://86.180.115.121:1990/stream/channelid/1993018842?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png" group-title="United States 🇺🇸",CBS (WNEM)
-http://47.40.181.39:9981/stream/channelid/1530776577?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png" group-title="United States 🇺🇸",NBC (WVGN)
-https://fl7.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png" group-title="United States 🇺🇸",CBS (WYOU)
+http://68.65.124.50:5004/auto/v22.1
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png" group-title="United States 🇺🇸",NBC (WBRE)
+hhttp://68.65.124.50:5004/auto/v28.1
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="United States 🇺🇸",ABC (WSVN 7.2)
 http://104.12.67.120:9981/stream/channelid/718850180?ticket=27C93D1C96D92D9E0120CDD249B7FB9993D73402&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png" group-title="United States 🇺🇸",FOX (WSVN)
 http://104.12.67.120:9981/stream/channelid/1934217021?ticket=FF7E486BC7E8A184FC157ABD2205823B22CB1519&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75" group-title="United States 🇺🇸",The CW (WTOG)
-https://fl7.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="United States 🇺🇸",MyNetworkTV (WWOR)
-http://108.14.66.42:5004/auto/v9.1
+http://68.65.124.50:5004/auto/v56.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png" group-title="United States 🇺🇸",MeTV
 http://47.40.181.39:9981/stream/channelid/1123372929?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp" group-title="United States 🇺🇸",Univision
@@ -3146,7 +3144,7 @@ https://tvpass.org/live/NickJrEast/sd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="United States 🇺🇸",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/metv-toons-us.png" group-title="United States 🇺🇸",MeTV Toons
-http://74.89.88.102:5004/auto/v43.4
+http://199.193.59.138:5004/auto/v50.6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/game-show-network-us.png" group-title="United States 🇺🇸",Game Show Network
  https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/buzzer-us.png" group-title="United States 🇺🇸",Buzzer
@@ -3283,10 +3281,6 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:-1 tvg-id="QVC2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="United States 🇺🇸",QVC2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="United States 🇺🇸",ABC (WABC)
-http://72.90.150.217:8000/play/a08l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png" group-title="United States 🇺🇸",FOX (WNYW)
-http://72.90.150.217:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png" group-title="United States 🇺🇸",Discovery Familia
 http://200.115.120.1:8000/play/ca053
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.comunicazione.va/content/dam/comunicazione/tentativi-e-proposte/logo%20vatican%20media.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" group-title="Vatican City 🇻🇦",Vatican Media
