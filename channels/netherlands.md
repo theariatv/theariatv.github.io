@@ -34,4 +34,4 @@
 | 30 | Ziggo Sport 4 | [>](https://a1xs.vip/140004) | <img height="20" src="https://i.imgur.com/8mnQvB5.png"/> | Ziggo.Sport.4.nl | unstable |
 | 31 | ESPN | [>](http://46.149.191.219:9100/play/a00e) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-nl.png"/> | &nbsp; | stable |
 | 32 | RTL Crime | [>](http://83.85.109.250:9981/stream/channelid/113198168?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-crime-nl.png"/> | &nbsp; | unstable |
-| 33 | RTL Telekids | [>](http://83.85.109.250:9981/stream/channelid/817423926?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-crime-nl.png"/> | &nbsp; | unstable |
+| 33 | RTL Telekids | [>](http://83.85.109.250:9981/stream/channelid/817423926?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-telekids-nl.png"/> | &nbsp; | unstable |
