@@ -190,7 +190,7 @@
 | 185 | Hollywood Suite 70s+ | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50300.ts) | <img height="20" src="https://hollywoodsuite.ca/build/assets/70s-movies-logo-DlqznX7p.svg"/> |  | unstable |
 | 186 | Hollywood Suite 80s & 90s | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50301.ts) | <img height="20" src="https://hollywoodsuite.ca/build/assets/80s-90s-movies-D_e5Lu-3.svg"/> |  | unstable |
 | 186 | Hollywood Suite 2000s | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50302.ts) | <img height="20" src="https://hollywoodsuite.ca/build/assets/2000s-movies-Bml_nujT.svg"/> | | unstable |
-| 187 | Hollywood Suite 2010s | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50299.ts) | <img height="20" src="https://hollywoodsuite.ca/build/assets/2010s-movies-l1Uk349B.svg"/> | | unstable |
+| 187 | Hollywood Suite 2010s+ | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50299.ts) | <img height="20" src="https://hollywoodsuite.ca/build/assets/2010s-movies-l1Uk349B.svg"/> | | unstable |
 
 
 
