@@ -1,4 +1,4 @@
-# Czech Republic 🇨🇿
+# Czechia 🇨🇿
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
