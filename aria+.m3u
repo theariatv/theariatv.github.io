@@ -2214,29 +2214,33 @@ https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TVCG_MNE_2024_logo.svg/revision/latest?cb=20240406171908" group-title="Montenegro 🇲🇪",TVCG MNE
 https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-nl.png" group-title="Netherlands 🇳🇱",NPO 1
-http://86.85.245.213:9981/stream/channelid/228930093?profile=pass
+http://83.85.109.250:9981/stream/channelid/1376429938?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo2-nl.png" group-title="Netherlands 🇳🇱",NPO 2
-http://86.85.245.213:9981/stream/channelid/1091595793?profile=pass
+http://83.85.109.250:9981/stream/channelid/975494203?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo3-nl.png" group-title="Netherlands 🇳🇱",NPO 3
 http://86.85.245.213:9981/stream/channelid/1341758705?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-extra-nl.png" group-title="Netherlands 🇳🇱",NPO 1 Extra
-http://86.85.245.213:9981/stream/channelid/1469873678?profile=pass
+http://83.85.109.250:9981/stream/channelid/416529697?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo2-extra-nl.png" group-title="Netherlands 🇳🇱",NPO 2 Extra
+http://83.85.109.250:9981/stream/channelid/1296555201?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo-politiek-en-nieuws-nl.png" group-title="Netherlands 🇳🇱",NPO Politiek en Nieuws
+http://83.85.109.250:9981/stream/channelid/1942669920?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl4-nl.png" group-title="Netherlands 🇳🇱",RTL 4
-http://185.236.230.212:9981/play/a0a7
+http://83.85.109.250:9981/stream/channelid/1505773076?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl5-nl.png" group-title="Netherlands 🇳🇱",RTL 5
-http://185.236.230.212:9981/play/a0a8
+http://83.85.109.250:9981/stream/channelid/1462016550?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl7-nl.png" group-title="Netherlands 🇳🇱",RTL 7
-http://185.236.230.212:9981/play/a0a9
+http://83.85.109.250:9981/stream/channelid/1320259735?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl8-nl.png" group-title="Netherlands 🇳🇱",RTL 8
-http://185.236.230.212:9981/play/a0ab
+http://83.85.109.250:9981/stream/channelid/2104025417?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtlz-nl.png" group-title="Netherlands 🇳🇱",RTL Z
-http://185.236.230.212:9981/play/a0ae
+http://83.85.109.250:9981/stream/channelid/2123734055?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-lounge-nl.png" group-title="Netherlands 🇳🇱",RTL Lounge
-http://130.162.32.84/NL/RTLLounge/index.m3u8
+http://83.85.109.250:9981/stream/channelid/296825746?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/sbs6-nl.png" group-title="Netherlands 🇳🇱",SBS 6
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84430
+http://83.85.109.250:9981/stream/channelid/189479351?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/sbs9-nl.png" group-title="Netherlands 🇳🇱",SBS 9
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84429
+http://83.85.109.250:9981/stream/channelid/1179707390?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/net5-nl.png" group-title="Netherlands 🇳🇱",Net 5
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84457
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/mtv-nl.png" group-title="Netherlands 🇳🇱",MTV
@@ -2260,7 +2264,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84495
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/cartoonito-nl.png" group-title="Netherlands 🇳🇱",Cartoonito
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84498
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/veronica-nl.png" group-title="Netherlands 🇳🇱",Veronica/Disney Jr.
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/84418
+http://83.85.109.250:9981/stream/channelid/1011783933?profile=pass
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands 🇳🇱",Ziggo Sport
 https://a1xs.vip/140001
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands 🇳🇱",Ziggo Sport 2
@@ -2269,10 +2273,12 @@ https://a1xs.vip/140002
 https://a1xs.vip/140003
 #EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Netherlands 🇳🇱",Ziggo Sport 4
 https://a1xs.vip/140004
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/sbs6-nl.png" group-title="Netherlands 🇳🇱",SBS6
-http://46.149.191.219:9100/play/a00d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-nl.png" group-title="Netherlands 🇳🇱",ESPN
 http://46.149.191.219:9100/play/a00e
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-crime-nl.png" group-title="Netherlands 🇳🇱",RTL Crime
+http://83.85.109.250:9981/stream/channelid/113198168?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-crime-nl.png" group-title="Netherlands 🇳🇱",RTL Telekids
+http://83.85.109.250:9981/stream/channelid/817423926?profile=pass
 #EXTINF:-1 tvg-id="2873775b4b455d688ceebe2b2ed817dc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TVNZ_1_logo.svg/250px-TVNZ_1_logo.svg.png" group-title="New Zealand 🇳🇿",TVNZ 1
 http://121.74.22.14:62381/stream/channelid/966568054?profile=pass
 #EXTINF:-1 tvg-id="be943e8f6dac2667f09eeaeb308e6c62" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/TVNZ_2_logo.svg/1280px-TVNZ_2_logo.svg.png" group-title="New Zealand 🇳🇿",TVNZ 2
