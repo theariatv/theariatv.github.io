@@ -20,7 +20,7 @@
 | 16 | HTV1 | [>](http://14.187.176.206:9981/stream/channelid/1699138890?profile=pass) | HTV1 | &nbsp; | stable |
 | 17 | HTV2 | [>](http://14.187.176.206:9981/stream/channelid/666380131?profile=pass) | HTV2 | &nbsp; | stable |
 | 18 | HTV3 | [>](http://14.187.176.206:9981/stream/channelid/1862577071?profile=pass) | HTV3 | &nbsp; | stable |
-| 19 | HTV4 | [>](http://14.187.176.206:9981/stream/channelid/851268162?profile=pass) | HTV3 | &nbsp; | stable |
+| 19 | HTV4 | [>](http://14.187.176.206:9981/stream/channelid/851268162?profile=pass) | HTV4 | &nbsp; | stable |
 | 20 | HTV7 | [>](http://14.187.176.206:9981/stream/channelid/1706468790?profile=pass) | HTV7 | &nbsp; | stable |
 | 21 | HTV9 | [>](http://14.187.176.206:9981/stream/channelid/743603966?profile=pass) | HTV9 | &nbsp; | stable |
 | 22 | Vietnam Today | [>](http://14.187.176.206:9981/stream/channelid/723498009?profile=pass) | <img height="20" src="https://yt3.googleusercontent.com/2VzgjBz1GRNJBFZ0JcaJad1M089lVy3ihBz2NeGeyvbAQHSNSMz7lSDymO8njLY_lhy3AFcTXKw=s900-c-k-c0x00ffffff-no-rj"/> | &nbsp; | stable |

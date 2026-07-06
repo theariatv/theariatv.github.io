@@ -21,4 +21,3 @@
 | 17 | TV2 News | [>](http://185.233.253.71:9981/stream/channelid/931172941?ticket=49AFCD397616AE72DE88BCC2EA95E825780800B9&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-news-dk.png"/> | &nbsp; | stable |
 | 18 | Kanal 4 | [>](http://212.10.107.47:9981/stream/channelid/1168159331?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/kanal-4-dk.png"/> | &nbsp; | stable |
 | 19 | Kanal 5 | [>](http://212.10.107.47:9981/stream/channelid/1116223553?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/kanal-5-dk.png"/> | &nbsp; | stable |
-
