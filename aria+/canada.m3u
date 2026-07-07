@@ -68,7 +68,7 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49022.ts
 #EXTINF:-1 tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png" group-title="Canada 🇨🇦",CTV Wild
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29439.ts
 #EXTINF:-1 tvg-id="CTV.(CFTO).Toronto,.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Canada 🇨🇦",CTV Toronto (CTFO)
-http://kstv.us:8080/live/Felix12/3330312491/40733.ts
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44272.ts
 #EXTINF:-1 tvg-id="CTV2.Barrie,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" group-title="Canada 🇨🇦",CTV2 Barrie (CKVR)
 http://stream.cammonitorplus.net/1736/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Daystar_2008_flat.svg/revision/latest/scale-to-width-down/300?cb=20230715194009" group-title="Canada 🇨🇦",Daystar
@@ -271,8 +271,8 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/ami.tl.ca.m3u8
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29328.ts
 #EXTINF:-1 tvg-id="canal.d.ca" tvg-logo="https://media.starlite.best/canal.d.ca.png" group-title="Canada 🇨🇦",Canal D
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29323.ts
-#EXTINF:-1 tvg-id="savoir.mdia.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="Canada 🇨🇦",savior.média (CFTU-DT)
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40764.ts
+#EXTINF:-1 tvg-id="savior.média.ca" tvg-logo="https://beacon.playback.api.brightcove.com/savoirmedia/uploads/settings/2_e11b729e19a45b1c3f677217c5410c25_images_logo-h100_w100.png" group-title="Canada 🇨🇦",Savoir Média
+http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass
 #EXTINF:-1 tvg-id="casa.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/CASA_2021_logo.png" group-title="Canada 🇨🇦",CASA
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48962.ts
 #EXTINF:-1 tvg-id="cinpop.ca" tvg-logo="https://media.starlite.best/cinpop.ca.png" group-title="Canada 🇨🇦",Cinépop
@@ -300,7 +300,7 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29319.ts
 #EXTINF:-1 tvg-id="max.ca" tvg-logo="https://media.starlite.best/max.ca.png" group-title="Canada 🇨🇦",MAX
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29282.ts
 #EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" group-title="Canada 🇨🇦",Noovo
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112862.ts
+http://174.91.200.77:9981/stream/channelid/866993111?profile=pass
 #EXTINF:-1 tvg-id="prise.2.ca" tvg-logo="https://media.starlite.best/prise.2.ca.png" group-title="Canada 🇨🇦",Prise 2
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29269.ts
 #EXTINF:-1 tvg-id="rds.rseau.des.sports.ca" tvg-logo="https://media.starlite.best/rds.rseau.des.sports.ca.png" group-title="Canada 🇨🇦",RDS
@@ -322,7 +322,7 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29345.ts
 #EXTINF:-1 tvg-id="tv5.international.east.ca" tvg-logo="https://m1.quebecormedia.com/emp/emp/523b7520-b555-11ee-a6d6-3701d1640652_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1200&h=312&width=925" group-title="Canada 🇨🇦",Témoin
 http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265170.ts
 #EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png" group-title="Canada 🇨🇦",Tele Québec
-http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29313.ts
+http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass
 #EXTINF:-1 tvg-id="tltoon.franais.ca" tvg-logo="https://media.starlite.best/tltoon.franais.ca.png" group-title="Canada 🇨🇦",Télétoon
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29312.ts
 #EXTINF:-1 tvg-id="TFO.-.Chaine.Francaise.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TFO_2020_Logo.svg/1200px-TFO_2020_Logo.svg.png" group-title="Canada 🇨🇦",TFO
@@ -359,8 +359,8 @@ http://204.15.194.229:5004/auto/v57.1
 http://44.25.145.45:5004/auto/v27.1
 #EXTINF:-1 tvg-id="CTV.News.Channel.ca" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CTV-News-Channel-Reverse-Screen-Logo-The-Lede-1.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1" group-title="Canada 🇨🇦",CTV News Channel
 http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
-#EXTINF:-1 tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Canada 🇨🇦",CTV Toronto (CFTO)
-http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44272.ts
+#EXTINF:-1 tvg-id="CTV.(CFCF).Montreal,.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Canada 🇨🇦",CTV Montreal (CFCF)
+http://174.91.200.77:9981/stream/channelid/678374472?profile=pass
 #EXTINF:-1 tvg-id="CTV.(CKY).Winnipeg,.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" group-title="Canada 🇨🇦",CTV Vancover (CIVT)
 http://44.25.145.45:5004/auto/v32.1
 #EXTINF:-1 tvg-id="CTV1.(CKVR).Barrie,.ON.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2.png" group-title="Canada 🇨🇦",CTV2 Victoria (CIVI)
@@ -377,3 +377,7 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50301.ts
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50302.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://hollywoodsuite.ca/build/assets/2010s-movies-l1Uk349B.svg" group-title="Canada 🇨🇦",Hollywood Suite 2010s+
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50299.ts
+#EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" group-title="Canada 🇨🇦",Noovo
+http://174.91.200.77:9981/stream/channelid/866993111?profile=pass
+#EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png" group-title="Canada 🇨🇦",Tele Québec
+http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass

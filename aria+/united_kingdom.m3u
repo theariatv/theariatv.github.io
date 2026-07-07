@@ -59,7 +59,7 @@ https://a1xs.vip/210005
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162233&extension=ts
 #EXTINF:-1 tvg-id="Boomerang.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png" group-title="United Kingdom 🇬🇧",Boomerang
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=717690&extension=ts
-#EXTINF:-1 tvg-id="Cartoonito.uk tvg-logo=" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="United Kingdom 🇬🇧",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.uk tvg-logo=" tvg-logo="tvg-logo=" group-title="United Kingdom 🇬🇧",Cartoonito
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162238&extension=ts
 #EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nickelodeon-uk.png" group-title="United Kingdom 🇬🇧",Nickelodeon
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162232&extension=ts
