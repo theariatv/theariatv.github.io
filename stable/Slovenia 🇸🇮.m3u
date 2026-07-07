@@ -47,3 +47,7 @@ http://89.201.195.79:9981/stream/channelid/395198200?profile=pass
 http://89.201.195.79:9981/stream/channelid/312651670?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/Eurosport_Logo_2015.svg_.png" group-title="Slovenia 🇸🇮",Eurosport
 http://93.103.246.35:10206/
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png" group-title="Slovenia 🇸🇮" tvg-status="stable",TV SLO 1
+http://93.103.246.35:10205/
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/Eurosport_Logo_2015.svg_.png" group-title="Slovenia 🇸🇮" tvg-status="stable",Eurosport
+http://93.103.246.35:10206/

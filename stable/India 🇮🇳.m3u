@@ -279,3 +279,19 @@ http://103.182.170.32:8888/play/a02r
 http://103.182.170.32:8888/play/a01w
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Zee Classic
 http://103.182.170.32:8888/play/a054
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Colors Bangla
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Colors Cineplex Bollywood
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Colors Cineplex
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Colors Infinity
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",MTV
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Nickelodeon
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickSD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Nick Jr.
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Nickelodeon HD+
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8

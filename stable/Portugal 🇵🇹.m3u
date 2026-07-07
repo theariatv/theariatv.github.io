@@ -151,3 +151,17 @@ https://tv.jassuncao.work/stream/channelid/1580152897?profile=pass
 https://tv.jassuncao.work/stream/channelid/1025224952?profile=pass
 #EXTINF:-1 tvg-id="Biggs.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/biggs-pt.png" group-title="Portugal 🇵🇹",Biggs
 https://tv.jassuncao.work/stream/channelid/1212496408?profile=pass
+#EXTINF:-1 tvg-id="SIC.K.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-k-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC K
+https://tv.jassuncao.work/stream/channelid/943759774?profile=pass
+#EXTINF:-1 tvg-id="SIC.Radical.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-radical-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC Radical
+https://tv.jassuncao.work/stream/channelid/842908837?profile=pass
+#EXTINF:-1 tvg-id="SIC.Caras.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-caras-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC Caras
+https://tv.jassuncao.work/stream/channelid/1724319966?profile=pass
+#EXTINF:-1 tvg-id="SIC.Mulher.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-mulher-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC Mulher
+https://tv.jassuncao.work/stream/channelid/1622743882?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" group-title="Portugal 🇵🇹" tvg-status="stable",TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/TVI_Reality_%282017%29.png" group-title="Portugal 🇵🇹" tvg-status="stable",TVI Reality
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/globo-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",Globo
+https://tv.jassuncao.work/stream/channelid/620926503?profile=pass

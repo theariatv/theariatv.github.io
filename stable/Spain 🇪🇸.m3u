@@ -191,3 +191,23 @@ http://213.97.163.175:4022/udp/239.10.20.102:1234
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png" group-title="Spain 🇪🇸",Teledeporte (TDP)
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cuatro-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Cuatro
+http://213.97.163.175:4022/udp/239.10.20.20:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/telecinco-es.png" group-title="Spain 🇪🇸" tvg-status="stable",TeleCinco
+http://213.97.163.175:4022/udp/239.10.20.19:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/veo7-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Veo7
+http://213.97.163.175:4022/udp/239.10.20.54:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dmax-es.png" group-title="Spain 🇪🇸" tvg-status="stable",DMAX
+http://213.97.163.175:4022/udp/239.10.20.53:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tv3-es.png" group-title="Spain 🇪🇸" tvg-status="stable",TV3
+http://213.97.163.175:4022/udp/239.10.20.100:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png" group-title="Spain 🇪🇸" tvg-status="stable",3/24
+http://213.97.163.175:4022/udp/239.10.20.101:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/esport3-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Esport3
+http://213.97.163.175:4022/udp/239.10.20.103:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spain 🇪🇸" tvg-status="stable",Sqirrel Dos
+http://213.97.163.175:4022/udp/239.10.20.52:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png" group-title="Spain 🇪🇸" tvg-status="stable",Boing
+http://213.97.163.175:4022/udp/239.10.20.50:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/sx3-es.png" group-title="Spain 🇪🇸" tvg-status="stable",SX3
+http://213.97.163.175:4022/udp/239.10.20.102:1234

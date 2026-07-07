@@ -207,3 +207,7 @@ https://a1xs.vip/700034
 https://a1xs.vip/700035
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="New Zealand 🇳🇿",Sky Sport 6
 https://a1xs.vip/700036
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="New Zealand 🇳🇿" tvg-status="stable",Bravo +1
+https://i.mjh.nz/.r/bravo-plus1.m3u8
+#EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-logo="" group-title="New Zealand 🇳🇿" tvg-status="stable",Parliament TV
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8

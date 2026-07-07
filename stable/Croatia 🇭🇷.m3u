@@ -87,3 +87,7 @@ https://live.s2.cyn.cz/RTL_Living_HR/video.m3u8
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/Promo/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Croatia 🇭🇷",N1 info HR (CNN Croatia)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Croatia 🇭🇷" tvg-status="stable",MAXtv Promo HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/Promo/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Croatia 🇭🇷" tvg-status="stable",N1 info HR (CNN Croatia)
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8

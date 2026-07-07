@@ -39,3 +39,5 @@ http://84.50.161.79:9981/stream/channelid/1005622334?ticket=12979DE3672DE492A346
 http://84.50.161.79:9981/stream/channelid/647532614?ticket=E7ECDEFB2127FB7939700C4C6913687BB513FB02&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBI7VXv1miLtxf9K7j9yM1jNgfcI_pZYKWrA&s" group-title="Estonia 🇪🇪",Kanal 2
 http://84.50.161.79:9981/stream/channelid/598248126?ticket=CB2ABB630A99EF4EF4B8E935E0742E9975F83897&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/59/Eesti_Televisioon_Logo.png/revision/latest?cb=20240219152102" group-title="Estonia 🇪🇪" tvg-status="stable",ETV
+http://84.50.161.79:9981/stream/channelid/102111302?ticket=D9DC0134FD558A4AB7700F58FDCF5B3C104B0D06&profile=pass

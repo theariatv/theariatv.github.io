@@ -103,3 +103,5 @@ http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
 http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="China 🇨🇳",CCTV-14
 http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png" group-title="China 🇨🇳" tvg-status="stable",CCTV-1
+http://183.205.129.173:9981/stream/channelid/841604340?profile=pass

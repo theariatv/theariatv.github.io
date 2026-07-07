@@ -15,3 +15,35 @@ http://46.149.191.219:9100/play/a00e
 http://46.149.191.219:9100/play/a00d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-nl.png" group-title="Netherlands 🇳🇱",ESPN
 http://46.149.191.219:9100/play/a00e
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",NPO 1
+http://83.85.109.250:9981/stream/channelid/1376429938?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo2-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",NPO 2
+http://83.85.109.250:9981/stream/channelid/975494203?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo3-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",NPO 3
+http://86.85.245.213:9981/stream/channelid/1341758705?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-extra-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",NPO 1 Extra
+http://83.85.109.250:9981/stream/channelid/416529697?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo2-extra-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",NPO 2 Extra
+http://83.85.109.250:9981/stream/channelid/1296555201?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo-politiek-en-nieuws-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",NPO Politiek en Nieuws
+http://83.85.109.250:9981/stream/channelid/1942669920?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl4-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",RTL 4
+http://83.85.109.250:9981/stream/channelid/1505773076?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl5-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",RTL 5
+http://83.85.109.250:9981/stream/channelid/1462016550?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl7-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",RTL 7
+http://83.85.109.250:9981/stream/channelid/1320259735?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl8-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",RTL 8
+http://83.85.109.250:9981/stream/channelid/2104025417?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtlz-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",RTL Z
+http://83.85.109.250:9981/stream/channelid/2123734055?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/rtl-lounge-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",RTL Lounge
+http://83.85.109.250:9981/stream/channelid/296825746?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/sbs6-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",SBS 6
+http://83.85.109.250:9981/stream/channelid/189479351?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/sbs9-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",SBS 9
+http://83.85.109.250:9981/stream/channelid/1179707390?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/veronica-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",Veronica/Disney Jr.
+http://83.85.109.250:9981/stream/channelid/1011783933?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",ESPN
+http://46.149.191.219:9100/play/a00e

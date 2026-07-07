@@ -391,3 +391,13 @@ https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychan
 http://212.95.30.186:9981/stream/channelid/288150308?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nickelodeon-de.png" group-title="Germany 🇩🇪",Nickelodeon/Comedy Central+1
 http://77.23.37.6:9981/stream/channelid/58190975?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/welt-de.png" group-title="Germany 🇩🇪" tvg-status="stable",WELT
+http://149.249.198.5:9981/stream/channelid/1548387079?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/xplore-de.png" group-title="Germany 🇩🇪" tvg-status="stable",Xplore
+http://149.249.198.5:9981/stream/channelid/40846484?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/05/14121747/RiC-Logo-NEU.jpg" group-title="Germany 🇩🇪" tvg-status="stable",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Germany 🇩🇪" tvg-status="stable",RiC+
+https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42997d52-337b-4fbe-8693-aa8605f5cfab/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/toggo-plus-de.png" group-title="Germany 🇩🇪" tvg-status="stable",Toggo Plus
+http://212.95.30.186:9981/stream/channelid/288150308?profile=pass

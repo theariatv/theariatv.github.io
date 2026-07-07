@@ -191,3 +191,19 @@ http://176.65.146.138:8047/play/a07b/index.m3u8
 http://62.129.183.89:9981/stream/channelid/507071864?ticket=86E99ADF197E91D5805D3A098E1BD452931F0630&profile=pass
 #EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://static.s-sfr.fr/amac/BOL/Photos/image_bfm2.png" group-title="France 🇫🇷",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="France 🇫🇷" tvg-status="stable",TF1
+http://86.202.245.66:9981/stream/channelid/1219859297?profile=pass
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" group-title="France 🇫🇷" tvg-status="stable",TFX
+http://86.202.245.66:9981/stream/channelid/1233271187?profile=pass
+#EXTINF:-1 tvg-id="TF1.Series.Films.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/TF1_S%C3%A9ries_Films.svg" group-title="France 🇫🇷" tvg-status="stable",TF1 Séries Films
+http://86.202.245.66:9981/stream/channelid/1223321913?profile=pass
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" group-title="France 🇫🇷" tvg-status="stable",TMC
+http://86.202.245.66:9981/stream/channelid/524551580?profile=pass
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/gulli-fr.png" group-title="France 🇫🇷" tvg-status="stable",Gulli
+http://86.202.245.66:9981/stream/channelid/2010325787?profile=pass
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-info-fr.png" group-title="France 🇫🇷" tvg-status="stable",France Info
+http://176.65.146.138:8047/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="Chérie.25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-life-fr.png" group-title="France 🇫🇷" tvg-status="stable",RMC Life
+http://176.65.146.138:8047/play/a07b/index.m3u8
+#EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://static.s-sfr.fr/amac/BOL/Photos/image_bfm2.png" group-title="France 🇫🇷" tvg-status="stable",BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8

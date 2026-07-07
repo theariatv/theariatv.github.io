@@ -71,3 +71,19 @@ http://109.106.239.1:50001/play/a065
 http://109.106.239.1:50001/play/a07t
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸",Pink
 http://109.106.239.1:50001/play/a06l
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/RTS_2_2014.svg/revision/latest?cb=20180130131828" group-title="Serbia 🇷🇸" tvg-status="stable",RTS 2
+http://109.106.239.1:50001/play/a06k
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸" tvg-status="stable",RTS 3
+http://109.106.239.1:50001/play/a08z
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸" tvg-status="stable",RTS Drama
+http://109.106.239.1:50001/play/a08w
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸" tvg-status="stable",RTS Klasika
+http://109.106.239.1:50001/play/a06d
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸" tvg-status="stable",RTS Kolo
+http://109.106.239.1:50001/play/a064
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸" tvg-status="stable",RTS Muzika
+http://109.106.239.1:50001/play/a065
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸" tvg-status="stable",Minimax
+http://109.106.239.1:50001/play/a07t
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Serbia 🇷🇸" tvg-status="stable",Pink
+http://109.106.239.1:50001/play/a06l
