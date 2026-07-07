@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/peru/canal-n-pe.png" group-title="Peru",Canal N
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/peru/canal-n-pe.png" group-title="Peru" tvg-status="stable",Canal N
 http://190.119.176.186:8000/play/a08e
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Peru",D Sport
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Peru" tvg-status="stable",D Sport
 http://181.224.255.210:8001/play/a0s8/index.m3u8

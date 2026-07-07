@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/2x2_logo_2021.svg" group-title="Aria Web Channels 📺",2x2_english
+#EXTINF:-1 tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/2x2_logo_2021.svg" group-title="Aria Web Channels 📺" tvg-status="not-working",2x2_english
 https://mci01.nive.live/18/index.m3u8
-#EXTINF:-1 tvg-id="boomerangreborn" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/boomerangreborn.png" group-title="Aria Web Channels 📺",Boomerang Reborn
+#EXTINF:-1 tvg-id="boomerangreborn" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/boomerangreborn.png" group-title="Aria Web Channels 📺" tvg-status="not-working",Boomerang Reborn
 https://twitch-m3u8.bastypro112.workers.dev/boomerangrebornalt/index.m3u8
-#EXTINF:-1 tvg-id="cnextras" tvg-logo="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png" group-title="Aria Web Channels 📺",Cartoon Network/Toomani Extras
+#EXTINF:-1 tvg-id="cnextras" tvg-logo="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png" group-title="Aria Web Channels 📺" tvg-status="not-working",Cartoon Network/Toomani Extras
 https://mci01.nive.live/8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.vaughnsoft.net/profile/1781875585/eel_ch.jpg" group-title="Aria Web Channels 📺",Eel Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.vaughnsoft.net/profile/1781875585/eel_ch.jpg" group-title="Aria Web Channels 📺" tvg-status="stable",Eel Channel
 https://mci01.nive.live/28/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/a/a1/TD_AGAIN.png/800px-TD_AGAIN.png" group-title="Aria Web Channels 📺",Toon Disney
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/a/a1/TD_AGAIN.png/800px-TD_AGAIN.png" group-title="Aria Web Channels 📺" tvg-status="stable",Toon Disney
 https://mci01.nive.live/29/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg" group-title="Aria Web Channels 📺",Placid
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg" group-title="Aria Web Channels 📺" tvg-status="stable",Placid
 https://toy.vcdn.fyi/placid/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.mistweather.com/api/v1.5/image/a5dacfb2-b663-40f8-a959-9cf03326f28c?width=96&height=96&fit=inside" group-title="Aria Web Channels 📺",Magical
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.mistweather.com/api/v1.5/image/a5dacfb2-b663-40f8-a959-9cf03326f28c?width=96&height=96&fit=inside" group-title="Aria Web Channels 📺" tvg-status="stable",Magical
 https://watch.mistweather.com/hls/magicaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/2/22/Animax_NA_logo_%282025-12-05%29-v1234.svg" group-title="Aria Web Channels 📺",Animax_NA
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/2/22/Animax_NA_logo_%282025-12-05%29-v1234.svg" group-title="Aria Web Channels 📺" tvg-status="stable",Animax_NA
 https://animax.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="C1.1.146.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="Aria Web Channels 📺",Whiplash
+#EXTINF:-1 tvg-id="C1.1.146.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="Aria Web Channels 📺" tvg-status="stable",Whiplash
 https://cdn.whiplash.cc/whiplash/index.m3u8
-#EXTINF:-1 tvg-id="C2.1.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png" group-title="Aria Web Channels 📺",Whiplash 2
+#EXTINF:-1 tvg-id="C2.1.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png" group-title="Aria Web Channels 📺" tvg-status="stable",Whiplash 2
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
-#EXTINF:-1 tvg-id="C3.1.148.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" group-title="Aria Web Channels 📺",Whiplash Cinema
+#EXTINF:-1 tvg-id="C3.1.148.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" group-title="Aria Web Channels 📺" tvg-status="stable",Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
-#EXTINF:-1 tvg-id="C3.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png" group-title="Aria Web Channels 📺",Window TV
+#EXTINF:-1 tvg-id="C3.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png" group-title="Aria Web Channels 📺" tvg-status="stable",Window TV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
-#EXTINF:-1 tvg-id="C7.151.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" group-title="Aria Web Channels 📺",Atlas
+#EXTINF:-1 tvg-id="C7.151.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" group-title="Aria Web Channels 📺" tvg-status="stable",Atlas
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
-#EXTINF:-1 tvg-id="zenith" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png?v=1773360618" group-title="Aria Web Channels 📺",zén!th
+#EXTINF:-1 tvg-id="zenith" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png?v=1773360618" group-title="Aria Web Channels 📺" tvg-status="stable",zén!th
 https://live.azenagroup.com/zenith/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn271.picsart.com/2a5ca8bb-c621-4c2f-8731-960d6794f83f/511979701017201.png?to=crop&type=webp&r=540x540&q=85" group-title="Aria Web Channels 📺",Valuto Cinema 4K (Only available in high-end supported device)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn271.picsart.com/2a5ca8bb-c621-4c2f-8731-960d6794f83f/511979701017201.png?to=crop&type=webp&r=540x540&q=85" group-title="Aria Web Channels 📺" tvg-status="stable",Valuto Cinema 4K (Only available in high-end supported device)
 http://199.245.173.253:5004/auto/v3.12
-#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic.png" group-title="Aria Web Channels 📺",Totalmusic
+#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic80s.png" group-title="Aria Web Channels 📺",Totalmusic 80s
+#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic80s.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic00s.png" group-title="Aria Web Channels 📺",Totalmusic 00s
+#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic00s.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic 00s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusicconcerts.png" group-title="Aria Web Channels 📺",Totalmusic Concerts
+#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusicconcerts.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic Concerts
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusicdance.png" group-title="Aria Web Channels 📺",Totalmusic Dance
+#EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusicdance.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Aria Web Channels 📺",4GTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Aria Web Channels 📺" tvg-status="not-working",4GTV
 https://4gtv.ngrok.app/hls/stream.m3u8

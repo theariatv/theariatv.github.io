@@ -59,6 +59,7 @@ def parse_m3u(file_path):
     group_pattern = re.compile(r'group-title="([^"]+)"')
     logo_pattern = re.compile(r'tvg-logo="([^"]+)"')
     id_pattern = re.compile(r'tvg-id="([^"]+)"')
+    status_pattern = re.compile(r'tvg-status="([^"]+)"')
 
     for line in lines:
         line = line.strip()
@@ -72,6 +73,7 @@ def parse_m3u(file_path):
             match_group = group_pattern.search(line)
             match_logo = logo_pattern.search(line)
             match_id = id_pattern.search(line)
+            match_status = status_pattern.search(line)
             
             # Vyčištění názvu skupiny od případných emoji z M3U
             state_raw = match_group.group(1).strip() if match_group else "Uncategorized"
@@ -79,12 +81,14 @@ def parse_m3u(file_path):
             
             logo = match_logo.group(1).strip() if match_logo else ""
             epg_id = match_id.group(1).replace("&nbsp;", "").strip() if match_id else ""
+            status = match_status.group(1).strip() if match_status else ""
             
             current_channel = {
                 'name': name,
                 'state': state,
                 'logo': logo,
-                'epg_id': epg_id
+                'epg_id': epg_id,
+                'status': status
             }
             
         elif not line.startswith("#"):
@@ -148,7 +152,12 @@ def update_markdowns():
 
             for i, ch in enumerate(channels, start=1):
                 # Detekce typu pomocí rychlého vyhledávání v Setu URL
-                c_type = "stable" if ch['url'] in stable_urls else "unstable"
+                if ch.get('status') == 'not-working':
+                    c_type = "not-working"
+                elif ch['url'] in stable_urls:
+                    c_type = "stable"
+                else:
+                    c_type = "unstable"
                 
                 logo_col = f'<img height="20" src="{ch["logo"]}"/>' if ch["logo"] else ch['name']
                 epg_id = ch['epg_id'] if ch['epg_id'] else "&nbsp;"

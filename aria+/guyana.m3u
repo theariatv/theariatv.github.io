@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾",NCN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",NCN
 http://live.dreamtv.gy/live/c2eds/NCN/HLS/NCN.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾",Guyana Learning Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",Guyana Learning Channel
 http://live.dreamtv.gy/live/c2eds/GuyanaLearning/HLS/GuyanaLearning.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾",TVD 13
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",TVD 13
 https://sincerecloud.stream/loadbalancer/secure/bVA9EtcKMn-6YPw2gR7YdA/1734988540/hPtgrdyt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾",Den Haag TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="not-working",Den Haag TV
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾",TeleSur English
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="not-working",TeleSur English
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾",GLC Jr
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",GLC Jr
 http://live.dreamtv.gy/live/c2eds/GLCjr/HLS/GLCjr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾",GLC Elementary
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",GLC Elementary
 http://38.127.211.18/live/c2eds/GLCElementary/HLS/GLCElementary.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾",GLC TeenED
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",GLC TeenED
 http://38.127.211.18/live/c2eds/GLCTeenED/HLS/GLCTeenED.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾",GLC Ah We TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",GLC Ah We TV
 http://38.127.211.18/live/c2eds/GLCAhWeTV/HLS/GLCAhWeTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾",GLC Discover
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",GLC Discover
 http://38.127.211.18/live/c2eds/GLCDiscover/HLS/GLCDiscover.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾",GLC EleVate
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",GLC EleVate
 http://live.dreamtv.gy/live/c2eds/GLCEleVate/HLS/GLCEleVate.m3u8

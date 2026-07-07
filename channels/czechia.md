@@ -33,14 +33,14 @@
 | 29 | Óčko Ⓢ | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-cz.png"/> | Ocko.cz | stable |
 | 30 | Óčko Star Ⓢ | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-star-cz.png"/> | OckoStar.cz | stable |
 | 31 | Óčko Expres Ⓢ | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-expres-cz.png"/> | OckoExpres.cz | stable |
-| 32 | Šlágr Originál Ⓢ | [>](https://stream-6.mazana.tv/slagr.m3u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-original-cz.png"/> | SlagrOriginal.cz | stable |
-| 33 | Šlágr Muzika Ⓢ | [>](https://stream-33.mazana.tv/slagr2.m3u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png"/> | SlagrMuzika.cz | stable |
-| 34 | Šlágr Premium Ⓢ | [>](https://stream-15.mazana.tv/slagrpremium.m3u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-premium-cz.png"/> | SlagrPremium.cz | stable |
+| 32 | Šlágr Originál Ⓢ | [>](https://stream-6.mazana.tv/slagr.m3u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-original-cz.png"/> | SlagrOriginal.cz | not-working |
+| 33 | Šlágr Muzika Ⓢ | [>](https://stream-33.mazana.tv/slagr2.m3u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png"/> | SlagrMuzika.cz | not-working |
+| 34 | Šlágr Premium Ⓢ | [>](https://stream-15.mazana.tv/slagrpremium.m3u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-premium-cz.png"/> | SlagrPremium.cz | not-working |
 | 35 | Retro Music TV Ⓢ | [>](https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png"/> | RetroMusicTV.cz | stable |
-| 36 | Praha TV | [>](https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png"/> | PrahaTV.cz | stable |
+| 36 | Praha TV | [>](https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png"/> | PrahaTV.cz | not-working |
 | 37 | Východoceská TV | [>](https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png"/> | V1.cz | stable |
 | 38 | UTV | [>](https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8) | UTV | utv.cz | stable |
-| 39 | Disney Channel | [>](https://webstream.odjezdy.online/CZ/Disney/video.m3u8) | Disney Channel | Disney.Channel.cz | stable |
+| 39 | Disney Channel | [>](https://webstream.odjezdy.online/CZ/Disney/video.m3u8) | Disney Channel | Disney.Channel.cz | not-working |
 | 40 | ČT 1 | [>](http://tvh.cyn.cz/stream/channelid/1921349708?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1200px-%C4%8CT1_logo_2012.svg.png"/> | ČT1.cz | stable |
 | 41 | ČT 2 | [>](http://tvh.cyn.cz/stream/channelid/196862385?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1200px-%C4%8CT2_logo_2012.svg.png"/> | ČT2.cz | stable |
 | 42 | ČT Art (20-04h CET) | [>](http://tvh.cyn.cz/stream/channelid/1759467266?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/%C4%8CT_art.svg/250px-%C4%8CT_art.svg.png"/> | ČT.art.cz | stable |
@@ -49,9 +49,9 @@
 | 45 | Prima SHOW | [>](http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass) | Prima SHOW | Prima.Show.cz | stable |
 | 46 | OCKO | [>](http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass) | OCKO | Óčko.cz | stable |
 | 47 | OCKO STAR | [>](http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass) | OCKO STAR | Óčko.STAR.cz | stable |
-| 48 | TV Barrandov | [>](http://90.178.86.156:9981/stream/channelid/1149773228?ticket=56A407B3D9D49568B131C27B70C4B903FD070FE5&profile=pass) | TV Barrandov | TV.Barrandov.cz | stable |
-| 49 | Barrandov KRIMI | [>](http://90.178.86.156:9981/stream/channelid/63674077?ticket=3DD9B00FA8EDFD57654A69FCCB425D310F46D234&profile=pass) | Barrandov KRIMI | Barrandov.Krimi.cz | stable |
-| 50 | Barrandov KINO | [>](http://90.178.86.156:9981/stream/channelid/468144232?ticket=08EE87AD25F9FBE538875ECAE79A083364326C74&profile=pass) | Barrandov KINO | Kino.Barrandov.cz | stable |
+| 48 | TV Barrandov | [>](http://90.178.86.156:9981/stream/channelid/1149773228?ticket=56A407B3D9D49568B131C27B70C4B903FD070FE5&profile=pass) | TV Barrandov | TV.Barrandov.cz | not-working |
+| 49 | Barrandov KRIMI | [>](http://90.178.86.156:9981/stream/channelid/63674077?ticket=3DD9B00FA8EDFD57654A69FCCB425D310F46D234&profile=pass) | Barrandov KRIMI | Barrandov.Krimi.cz | not-working |
+| 50 | Barrandov KINO | [>](http://90.178.86.156:9981/stream/channelid/468144232?ticket=08EE87AD25F9FBE538875ECAE79A083364326C74&profile=pass) | Barrandov KINO | Kino.Barrandov.cz | not-working |
 | 51 | JOJ Family | [>](http://tvh.cyn.cz/stream/channelid/1693764695?profile=pass) | JOJ Family | JOJ.Family.cz | stable |
 | 52 | AMC | [>](http://185.236.230.212:9981/play/a0bb) | AMC | AMC.cz | stable |
 | 53 | AUTOMOTORSPORT HD | [>](http://tvh.cyn.cz/stream/channelid/1879523926?profile=pass) | AUTOMOTORSPORT HD | Auto.Motor.Sport.cz | stable |
@@ -68,13 +68,13 @@
 | 64 | FILMBOX EXTRA HD | [>](http://185.236.230.212:9981/play/a0c2) | FILMBOX EXTRA HD | &nbsp; | stable |
 | 65 | FILMBOX FAMILY | [>](http://185.236.230.212:9981/play/a0c5) | FILMBOX FAMILY | &nbsp; | stable |
 | 66 | FILMBOX HD | [>](http://185.236.230.212:9981/play/a0ax) | FILMBOX HD | &nbsp; | stable |
-| 67 | HOBBY TV | [>](http://185.236.230.212:9981/play/a0c4) | HOBBY TV | &nbsp; | stable |
+| 67 | HOBBY TV | [>](http://185.236.230.212:9981/play/a0c4) | HOBBY TV | &nbsp; | not-working |
 | 68 | JIMJAM | [>](http://185.236.230.212:9981/play/a0c6) | JIMJAM | &nbsp; | stable |
 | 69 | JOJ CINEMA HD | [>](http://185.236.230.212:9981/play/a0cl) | JOJ CINEMA HD | JOJ.Cinema.cz | stable |
 | 70 | LALA TV | [>](http://185.236.230.212:9981/play/a0by) | LALA TV | &nbsp; | stable |
-| 71 | NICK JR | [>](http://185.236.230.212:9981/play/a0b4) | NICK JR | &nbsp; | stable |
-| 72 | NICKELODEON | [>](http://185.236.230.212:9981/play/a0co) | NICKELODEON | Nickelodeon.cz | stable |
-| 73 | NICKTOONS | [>](http://185.236.230.212:9981/play/a0b9) | NICKTOONS | Nicktoons.cz | stable |
+| 71 | NICK JR | [>](http://185.236.230.212:9981/play/a0b4) | NICK JR | &nbsp; | not-working |
+| 72 | NICKELODEON | [>](http://185.236.230.212:9981/play/a0co) | NICKELODEON | Nickelodeon.cz | not-working |
+| 73 | NICKTOONS | [>](http://185.236.230.212:9981/play/a0b9) | NICKTOONS | Nicktoons.cz | not-working |
 | 74 | Nova | [>](http://tvh.cyn.cz/stream/channelid/14674568?profile=pass) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/8/89/TV_Nova_%282024%29.svg/revision/latest?cb=20240813192427&path-prefix=es"/> | &nbsp; | stable |
 | 75 | NOVA FUN HD | [>](http://185.236.230.212:9981/play/a0bk) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png"/> | &nbsp; | stable |
 | 76 | NOVA GOLD | [>](http://185.236.230.212:9981/play/a0bj) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png"/> | &nbsp; | stable |

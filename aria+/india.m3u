@@ -1,93 +1,93 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Colors_2024.svg/revision/latest?cb=20250808055615" group-title="India 🇮🇳",Colors
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Colors_2024.svg/revision/latest?cb=20250808055615" group-title="India 🇮🇳" tvg-status="not-working",Colors
 http://116.90.120.149:8000/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest/scale-to-width-down/300?cb=20250606121016" group-title="India 🇮🇳",Sonic
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest/scale-to-width-down/300?cb=20250606121016" group-title="India 🇮🇳" tvg-status="not-working",Sonic
 http://116.90.120.149:8000/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/1200px-%26TV_2025.svg.png" group-title="India 🇮🇳",&TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/1200px-%26TV_2025.svg.png" group-title="India 🇮🇳" tvg-status="not-working",&TV
 http://116.90.120.149:8000/play/a0dm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="India 🇮🇳",Disney Channel SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="India 🇮🇳" tvg-status="not-working",Disney Channel SD
 http://116.90.120.149:8000/play/a0e4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="India 🇮🇳",Disney Jr.
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="India 🇮🇳" tvg-status="not-working",Disney Jr.
 http://116.90.120.149:8000/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/215px-Discovery_Kids_Logo_%282021%29.webp.png" group-title="India 🇮🇳",Discovery Kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/215px-Discovery_Kids_Logo_%282021%29.webp.png" group-title="India 🇮🇳" tvg-status="not-working",Discovery Kids
 http://116.90.120.149:8000/play/a0c7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DD_National_2025_logo.png/250px-DD_National_2025_logo.png" group-title="India 🇮🇳",DD National
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DD_National_2025_logo.png/250px-DD_National_2025_logo.png" group-title="India 🇮🇳" tvg-status="not-working",DD National
 http://116.90.120.149:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/1200px-Zee_TV_2025.svg.png" group-title="India 🇮🇳",Zee TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/1200px-Zee_TV_2025.svg.png" group-title="India 🇮🇳" tvg-status="not-working",Zee TV
 http://filex.tv:8080/live/raizostreams/TFPFBKbmUL/275034.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png" group-title="India 🇮🇳",Sony Entertainment Television (SET)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png" group-title="India 🇮🇳" tvg-status="not-working",Sony Entertainment Television (SET)
 http://filex.tv:8080/live/raizostreams/TFPFBKbmUL/275035.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="India 🇮🇳",Sony Sab
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="India 🇮🇳" tvg-status="not-working",Sony Sab
 http://filex.tv:8080/live/raizostreams/TFPFBKbmUL/275044.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="India 🇮🇳",Star Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="India 🇮🇳" tvg-status="not-working",Star Plus
 http://filex.tv:8080/live/raizostreams/TFPFBKbmUL/275037.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",&flix
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",&flix
 http://103.182.170.32:8888/play/a02a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",&tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",&tv
 http://103.182.170.32:8888/play/a03v
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Cartoon Network
 http://103.182.170.32:8888/play/a04o
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Cartoon Network HD+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Cartoon Network HD+
 http://103.182.170.32:8888/play/a035
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Colors Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Colors Bangla
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Colors Cineplex Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Colors Cineplex Bollywood
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Colors Cineplex
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Colors Cineplex
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Colors Infinity
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Colors Infinity
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Disney Channel
 http://103.182.170.32:8888/play/a04g
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Disney International HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Disney International HD
 http://103.182.170.32:8888/play/a01y
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Disney Junior
 http://103.182.170.32:8888/play/a03q
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",ETV Bal Bharat
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",ETV Bal Bharat
 http://103.182.170.32:8888/play/a022
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Hungama
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Hungama
 http://103.182.170.32:8888/play/a04b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",MTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",MTV
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Movies Now
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Movies Now
 http://103.182.170.32:8888/play/a01n
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Nickelodeon
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickSD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Nick Jr.
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Nick Jr.
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Nickelodeon HD+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Nickelodeon HD+
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Pogo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Pogo
 http://103.182.170.32:8888/play/a02p
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",SONY Entertainment Television
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",SONY Entertainment Television
 http://103.182.170.32:8888/play/a03t
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",SONY MAX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",SONY MAX
 http://103.182.170.32:8888/play/a04
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",SONY MAX 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",SONY MAX 2
 http://103.182.170.32:8888/play/a02l
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",SONY PIX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",SONY PIX
 http://103.182.170.32:8888/play/a027
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",SONY SAB
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",SONY SAB
 http://103.182.170.32:8888/play/a03r
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",SONY YAY!
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",SONY YAY!
 http://103.182.170.32:8888/play/a04m
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Star Gold
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Star Gold
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Star Movies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Star Movies
 https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Star Movies Select
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Star Movies Select
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Star Bharat
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Star Bharat
 https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Star Gold 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Star Gold 2
 https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Zee Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Zee Bangla
 http://103.182.170.32:8888/play/a048
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Zee Bangla Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Zee Bangla Cinema
 http://103.182.170.32:8888/play/a044
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Zee Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Zee Bollywood
 http://103.182.170.32:8888/play/a02r
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Zee Cafe
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Zee Cafe
 http://103.182.170.32:8888/play/a01w
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳",Zee Classic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Zee Classic
 http://103.182.170.32:8888/play/a054

@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-1-za.png" group-title="South Africa 🇿🇦",SABC 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-1-za.png" group-title="South Africa 🇿🇦" tvg-status="not-working",SABC 1
 https://m3ufilter.media4u.top/live/media4u/media4u/1800.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-2-za.png" group-title="South Africa 🇿🇦",SABC 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-2-za.png" group-title="South Africa 🇿🇦" tvg-status="not-working",SABC 2
 https://m3ufilter.media4u.top/live/media4u/media4u/1801.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-3-za.png" group-title="South Africa 🇿🇦",SABC 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-3-za.png" group-title="South Africa 🇿🇦" tvg-status="not-working",SABC 3
 https://m3ufilter.media4u.top/live/media4u/media4u/1802.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-news-za.png" group-title="South Africa 🇿🇦",SABC News
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/sabc-news-za.png" group-title="South Africa 🇿🇦" tvg-status="not-working",SABC News
 https://m3ufilter.media4u.top/live/media4u/media4u/1803.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/m-net-za.png" group-title="South Africa 🇿🇦",M-Net
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/m-net-za.png" group-title="South Africa 🇿🇦" tvg-status="not-working",M-Net
 https://m3ufilter.media4u.top/live/media4u/media4u/1765.ts

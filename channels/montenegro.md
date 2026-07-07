@@ -2,7 +2,7 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | TVCG 1 | [>](http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/37/TVCG_1_2024_logo_with_wordmark.svg/revision/latest?cb=20240406174721"/> | &nbsp; | stable |
-| 2 | TVCG 2 | [>](http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/ff/TVCG_2_2024_logo_with_wordmark.svg/revision/latest?cb=20240406175439"/> | &nbsp; | stable |
-| 3 | TVCG 3 | [>](https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/2/23/TVCG3_2024_logo_with_wordmark.svg/revision/latest?cb=20240406175626"/> | &nbsp; | stable |
-| 4 | TVCG MNE | [>](https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/playlist.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/ab/TVCG_MNE_2024_logo.svg/revision/latest?cb=20240406171908"/> | &nbsp; | stable |
+| 1 | TVCG 1 | [>](http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/37/TVCG_1_2024_logo_with_wordmark.svg/revision/latest?cb=20240406174721"/> | &nbsp; | not-working |
+| 2 | TVCG 2 | [>](http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/ff/TVCG_2_2024_logo_with_wordmark.svg/revision/latest?cb=20240406175439"/> | &nbsp; | not-working |
+| 3 | TVCG 3 | [>](https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/2/23/TVCG3_2024_logo_with_wordmark.svg/revision/latest?cb=20240406175626"/> | &nbsp; | not-working |
+| 4 | TVCG MNE | [>](https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/playlist.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/ab/TVCG_MNE_2024_logo.svg/revision/latest?cb=20240406171908"/> | &nbsp; | not-working |

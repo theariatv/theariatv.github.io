@@ -104,12 +104,14 @@ def parse_md_files():
                         continue
 
                     # Generate the M3U line with the properly formatted group-title (with flag)
-                    m3u_entry = f'#EXTINF:-1 tvg-id="{epg_id}" tvg-logo="{logo}" group-title="{state_name}",{channel_name}\n{link}\n'
+                    m3u_entry = f'#EXTINF:-1 tvg-id="{epg_id}" tvg-logo="{logo}" group-title="{state_name}" tvg-status="{stream_type}",{channel_name}\n{link}\n'
 
                     if stream_type == "stable":
                         state_stable.append(m3u_entry)
                         state_unstable.append(m3u_entry)
                     elif stream_type == "unstable":
+                        state_unstable.append(m3u_entry)
+                    elif stream_type == "not-working":
                         state_unstable.append(m3u_entry)
                     else:
                         state_unstable.append(m3u_entry)

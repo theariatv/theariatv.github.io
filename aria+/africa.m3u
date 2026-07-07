@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://recordcaboverde.com/wp-content/uploads/2024/09/LOGO-VETORIZADO-BRANCO-HORIZONTAL-ok-1024x398.png" group-title="Africa 🌍",Record Cabo Verde
+#EXTINF:-1 tvg-id="" tvg-logo="https://recordcaboverde.com/wp-content/uploads/2024/09/LOGO-VETORIZADO-BRANCO-HORIZONTAL-ok-1024x398.png" group-title="Africa 🌍" tvg-status="not-working",Record Cabo Verde
 http://41.74.140.96:8000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Africa 🌍",TVA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Africa 🌍" tvg-status="not-working",TVA
 http://41.74.140.96:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tviafrica.png" group-title="Africa 🌍",TVI África
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tviafrica.png" group-title="Africa 🌍" tvg-status="not-working",TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TIVER_Logo.png/revision/latest?cb=20220515042741" group-title="Africa 🌍",Tiver
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TIVER_Logo.png/revision/latest?cb=20220515042741" group-title="Africa 🌍" tvg-status="not-working",Tiver
 http://41.74.140.96:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtc.cv/upload/img/apresentador/logotipo_tcv.png" group-title="Africa 🌍",TCV
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtc.cv/upload/img/apresentador/logotipo_tcv.png" group-title="Africa 🌍" tvg-status="not-working",TCV
 http://41.74.140.96:8000/play/a001/index.m3u8

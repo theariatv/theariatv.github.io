@@ -1,37 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DR1_logo_2020.svg/1200px-DR1_logo_2020.svg.png" group-title="Denmark 🇩🇰",DR 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DR1_logo_2020.svg/1200px-DR1_logo_2020.svg.png" group-title="Denmark 🇩🇰" tvg-status="stable",DR 1
 http://212.10.107.47:9981/stream/channelid/1548418828?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/DR2_logo_2020.svg/1200px-DR2_logo_2020.svg.png" group-title="Denmark 🇩🇰",DR 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/DR2_logo_2020.svg/1200px-DR2_logo_2020.svg.png" group-title="Denmark 🇩🇰" tvg-status="stable",DR 2
 http://212.10.107.47:9981/stream/channelid/20794524?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/1200px-DR_Ramasjang_2020.svg.png" group-title="Denmark 🇩🇰",DR Ramasjang
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/1200px-DR_Ramasjang_2020.svg.png" group-title="Denmark 🇩🇰" tvg-status="stable",DR Ramasjang
 http://212.10.107.47:9981/stream/channelid/1571785928?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Nordic_2023.svg/1200px-BBC_Nordic_2023.svg.png" group-title="Denmark 🇩🇰",BBC Nordic
-http://86.52.58.131:9981/stream/channelid/982754499?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-dk.png" group-title="Denmark 🇩🇰",TV2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV2
 http://212.10.107.47:9981/stream/channelid/688969442?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-dk.png" group-title="Denmark 🇩🇰",TV3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV3
 http://212.10.107.47:9981/stream/channelid/633917802?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-plus-dk.png" group-title="Denmark 🇩🇰",TV3 Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-plus-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV3 Plus
 http://212.10.107.47:9981/stream/channelid/560194473?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-sport-dk.png" group-title="Denmark 🇩🇰",TV3 Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-sport-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV3 Sport
 http://212.10.107.47:9981/stream/channelid/1613155941?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-sport-dk.png" group-title="Denmark 🇩🇰",TV3 Max
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-sport-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV3 Max
 http://212.10.107.47:9981/stream/channelid/844841987?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/see-dk.png" group-title="Denmark 🇩🇰",See
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/see-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",See
 http://212.10.107.47:9981/stream/channelid/1443435740?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/dk4-dk.png" group-title="Denmark 🇩🇰",dk4
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/dk4-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",dk4
 http://212.10.107.47:9981/stream/channelid/1254619829?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-charlie-dk.png" group-title="Denmark 🇩🇰",TV2 Charlie
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-charlie-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV2 Charlie
 http://212.10.107.47:9981/stream/channelid/491207877?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-echo-dk.png" group-title="Denmark 🇩🇰",TV2 Echo
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-echo-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV2 Echo
 http://212.10.107.47:9981/stream/channelid/797996765?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-fri-dk.png" group-title="Denmark 🇩🇰",TV2 Fri
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-fri-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV2 Fri
 http://212.10.107.47:9981/stream/channelid/329014965?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-sport-dk.png" group-title="Denmark 🇩🇰",TV2 Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-sport-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV2 Sport
 http://212.10.107.47:9981/stream/channelid/135047497?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-news-dk.png" group-title="Denmark 🇩🇰",TV2 News
-http://185.233.253.71:9981/stream/channelid/931172941?ticket=49AFCD397616AE72DE88BCC2EA95E825780800B9&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/kanal-4-dk.png" group-title="Denmark 🇩🇰",Kanal 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/kanal-4-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",Kanal 4
 http://212.10.107.47:9981/stream/channelid/1168159331?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/kanal-5-dk.png" group-title="Denmark 🇩🇰",Kanal 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/kanal-5-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",Kanal 5
 http://212.10.107.47:9981/stream/channelid/1116223553?profile=pass

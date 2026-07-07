@@ -312,6 +312,7 @@
         .status-dot { width: 6px; height: 6px; border-radius: 50%; }
         .status-dot.stable { background-color: var(--success-color); box-shadow: 0 0 6px var(--success-color); }
         .status-dot.unstable { background-color: var(--warning-color); box-shadow: 0 0 6px var(--warning-color); }
+        .status-dot.not-working { background-color: var(--danger-color); box-shadow: 0 0 6px var(--danger-color); }
 
         .link-group { display: flex; gap: 0.5rem; align-items: center; }
         
@@ -469,12 +470,15 @@
                         const channelName = line.split(',').pop().trim();
                         const streamUrl = nextLine.trim();
                         const logoMatch = line.match(/tvg-logo="([^"]+)"/);
+                        const statusMatch = line.match(/tvg-status="([^"]+)"/);
+                        const status = statusMatch ? statusMatch[1] : (isStable ? 'stable' : 'unstable');
                         
                         if (!channels[country]) channels[country] = {};
                         if (!channels[country][channelName]) { 
                              channels[country][channelName] = {
                                   name: channelName,
                                   stable: isStable,
+                                  status: status,
                                   url: streamUrl,
                                   country: country,
                                   logo: logoMatch ? logoMatch[1] : null
@@ -527,8 +531,8 @@
                                         <div style={{display:'flex', flexDirection:'column'}}>
                                             <span style={{lineHeight: 1.2}}>{ch.name}</span>
                                             <span style={{fontSize: '0.7rem', color: 'var(--muted-text-color)', display:'flex', alignItems:'center', gap:'4px'}}>
-                                                <div className={`status-dot ${ch.stable ? 'stable' : 'unstable'}`}></div>
-                                                {ch.stable ? 'Stable' : 'Unstable'}
+                                                <div className={`status-dot ${ch.status === 'not-working' ? 'not-working' : (ch.stable ? 'stable' : 'unstable')}`}></div>
+                                                {ch.status === 'not-working' ? 'Not Working' : (ch.stable ? 'Stable' : 'Unstable')}
                                             </span>
                                         </div>
                                     </div>
@@ -574,9 +578,9 @@
                                                 <div>
                                                     <div style={{fontWeight: '600', color:'var(--text-color)'}}>{ch.name}</div>
                                                     <div className="status-badge" style={{marginTop:'4px'}}>
-                                                        <div className={`status-dot ${ch.stable ? 'stable' : 'unstable'}`}></div>
-                                                        {ch.stable ? 'Official Stream' : 'Community Stream'}
-                                                        {!ch.stable && <Icons.Warning />}
+                                                        <div className={`status-dot ${ch.status === 'not-working' ? 'not-working' : (ch.stable ? 'stable' : 'unstable')}`}></div>
+                                                        {ch.status === 'not-working' ? 'Not Working' : (ch.stable ? 'Official Stream' : 'Community Stream')}
+                                                        {(!ch.stable || ch.status === 'not-working') && <Icons.Warning />}
                                                     </div>
                                                 </div>
                                             </div>
