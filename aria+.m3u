@@ -1268,17 +1268,17 @@ http://line.liondnscloud.ru:80/play/live.php?mac=00:1A:79:AE:4F:6E&stream=699725
 #EXTINF:-1 tvg-id="SportDigital1plus(src05).de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sportdigital1%2B_Alternative_Logo_2025.svg/500px-Sportdigital1%2B_Alternative_Logo_2025.svg.png" group-title="Germany 🇩🇪" tvg-status="unstable",sportdigital 1+
 http://line.liondnscloud.ru:80/play/live.php?mac=00:1A:79:AE:4F:6E&stream=699726&extension=ts&play_token=P77Cwqm0Xr
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",Das Erste
-http://191.96.100.245:1234/stream/amazontv/daserste/master.m3u8
+http://178.27.12.3:9981/stream/channelid/1291630320?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",ZDF
-http://191.96.100.245:1234/stream/amazontv/zdfhd/master.m3u8
+http://178.27.12.3:9981/stream/channelid/1292587401?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",RTL
-http://191.96.100.245:1234/stream/rtl/rtlhd/master.m3u8
+http://178.27.12.3:9981/stream/channelid/1204059828?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="Germany 🇩🇪" tvg-status="not-working",SAT.1
-http://191.96.100.245:1234/stream/joyn/sat1hd/master.m3u8
+http://178.27.12.3:9981/stream/channelid/1282983907?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1200px-RTLZWEI_Logo_2019.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",RTL Zwei
 http://191.96.100.245:1234/stream/rtl/rtl-zwei-hd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/250px-VOX_Logo_2013.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",VOX
-http://191.96.100.245:1234/stream/rtl/vox-hd/master.m3u8
+http://178.27.12.3:9981/stream/channelid/1721329750?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/vox-up-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",VOXup
 http://191.96.100.245:1234/stream/rtl/vox-up-hd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/3sat-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",3sat
@@ -1298,26 +1298,26 @@ http://191.96.100.245:1234/stream/rtl/rtl-crime-hd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-living-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",RTL Living
 http://191.96.100.245:1234/stream/rtl/rtl-living-hd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="hhttps://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sat-1-gold-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",SAT.1 GOLD
-http://191.96.100.245:1234/stream/joyn/sat1gold/master.m3u8
+http://178.27.12.3:9981/stream/channelid/1573704857?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="hhttps://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sat-1-emotions-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",SAT.1 Emotions
 http://191.96.100.245:1234/stream/joyn/sat1emotions/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/pro-sieben-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",ProSieben
-http://191.96.100.245:1234/stream/joyn/prosiebenhd/master.m3u8
+http://178.27.12.3:9981/stream/channelid/168657657?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/pro-sieben-maxx-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",ProSieben MAXX
 http://191.96.100.245:1234/stream/joyn/prosiebenmaxx/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/pro-sieben-maxx-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",ProSieben Fun
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/pro-sieben-fun-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",ProSieben Fun
 http://191.96.100.245:1234/stream/joyn/prosiebenfun/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/kabel-eins-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",Kabel Eins
-http://191.96.100.245:1234/stream/joyn/kabeleinshd/master.m3u8
+http://178.27.12.3:9981/stream/channelid/437755422?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/kabel-eins-doku-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",Kabel Eins Doku
 http://191.96.100.245:1234/stream/joyn/kabeleinsdoku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/kabel-eins-classics-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",Kabel Eins Classics
 http://191.96.100.245:1234/stream/joyn/kabeleinsclassicshd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/1200px-Tele_5_Logo_2021.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",Tele 5
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-neo-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",ZDFneo
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-neo-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",neo (coming January 2027)
 http://191.96.100.245:1234/stream/joyn/zdfneo/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-info-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",ZDFinfo
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-info-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",info (coming January 2027)
 http://191.96.100.245:1234/stream/amazontv/zdfinfohd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/250px-MDR_Logo_2017.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",MDR
 http://191.96.100.245:1234/stream/amazontv/mdrhd/master.m3u8
@@ -1328,18 +1328,18 @@ https://viamotionhsi.netplus.ch/live/eds/swrbr/browser-dash/swrbw.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/1200px-Phoenix-logo-2018.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",Phoenix
 http://191.96.100.245:1234/stream/amazontv/phoenixhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Kika_2012.svg" group-title="Germany 🇩🇪" tvg-status="not-working",KIKA
-https://viamotionhsi.netplus.ch/live/eds/kika/browser-dash/kika.mpd
+http://178.27.12.3:9981/stream/channelid/1001824370?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png" group-title="Germany 🇩🇪" tvg-status="not-working",Eurosport Deutschland
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Sport1_2023.svg" group-title="Germany 🇩🇪" tvg-status="not-working",Sport 1
 http://191.96.100.245:1234/stream/joyn/sport1hd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ARD-alpha_logo_2019-01-07.svg/2560px-ARD-alpha_logo_2019-01-07.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",ARD Alpha
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ARD-alpha_logo_2019-01-07.svg/2560px-ARD-alpha_logo_2019-01-07.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",ARD Alpha (leaves on December 31)
 http://191.96.100.245:1234/stream/amazontv/ardalphahd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/1200px-N-tv_logo-september2017.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",n-tv
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/WDR_Dachmarke.svg" group-title="Germany 🇩🇪" tvg-status="not-working",WDR
 http://191.96.100.245:1234/stream/amazontv/wdrhd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/1280px-One_TV_Logo.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",One
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/1280px-One_TV_Logo.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",One (leaves on December 31)
 http://191.96.100.245:1234/stream/amazontv/onehd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HR_Logo.svg" group-title="Germany 🇩🇪" tvg-status="not-working",HR
 http://191.96.100.245:1234/stream/amazontv/hrhd/master.m3u8\
@@ -1352,19 +1352,19 @@ https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mp
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1920px-MTV_2021_%28brand_version%29.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",MTV
 http://tv.schulzens.com/stream/channelid/1057715699?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/welt-de.png" group-title="Germany 🇩🇪" tvg-status="stable",WELT
-http://149.249.198.5:9981/stream/channelid/1548387079?profile=pass
+http://178.27.12.3:9981/stream/channelid/5966985?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/xplore-de.png" group-title="Germany 🇩🇪" tvg-status="stable",Xplore
 http://149.249.198.5:9981/stream/channelid/40846484?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/05/14121747/RiC-Logo-NEU.jpg" group-title="Germany 🇩🇪" tvg-status="stable",RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Germany 🇩🇪" tvg-status="stable",RiC+
 https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42997d52-337b-4fbe-8693-aa8605f5cfab/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/disney-channel-dk" group-title="Germany 🇩🇪" tvg-status="not-working",Disney Channel
-https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-dash/disneychannelde.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2026/07/03111626/DisneyTV_logo_CMYK_White.jpg" group-title="Germany 🇩🇪" tvg-status="not-working",Disney TV (rebrands in Q4 2026)
+http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/toggo-plus-de.png" group-title="Germany 🇩🇪" tvg-status="stable",Toggo Plus
-http://212.95.30.186:9981/stream/channelid/288150308?profile=pass
+http://178.27.12.3:9981/stream/channelid/1429480174?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nickelodeon-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",Nickelodeon/Comedy Central+1
-http://77.23.37.6:9981/stream/channelid/58190975?profile=pass
+http://178.27.12.3:9981/stream/channelid/1293845655?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",ERT 1
 http://193.92.205.210:666/stream/channelid/995341409?ticket=5B223EE0AEED416785F454C4CB195162F022E00B&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",ERT 2 Sport
