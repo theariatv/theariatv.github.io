@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-1-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="not-working",BNT 1
-http://groundhogday.in/live/Jok123/Jok123/3414897.ts
+http://213.91.179.28:8000/play/a046
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-2-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="not-working",BNT 2
-http://groundhogday.in/live/Jok123/Jok123/3414900.ts
+http://213.91.179.28:8000/play/a049
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-3-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="not-working",BNT 3
-http://groundhogday.in/live/Jok123/Jok123/3414899.ts
+http://213.91.179.28:8000/play/a03x
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/btv-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="not-working",BTV
-http://groundhogday.in/live/Jok123/Jok123/3414895.ts
+http://213.91.179.28:8000/play/a03w
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="not-working",Nova
-http://groundhogday.in/live/Jok123/Jok123/3414865.ts
+http://213.91.179.28:8000/play/a03l
+#EXTINF:-1 tvg-id="EPG id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="",Diema
+http://213.91.179.28:8000/play/a046
