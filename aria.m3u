@@ -159,6 +159,8 @@ https://debate-elections-2019.akamaized.net/2dba917cc589465ead367550ab2af416/us-
 http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass
 #EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" group-title="Canada 🇨🇦" tvg-status="stable",Noovo
 http://174.91.200.77:9981/stream/channelid/866993111?profile=pass
+#EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png" group-title="Canada 🇨🇦" tvg-status="stable",Tele Québec
+http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass
 #EXTINF:-1 tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada 🇨🇦" tvg-status="stable",CBC East
 http://204.15.194.229:5004/auto/v5.1
 #EXTINF:-1 tvg-id="CBUT.HDTV.(CBUTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada 🇨🇦" tvg-status="stable",CBC West
@@ -171,12 +173,14 @@ http://174.91.200.77:9981/stream/channelid/678374472?profile=pass
 http://stream.cammonitorplus.net/1730/index.m3u8
 #EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" group-title="Canada 🇨🇦" tvg-status="stable",Noovo
 http://174.91.200.77:9981/stream/channelid/866993111?profile=pass
+#EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png" group-title="Canada 🇨🇦" tvg-status="stable",Tele Québec
+http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png" group-title="China 🇨🇳" tvg-status="stable",CCTV-1
 http://183.205.129.173:9981/stream/channelid/841604340?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Columbia 🇨🇴" tvg-status="stable",RCN
-http://astra.fibernetisp.com.co/play/a03s/index.m3u8
+http://138.121.15.230:9002/RCN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png" group-title="Columbia 🇨🇴" tvg-status="stable",Caracol
-http://astra.fibernetisp.com.co/play/a03r
+http://138.121.15.230:9002/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RepretelCanal62024.svg/1200px-RepretelCanal62024.svg.png" group-title="Costa Rica 🇨🇷" tvg-status="stable",Repretel 6
 http://201.237.193.180:9981/stream/channelid/1914694040?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Costa Rica 🇨🇷" tvg-status="stable",Teletica

@@ -13,6 +13,8 @@ https://debate-elections-2019.akamaized.net/2dba917cc589465ead367550ab2af416/us-
 http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass
 #EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" group-title="Canada 🇨🇦" tvg-status="stable",Noovo
 http://174.91.200.77:9981/stream/channelid/866993111?profile=pass
+#EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png" group-title="Canada 🇨🇦" tvg-status="stable",Tele Québec
+http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass
 #EXTINF:-1 tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada 🇨🇦" tvg-status="stable",CBC East
 http://204.15.194.229:5004/auto/v5.1
 #EXTINF:-1 tvg-id="CBUT.HDTV.(CBUTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png" group-title="Canada 🇨🇦" tvg-status="stable",CBC West
@@ -25,3 +27,5 @@ http://174.91.200.77:9981/stream/channelid/678374472?profile=pass
 http://stream.cammonitorplus.net/1730/index.m3u8
 #EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal.QC.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" group-title="Canada 🇨🇦" tvg-status="stable",Noovo
 http://174.91.200.77:9981/stream/channelid/866993111?profile=pass
+#EXTINF:-1 tvg-id="tele.quebec.civq.quebec.ca" tvg-logo="https://media.starlite.best/tele.quebec.civq.quebec.ca.png" group-title="Canada 🇨🇦" tvg-status="stable",Tele Québec
+http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass
