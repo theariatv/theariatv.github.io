@@ -71,3 +71,5 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png" group-title="United States 🇺🇸" tvg-status="stable",Discovery Familia
 http://200.115.120.1:8000/play/ca053
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.metv.com/images/MeTV_Plus_Color.png" group-title="United States 🇺🇸" tvg-status="stable",MeTV+
+http://206.212.244.63/111/index.m3u8
