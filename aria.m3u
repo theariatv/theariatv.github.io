@@ -49,8 +49,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1GhzFH2F/1000024586-removebg-preview.png" group-title="Armenia 🇦🇲" tvg-status="stable",First Channel International
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/atv-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ATV
-http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/atv2-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ATV 2
 http://212.186.45.34:9981/stream/channelid/577097005?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ORF 1
@@ -117,8 +115,6 @@ http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/26421
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/26424
 #EXTINF:-1 tvg-id="Discovery.Turbo.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-turbo-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Discovery Turbo
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7146
-#EXTINF:-1 tvg-id="Paramount.Network.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/paramount-network-us.png" group-title="Brazil 🇧🇷" tvg-status="stable",Paramount Network
-http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60725
 #EXTINF:-1 tvg-id="Discovery.Science.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-science-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Discovery Science
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60773
 #EXTINF:-1 tvg-id="Food.Network.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Brazil 🇧🇷" tvg-status="stable",Food Network
@@ -135,22 +131,14 @@ http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7155
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/22196
 #EXTINF:-1 tvg-id="GNT.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/gnt-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",GNT
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/13770#EXTINF:-1%20tvg-id=%22H2.br%22%20tvg-name=%22H2%20FHD%22%20tvg-logo=%22http://logocanais.ddns.net/Logo/H21.png%22%20group-title=%22Canais:%20Document%C3%A1rios%22,H2%20FHD
-#EXTINF:-1 tvg-id="Globo.News.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/globo-news-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Globo News
-http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7156
-#EXTINF:-1 tvg-id="Globoplay.Novelas.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/globoplay-novelas-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Globoplay Novelas
-http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7152
 #EXTINF:-1 tvg-id="BIS.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/bis-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",BIS
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7162
 #EXTINF:-1 tvg-id="Band.News.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-news-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",BAND News
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7150
 #EXTINF:-1 tvg-id="Nick.Jr.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Brazil 🇧🇷" tvg-status="stable",Nick Jr
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60732
-#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/space-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Space
-http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/36122
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv-2-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Sportv 2
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/22222
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sportv-3-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Sportv 3
-http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/7153
 #EXTINF:-1 tvg-id="Studio.Universal.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/studio-universal-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Studio Universal
 http://143.244.35.74:8880/IgorRangelXX/IgorRangel3/60684
 #EXTINF:-1 tvg-id="Canal.Saude.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/canal-saude-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Canal Saude
@@ -291,14 +279,6 @@ http://tvh.cyn.cz/stream/channelid/196862385?profile=pass
 http://tvh.cyn.cz/stream/channelid/1759467266?profile=pass
 #EXTINF:-1 tvg-id="ČT24.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/1200px-%C4%8CT24_logo.png" group-title="Czechia 🇨🇿" tvg-status="stable",ČT 24
 http://tvh.cyn.cz/stream/channelid/1020391357?profile=pass
-#EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prima_2013.svg/250px-Prima_2013.svg.png" group-title="Czechia 🇨🇿" tvg-status="stable",TV Prima
-http://90.178.86.156:9981/stream/channelid/1669214446?ticket=BDA09228D9A1E3C5444CB168C684A21C7FE37A29&profile=pass
-#EXTINF:-1 tvg-id="Prima.Show.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",Prima SHOW
-http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass
-#EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",OCKO
-http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass
-#EXTINF:-1 tvg-id="Óčko.STAR.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",OCKO STAR
-http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass
 #EXTINF:-1 tvg-id="JOJ.Family.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",JOJ Family
 http://tvh.cyn.cz/stream/channelid/1693764695?profile=pass
 #EXTINF:-1 tvg-id="AMC.cz" tvg-logo="" group-title="Czechia 🇨🇿" tvg-status="stable",AMC
@@ -347,22 +327,14 @@ http://185.236.230.212:9981/play/a0bj
 http://185.236.230.212:9981/play/a0bl
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Czechia 🇨🇿" tvg-status="stable",NOVA SPORT 2 HD
 http://185.236.230.212:9981/play/a0bh
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DR1_logo_2020.svg/1200px-DR1_logo_2020.svg.png" group-title="Denmark 🇩🇰" tvg-status="stable",DR 1
-http://212.10.107.47:9981/stream/channelid/1548418828?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/DR2_logo_2020.svg/1200px-DR2_logo_2020.svg.png" group-title="Denmark 🇩🇰" tvg-status="stable",DR 2
 http://212.10.107.47:9981/stream/channelid/20794524?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/1200px-DR_Ramasjang_2020.svg.png" group-title="Denmark 🇩🇰" tvg-status="stable",DR Ramasjang
 http://212.10.107.47:9981/stream/channelid/1571785928?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV2
-http://212.10.107.47:9981/stream/channelid/688969442?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV3
 http://212.10.107.47:9981/stream/channelid/633917802?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-plus-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV3 Plus
 http://212.10.107.47:9981/stream/channelid/560194473?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-sport-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV3 Sport
-http://212.10.107.47:9981/stream/channelid/1613155941?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-sport-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV3 Max
-http://212.10.107.47:9981/stream/channelid/844841987?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/see-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",See
 http://212.10.107.47:9981/stream/channelid/1443435740?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/dk4-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",dk4
@@ -373,8 +345,6 @@ http://212.10.107.47:9981/stream/channelid/491207877?profile=pass
 http://212.10.107.47:9981/stream/channelid/797996765?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-fri-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV2 Fri
 http://212.10.107.47:9981/stream/channelid/329014965?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv2-sport-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",TV2 Sport
-http://212.10.107.47:9981/stream/channelid/135047497?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/kanal-4-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",Kanal 4
 http://212.10.107.47:9981/stream/channelid/1168159331?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/kanal-5-dk.png" group-title="Denmark 🇩🇰" tvg-status="stable",Kanal 5
@@ -389,8 +359,6 @@ https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 http://86.202.245.66:9981/stream/channelid/1219859297?profile=pass
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" group-title="France 🇫🇷" tvg-status="stable",TFX
 http://86.202.245.66:9981/stream/channelid/1233271187?profile=pass
-#EXTINF:-1 tvg-id="TF1.Series.Films.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/TF1_S%C3%A9ries_Films.svg" group-title="France 🇫🇷" tvg-status="stable",TF1 Séries Films
-http://86.202.245.66:9981/stream/channelid/1223321913?profile=pass
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" group-title="France 🇫🇷" tvg-status="stable",TMC
 http://86.202.245.66:9981/stream/channelid/524551580?profile=pass
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/gulli-fr.png" group-title="France 🇫🇷" tvg-status="stable",Gulli
@@ -575,10 +543,6 @@ https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2331/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/makan33-il.png" group-title="Israel 🇮🇱" tvg-status="stable",Makan 33
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai 1
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai 3
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai 5
 http://91.146.94.234:10001/play/a03a
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-yoyo-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai YoYo
@@ -957,8 +921,6 @@ hhttp://68.65.124.50:5004/auto/v28.1
 http://104.12.67.120:9981/stream/channelid/718850180?ticket=27C93D1C96D92D9E0120CDD249B7FB9993D73402&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" group-title="United States 🇺🇸" tvg-status="stable",FOX (WSVN)
 http://104.12.67.120:9981/stream/channelid/1934217021?ticket=FF7E486BC7E8A184FC157ABD2205823B22CB1519&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png" group-title="United States 🇺🇸" tvg-status="stable",The CW (TBA)
-http://68.65.124.50:5004/auto/v56.2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp" group-title="United States 🇺🇸" tvg-status="stable",Univision
 http://104.12.67.120:9981/stream/channelid/1407252827?ticket=E943CDE17C58AA0318ABED5CF8A619F62CA806C2&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png" group-title="United States 🇺🇸" tvg-status="stable",Telemundo

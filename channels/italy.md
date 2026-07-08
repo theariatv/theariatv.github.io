@@ -2,10 +2,10 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Rai 1 | [>](https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png"/> | &nbsp; | stable |
+| 1 | Rai 1 | [>](https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png"/> | &nbsp; | not-working |
 | 2 | Rai 2 | [>](https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png"/> | &nbsp; | not-working |
-| 3 | Rai 3 | [>](https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png"/> | &nbsp; | stable |
-| 4 | Rai 4 | [>](http://91.146.94.234:10001/play/a02p) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png"/> | &nbsp; | not-working |
+| 3 | Rai 3 | [>](https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png"/> | &nbsp; | not-working |
+| 4 | Rai 4 | [>](http://91.146.94.234:10001/play/a02p) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png"/> | &nbsp; | unstable |
 | 5 | Rai 5 | [>](http://91.146.94.234:10001/play/a03a) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png"/> | &nbsp; | stable |
 | 6 | Rai 4K | [>](http://91.146.94.234:10001/play/a131) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4k-it.png"/> | &nbsp; | not-working |
 | 7 | Rai News 24 | [>](https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-news-24-it.png"/> | &nbsp; | not-working |

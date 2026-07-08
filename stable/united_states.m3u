@@ -7,8 +7,6 @@ hhttp://68.65.124.50:5004/auto/v28.1
 http://104.12.67.120:9981/stream/channelid/718850180?ticket=27C93D1C96D92D9E0120CDD249B7FB9993D73402&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" group-title="United States 🇺🇸" tvg-status="stable",FOX (WSVN)
 http://104.12.67.120:9981/stream/channelid/1934217021?ticket=FF7E486BC7E8A184FC157ABD2205823B22CB1519&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png" group-title="United States 🇺🇸" tvg-status="stable",The CW (TBA)
-http://68.65.124.50:5004/auto/v56.2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp" group-title="United States 🇺🇸" tvg-status="stable",Univision
 http://104.12.67.120:9981/stream/channelid/1407252827?ticket=E943CDE17C58AA0318ABED5CF8A619F62CA806C2&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png" group-title="United States 🇺🇸" tvg-status="stable",Telemundo
