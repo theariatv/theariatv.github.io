@@ -120,7 +120,7 @@ http://191.96.100.245:1234/stream/amazontv/wdrhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/1280px-One_TV_Logo.svg.png" group-title="Germany 🇩🇪" tvg-status="not-working",One (leaves on December 31)
 http://191.96.100.245:1234/stream/amazontv/onehd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HR_Logo.svg" group-title="Germany 🇩🇪" tvg-status="not-working",HR
-http://191.96.100.245:1234/stream/amazontv/hrhd/master.m3u8\
+http://191.96.100.245:1234/stream/amazontv/hrhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dmax-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",DMAX
 http://191.96.100.245:1234/stream/joyn/dmax/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/comedy-central-de.png" group-title="Germany 🇩🇪" tvg-status="not-working",Comedy Central
