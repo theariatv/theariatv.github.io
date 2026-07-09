@@ -6,7 +6,7 @@
 | 2 | ABC Entertains | [>](https://c.mjh.nz/abc-me.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png"/> | &nbsp; | unstable |
 | 3 | ABC Kids | [>](https://c.mjh.nz/abc-kids.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png"/> | &nbsp; | unstable |
 | 4 | ABC Family | [>](https://c.mjh.nz/abc-tv-plus.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-family-au.png"/> | &nbsp; | unstable |
-| 5 | ABC News | [>](https://c.mjh.nz/abc-news.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-news-au.png"/> | &nbsp; | unstable |
+| 5 | ABC News | [>](https://c.mjh.nz/abc-news.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-news-au.png"/> | &nbsp; | not-working |
 | 6 | SBS | [>](http://115.69.40.212:55555/SBS%20ONE%20HD) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png"/> | &nbsp; | not-working |
 | 7 | SBS Viceland | [>](http://44.32.200.212:5004/auto/v31) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-viceland-au.png"/> | &nbsp; | not-working |
 | 8 | SBS World Watch | [>](http://44.32.200.212:5004/auto/v35) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png"/> | &nbsp; | not-working |

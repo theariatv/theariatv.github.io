@@ -2,13 +2,13 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | CBS (WYOU) | [>](http://68.65.124.50:5004/auto/v22.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | stable |
+| 1 | CBS (WYOU) | [>](http://68.65.124.50:5004/auto/v22.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | not-working |
 | 2 | NBC (WBRE) | [>](hhttp://68.65.124.50:5004/auto/v28.1) | <img height="20" src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png"/> | &nbsp; | stable |
 | 3 | ABC (WSVN 7.2) | [>](http://104.12.67.120:9981/stream/channelid/718850180?ticket=27C93D1C96D92D9E0120CDD249B7FB9993D73402&profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | stable |
 | 4 | FOX (WSVN) | [>](http://104.12.67.120:9981/stream/channelid/1934217021?ticket=FF7E486BC7E8A184FC157ABD2205823B22CB1519&profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | stable |
-| 5 | The CW (TBA) | [>](http://68.65.124.50:5004/auto/v56.2) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | not-working |
+| 5 | The CW (TBA) | [>](http://68.65.124.50:5004/auto/v56.2) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | unstable |
 | 6 | MyNetworkTV (WWOR) | [>](http://68.65.124.50:5004/auto/v56.3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png"/> | &nbsp; | unstable |
-| 7 | MeTV | [>]([http://47.40.181.39:9981/stream/channelid/1123372929?profile=pass](https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8)) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png"/> | &nbsp; | not-working |
+| 7 | MeTV | [>]([http://47.40.181.39:9981/stream/channelid/1123372929?profile=pass](https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png"/> | &nbsp; | unstable |
 | 8 | Univision | [>](http://104.12.67.120:9981/stream/channelid/1407252827?ticket=E943CDE17C58AA0318ABED5CF8A619F62CA806C2&profile=pass) | <img height="20" src="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp"/> | &nbsp; | stable |
 | 9 | Telemundo | [>](http://104.12.67.120:9981/stream/channelid/648549071?ticket=B4BFBE69C9C1D9B9FB627B0BF47FEA97FD648615&profile=pass) | <img height="20" src="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png"/> | &nbsp; | stable |
 | 10 | Estrela TV | [>](http://104.12.67.120:9981/stream/channelid/313808151?ticket=4BA4C122665EFA1433B26C336084C1F69564FF7B&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Estrella_TV_2020_Logo.svg/1280px-Estrella_TV_2020_Logo.svg.png"/> | &nbsp; | unstable |
@@ -138,4 +138,3 @@
 | 134 | QVC2 | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729"/> | QVC2.us | stable |
 | 135 | Discovery Familia | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png"/> | &nbsp; | stable |
 | 136 | MeTV+ | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://www.metv.com/images/MeTV_Plus_Color.png"/> | &nbsp; | stable |
-

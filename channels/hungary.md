@@ -2,12 +2,12 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | M1 HD | [>](http://94.21.17.223:9981/stream/channelid/984922418?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m1-hu.png"/> | &nbsp; | stable |
-| 2 | M2 / M2 Petőfi HD | [>](http://94.21.17.223:9981/stream/channelid/1474006823?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m2-hu.png"/> | &nbsp; | stable |
-| 3 | M4 Sport HD | [>](http://94.21.17.223:9981/stream/channelid/1485032170?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m4-sport-hu.png"/> | &nbsp; | stable |
-| 4 | Duna HD | [>](http://94.21.17.223:9981/stream/channelid/197427221?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png"/> | &nbsp; | stable |
-| 5 | Duna World / M4 Sport+ HD | [>](http://94.21.17.223:9981/stream/channelid/1804581133?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png"/> | &nbsp; | stable |
-| 6 | M5 HD | [>](http://94.21.17.223:9981/stream/channelid/1129642371?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m5-hu.png"/> | &nbsp; | stable |
+| 1 | M1 HD | [>](http://94.21.17.223:9981/stream/channelid/984922418?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m1-hu.png"/> | &nbsp; | not-working |
+| 2 | M2 / M2 Petőfi HD | [>](http://94.21.17.223:9981/stream/channelid/1474006823?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m2-hu.png"/> | &nbsp; | not-working |
+| 3 | M4 Sport HD | [>](http://94.21.17.223:9981/stream/channelid/1485032170?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m4-sport-hu.png"/> | &nbsp; | not-working |
+| 4 | Duna HD | [>](http://94.21.17.223:9981/stream/channelid/197427221?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png"/> | &nbsp; | not-working |
+| 5 | Duna World / M4 Sport+ HD | [>](http://94.21.17.223:9981/stream/channelid/1804581133?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png"/> | &nbsp; | not-working |
+| 6 | M5 HD | [>](http://94.21.17.223:9981/stream/channelid/1129642371?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m5-hu.png"/> | &nbsp; | not-working |
 | 7 | RTL HU HD | [>](http://94.21.17.223:9981/stream/channelid/1268791284?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-hu.png"/> | &nbsp; | not-working |
 | 8 | RTL KETTŐ HD | [>](http://94.21.17.223:9981/stream/channelid/1573183651?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-ketto-hu.png"/> | &nbsp; | not-working |
 | 9 | RTL HÁROM HD | [>](http://94.21.17.223:9981/stream/channelid/1395685967?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-harom-hu.png"/> | &nbsp; | not-working |
