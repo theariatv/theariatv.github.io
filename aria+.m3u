@@ -401,7 +401,7 @@ http://213.91.179.28:8000/play/a03x
 http://213.91.179.28:8000/play/a03w
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Nova
 http://213.91.179.28:8000/play/a03l
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="",Diema
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-bg.png" group-title="Bulgaria 🇧🇬" tvg-status="unstable",Diema
 http://213.91.179.28:8000/play/a046
 #EXTINF:-1 tvg-id="Adult.Swim.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",Adult Swim
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44290.ts
@@ -800,7 +800,7 @@ http://1tv41.icu:8080/5ZCJFs/416986/100043
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Caribbean 🏝️" tvg-status="not-working",SPORTSMAX 2 (Any Caribbean Country)
 http://1tv41.icu:8080/5ZCJFs/416986/119471
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1200px-La_Red_Logotipo_2021.svg.png" group-title="Chile 🇨🇱" tvg-status="not-working",La Red
-http://38.250.127.17:9800/play/a09n/index.m3u8
+http://38.7.197.119:4000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="Chile 🇨🇱" tvg-status="not-working",Chilevision
 http://38.7.195.43:8000/play/a02g
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="Chile 🇨🇱" tvg-status="not-working",CHV Noticias
@@ -825,6 +825,10 @@ http://181.78.201.70:8000/play/a0tu/index.m3u8
 http://138.36.253.13:8008/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Vive_VTR.jpg/revision/latest?cb=20190412011653&path-prefix=es" group-title="Chile 🇨🇱" tvg-status="not-working",Canal Vive
 https://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1200px-La_Red_Logotipo_2021.svg.png" group-title="Chile 🇨🇱" tvg-status="",La Red 2
+http://38.7.197.119:4000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TVN_Chile_2016.svg/revision/latest/scale-to-width-down/200?cb=20210906211028" group-title="Chile 🇨🇱" tvg-status="",TVN
+http://38.7.197.119:4000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png" group-title="China 🇨🇳" tvg-status="stable",CCTV-1
 http://183.205.129.173:9981/stream/channelid/841604340?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png" group-title="China 🇨🇳" tvg-status="not-working",CCTV-2
@@ -3305,7 +3309,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 http://200.115.120.1:8000/play/ca053
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.metv.com/images/MeTV_Plus_Color.png" group-title="United States 🇺🇸" tvg-status="stable",MeTV+
 http://206.212.244.63/111/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/5ltnu.svg/250px-5ltnu.svg.png" group-title="Uruguay 🇺🇾" tvg-status="",Canal 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/5ltnu.svg/250px-5ltnu.svg.png" group-title="Uruguay" tvg-status="unstable",Canal 5
 https://tinyurl.com/canal5uy
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.comunicazione.va/content/dam/comunicazione/tentativi-e-proposte/logo%20vatican%20media.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" group-title="Vatican City 🇻🇦" tvg-status="not-working",Vatican Media
 http://77.39.161.42:55555/Vatican%20Media%20HD
