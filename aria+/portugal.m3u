@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-1-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",RTP 1
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-1-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",RTP 1
 https://tv.jassuncao.work/stream/channelid/1231390338?profile=pass
-#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-2-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",RTP 2
+#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-2-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",RTP 2
 https://tv.jassuncao.work/stream/channelid/695922566?profile=pass
-#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-notícias-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",RTP Notícias
+#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-notícias-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",RTP Notícias
 https://tv.jassuncao.work/stream/channelid/848847833?profile=pass
-#EXTINF:-1 tvg-id="RTP.Maderia.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-maderia-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",RTP Maderia
+#EXTINF:-1 tvg-id="RTP.Maderia.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-maderia-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",RTP Maderia
 https://tv.jassuncao.work/stream/channelid/1715732000?profile=pass
-#EXTINF:-1 tvg-id="RTP.Acores.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-acores-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",RTP Acores
+#EXTINF:-1 tvg-id="RTP.Acores.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-acores-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",RTP Acores
 https://tv.jassuncao.work/stream/channelid/302424033?profile=pass
-#EXTINF:-1 tvg-id="RTP.Memoria.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-memoria-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",RTP Memoria
+#EXTINF:-1 tvg-id="RTP.Memoria.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/rtp-memoria-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",RTP Memoria
 https://tv.jassuncao.work/stream/channelid/55184791?profile=pass
-#EXTINF:-1 tvg-id="SIC.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",SIC
+#EXTINF:-1 tvg-id="SIC.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",SIC
 https://tv.jassuncao.work/stream/channelid/1045394095?profile=pass
 #EXTINF:-1 tvg-id="SIC.K.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-k-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC K
 https://tv.jassuncao.work/stream/channelid/943759774?profile=pass
@@ -21,9 +21,9 @@ https://tv.jassuncao.work/stream/channelid/842908837?profile=pass
 https://tv.jassuncao.work/stream/channelid/1724319966?profile=pass
 #EXTINF:-1 tvg-id="SIC.Mulher.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-mulher-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",SIC Mulher
 https://tv.jassuncao.work/stream/channelid/1622743882?profile=pass
-#EXTINF:-1 tvg-id="SIC.Noticais.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-noticias-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",SIC Noticias
+#EXTINF:-1 tvg-id="SIC.Noticais.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sic-noticias-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",SIC Noticias
 https://tv.jassuncao.work/stream/channelid/2019850241?profile=pass
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvi-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",TVI
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/tvi-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",TVI
 https://tv.jassuncao.work/stream/channelid/1284794752?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" group-title="Portugal 🇵🇹" tvg-status="stable",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
@@ -31,9 +31,9 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 tvg-id="Globo.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/globo-pt.png" group-title="Portugal 🇵🇹" tvg-status="stable",Globo
 https://tv.jassuncao.work/stream/channelid/620926503?profile=pass
-#EXTINF:-1 tvg-id="Panda.Kids.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/panda-kids-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",Panda Kids
+#EXTINF:-1 tvg-id="Panda.Kids.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/panda-kids-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",Panda Kids
 https://tv.jassuncao.work/stream/channelid/1580152897?profile=pass
-#EXTINF:-1 tvg-id="Canal.Panda.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal-panda-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",Canal Panda
+#EXTINF:-1 tvg-id="Canal.Panda.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal-panda-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",Canal Panda
 https://tv.jassuncao.work/stream/channelid/1025224952?profile=pass
-#EXTINF:-1 tvg-id="Biggs.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/biggs-pt.png" group-title="Portugal 🇵🇹" tvg-status="unstable",Biggs
+#EXTINF:-1 tvg-id="Biggs.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/biggs-pt.png" group-title="Portugal 🇵🇹" tvg-status="not-working",Biggs
 https://tv.jassuncao.work/stream/channelid/1212496408?profile=pass

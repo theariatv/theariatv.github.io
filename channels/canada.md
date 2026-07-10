@@ -17,7 +17,7 @@
 | 13 | CHCH (CHCH-DT) | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20974.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png"/> | CHCH.Hamilton.ON.ca | unstable |
 | 14 | NTV (CJON-DT) | [>](http://skynetdigital.us/live/Mdprime/XWDJKHMQBG/445317.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ntv-ca.png"/> | &nbsp; | not-working |
 | 15 | CHEK (CHEK-DT) | [>](http://103.176.90.186:80/live/f956994304/de7dd50f24/812561.ts) | <img height="20" src="https://harbourcats.com/wp-content/uploads/2017/06/CHEK_logo_2022.svg_.png"/> | CHEK.Victoria.BC.ca | unstable |
-| 16 | CityTV Toronto | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Toronto.ON.ca | stable |
+| 16 | CityTV Toronto | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Toronto.ON.ca | not-working |
 | 17 | CityTV Montreal | [>](http://103.176.90.186:80/live/f956994304/de7dd50f24/627007.ts) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Toronto.ON.ca | unstable |
 | 18 | CityTV Vancouver | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29322.ts) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Vancouver.ON.ca | unstable |
 | 19 | CMT | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44281.ts) | <img height="20" src="https://media.starlite.best/cmt.canada.ca.png"/> | CMT.Canada.ca | unstable |
@@ -138,7 +138,7 @@
 | 134 | AMI-tele | [>](https://tvnow.best/api/stream/burns/burns/livetv.epg/ami.tl.ca.m3u8) | <img height="20" src="https://media.starlite.best/ami.tl.ca.png"/> | ami.tl.ca | not-working |
 | 135 | ADDIK | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29328.ts) | <img height="20" src="https://m1.quebecormedia.com/static-short/addiktv/addiktv_logo.png"/> | ami.tl.ca | unstable |
 | 136 | Canal D | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29323.ts) | <img height="20" src="https://media.starlite.best/canal.d.ca.png"/> | canal.d.ca | unstable |
-| 137 | Savoir Média | [>](http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass) | <img height="20" src="https://beacon.playback.api.brightcove.com/savoirmedia/uploads/settings/2_e11b729e19a45b1c3f677217c5410c25_images_logo-h100_w100.png"/> | savior.média.ca | stable |
+| 137 | Savoir Média | [>](http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass) | <img height="20" src="https://beacon.playback.api.brightcove.com/savoirmedia/uploads/settings/2_e11b729e19a45b1c3f677217c5410c25_images_logo-h100_w100.png"/> | savior.média.ca | not-working |
 | 138 | CASA | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48962.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/57/CASA_2021_logo.png"/> | casa.ca | unstable |
 | 139 | Cinépop | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29243.ts) | <img height="20" src="https://media.starlite.best/cinpop.ca.png"/> | cinpop.ca | unstable |
 | 140 | CPAC | [>](https://tvnow.best/api/stream/burns/burns/livetv.epg/cpac.francais.ca.m3u8) | <img height="20" src="https://media.starlite.best/cpac.francais.ca.png"/> | cpac.francais.ca | not-working |
@@ -152,7 +152,7 @@
 | 148 | ICI Tele | [>](http://204.15.194.229:5004/auto/v25.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-tele-ca.png"/> | ici.tele.ca | unstable |
 | 149 | LCN | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29319.ts) | <img height="20" src="https://media.starlite.best/lcn.ca.png"/> | lcn.ca | unstable |
 | 150 | MAX | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29282.ts) | <img height="20" src="https://media.starlite.best/max.ca.png"/> | max.ca | unstable |
-| 151 | Noovo | [>](http://174.91.200.77:9981/stream/channelid/866993111?profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png"/> | Noovo.(CFJP).Montreal.QC.ca | stable |
+| 151 | Noovo | [>](http://174.91.200.77:9981/stream/channelid/866993111?profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png"/> | Noovo.(CFJP).Montreal.QC.ca | not-working |
 | 152 | Prise 2 | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29269.ts) | <img height="20" src="https://media.starlite.best/prise.2.ca.png"/> | prise.2.ca | unstable |
 | 153 | RDS | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29268.ts) | <img height="20" src="https://media.starlite.best/rds.rseau.des.sports.ca.png"/> | rds.rseau.des.sports.ca | unstable |
 | 154 | RDS 2 | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29363.ts) | <img height="20" src="https://media.starlite.best/rds.2.ca.png"/> | rds.2.ca | unstable |
@@ -163,7 +163,7 @@
 | 159 | Super Ecran 3 | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29346.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-3-ca.png"/> | super.ecran.3.ca | unstable |
 | 160 | Super Ecran 4 | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29345.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-4-ca.png"/> | super.ecran.4.ca | unstable |
 | 161 | Témoin | [>](http://stream.ultimate-tvservice.com:8080/live/Jalen/Jalen16/265170.ts) | <img height="20" src="https://m1.quebecormedia.com/emp/emp/523b7520-b555-11ee-a6d6-3701d1640652_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=1200&h=312&width=925"/> | tv5.international.east.ca | not-working |
-| 162 | Tele Québec | [>](http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass) | <img height="20" src="https://media.starlite.best/tele.quebec.civq.quebec.ca.png"/> | tele.quebec.civq.quebec.ca | stable |
+| 162 | Tele Québec | [>](http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass) | <img height="20" src="https://media.starlite.best/tele.quebec.civq.quebec.ca.png"/> | tele.quebec.civq.quebec.ca | not-working |
 | 163 | Télétoon | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29312.ts) | <img height="20" src="https://media.starlite.best/tltoon.franais.ca.png"/> | tltoon.franais.ca | unstable |
 | 164 | TFO | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44212.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TFO_2020_Logo.svg/1200px-TFO_2020_Logo.svg.png"/> | TFO.-.Chaine.Francaise.ca | unstable |
 | 165 | TV5 | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44203.ts) | <img height="20" src="https://media.starlite.best/tv5.international.east.ca.png"/> | tv5.international.east.ca | unstable |
@@ -179,10 +179,10 @@
 | 175 | Bravo | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29370.ts) | <img height="20" src="https://media.starlite.best/bravo.canada.ca.png"/> | bravo.canada.ca | unstable |
 | 176 | CBC East | [>](http://204.15.194.229:5004/auto/v5.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png"/> | CBOT.HDTV.(CBOTHD).ca | stable |
 | 177 | CBC West | [>](http://44.25.145.45:5004/auto/v2.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png"/> | CBUT.HDTV.(CBUTHD).ca | stable |
-| 178 | CityTV | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.montreal.qc.ca.png"/> | CITY.Toronto.ON.ca | stable |
+| 178 | CityTV | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.montreal.qc.ca.png"/> | CITY.Toronto.ON.ca | not-working |
 | 179 | CityTV Vancouver (CKVU) | [>](http://44.25.145.45:5004/auto/v27.1) | <img height="20" src="https://media.starlite.best/city.montreal.qc.ca.png"/> | CITY.Toronto.ON.ca | not-working |
 | 180 | CTV News Channel | [>](http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass) | <img height="20" src="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CTV-News-Channel-Reverse-Screen-Logo-The-Lede-1.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1"/> | CTV.News.Channel.ca | not-working |
-| 181 | CTV Montreal (CFCF) | [>](http://174.91.200.77:9981/stream/channelid/678374472?profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png"/> | CTV.(CFCF).Montreal,.QC.ca | stable |
+| 181 | CTV Montreal (CFCF) | [>](http://174.91.200.77:9981/stream/channelid/678374472?profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png"/> | CTV.(CFCF).Montreal,.QC.ca | not-working |
 | 182 | CTV Vancover (CIVT) | [>](http://44.25.145.45:5004/auto/v32.1) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png"/> | CTV.(CKY).Winnipeg,.MB.ca | not-working |
 | 183 | CTV2 Victoria (CIVI) | [>](http://44.25.145.45:5004/auto/v23.1) | <img height="20" src="https://www.bellmedia.ca/lede/wp-content/uploads/2014/01/CTV2_Logo_Screen_RGB-2.png"/> | CTV1.(CKVR).Barrie,.ON.ca | not-working |
 | 184 | Global Toronto (CIII) | [>](http://stream.cammonitorplus.net/1730/index.m3u8) | <img height="20" src="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png"/> | Global.(CIII-DT-41).Toronto.ca | stable |
@@ -191,5 +191,5 @@
 | 187 | Hollywood Suite 80s & 90s | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50301.ts) | <img height="20" src="https://hollywoodsuite.ca/build/assets/80s-90s-movies-D_e5Lu-3.svg"/> | &nbsp; | unstable |
 | 188 | Hollywood Suite 2000s | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50302.ts) | <img height="20" src="https://hollywoodsuite.ca/build/assets/2000s-movies-Bml_nujT.svg"/> | &nbsp; | unstable |
 | 189 | Hollywood Suite 2010s+ | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50299.ts) | <img height="20" src="https://hollywoodsuite.ca/build/assets/2010s-movies-l1Uk349B.svg"/> | &nbsp; | unstable |
-| 190 | Noovo | [>](http://174.91.200.77:9981/stream/channelid/866993111?profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png"/> | Noovo.(CFJP).Montreal.QC.ca | stable |
-| 191 | Tele Québec | [>](http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass) | <img height="20" src="https://media.starlite.best/tele.quebec.civq.quebec.ca.png"/> | tele.quebec.civq.quebec.ca | stable |
+| 190 | Noovo | [>](http://174.91.200.77:9981/stream/channelid/866993111?profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png"/> | Noovo.(CFJP).Montreal.QC.ca | not-working |
+| 191 | Tele Québec | [>](http://174.91.200.77:9981/stream/channelid/1253789227?profile=pass) | <img height="20" src="https://media.starlite.best/tele.quebec.civq.quebec.ca.png"/> | tele.quebec.civq.quebec.ca | not-working |

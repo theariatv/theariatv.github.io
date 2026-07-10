@@ -2,7 +2,7 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | ARB | [>](https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/f/f7/ARB_Azerbaijan_Logo.png"/> | &nbsp; | not-working |
+| 1 | ARB | [>](https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/f/f7/ARB_Azerbaijan_Logo.png"/> | &nbsp; | unstable |
 | 2 | ARB 24 | [>](https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png"/> | &nbsp; | unstable |
 | 3 | ARB Gunes | [>](https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/f/fe/ARB_G%C3%BCn%C9%99%C5%9F_logo.png"/> | &nbsp; | unstable |
 | 4 | ATV | [>](https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png"/> | &nbsp; | not-working |

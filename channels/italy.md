@@ -4,7 +4,7 @@
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | Rai 1 | [>](https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png"/> | &nbsp; | not-working |
 | 2 | Rai 2 | [>](https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png"/> | &nbsp; | not-working |
-| 3 | Rai 3 | [>](https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png"/> | &nbsp; | not-working |
+| 3 | Rai 3 | [>](https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png"/> | &nbsp; | unstable |
 | 4 | Rai 4 | [>](http://91.146.94.234:10001/play/a02p) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png"/> | &nbsp; | unstable |
 | 5 | Rai 5 | [>](http://91.146.94.234:10001/play/a03a) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png"/> | &nbsp; | stable |
 | 6 | Rai 4K | [>](http://91.146.94.234:10001/play/a131) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4k-it.png"/> | &nbsp; | unstable |
@@ -34,12 +34,12 @@
 | 30 | Nove | [>](http://91.146.94.234:10001/play/a09q) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/nove-it.png"/> | &nbsp; | stable |
 | 31 | DMAX [X] | [>](https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dmax-it.png"/> | &nbsp; | stable |
 | 32 | Discovery Channel [X] | [>](http://93.49.98.215:55555/Warner%20TV) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png"/> | &nbsp; | not-working |
-| 33 | Food Network [X] | [>](http://93.49.98.215:55555/Food%20Network) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png"/> | &nbsp; | unstable |
-| 34 | MotorTrend [X] | [>](http://93.49.98.215:55555/Motor%20Trend) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/motor-trend-us.png"/> | &nbsp; | unstable |
-| 35 | RealTime [X] | [>](http://93.49.98.215:55555/Real%20Time) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/real-time-it.png"/> | &nbsp; | unstable |
+| 33 | Food Network [X] | [>](http://93.49.98.215:55555/Food%20Network) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png"/> | &nbsp; | not-working |
+| 34 | MotorTrend [X] | [>](http://93.49.98.215:55555/Motor%20Trend) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/motor-trend-us.png"/> | &nbsp; | not-working |
+| 35 | RealTime [X] | [>](http://93.49.98.215:55555/Real%20Time) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/real-time-it.png"/> | &nbsp; | not-working |
 | 36 | HGTV [X] | [>](http://77.39.161.42:55555/HGTV%20%2D%20Home%26Garden) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png"/> | &nbsp; | not-working |
 | 37 | Boing | [>](http://91.146.94.234:10001/play/a03j) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png"/> | &nbsp; | stable |
 | 38 | Boing Plus [X] | [>](http://77.39.161.42:55555/Boing%20Plus) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/735px-Boing_Plus_logo_2020.svg.png?20201201165658"/> | &nbsp; | not-working |
-| 39 | K2 | [>](http://93.49.98.215:55555/K2) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/k2-it.png"/> | &nbsp; | unstable |
+| 39 | K2 | [>](http://93.49.98.215:55555/K2) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/k2-it.png"/> | &nbsp; | not-working |
 | 40 | Super!/Super! Junior | [>](http://91.146.94.234:10001/play/a0j8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-it.png"/> | &nbsp; | stable |
 | 41 | Cartoonito | [>](http://91.146.94.234:10001/play/a03p) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png"/> | &nbsp; | stable |

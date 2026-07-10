@@ -2,7 +2,7 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | CBS (WYOU) | [>](http://68.65.124.50:5004/auto/v22.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | not-working |
+| 1 | CBS (WYOU) | [>](http://68.65.124.50:5004/auto/v22.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | unstable |
 | 2 | NBC (WBRE) | [>](hhttp://68.65.124.50:5004/auto/v28.1) | <img height="20" src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png"/> | &nbsp; | stable |
 | 3 | ABC (WSVN 7.2) | [>](http://104.12.67.120:9981/stream/channelid/718850180?ticket=27C93D1C96D92D9E0120CDD249B7FB9993D73402&profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | stable |
 | 4 | FOX (WSVN) | [>](http://104.12.67.120:9981/stream/channelid/1934217021?ticket=FF7E486BC7E8A184FC157ABD2205823B22CB1519&profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | stable |
@@ -68,7 +68,7 @@
 | 64 | BYU TV | [>](http://128.230.54.128:5004/auto/v64.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/byu-tv-us.png"/> | &nbsp; | not-working |
 | 65 | Nick Jr. | [>](https://tvpass.org/live/NickJrEast/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png"/> | &nbsp; | not-working |
 | 66 | Disney XD | [>](http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png"/> | &nbsp; | unstable |
-| 67 | Game Show Network | [>](https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/game-show-network-us.png"/> | &nbsp; | stable |
+| 67 | Game Show Network | [>](https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/game-show-network-us.png"/> | &nbsp; | not-working |
 | 68 | Buzzer | [>](https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/buzzer-us.png"/> | &nbsp; | stable |
 | 69 | National Geographic | [>](https://tvpass.org/live/NationalGeographicEast/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png"/> | &nbsp; | not-working |
 | 70 | FS1 | [>](http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fs1-us.png"/> | &nbsp; | unstable |
