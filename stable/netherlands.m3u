@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo3-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",NPO 3
-http://86.85.245.213:9981/stream/channelid/1341758705?profile=pass
+http://217.120.163.140:9981/stream/channelid/545824419?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/espn-nl.png" group-title="Netherlands 🇳🇱" tvg-status="stable",ESPN
 http://46.149.191.219:9100/play/a00e
