@@ -2,7 +2,7 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | CCTV-1 | [>](http://183.205.129.173:9981/stream/channelid/841604340?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png"/> | &nbsp; | stable |
+| 1 | CCTV-1 | [>](http://183.205.129.173:9981/stream/channelid/841604340?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg.png"/> | &nbsp; | not-working |
 | 2 | CCTV-2 | [>](http://58.19.180.108:9981/stream/channelid/980211261?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png"/> | &nbsp; | not-working |
 | 3 | CCTV-3 | [>](http://58.19.180.108:9981/stream/channelid/188040143?profile=pass) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/3c/CCTV-3_%E7%BB%BC%E8%89%BA.svg/revision/latest?cb=20230514004707"/> | &nbsp; | not-working |
 | 4 | CCTV-5 | [>](http://58.19.180.108:9981/stream/channelid/908622330?profile=pass) | CCTV-5 | &nbsp; | not-working |

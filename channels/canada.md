@@ -17,7 +17,7 @@
 | 13 | CHCH (CHCH-DT) | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20974.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png"/> | CHCH.Hamilton.ON.ca | unstable |
 | 14 | NTV (CJON-DT) | [>](http://skynetdigital.us/live/Mdprime/XWDJKHMQBG/445317.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ntv-ca.png"/> | &nbsp; | not-working |
 | 15 | CHEK (CHEK-DT) | [>](http://103.176.90.186:80/live/f956994304/de7dd50f24/812561.ts) | <img height="20" src="https://harbourcats.com/wp-content/uploads/2017/06/CHEK_logo_2022.svg_.png"/> | CHEK.Victoria.BC.ca | unstable |
-| 16 | CityTV Toronto | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Toronto.ON.ca | not-working |
+| 16 | CityTV Toronto | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Toronto.ON.ca | unstable |
 | 17 | CityTV Montreal | [>](http://103.176.90.186:80/live/f956994304/de7dd50f24/627007.ts) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Toronto.ON.ca | unstable |
 | 18 | CityTV Vancouver | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29322.ts) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Vancouver.ON.ca | unstable |
 | 19 | CMT | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44281.ts) | <img height="20" src="https://media.starlite.best/cmt.canada.ca.png"/> | CMT.Canada.ca | unstable |
@@ -179,7 +179,7 @@
 | 175 | Bravo | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29370.ts) | <img height="20" src="https://media.starlite.best/bravo.canada.ca.png"/> | bravo.canada.ca | unstable |
 | 176 | CBC East | [>](http://204.15.194.229:5004/auto/v5.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png"/> | CBOT.HDTV.(CBOTHD).ca | stable |
 | 177 | CBC West | [>](http://44.25.145.45:5004/auto/v2.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png"/> | CBUT.HDTV.(CBUTHD).ca | stable |
-| 178 | CityTV | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.montreal.qc.ca.png"/> | CITY.Toronto.ON.ca | not-working |
+| 178 | CityTV | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.montreal.qc.ca.png"/> | CITY.Toronto.ON.ca | unstable |
 | 179 | CityTV Vancouver (CKVU) | [>](http://44.25.145.45:5004/auto/v27.1) | <img height="20" src="https://media.starlite.best/city.montreal.qc.ca.png"/> | CITY.Toronto.ON.ca | not-working |
 | 180 | CTV News Channel | [>](http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass) | <img height="20" src="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CTV-News-Channel-Reverse-Screen-Logo-The-Lede-1.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1"/> | CTV.News.Channel.ca | not-working |
 | 181 | CTV Montreal (CFCF) | [>](http://174.91.200.77:9981/stream/channelid/678374472?profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png"/> | CTV.(CFCF).Montreal,.QC.ca | not-working |
