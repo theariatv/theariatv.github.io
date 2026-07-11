@@ -585,10 +585,12 @@ https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 http://185.193.240.245:8000/play/a00r
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_of_Sitel.svg/640px-Logo_of_Sitel.svg.png" group-title="North Macedonia 🇲🇰" tvg-status="stable",Sitel
 http://185.193.240.245:8000/play/a00s
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/peru/canal-n-pe.png" group-title="Peru" tvg-status="stable",Canal N
+#EXTINF:-1 tvg-id="" tvg-logo="https://canaln.pe/img/default-seo.jpg" group-title="Peru" tvg-status="stable",Canal N
 http://190.119.176.186:8000/play/a08e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Peru" tvg-status="stable",D Sport
 http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="Peru" tvg-status="stable",América Televisión
+http://45.173.72.12:8002/AMERICATV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",GMA
 http://122.53.222.9:9981/stream/channelid/812083425?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ALLTV2_Logo_2024.svg/1920px-ALLTV2_Logo_2024.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",ALLTV2 (ABS-CBN)

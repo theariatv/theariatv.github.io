@@ -2375,10 +2375,12 @@ http://groundhogday.in/live/Jok123/Jok123/3414723.ts
 http://groundhogday.in/live/Jok123/Jok123/3414724.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/disney-channel-de.png" group-title="Norway 🇳🇴" tvg-status="not-working",Disney Channel
 http://qgvwnqgr.mexamo.xyz/live/911FA6VS/2T3C7P57/290505.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/peru/canal-n-pe.png" group-title="Peru" tvg-status="stable",Canal N
+#EXTINF:-1 tvg-id="" tvg-logo="https://canaln.pe/img/default-seo.jpg" group-title="Peru" tvg-status="stable",Canal N
 http://190.119.176.186:8000/play/a08e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Peru" tvg-status="stable",D Sport
 http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="Peru" tvg-status="stable",América Televisión
+http://45.173.72.12:8002/AMERICATV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1200px-GMA_Network_Logo_Vector.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",GMA
 http://122.53.222.9:9981/stream/channelid/812083425?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ALLTV2_Logo_2024.svg/1920px-ALLTV2_Logo_2024.svg.png" group-title="Philippines 🇵🇭" tvg-status="stable",ALLTV2 (ABS-CBN)
