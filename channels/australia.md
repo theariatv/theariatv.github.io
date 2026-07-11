@@ -30,7 +30,7 @@
 | 26 | 9Go! | [>](http://44.32.200.142:5004/auto/v93) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/a4/9Go%21_2017-.png/revision/latest?cb=20240610101234"/> | &nbsp; | not-working |
 | 27 | 9Gem | [>](http://44.32.200.142:5004/auto/v92) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/f6/9Gem_2017.svg/revision/latest?cb=20191126203640"/> | &nbsp; | not-working |
 | 28 | 9Life | [>](http://44.32.200.142:5004/auto/v94) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/36/9Life_2015-flat.svg/revision/latest?cb=20191126203559"/> | &nbsp; | not-working |
-| 29 | 9Rush | [>](http://44.32.200.142:5004/auto/v96) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/9-rush-au.png"/> | &nbsp; | not-working |
+| 29 | 9Rush | [>](http://44.32.200.142:5004/auto/v96) | <img height="20" src="https://www.nineforbrands.com.au/wp-content/uploads/2020/08/9RUSH_2D_LOGO_DESERT_RGB.png"/> | &nbsp; | not-working |
 | 30 | Comedy | [>](http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263591&extension=ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/comedy-au.png"/> | &nbsp; | not-working |
 | 31 | Lifestyle | [>](http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263675&extension=ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/lifestyle-au.png"/> | &nbsp; | not-working |
 | 32 | Showcase | [>](http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263681&extension=ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/showcase-au.png"/> | &nbsp; | not-working |
@@ -43,6 +43,6 @@
 | 39 | Fox Sports 506 | [>](https://a1xs.vip/700006) | <img height="20" src="https://i.imgur.com/eA1hiR0.png"/> | FoxSports506.au | not-working |
 | 40 | Fox Sports 507 | [>](https://a1xs.vip/700007) | <img height="20" src="https://i.imgur.com/kGm7Ts1.png"/> | FoxSportsMore.au | not-working |
 | 41 | ESPN | [>](http://groundhogday.in/live/Jok123/Jok123/1003707.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png"/> | &nbsp; | not-working |
-| 42 | ESPN 2 | [>](http://groundhogday.in/live/Jok123/Jok123/1003706.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn2-us.png"/> | &nbsp; | not-working |
+| 42 | ESPN 2 | [>](http://groundhogday.in/live/Jok123/Jok123/1003706.ts) | <img height="20" src="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espn2_2x.png"/> | &nbsp; | not-working |
 | 43 | BBC First | [>](https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc113/bbcfirsthdraw/bbcfirsthdraw.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/bbc-first-au.png"/> | &nbsp; | not-working |
 | 14 | 10 +1 (launches on August 10th) | [>](http://44.32.200.142:5004/auto/v14) | <img height="20" src="https://mumbrella.com.au/wp-content/uploads/2026/06/101-logo-e1781133465816.png"/> | &nbsp; | not-working |
