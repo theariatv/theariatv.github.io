@@ -55,7 +55,7 @@ http://44.32.200.142:5004/auto/v93
 http://44.32.200.142:5004/auto/v92
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/9Life_2015-flat.svg/revision/latest?cb=20191126203559" group-title="Australia 🇦🇺" tvg-status="not-working",9Life
 http://44.32.200.142:5004/auto/v94
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/9-rush-au.png" group-title="Australia 🇦🇺" tvg-status="not-working",9Rush
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2020/08/9RUSH_2D_LOGO_DESERT_RGB.png" group-title="Australia 🇦🇺" tvg-status="not-working",9Rush
 http://44.32.200.142:5004/auto/v96
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/comedy-au.png" group-title="Australia 🇦🇺" tvg-status="not-working",Comedy
 http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263591&extension=ts
@@ -81,7 +81,7 @@ https://a1xs.vip/700006
 https://a1xs.vip/700007
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="Australia 🇦🇺" tvg-status="not-working",ESPN
 http://groundhogday.in/live/Jok123/Jok123/1003707.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn2-us.png" group-title="Australia 🇦🇺" tvg-status="not-working",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espn2_2x.png" group-title="Australia 🇦🇺" tvg-status="not-working",ESPN 2
 http://groundhogday.in/live/Jok123/Jok123/1003706.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/bbc-first-au.png" group-title="Australia 🇦🇺" tvg-status="not-working",BBC First
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc113/bbcfirsthdraw/bbcfirsthdraw.m3u8
