@@ -1937,7 +1937,7 @@ https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
 http://79.127.207.193/RaiSport/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-storia-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai Storia
 http://79.127.207.193/RaiStoria/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-gulp-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai Gulp
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-gulp-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",V/BE (Coming January 2027)
 http://79.127.207.193/RaiGulp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-yoyo-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai YoYo
 http://91.146.94.234:10001/play/a039
