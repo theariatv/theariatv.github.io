@@ -1920,13 +1920,13 @@ http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2370/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/luli-il.png" group-title="Israel 🇮🇱" tvg-status="not-working",Luli
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2364/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai 1
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+http://57.128.239.62/Rai1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai 2
-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+http://57.128.239.62/Rai2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai 3
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+http://57.128.239.62/Rai3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png" group-title="Italy 🇮🇹" tvg-status="unstable",Rai 4
-http://91.146.94.234:10001/play/a02p
+http://57.128.239.62/Rai4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai 5
 http://91.146.94.234:10001/play/a03a
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4k-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai 4K
@@ -2001,6 +2001,8 @@ http://93.49.98.215:55555/K2
 http://91.146.94.234:10001/play/a0j8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Cartoonito
 http://91.146.94.234:10001/play/a03p
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rai_S%C3%BCdtirol_-_Logo_2019.svg/1920px-Rai_S%C3%BCdtirol_-_Logo_2019.svg.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai Südtirol  (Local)
+http://57.128.239.62/RaiBozen/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.cvmtv.com/storage/logos/ko8Z2ui2HPKwUmw6FW6DaV666PoaFVWeWqpKMYMI.png" group-title="Jamaica 🇯🇲" tvg-status="not-working",CVM TV
 https://fl5.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Television_Jamaica_Logo.png/revision/latest?cb=20211223085709" group-title="Jamaica 🇯🇲" tvg-status="not-working",TVJ
