@@ -9,7 +9,7 @@ http://104.12.67.120:9981/stream/channelid/718850180?ticket=27C93D1C96D92D9E0120
 http://104.12.67.120:9981/stream/channelid/1934217021?ticket=FF7E486BC7E8A184FC157ABD2205823B22CB1519&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png" group-title="United States 🇺🇸" tvg-status="unstable",The CW (TBA)
 http://68.65.124.50:5004/auto/v56.2
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="United States 🇺🇸" tvg-status="not-working",MyNetworkTV (WWOR)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="United States 🇺🇸" tvg-status="unstable",MyNetworkTV (WWOR)
 http://68.65.124.50:5004/auto/v56.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png" group-title="United States 🇺🇸" tvg-status="unstable",MeTV
 [http://47.40.181.39:9981/stream/channelid/1123372929?profile=pass](https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
@@ -211,7 +211,7 @@ http://108.14.66.42:5004/auto/v48.4
 http://108.14.66.42:5004/auto/v68.1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telexitos-us.png" group-title="United States 🇺🇸" tvg-status="not-working",TeleXitos
 http://108.14.66.42:5004/auto/v47.2
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universo-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Universo
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universo-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Universo
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="United States 🇺🇸" tvg-status="stable",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8

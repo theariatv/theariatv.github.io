@@ -161,7 +161,7 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29317.ts
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29254.ts
 #EXTINF:-1 tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",National Geographic
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44233.ts
-#EXTINF:-1 tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://i.ibb.co/N28fsF0z/National-Geographic-Wild-logo-svg.png" group-title="Canada 🇨🇦" tvg-status="unstable",Nat Geo Wild
+#EXTINF:-1 tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://i.ibb.co/N28fsF0z/National-Geographic-Wild-logo-svg.png" group-title="Canada 🇨🇦" tvg-status="not-working",Nat Geo Wild
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21198.ts
 #EXTINF:-1 tvg-id="NBA.TV.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/nba-tv-ca.png" group-title="Canada 🇨🇦" tvg-status="unstable",NBA TV Canada
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29374.ts

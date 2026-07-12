@@ -21,8 +21,6 @@ https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-id="zenith" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png?v=1773360618" group-title="Aria Web Channels 📺" tvg-status="stable",zén!th
 https://live.azenagroup.com/zenith/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn271.picsart.com/2a5ca8bb-c621-4c2f-8731-960d6794f83f/511979701017201.png?to=crop&type=webp&r=540x540&q=85" group-title="Aria Web Channels 📺" tvg-status="stable",Valuto Cinema 4K (Only available in high-end supported device)
-http://199.245.173.253:5004/auto/v3.12
 #EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic80s.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic 80s

@@ -35,7 +35,7 @@ http://86.202.245.66:9981/stream/channelid/2042153159?profile=pass
 http://86.202.245.66:9981/stream/channelid/1073344969?profile=pass
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/w9-fr.png" group-title="France 🇫🇷" tvg-status="not-working",W9
 http://86.202.245.66:9981/stream/channelid/332416096?profile=pass
-#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" group-title="France 🇫🇷" tvg-status="unstable",TFX
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" group-title="France 🇫🇷" tvg-status="not-working",TFX
 http://86.202.245.66:9981/stream/channelid/1233271187?profile=pass
 #EXTINF:-1 tvg-id="TF1.Series.Films.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/TF1_S%C3%A9ries_Films.svg" group-title="France 🇫🇷" tvg-status="unstable",TF1 Séries Films
 http://86.202.245.66:9981/stream/channelid/1223321913?profile=pass
@@ -43,11 +43,11 @@ http://86.202.245.66:9981/stream/channelid/1223321913?profile=pass
 http://86.202.245.66:9981/stream/channelid/524551580?profile=pass
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/gulli-fr.png" group-title="France 🇫🇷" tvg-status="unstable",Gulli
 http://86.202.245.66:9981/stream/channelid/2010325787?profile=pass
-#EXTINF:-1 tvg-id="CSTAR.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-star-fr.png" group-title="France 🇫🇷" tvg-status="unstable",CSTAR
+#EXTINF:-1 tvg-id="CSTAR.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-star-fr.png" group-title="France 🇫🇷" tvg-status="not-working",CSTAR
 http://62.129.183.89:9981/stream/channelid/541002557?ticket=86D2F41B0DAE129E88BBE90B03A534B7E96D8C61&profile=pass
-#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png" group-title="France 🇫🇷" tvg-status="unstable",T18
+#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png" group-title="France 🇫🇷" tvg-status="not-working",T18
 http://62.129.183.89:9981/stream/channelid/1742100987?ticket=FCD9F00F9C06779195F0D53532D32064574743BD&profile=pass
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://images.bfmtv.com/Q_UDNO97UTAUkivr_A7fbW7_tWw=/0x157:720x562/720x0/images/Le-logo-de-la-chaine-de-Ouest-France-NOVO19-2066003.jpg" group-title="France 🇫🇷" tvg-status="unstable",NOVO19
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-logo="https://images.bfmtv.com/Q_UDNO97UTAUkivr_A7fbW7_tWw=/0x157:720x562/720x0/images/Le-logo-de-la-chaine-de-Ouest-France-NOVO19-2066003.jpg" group-title="France 🇫🇷" tvg-status="not-working",NOVO19
 http://62.129.183.89:9981/stream/channelid/135417969?ticket=1F39720368FA2728A7F6DE1FA7D4F104D7690AD6&profile=pass
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/6ter-fr.png" group-title="France 🇫🇷" tvg-status="not-working",6ter
 http://86.202.245.66:9981/stream/channelid/990277832?profile=pass
@@ -55,7 +55,7 @@ http://86.202.245.66:9981/stream/channelid/990277832?profile=pass
 http://176.65.146.138:8047/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-info-fr.png" group-title="France 🇫🇷" tvg-status="stable",France Info
 http://176.65.146.138:8047/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="CNEWS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-news-fr.png" group-title="France 🇫🇷" tvg-status="unstable",CNEWS
+#EXTINF:-1 tvg-id="CNEWS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-news-fr.png" group-title="France 🇫🇷" tvg-status="not-working",CNEWS
 http://62.129.183.89:9981/stream/channelid/127360986?ticket=3EB1E62B6D2A5A1D9FAFED8C8C4E37D513D2941E&profile=pass
 #EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ab1-fr.png" group-title="France 🇫🇷" tvg-status="not-working",AB1
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
@@ -63,7 +63,7 @@ https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-dash/ab3.mpd
 #EXTINF:-1 tvg-id="Chérie.25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-life-fr.png" group-title="France 🇫🇷" tvg-status="stable",RMC Life
 http://176.65.146.138:8047/play/a07b/index.m3u8
-#EXTINF:-1 tvg-id="BRM.TV.fr" tvg-logo="https://image.pitchbook.com/dWDSQSDJ8ecWy934fnow6ctIBBg1691505723976_200x200" group-title="France 🇫🇷" tvg-status="unstable",BFM TV
+#EXTINF:-1 tvg-id="BRM.TV.fr" tvg-logo="https://image.pitchbook.com/dWDSQSDJ8ecWy934fnow6ctIBBg1691505723976_200x200" group-title="France 🇫🇷" tvg-status="not-working",BFM TV
 http://62.129.183.89:9981/stream/channelid/507071864?ticket=86E99ADF197E91D5805D3A098E1BD452931F0630&profile=pass
 #EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://static.s-sfr.fr/amac/BOL/Photos/image_bfm2.png" group-title="France 🇫🇷" tvg-status="stable",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
