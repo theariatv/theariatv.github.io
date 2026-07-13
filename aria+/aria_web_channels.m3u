@@ -3,7 +3,7 @@
 https://mci01.nive.live/18/index.m3u8
 #EXTINF:-1 tvg-id="boomerangreborn" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/boomerangreborn.png" group-title="Aria Web Channels 📺" tvg-status="unstable",Boomerang Reborn
 https://twitch-m3u8.bastypro112.workers.dev/boomerangrebornalt/index.m3u8
-#EXTINF:-1 tvg-id="cnextras" tvg-logo="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png" group-title="Aria Web Channels 📺" tvg-status="unstable",Cartoon Network/Toomani Extras
+#EXTINF:-1 tvg-id="cnextras" tvg-logo="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png" group-title="Aria Web Channels 📺" tvg-status="not-working",Cartoon Network/Toomani Extras
 https://mci01.nive.live/8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.vaughnsoft.net/profile/1781875585/eel_ch.jpg" group-title="Aria Web Channels 📺" tvg-status="stable",Eel Channel
 https://mci01.nive.live/28/index.m3u8
@@ -27,7 +27,7 @@ https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-id="zenith" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png?v=1773360618" group-title="Aria Web Channels 📺" tvg-status="stable",zén!th
 https://live.azenagroup.com/zenith/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn271.picsart.com/2a5ca8bb-c621-4c2f-8731-960d6794f83f/511979701017201.png?to=crop&type=webp&r=540x540&q=85" group-title="Aria Web Channels 📺" tvg-status="not-working",Valuto Cinema 4K (Only available in high-end supported device)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn271.picsart.com/2a5ca8bb-c621-4c2f-8731-960d6794f83f/511979701017201.png?to=crop&type=webp&r=540x540&q=85" group-title="Aria Web Channels 📺" tvg-status="unstable",Valuto Cinema 4K (Only available in high-end supported device)
 http://199.245.173.253:5004/auto/v3.12
 #EXTINF:-1 tvg-id="" tvg-logo="https://webchnl.com/assets/img/channelicons/totalmusic.png" group-title="Aria Web Channels 📺" tvg-status="stable",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8

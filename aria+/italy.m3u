@@ -23,7 +23,7 @@ http://79.127.207.193/RaiGulp/playlist.m3u8
 http://91.146.94.234:10001/play/a039
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-scuola-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai Scuola
 http://79.127.207.193/RaiScuola/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai Movie
 http://91.146.94.234:10001/play/a02r
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Rai Premium
 http://91.146.94.234:10001/play/a02q
@@ -39,11 +39,11 @@ https://netplus.zappr.stream/rete4.m3u8
 http://91.146.94.234:10001/play/a08t
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",La7
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7d-it.png" group-title="Italy 🇮🇹" tvg-status="stable",LA7 Cinema (La7 D)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7d-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",LA7 Cinema (La7 D)
 http://91.146.94.234:10001/play/a03r
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Canale 5
 https://netplus.zappr.stream/canale5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png" group-title="Italy 🇮🇹" tvg-status="stable",TV8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",TV8
 http://91.146.94.234:10001/play/a03b
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/iris-it.png" group-title="Italy 🇮🇹" tvg-status="not-working",Iris
 http://91.146.94.234:10001/play/a03i

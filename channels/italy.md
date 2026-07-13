@@ -14,7 +14,7 @@
 | 10 | V/BE (Coming January 2027) | [>](http://79.127.207.193/RaiGulp/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-gulp-it.png"/> | &nbsp; | not-working |
 | 11 | Rai YoYo | [>](http://91.146.94.234:10001/play/a039) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-yoyo-it.png"/> | &nbsp; | stable |
 | 12 | Rai Scuola | [>](http://79.127.207.193/RaiScuola/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-scuola-it.png"/> | &nbsp; | not-working |
-| 13 | Rai Movie | [>](http://91.146.94.234:10001/play/a02r) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png"/> | &nbsp; | stable |
+| 13 | Rai Movie | [>](http://91.146.94.234:10001/play/a02r) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png"/> | &nbsp; | not-working |
 | 14 | Rai Premium | [>](http://91.146.94.234:10001/play/a02q) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png"/> | &nbsp; | not-working |
 | 15 | Itaila 1 | [>](https://netplus.zappr.stream/italia1.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-1-it.png.png"/> | &nbsp; | stable |
 | 16 | Cielo [X] | [>](http://77.39.161.42:55555/Cielo) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cielo-it.png"/> | &nbsp; | not-working |
@@ -22,9 +22,9 @@
 | 18 | Rete 4 | [>](https://netplus.zappr.stream/rete4.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rete4-it.png"/> | &nbsp; | stable |
 | 19 | TGCOM 24 | [>](http://91.146.94.234:10001/play/a08t) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tgcom24-it.png"/> | &nbsp; | stable |
 | 20 | La7 | [>](https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7-it.png"/> | &nbsp; | not-working |
-| 21 | LA7 Cinema (La7 D) | [>](http://91.146.94.234:10001/play/a03r) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7d-it.png"/> | &nbsp; | stable |
+| 21 | LA7 Cinema (La7 D) | [>](http://91.146.94.234:10001/play/a03r) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7d-it.png"/> | &nbsp; | not-working |
 | 22 | Canale 5 | [>](https://netplus.zappr.stream/canale5.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png"/> | &nbsp; | stable |
-| 23 | TV8 | [>](http://91.146.94.234:10001/play/a03b) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png"/> | &nbsp; | stable |
+| 23 | TV8 | [>](http://91.146.94.234:10001/play/a03b) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png"/> | &nbsp; | not-working |
 | 24 | Iris | [>](http://91.146.94.234:10001/play/a03i) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/iris-it.png"/> | &nbsp; | not-working |
 | 25 | Focus | [>](http://91.146.94.234:10001/play/a03d) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/focus-it.png"/> | &nbsp; | not-working |
 | 26 | Giallo | [>](http://91.146.94.234:10001/play/a09p) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/giallo-it.png"/> | &nbsp; | not-working |

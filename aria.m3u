@@ -177,14 +177,10 @@ https://sktv.mxnticek.eu/new/stream.php?ch=Nova
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
 #EXTINF:-1 tvg-id="NovaAction.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Nova Action
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
-#EXTINF:-1 tvg-id="NovaFun.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Nova Fun
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun
 #EXTINF:-1 tvg-id="NovaGold.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Nova Gold
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
 #EXTINF:-1 tvg-id="NovaLady.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Nova Lady
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",TN Live
-https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live
 #EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",Prima
 https://sktv.mxnticek.eu/new/stream.php?ch=Prima
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" group-title="Czechia 🇨🇿" tvg-status="stable",CNN Prima News
@@ -455,8 +451,6 @@ http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2331/index.m3u8
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-yoyo-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai YoYo
 http://91.146.94.234:10001/play/a039
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai Movie
-http://91.146.94.234:10001/play/a02r
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-1-it.png.png" group-title="Italy 🇮🇹" tvg-status="stable",Itaila 1
 https://netplus.zappr.stream/italia1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-2-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Italia 2
@@ -465,12 +459,8 @@ http://91.146.94.234:10001/play/a03n
 https://netplus.zappr.stream/rete4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tgcom24-it.png" group-title="Italy 🇮🇹" tvg-status="stable",TGCOM 24
 http://91.146.94.234:10001/play/a08t
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7d-it.png" group-title="Italy 🇮🇹" tvg-status="stable",LA7 Cinema (La7 D)
-http://91.146.94.234:10001/play/a03r
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Canale 5
 https://netplus.zappr.stream/canale5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png" group-title="Italy 🇮🇹" tvg-status="stable",TV8
-http://91.146.94.234:10001/play/a03b
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dmax-it.png" group-title="Italy 🇮🇹" tvg-status="stable",DMAX [X]
 https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png" group-title="Latin America 🌎" tvg-status="stable",A&E
@@ -479,8 +469,6 @@ http://181.78.4.250:8098/play/a07f/index.m3u8
 http://181.78.4.250:8098/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/axn-mx.png" group-title="Latin America 🌎" tvg-status="stable",AXN
 http://181.78.4.250:8098/play/a08p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Latin America 🌎" tvg-status="stable",Cinemax
-http://181.78.4.250:8098/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tnt-novelas-br.png" group-title="Latin America 🌎" tvg-status="stable",TNT Novelas
 http://181.78.4.250:8098/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tlc-us.png" group-title="Latin America 🌎" tvg-status="stable",TLC
@@ -729,22 +717,12 @@ http://217.209.209.118:9998/stream/channelid/382506213?ticket=15AB1AC26176AB908C
 http://217.209.209.118:9998/stream/channelid/400193140?ticket=40BDEEE3F328B495245E5281EB7CDF426F11ADE0&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/kanal-5-se.png" group-title="Sweden 🇸🇪" tvg-status="stable",Kanal 5
 http://217.209.209.118:9998/stream/channelid/318586973?ticket=3E01392AB3D216F689AC6CF38C25D2D5E9504794&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv6-se.png" group-title="Sweden 🇸🇪" tvg-status="stable",TV6
-http://217.209.209.118:9998/stream/channelid/486862516?ticket=4F5B4E8F72199338AC192E8D93DE2B677338D5FF&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/sjuan-se.png" group-title="Sweden 🇸🇪" tvg-status="stable",Sjuan
 http://217.209.209.118:9998/stream/channelid/1139914988?ticket=A6EFB559A39204229CBF8EF2645EED6EAA971ECE&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv8-se.png" group-title="Sweden 🇸🇪" tvg-status="stable",TV8
 http://217.209.209.118:9998/stream/channelid/1650619950?ticket=FC31E99F5E24EDD106B94C45F8C3DB9EE7F9F46F&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/kanal-5-se.png" group-title="Sweden 🇸🇪" tvg-status="stable",Kanal 9
-http://217.209.209.118:9998/stream/channelid/301309186?ticket=153332E20BCEA67E786D39CF63C3E15E85A4A02E&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/kanal-11-se.png" group-title="Sweden 🇸🇪" tvg-status="stable",Kanal 11
-http://217.209.209.118:9998/stream/channelid/343199324?ticket=2C5952C58FFFE8E602FF84CE13BAC45F50B849ED&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv12-se.png" group-title="Sweden 🇸🇪" tvg-status="stable",TV 12
-http://217.209.209.118:9998/stream/channelid/739415006?ticket=8E029D80F394F413DC9A70B24DE2D1D489123557&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/SVT24_logotyp.png" group-title="Sweden 🇸🇪" tvg-status="stable",SVT 24/SVT Barn
 http://217.209.209.118:9998/stream/channelid/117376066?ticket=69BE7D199361A7329690478B02199723358A21FC&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/kubskapskanalen-se.png" group-title="Sweden 🇸🇪" tvg-status="stable",Kunskapskanalen
-http://217.209.209.118:9998/stream/channelid/251031746?ticket=7EC745BC579C42862E4A7260D88A98ACCE17E6D5&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Thailand 🇹🇭" tvg-status="stable",Boom
 https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="This Is Aria" tvg-status="stable",Aria (Promo)

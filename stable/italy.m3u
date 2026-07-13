@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-yoyo-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai YoYo
 http://91.146.94.234:10001/play/a039
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Rai Movie
-http://91.146.94.234:10001/play/a02r
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-1-it.png.png" group-title="Italy 🇮🇹" tvg-status="stable",Itaila 1
 https://netplus.zappr.stream/italia1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/italia-2-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Italia 2
@@ -11,11 +9,7 @@ http://91.146.94.234:10001/play/a03n
 https://netplus.zappr.stream/rete4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tgcom24-it.png" group-title="Italy 🇮🇹" tvg-status="stable",TGCOM 24
 http://91.146.94.234:10001/play/a08t
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la7d-it.png" group-title="Italy 🇮🇹" tvg-status="stable",LA7 Cinema (La7 D)
-http://91.146.94.234:10001/play/a03r
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/canale5-it.png" group-title="Italy 🇮🇹" tvg-status="stable",Canale 5
 https://netplus.zappr.stream/canale5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png" group-title="Italy 🇮🇹" tvg-status="stable",TV8
-http://91.146.94.234:10001/play/a03b
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dmax-it.png" group-title="Italy 🇮🇹" tvg-status="stable",DMAX [X]
 https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd

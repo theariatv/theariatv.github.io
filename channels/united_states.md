@@ -3,7 +3,7 @@
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | CBS (KDKA) | [>](http://98.111.243.7:5004/auto/v2.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | not-working |
-| 2 | NBC (WPXI) | [>](http://98.111.243.7:5004/auto/v11.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | not-working |
+| 2 | NBC (WPXI) | [>](http://98.111.243.7:5004/auto/v11.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | unstable |
 | 3 | ABC (WSVN 7.2) | [>](http://104.12.67.120:9981/stream/channelid/718850180?ticket=27C93D1C96D92D9E0120CDD249B7FB9993D73402&profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | stable |
 | 4 | FOX (WSVN) | [>](http://104.12.67.120:9981/stream/channelid/1934217021?ticket=FF7E486BC7E8A184FC157ABD2205823B22CB1519&profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | stable |
 | 5 | The CW (TBA) | [>](http://68.65.124.50:5004/auto/v56.2) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | unstable |
@@ -28,7 +28,7 @@
 | 24 | Adult Swim (5PM-6AM ONLY) | [>](https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png"/> | &nbsp; | stable |
 | 25 | Adult Swim West (8PM-9AM ONLY) | [>](https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png"/> | &nbsp; | stable |
 | 26 | CNN | [>](https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png"/> | &nbsp; | unstable |
-| 27 | AMC | [>](http://41.205.93.154/AMC/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png"/> | &nbsp; | unstable |
+| 27 | AMC | [>](http://41.205.93.154/AMC/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png"/> | &nbsp; | not-working |
 | 28 | USA Network | [>](https://tvpass.org/live/USANetworkEast/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png"/> | &nbsp; | not-working |
 | 29 | BET | [>](http://212.102.60.231/BET/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"/> | &nbsp; | not-working |
 | 30 | BET Her | [>](http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/49221.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png"/> | &nbsp; | unstable |
@@ -138,11 +138,11 @@
 | 134 | QVC2 | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729"/> | QVC2.us | stable |
 | 135 | Discovery Familia | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png"/> | &nbsp; | stable |
 | 136 | MeTV+ | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://www.metv.com/images/MeTV_Plus_Color.png"/> | &nbsp; | stable |
-| 137 | Rewind TV | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_black_withtagline.png"/> | &nbsp; | not-working |
-| 138 | Heartland  | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png"/> | &nbsp; | not-working |
+| 137 | Rewind TV | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_black_withtagline.png"/> | &nbsp; | stable |
+| 138 | Heartland | [>](http://206.212.244.63/111/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png"/> | &nbsp; | stable |
 | 139 | CBS (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v4.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | unstable |
-| 140 | NBC (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v9.4) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | unstable |
+| 140 | NBC (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v9.4) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | not-working |
 | 141 | ABC (Mountain Feed) | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | unstable |
-| 142 | FOX (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v27.1) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | unstable |
+| 142 | FOX (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v27.1) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | not-working |
 | 143 | The CW (Mountain Feed) | [>](http://38.175.167.27:5004/auto/v2.1) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | unstable |
-| 135 | Game Show Central | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Game_Show_Central.svg/250px-Game_Show_Central.svg.png"/> | &nbsp; | stable |
+| 144 | Game Show Central | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Game_Show_Central.svg/250px-Game_Show_Central.svg.png"/> | &nbsp; | stable |
