@@ -29,7 +29,7 @@
 | 25 | Focus | [>](http://91.146.94.234:10001/play/a03d) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/focus-it.png"/> | &nbsp; | unstable |
 | 26 | Giallo | [>](http://91.146.94.234:10001/play/a09p) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/giallo-it.png"/> | &nbsp; | unstable |
 | 27 | 27Twentyseven | [>](http://91.146.94.234:10001/play/a08u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/twenty-seven-it.png"/> | &nbsp; | unstable |
-| 28 | Cine34 | [>](http://91.146.94.234:10001/play/a04o) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cine34-it.png"/> | &nbsp; | unstable |
+| 28 | Cine34 | [>](http://91.146.94.234:10001/play/a04o) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cine34-it.png"/> | &nbsp; | not-working |
 | 29 | La 5 | [>](http://91.146.94.234:10001/play/a03k) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/la-5-it.png"/> | &nbsp; | unstable |
 | 30 | Nove | [>](http://91.146.94.234:10001/play/a09q) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/nove-it.png"/> | &nbsp; | unstable |
 | 31 | DMAX [X] | [>](https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dmax-it.png"/> | &nbsp; | stable |

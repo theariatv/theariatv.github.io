@@ -45,9 +45,9 @@
 | 41 | ČT 2 | [>](http://tvh.cyn.cz/stream/channelid/196862385?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1200px-%C4%8CT2_logo_2012.svg.png"/> | ČT2.cz | stable |
 | 42 | ČT Art (20-04h CET) | [>](http://tvh.cyn.cz/stream/channelid/1759467266?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/%C4%8CT_art.svg/250px-%C4%8CT_art.svg.png"/> | ČT.art.cz | stable |
 | 43 | ČT 24 | [>](http://tvh.cyn.cz/stream/channelid/1020391357?profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/1200px-%C4%8CT24_logo.png"/> | ČT24.cz | stable |
-| 44 | TV Prima | [>](http://90.178.86.156:9981/stream/channelid/1669214446?ticket=BDA09228D9A1E3C5444CB168C684A21C7FE37A29&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prima_2013.svg/250px-Prima_2013.svg.png"/> | Prima.cz | unstable |
+| 44 | TV Prima | [>](http://90.178.86.156:9981/stream/channelid/1669214446?ticket=BDA09228D9A1E3C5444CB168C684A21C7FE37A29&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prima_2013.svg/250px-Prima_2013.svg.png"/> | Prima.cz | not-working |
 | 45 | Prima SHOW | [>](http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass) | Prima SHOW | Prima.Show.cz | unstable |
-| 46 | OCKO | [>](http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass) | OCKO | Óčko.cz | unstable |
+| 46 | OCKO | [>](http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass) | OCKO | Óčko.cz | not-working |
 | 47 | OCKO STAR | [>](http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass) | OCKO STAR | Óčko.STAR.cz | unstable |
 | 48 | TV Barrandov | [>](http://90.178.86.156:9981/stream/channelid/1149773228?ticket=56A407B3D9D49568B131C27B70C4B903FD070FE5&profile=pass) | TV Barrandov | TV.Barrandov.cz | not-working |
 | 49 | Barrandov KRIMI | [>](http://90.178.86.156:9981/stream/channelid/63674077?ticket=3DD9B00FA8EDFD57654A69FCCB425D310F46D234&profile=pass) | Barrandov KRIMI | Barrandov.Krimi.cz | not-working |
