@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="Azerbaijan 🇦🇿" tvg-status="not-working",ATV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="Azerbaijan 🇦🇿" tvg-status="not-working",Xezer TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="Azerbaijan 🇦🇿" tvg-status="unstable",Xezer TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Azerbaijan 🇦🇿" tvg-status="not-working",Show Plus
 https://glb.bozztv.com/glb/ssh101/showplus/index.m3u8

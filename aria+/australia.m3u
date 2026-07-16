@@ -11,11 +11,11 @@ https://c.mjh.nz/abc-tv-plus.m3u8
 https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png" group-title="Australia 🇦🇺" tvg-status="not-working",SBS
 http://44.32.200.142:5004/auto/v30
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/SBS2-.jpg?ssl=1" group-title="Australia 🇦🇺" tvg-status="unstable",SBS2 (Launches August 21st)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/SBS2-.jpg?ssl=1" group-title="Australia 🇦🇺" tvg-status="not-working",SBS2 (Launches August 21st)
 http://44.32.200.142:5004/auto/v31
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png" group-title="Australia 🇦🇺" tvg-status="unstable",SBS World Watch
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png" group-title="Australia 🇦🇺" tvg-status="not-working",SBS World Watch
 http://44.32.200.142:5004/auto/v35
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movie-au.png" group-title="Australia 🇦🇺" tvg-status="not-working",SBS World Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movie-au.png" group-title="Australia 🇦🇺" tvg-status="unstable",SBS World Movie
 http://44.32.200.142:5004/auto/v32
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-food-au.png" group-title="Australia 🇦🇺" tvg-status="not-working",SBS Food
 http://44.32.200.142:5004/auto/v33
@@ -27,15 +27,15 @@ http://44.32.200.142:5004/auto/v10
 http://44.32.200.142:5004/auto/v12
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/10_Comedy.svg/revision/latest?cb=20250629224211" group-title="Australia 🇦🇺" tvg-status="not-working",10 Comedy
 http://44.32.200.142:5004/auto/v11
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png" group-title="Australia 🇦🇺" tvg-status="not-working",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png" group-title="Australia 🇦🇺" tvg-status="unstable",Nickelodeon
 http://44.32.200.142:5004/auto/v13
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/you-tv-au.png" group-title="Australia 🇦🇺" tvg-status="not-working",You TV
 http://44.32.200.212:5004/auto/v16
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/gecko-tv-au.png" group-title="Australia 🇦🇺" tvg-status="not-working",Gecko
 http://44.32.200.212:5004/auto/v17
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Seven_%282003%29.svg/revision/latest?cb=20210502163741" group-title="Australia 🇦🇺" tvg-status="unstable",7 Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Seven_%282003%29.svg/revision/latest?cb=20210502163741" group-title="Australia 🇦🇺" tvg-status="not-working",7 Network
 http://44.32.200.142:5004/auto/v70
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516" group-title="Australia 🇦🇺" tvg-status="not-working",7two
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516" group-title="Australia 🇦🇺" tvg-status="unstable",7two
 http://44.32.200.142:5004/auto/v72
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/7mate_2020.svg/revision/latest?cb=20200710160634" group-title="Australia 🇦🇺" tvg-status="not-working",7mate
 http://44.32.200.142:5004/auto/v74
@@ -53,7 +53,7 @@ http://44.32.200.142:5004/auto/v9
 http://44.32.200.142:5004/auto/v93
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/9Gem_2017.svg/revision/latest?cb=20191126203640" group-title="Australia 🇦🇺" tvg-status="not-working",9Gem
 http://44.32.200.142:5004/auto/v92
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/9Life_2015-flat.svg/revision/latest?cb=20191126203559" group-title="Australia 🇦🇺" tvg-status="not-working",9Life
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/9Life_2015-flat.svg/revision/latest?cb=20191126203559" group-title="Australia 🇦🇺" tvg-status="unstable",9Life
 http://44.32.200.142:5004/auto/v94
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2020/08/9RUSH_2D_LOGO_DESERT_RGB.png" group-title="Australia 🇦🇺" tvg-status="not-working",9Rush
 http://44.32.200.142:5004/auto/v96

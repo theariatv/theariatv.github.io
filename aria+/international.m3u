@@ -59,7 +59,7 @@ http://181.78.4.250:8098/play/a03n/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/29/Rai_World_Premium_%282017-.n.v.%29.png/revision/latest?cb=20170627122650" group-title="International 🌍" tvg-status="not-working",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://telepez.github.io/imagenes/RT.webp" group-title="International 🌍" tvg-status="stable",RT
+#EXTINF:-1 tvg-id="" tvg-logo="https://telepez.github.io/imagenes/RT.webp" group-title="International 🌍" tvg-status="not-working",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Star-TVE-logo-300x169.png/revision/latest?cb=20150911200636" group-title="International 🌍" tvg-status="stable",Star TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
