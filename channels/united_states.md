@@ -6,8 +6,8 @@
 | 2 | NBC (WPXI) | [>](http://98.111.243.7:5004/auto/v11.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | not-working |
 | 3 | ABC (WSVN 7.2) | [>](http://104.12.67.120:9981/stream/channelid/718850180?ticket=27C93D1C96D92D9E0120CDD249B7FB9993D73402&profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | stable |
 | 4 | FOX (WSVN) | [>](http://104.12.67.120:9981/stream/channelid/1934217021?ticket=FF7E486BC7E8A184FC157ABD2205823B22CB1519&profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | stable |
-| 5 | The CW (TBA) | [>](http://68.65.124.50:5004/auto/v56.2) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | unstable |
-| 6 | MyNetworkTV (TBA) | [>](http://68.65.124.50:5004/auto/v56.3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png"/> | &nbsp; | unstable |
+| 5 | The CW (TBA) | [>](http://68.65.124.50:5004/auto/v56.2) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | not-working |
+| 6 | MyNetworkTV (TBA) | [>](http://68.65.124.50:5004/auto/v56.3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png"/> | &nbsp; | not-working |
 | 7 | MeTV | [>](https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png"/> | &nbsp; | unstable |
 | 8 | Univision | [>](http://104.12.67.120:9981/stream/channelid/1407252827?ticket=E943CDE17C58AA0318ABED5CF8A619F62CA806C2&profile=pass) | <img height="20" src="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp"/> | &nbsp; | stable |
 | 9 | Telemundo | [>](http://104.12.67.120:9981/stream/channelid/648549071?ticket=B4BFBE69C9C1D9B9FB627B0BF47FEA97FD648615&profile=pass) | <img height="20" src="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png"/> | &nbsp; | stable |
@@ -29,7 +29,7 @@
 | 25 | Adult Swim West (8PM-9AM ONLY) | [>](https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png"/> | &nbsp; | stable |
 | 26 | CNN | [>](https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png"/> | &nbsp; | unstable |
 | 27 | AMC | [>](http://41.205.93.154/AMC/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png"/> | &nbsp; | unstable |
-| 28 | USA Network | [>](http://40.160.24.55/USA_NETWORK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png"/> | &nbsp; | not-working |
+| 28 | USA Network | [>](http://40.160.24.55/USA_NETWORK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png"/> | &nbsp; | unstable |
 | 29 | BET | [>](http://212.102.60.231/BET/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"/> | &nbsp; | not-working |
 | 30 | BET Her | [>](http://40.160.24.52/BET_HER/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png"/> | &nbsp; | unstable |
 | 31 | Cleo TV | [>](http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/105644.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cleo-tv-us.png"/> | &nbsp; | unstable |
@@ -45,7 +45,7 @@
 | 41 | FXX | [>](http://23.237.104.106:8080/USA_FXX/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png"/> | &nbsp; | unstable |
 | 42 | Bravo | [>](http://41.205.93.154/BRAVO/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png"/> | &nbsp; | unstable |
 | 43 | E! | [>](http://23.237.104.106:8080/USA_E/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e!-us.png"/> | &nbsp; | unstable |
-| 44 | TLC | [>](http://40.160.24.55/TLC/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png"/> | &nbsp; | not-working |
+| 44 | TLC | [>](http://40.160.24.55/TLC/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png"/> | &nbsp; | unstable |
 | 45 | Paramount Network | [>](http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png"/> | &nbsp; | unstable |
 | 46 | Hallmark Channel | [>](http://23.237.104.106:8080/USA_HALLMARK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png"/> | &nbsp; | unstable |
 | 47 | Hallmark Mystery | [>](http://lunar.pm:8080/live/2055676975/MAAvrCmWZ8FZ/9182.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-mystery-us.png"/> | &nbsp; | unstable |
@@ -53,7 +53,7 @@
 | 49 | Lifetime | [>](http://41.205.93.154/LIFETIME/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png"/> | &nbsp; | unstable |
 | 50 | Lifetime Movie Network | [>](http://23.237.104.106:8080/USA_LMN/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movie-network-us.png"/> | &nbsp; | unstable |
 | 51 | MTV | [>](http://23.237.104.106:8080/USA_MTV/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png"/> | &nbsp; | unstable |
-| 52 | MTV2 | [>](http://40.160.24.53/MTV2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png"/> | &nbsp; | not-working |
+| 52 | MTV2 | [>](http://40.160.24.53/MTV2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png"/> | &nbsp; | unstable |
 | 53 | VH1 | [>](http://23.237.104.106:8080/USA_VH1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png"/> | &nbsp; | unstable |
 | 54 | Comedy Central | [>](http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png"/> | &nbsp; | unstable |
 | 55 | SYFY | [>](http://23.237.104.106:8080/USA_SYFY/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png"/> | &nbsp; | unstable |
@@ -88,7 +88,7 @@
 | 84 | MeTV Toons | [>](http://108.14.66.42:5004/auto/v43.4) | <img height="20" src="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/metv_toons_bw.png"/> | &nbsp; | not-working |
 | 85 | PBS Kids (Eastern Feed) | [>](https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"/> | &nbsp; | stable |
 | 86 | PBS Kids (Hawaii Feed) | [>](https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"/> | &nbsp; | stable |
-| 87 | Fox News Channel | [>](http://206.212.244.63/67/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png"/> | &nbsp; | not-working |
+| 87 | Fox News Channel | [>](http://206.212.244.63/67/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png"/> | &nbsp; | unstable |
 | 88 | MS NOW | [>](https://tvpass.org/live/MSNBC/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnow-us.png"/> | &nbsp; | not-working |
 | 89 | Newsmax | [>](https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-us.png"/> | &nbsp; | unstable |
 | 90 | Newsmax 2 | [>](https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png"/> | &nbsp; | unstable |
@@ -148,6 +148,4 @@
 | 144 | Game Show Central | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Game_Show_Central.svg/250px-Game_Show_Central.svg.png"/> | &nbsp; | stable |
 | 145 | MTV Live | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg"/> | &nbsp; | stable |
 | 146 | MTV Classics | [>](http://200.115.120.1:8000/play/ca053) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg"/> | &nbsp; | stable |
-| 146 | CBS Sports Network | [>](http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8) | <img height="20" src="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg"/> | &nbsp; | stable |
-
-
+| 147 | CBS Sports Network | [>](http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8) | <img height="20" src="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg"/> | &nbsp; | stable |

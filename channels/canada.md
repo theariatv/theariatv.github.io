@@ -41,7 +41,7 @@
 | 37 | Daystar | [>](http://kstv.us:8080/live/Felix12/3330312491/40729.ts) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/4d/Daystar_2008_flat.svg/revision/latest/scale-to-width-down/300?cb=20230715194009"/> | &nbsp; | unstable |
 | 38 | Deja View | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29407.ts) | <img height="20" src="https://media.starlite.best/deja.view.ca.png"/> | deja.view.ca | unstable |
 | 39 | Discovery Channel | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59398.ts) | <img height="20" src="https://media.starlite.best/discovery.channel.ca.png"/> | Discovery.Channel.ca | unstable |
-| 40 | Disney Channel | [>](http://kstv.us:8080/live/Felix12/3330312491/40725.ts) | <img height="20" src="https://pbs.twimg.com/media/GbUhOuOXIAA898B.jpg"/> | Disney.Channel.Canada.-.East.ca | unstable |
+| 40 | Disney Channel | [>](http://kstv.us:8080/live/Felix12/3330312491/40725.ts) | <img height="20" src="https://pbs.twimg.com/media/GbUhOuOXIAA898B.jpg"/> | Disney.Channel.Canada.-.East.ca | not-working |
 | 41 | Documentary (Leaves on August 31) | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29401.ts) | <img height="20" src="https://media.starlite.best/documentary.channel.canada.ca.png"/> | Documentary.Channel.(Canada).ca | unstable |
 | 42 | DTOUR | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44267.ts) | <img height="20" src="https://media.starlite.best/dtour.ca.png"/> | dtour.ca | unstable |
 | 43 | E! | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29284.ts) | <img height="20" src="https://media.starlite.best/e.canada.ca.png"/> | E!.Canada.ca | unstable |
@@ -50,7 +50,7 @@
 | 46 | FAITH TV | [>](http://theariatv.github.io/channeldead.mp4) | FAITH TV | &nbsp; | unstable |
 | 47 | Fight Network | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29398.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png"/> | Fight.Network.ca | unstable |
 | 48 | Flavour Network | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59397.ts) | <img height="20" src="https://i.ibb.co/Fb8t9Gh9/Flavour-Network-logo-svg.png"/> | Flavour.Network.Canada.ca | unstable |
-| 49 | Food Network | [>](http://kstv.us:8080/live/Felix12/3330312491/40710.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png"/> | Food.Network.ca | unstable |
+| 49 | Food Network | [>](http://kstv.us:8080/live/Felix12/3330312491/40710.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png"/> | Food.Network.ca | not-working |
 | 50 | FX | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49003.ts) | <img height="20" src="https://media.starlite.best/fx.networks.ca.png"/> | FX.Networks.Canada.ca | unstable |
 | 51 | FX West | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://media.starlite.best/fx.networks.ca.png"/> | FX.Networks.Canada.ca | unstable |
 | 52 | FXX | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19572.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png"/> | FXX.Canada.ca | unstable |
@@ -100,7 +100,7 @@
 | 96 | Slice | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44220.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png"/> | slice.ca | unstable |
 | 97 | Smithsonian Channel | [>](http://kstv.us:8080/live/Felix12/3330312491/40621.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/smithsonian-channel-ca.png"/> | Smithsonian.Channel.ca | unstable |
 | 98 | Sportsman Channel | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49013.ts) | <img height="20" src="https://www.sportsmancanada.ca/wp-content/uploads/2019/01/sportsman-canada-logo-01.png"/> | sportsman.channel.ca | unstable |
-| 99 | Sportsnet 360 | [>](http://kstv.us:8080/live/Felix12/3330312491/40618.ts) | <img height="20" src="https://media.starlite.best/sportsnet.360.ca.png"/> | sportsnet.360.ca | unstable |
+| 99 | Sportsnet 360 | [>](http://kstv.us:8080/live/Felix12/3330312491/40618.ts) | <img height="20" src="https://media.starlite.best/sportsnet.360.ca.png"/> | sportsnet.360.ca | not-working |
 | 100 | Sportsnet East | [>](http://kstv.us:8080/live/Felix12/3330312491/40617.ts) | <img height="20" src="https://media.starlite.best/sportsnet.east.ca.png"/> | Sportsnet.(East).-.Satellite/Digital.ca | unstable |
 | 101 | Sportsnet One | [>](http://kstv.us:8080/live/Felix12/3330312491/40616.ts) | <img height="20" src="https://media.starlite.best/sportsnet.one.ca.png"/> | sportsnet.one.ca | unstable |
 | 102 | Sportsnet Ontario | [>](http://kstv.us:8080/live/Felix12/3330312491/40615.ts) | <img height="20" src="https://media.starlite.best/sportsnet.ontario.ca.png"/> | Sportsnet.(Ontario).ca | unstable |

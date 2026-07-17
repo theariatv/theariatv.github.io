@@ -12,7 +12,7 @@
 | 8 | JOJ Plus | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Plus) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-plus-sk.png"/> | JOJPlus.sk | stable |
 | 9 | Wau | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Wau) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-wau-sk.png"/> | JOJWau.sk | stable |
 | 10 | JOJ 24 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-24-sk.png"/> | JOJ24.sk | stable |
-| 11 | JOJ Šport | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20%C5%A0port) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sport-sk.png"/> | JOJSport.sk | unstable |
+| 11 | JOJ Šport | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20%C5%A0port) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sport-sk.png"/> | JOJSport.sk | not-working |
 | 12 | Jojko | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Jojko) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jojko-sk.png"/> | Jojko.sk | stable |
 | 13 | Jednotka | [>](http://95.143.230.238:9981/stream/channelid/483981572?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jednotka-sk.png"/> | STV1.sk | not-working |
 | 14 | Dvojka | [>](http://95.143.230.238:9981/stream/channelid/1547474412?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/dvojka-sk.png"/> | STV2.sk | not-working |
