@@ -15,8 +15,8 @@ http://116.90.120.149:8000/play/a0c7/index.m3u8
 http://116.90.120.149:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/1200px-Zee_TV_2025.svg.png" group-title="India 🇮🇳" tvg-status="not-working",Zee TV
 http://filex.tv:8080/live/raizostreams/TFPFBKbmUL/275034.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png" group-title="India 🇮🇳" tvg-status="not-working",Sony Entertainment Television (SET)
-http://filex.tv:8080/live/raizostreams/TFPFBKbmUL/275035.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png" group-title="India 🇮🇳" tvg-status="stable",Sony Entertainment Television (SET)
+http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="India 🇮🇳" tvg-status="not-working",Sony Sab
 http://filex.tv:8080/live/raizostreams/TFPFBKbmUL/275044.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="India 🇮🇳" tvg-status="not-working",Star Plus

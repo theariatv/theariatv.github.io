@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png" group-title="India 🇮🇳" tvg-status="stable",Sony Entertainment Television (SET)
+http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Colors Bangla
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Colors Cineplex Bollywood
