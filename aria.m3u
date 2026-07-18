@@ -303,6 +303,34 @@ http://38.127.211.18/live/c2eds/GLCAhWeTV/HLS/GLCAhWeTV.m3u8
 http://38.127.211.18/live/c2eds/GLCDiscover/HLS/GLCDiscover.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",GLC EleVate
 http://live.dreamtv.gy/live/c2eds/GLCEleVate/HLS/GLCEleVate.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m2-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",M2 / M2 Petőfi HD
+http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-gold-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",RTL Gold
+https://dash2.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Prime HD
+http://88.212.15.19/live/prime/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/jocky-tv-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Jocky TV
+http://88.212.15.19/live/jocky/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Izaura TV
+http://88.212.15.19/live/izaura/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-kids-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",TV2 Kids
+http://88.212.15.19/live/tv2_kids/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",TV2 Comedy
+http://88.212.15.19/live/tv2_comedy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spiler-1-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Spíler 1 HD
+http://88.212.15.19/live/spiler1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spiler-2-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Spíler 2 HD
+http://88.212.15.19/live/spiler2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/filmbox-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",FILMBOX+ one HD
+http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/axn-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",AXN HD
+ http://88.212.15.19/live/axn_hun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/minimax-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Minimax
+http://88.212.15.19/live/minimax_hun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" group-title="Hungary 🇭🇺" tvg-status="stable",FILMBOX+ Emotion
+http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="Hungary 🇭🇺" tvg-status="stable",FILMBOX+ Comedy
+http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png" group-title="India 🇮🇳" tvg-status="stable",Sony Entertainment Television (SET)
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Colors Bangla
