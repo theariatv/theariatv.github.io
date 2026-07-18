@@ -311,8 +311,6 @@ http://40.160.24.52/ESPN_U/index.m3u8
 http://40.160.24.52/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Fox Soccer Plus
 http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Fox Soccer Plus
-http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-drive-in-us.png" group-title="United States 🇺🇸" tvg-status="unstable",MGM+ Drive In
 http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png" group-title="United States 🇺🇸" tvg-status="unstable",MGM+
