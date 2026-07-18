@@ -317,6 +317,8 @@ https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickSD/JCHLS/index.m3u8
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="stable",Nickelodeon HD+
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_Rishtey_logo.png" group-title="India 🇮🇳" tvg-status="stable",Colors Rishtey
+http://103.172.29.30:9991/stream/channelid/1367268710?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/1920px-TRT_World.svg.png" group-title="International 🌍" tvg-status="stable",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SkyNewsWeatherChannelAU.svg/1200px-SkyNewsWeatherChannelAU.svg.png" group-title="International 🌍" tvg-status="stable",Sky News Weather

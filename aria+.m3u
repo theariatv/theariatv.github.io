@@ -1619,6 +1619,8 @@ http://103.182.170.32:8888/play/a02r
 http://103.182.170.32:8888/play/a01w
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="India 🇮🇳" tvg-status="not-working",Zee Classic
 http://103.182.170.32:8888/play/a054
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_Rishtey_logo.png" group-title="India 🇮🇳" tvg-status="stable",Colors Rishtey
+http://103.172.29.30:9991/stream/channelid/1367268710?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="24HorasInternacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/250px-Logo_Canal_24_horas.svg.png" group-title="International 🌍" tvg-status="not-working",24 Horas Internacional
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/960px-KBS_World_%282009%29.svg.png" group-title="International 🌍" tvg-status="not-working",KBS World
