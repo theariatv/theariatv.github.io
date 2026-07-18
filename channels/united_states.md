@@ -158,10 +158,9 @@
 | 153 | ESPN U | [>](http://40.160.24.52/ESPN_U/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png"/> | &nbsp; | unstable |
 | 154 | ESPN News | [>](http://40.160.24.52/ESPN_U/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-news-us.png"/> | &nbsp; | unstable |
 | 155 | Fox Soccer Plus | [>](http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png"/> | &nbsp; | unstable |
-| 156 | Fox Soccer Plus | [>](http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png"/> | &nbsp; | unstable |
-| 157 | MGM+ Drive In | [>](http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-drive-in-us.png"/> | &nbsp; | unstable |
-| 158 | MGM+ | [>](http://40.160.24.52/EPIX/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png"/> | &nbsp; | unstable |
-| 159 | MGM+ Hits | [>](http://40.160.24.52/EPIX_2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-hits-us.png"/> | &nbsp; | unstable |
-| 160 | Sundance | [>](http://40.160.24.52/SUNDANCE/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-us.png"/> | &nbsp; | unstable |
+| 156 | MGM+ Drive In | [>](http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-drive-in-us.png"/> | &nbsp; | unstable |
+| 157 | MGM+ | [>](http://40.160.24.52/EPIX/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png"/> | &nbsp; | unstable |
+| 158 | MGM+ Hits | [>](http://40.160.24.52/EPIX_2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-hits-us.png"/> | &nbsp; | unstable |
+| 159 | Sundance | [>](http://40.160.24.52/SUNDANCE/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-us.png"/> | &nbsp; | unstable |
 
 
