@@ -10,7 +10,7 @@
 | 6 | Discovery Kids | [>](http://116.90.120.149:8000/play/a0c7/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/215px-Discovery_Kids_Logo_%282021%29.webp.png"/> | &nbsp; | not-working |
 | 7 | DD National | [>](http://116.90.120.149:8000/play/a02a/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DD_National_2025_logo.png/250px-DD_National_2025_logo.png"/> | &nbsp; | not-working |
 | 8 | Zee TV | [>](http://filex.tv:8080/live/raizostreams/TFPFBKbmUL/275034.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/1200px-Zee_TV_2025.svg.png"/> | &nbsp; | not-working |
-| 9 | Sony Entertainment Television (SET) | [>](http://filex.tv:8080/live/raizostreams/TFPFBKbmUL/275035.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png"/> | &nbsp; | not-working |
+| 9 | Sony Entertainment Television (SET) | [>](http://38.96.178.205/SONYHD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png"/> | &nbsp; | stable |
 | 10 | Sony Sab | [>](http://filex.tv:8080/live/raizostreams/TFPFBKbmUL/275044.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png"/> | &nbsp; | not-working |
 | 11 | Star Plus | [>](http://filex.tv:8080/live/raizostreams/TFPFBKbmUL/275037.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"/> | &nbsp; | not-working |
 | 12 | &flix | [>](http://103.182.170.32:8888/play/a02a) | &flix | &nbsp; | not-working |
