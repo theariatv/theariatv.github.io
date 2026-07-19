@@ -49,4 +49,3 @@
 | 45 | Zee Cafe | [>](http://103.182.170.32:8888/play/a01w) | Zee Cafe | &nbsp; | not-working |
 | 46 | Zee Classic | [>](http://103.182.170.32:8888/play/a054) | Zee Classic | &nbsp; | not-working |
 | 47 | Colors Rishtey | [>](http://103.172.29.30:9991/stream/channelid/1367268710?profile=webtv-vp8-vorbis-webm) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_Rishtey_logo.png"/> | &nbsp; | stable |
-

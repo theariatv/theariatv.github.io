@@ -23,7 +23,7 @@
 | 19 | minikaGO | [>](http://212.252.72.103:7070/play/a01b) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/minika-go-tr.png"/> | &nbsp; | not-working |
 | 20 | minikaCOCUK | [>](http://212.252.72.103:7070/play/a03n) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/minika-cocuk-tr.png"/> | &nbsp; | not-working |
 | 21 | Teve2 | [>](http://212.252.72.103:7070/play/a013) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/teve-2-tr.png"/> | &nbsp; | not-working |
-| 22 | CNBC-e | [>](https://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png"/> | &nbsp; | stable |
+| 22 | CNBC-e | [>](https://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png"/> | &nbsp; | not-working |
 | 23 | TRT Arabi | [>](https://tv-trtarabi.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-arabi-tr.png"/> | &nbsp; | stable |
 | 24 | TRT Avaz | [>](https://tv-trtavaz.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png"/> | &nbsp; | stable |
 | 25 | TRT Kurdi | [>](https://tv-trtkurdi.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-kurdi-tr.png"/> | &nbsp; | stable |

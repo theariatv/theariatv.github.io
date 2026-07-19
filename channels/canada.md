@@ -12,12 +12,12 @@
 | 8 | BNN Bloomberg | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29436.ts) | <img height="20" src="https://media.starlite.best/bnn.bloomberg.ca.png"/> | bnn.bloomberg.ca | unstable |
 | 9 | Boomerang | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44270.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png"/> | Boomerang.Canada.ca | unstable |
 | 10 | Cartoon Network | [>](http://kstv.us:8080/live/Felix12/3330312491/40586.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png"/> | Cartoon.Network.Canada.-.East.ca | unstable |
-| 11 | CBC Toronto (CBLT) | [>](http://204.15.194.229:5004/auto/v5.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-toronto-ca.png"/> | CBC.(CBLT).Toronto.ON.ca | stable |
+| 11 | CBC Toronto (CBLT) | [>](http://204.15.194.229:5004/auto/v5.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-toronto-ca.png"/> | CBC.(CBLT).Toronto.ON.ca | not-working |
 | 12 | CBC News Network | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44286.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-news-network-ca.png"/> | CBC.News.Network.ca | unstable |
 | 13 | CHCH (CHCH-DT) | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20974.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/chch-ca.png"/> | CHCH.Hamilton.ON.ca | unstable |
 | 14 | NTV (CJON-DT) | [>](http://skynetdigital.us/live/Mdprime/XWDJKHMQBG/445317.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ntv-ca.png"/> | &nbsp; | not-working |
 | 15 | CHEK (CHEK-DT) | [>](http://103.176.90.186:80/live/f956994304/de7dd50f24/812561.ts) | <img height="20" src="https://harbourcats.com/wp-content/uploads/2017/06/CHEK_logo_2022.svg_.png"/> | CHEK.Victoria.BC.ca | not-working |
-| 16 | CityTV Toronto | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Toronto.ON.ca | unstable |
+| 16 | CityTV Toronto | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Toronto.ON.ca | not-working |
 | 17 | CityTV Montreal | [>](http://103.176.90.186:80/live/f956994304/de7dd50f24/627007.ts) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Toronto.ON.ca | not-working |
 | 18 | CityTV Vancouver | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29322.ts) | <img height="20" src="https://media.starlite.best/city.toronto.on.ca.png"/> | CITY.Vancouver.ON.ca | unstable |
 | 19 | CMT | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44281.ts) | <img height="20" src="https://media.starlite.best/cmt.canada.ca.png"/> | CMT.Canada.ca | unstable |
@@ -45,22 +45,22 @@
 | 41 | Documentary (Leaves on August 31) | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29401.ts) | <img height="20" src="https://media.starlite.best/documentary.channel.canada.ca.png"/> | Documentary.Channel.(Canada).ca | unstable |
 | 42 | DTOUR | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44267.ts) | <img height="20" src="https://media.starlite.best/dtour.ca.png"/> | dtour.ca | unstable |
 | 43 | E! | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29284.ts) | <img height="20" src="https://media.starlite.best/e.canada.ca.png"/> | E!.Canada.ca | unstable |
-| 44 | Fairchild TV 1 | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://i.ibb.co/j1mXv3z/schedule-logo1.png"/> | Fairchild.TV.ca | unstable |
-| 45 | Fairchild TV 2 | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://i.ibb.co/pByRhL7N/eWfNXvf.png"/> | Fairchild.TV.2.ca | unstable |
-| 46 | FAITH TV | [>](http://theariatv.github.io/channeldead.mp4) | FAITH TV | &nbsp; | unstable |
+| 44 | Fairchild TV 1 | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://i.ibb.co/j1mXv3z/schedule-logo1.png"/> | Fairchild.TV.ca | not-working |
+| 45 | Fairchild TV 2 | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://i.ibb.co/pByRhL7N/eWfNXvf.png"/> | Fairchild.TV.2.ca | not-working |
+| 46 | FAITH TV | [>](http://theariatv.github.io/channeldead.mp4) | FAITH TV | &nbsp; | not-working |
 | 47 | Fight Network | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29398.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png"/> | Fight.Network.ca | unstable |
 | 48 | Flavour Network | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59397.ts) | <img height="20" src="https://i.ibb.co/Fb8t9Gh9/Flavour-Network-logo-svg.png"/> | Flavour.Network.Canada.ca | unstable |
 | 49 | Food Network | [>](http://kstv.us:8080/live/Felix12/3330312491/40710.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png"/> | Food.Network.ca | unstable |
 | 50 | FX | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49003.ts) | <img height="20" src="https://media.starlite.best/fx.networks.ca.png"/> | FX.Networks.Canada.ca | unstable |
-| 51 | FX West | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://media.starlite.best/fx.networks.ca.png"/> | FX.Networks.Canada.ca | unstable |
+| 51 | FX West | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://media.starlite.best/fx.networks.ca.png"/> | FX.Networks.Canada.ca | not-working |
 | 52 | FXX | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/19572.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png"/> | FXX.Canada.ca | unstable |
-| 53 | FXX West | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://media.starlite.best/fxx.canada.ca.png"/> | FXX.Networks.Canada.ca | unstable |
-| 54 | Fox Sports Racing | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/fox-sports-racing-ca.png"/> | Fox.Sports.Racing.ca | unstable |
+| 53 | FXX West | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://media.starlite.best/fxx.canada.ca.png"/> | FXX.Networks.Canada.ca | not-working |
+| 54 | Fox Sports Racing | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/fox-sports-racing-ca.png"/> | Fox.Sports.Racing.ca | not-working |
 | 55 | Game TV | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29249.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/game-tv-ca.png"/> | Game.TV.ca | unstable |
 | 56 | Game+ | [>](http://user.scalecdn.co:8080/live/26725074/92867131/3081.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/game-plus-ca.png"/> | Game.Plus.ca | unstable |
-| 57 | Global Toronto (CIII-DT) | [>](http://204.15.194.229:5004/auto/v41.1) | <img height="20" src="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png"/> | Global.(CIII-DT-41).Toronto.ca | stable |
+| 57 | Global Toronto (CIII-DT) | [>](http://204.15.194.229:5004/auto/v41.1) | <img height="20" src="https://assets.vms.corusappservices.com/upload/staging/Global-Toronto_GuideLogo_240x144.png"/> | Global.(CIII-DT-41).Toronto.ca | not-working |
 | 58 | Global Edmonton (CITV-DT) | [>](http://103.176.90.186:80/live/f956994304/de7dd50f24/709013.ts) | <img height="20" src="https://assets.vms.corusappservices.com/upload/staging/Global-Edmonton_GuideLogo_240x144.png"/> | Global.(CIII-DT-41).Toronto.ca | not-working |
-| 59 | Global BC (CHAN-DT) | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png"/> | global.bc.ca | unstable |
+| 59 | Global BC (CHAN-DT) | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://assets.vms.corusappservices.com/upload/staging/Global-BC_GuideLogo_240x144.png"/> | global.bc.ca | not-working |
 | 60 | Global Calgary (CHAN-DT) | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/40836.ts) | <img height="20" src="https://assets.vms.corusappservices.com/upload/staging/Global-Calgary_GuideLogo_240x144.png"/> | global.calgary.ca | unstable |
 | 61 | Global Maritimes (CIHF-DT) | [>](http://103.176.90.186:80/live/f956994304/de7dd50f24/943895.ts) | <img height="20" src="https://assets.vms.corusappservices.com/upload/staging/Global-Maritimes_GuideLogo_240x144.png"/> | Global.Halifax.(CIHF).ca | not-working |
 | 62 | Global News BC1 | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21223.ts) | <img height="20" src="https://globalnews.ca/wp-content/uploads/2015/01/BC1-pos-hor.png?w=320"/> | Global.News.BC1.ca | unstable |
@@ -71,7 +71,7 @@
 | 67 | History 2 | [>](http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112783.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg"/> | History.2.Canada.ca | unstable |
 | 68 | HGTV | [>](http://kstv.us:8080/live/Purn3542/38791114838/40695.ts) | <img height="20" src="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png"/> | HGTV.CA.ca | unstable |
 | 69 | Investigation Discovery | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29382.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/investigation-discovery-us.png"/> | Investigation.Discovery.ca | unstable |
-| 70 | JoyTV | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Joytvlogo.svg/1200px-Joytvlogo.svg.png"/> | &nbsp; | unstable |
+| 70 | JoyTV | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Joytvlogo.svg/1200px-Joytvlogo.svg.png"/> | &nbsp; | not-working |
 | 71 | Knowledge Network | [>](https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/knowledge-network-ca.png"/> | Knowledge.Network.ca | stable |
 | 72 | Lifetime | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/21200.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/lifetime-us.png"/> | Lifetime.TV.-.Canada.ca | unstable |
 | 73 | Love Nature | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/34892.ts) | <img height="20" src="https://media.starlite.best/love.nature.ca.png"/> | love.nature.ca | unstable |
@@ -93,8 +93,8 @@
 | 89 | One TV | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29280.ts) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s26777_h15_ac.png"/> | ONE.TV.ca | unstable |
 | 90 | OUTtv | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29368.ts) | <img height="20" src="https://play-lh.googleusercontent.com/jsVXFQfgTUMbNvWmk3Ccy4eVFSysQMI0vTEiTzgbLddzIGnPfsFLJ6OK29BRwGYhaPw"/> | outtv.ca | unstable |
 | 91 | Oxygen True Crimes | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59399.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png"/> | Oxygen.True.Crime.ca | unstable |
-| 92 | Rev TV | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s106713_h15_ab.png"/> | REV.TV.HDTV.(Canada).(REVHD).ca | unstable |
-| 93 | Rewind TV | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Rewind_CA.svg/revision/latest?cb=20220218191050"/> | Rewind.ca | unstable |
+| 92 | Rev TV | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s106713_h15_ab.png"/> | REV.TV.HDTV.(Canada).(REVHD).ca | not-working |
+| 93 | Rewind TV | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Rewind_CA.svg/revision/latest?cb=20220218191050"/> | Rewind.ca | not-working |
 | 94 | Showcase | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44221.ts) | <img height="20" src="https://media.starlite.best/showcase.canada.ca.png"/> | Showcase.Canada.ca | unstable |
 | 95 | Silver Screen Classic | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29315.ts) | <img height="20" src="https://media.starlite.best/silver.screen.classics.ca.png"/> | Silver.Screen.Classics.ca | unstable |
 | 96 | Slice | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44220.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png"/> | slice.ca | unstable |
@@ -111,7 +111,7 @@
 | 107 | Super Channel Fuse | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29350.ts) | <img height="20" src="https://media.starlite.best/super.channel.fuse.ca.png"/> | super.channel.fuse.ca | unstable |
 | 108 | Super Channel Heart & Home | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29349.ts) | <img height="20" src="https://media.starlite.best/super.channel.heart.home.ca.png"/> | Super.Channel.Heart.and.Home.ca | unstable |
 | 109 | Super Channel Vault | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29314.ts) | <img height="20" src="https://media.starlite.best/super.channel.vault.ca.png"/> | super.channel.vault.ca | unstable |
-| 110 | Super Channel Quest | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://broadcastdialogue.com/wp-content/uploads/2024/09/super-channel-quest.png"/> | super.channel.quest.ca | unstable |
+| 110 | Super Channel Quest | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://broadcastdialogue.com/wp-content/uploads/2024/09/super-channel-quest.png"/> | super.channel.quest.ca | not-working |
 | 111 | T+E | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48965.ts) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/5e/T%2BE_2018.svg/revision/latest?cb=20230828130826"/> | T+E.ca | unstable |
 | 112 | TeleBimbi | [>](http://tr.redatvgold.com/play/live.php?mac=00:1A:79:76:27:B6&stream=1423377&extension=ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/3/39/TeleBimbi.png"/> | Telebimbi.ca | not-working |
 | 113 | TeleNiños | [>](https://m3ufilter.media4u.top/live/media4u/media4u/2957.ts) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/TeleNi%C3%B1os_Logo.png"/> | Teleninos.ca | not-working |
@@ -125,16 +125,16 @@
 | 121 | TSN 4 | [>](http://kstv.us:8080/live/Felix12/3330312491/40648.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png"/> | TSN4.ca | unstable |
 | 122 | TSN 5 | [>](http://kstv.us:8080/live/Felix12/3330312491/40647.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png"/> | TSN5.ca | unstable |
 | 123 | TVO | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29297.ts) | <img height="20" src="https://i.ibb.co/cXNyTPHW/TVOntario-2022.png"/> | TVO.Toronto.ON.ca | unstable |
-| 124 | Univision Canada | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/b/bc/UC-LOGO-90px.png/revision/latest?cb=20231213194918"/> | &nbsp; | unstable |
+| 124 | Univision Canada | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/b/bc/UC-LOGO-90px.png/revision/latest?cb=20231213194918"/> | &nbsp; | not-working |
 | 125 | USA Network | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29245.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png"/> | USA.Network.(CAN).ca | unstable |
 | 126 | Vision TV | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44198.ts) | <img height="20" src="https://media.starlite.best/vision.tv.ca.png"/> | Vision.TV.Eastern.ca | unstable |
 | 127 | W Network | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44197.ts) | <img height="20" src="https://i.ibb.co/QFD0ZH55/Eg8fa2a0-200x200.png"/> | W.(WTN).-.East.ca | unstable |
-| 128 | W Network West | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://i.ibb.co/QFD0ZH55/Eg8fa2a0-200x200.png"/> | W.(WTN).-.West.ca | unstable |
+| 128 | W Network West | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://i.ibb.co/QFD0ZH55/Eg8fa2a0-200x200.png"/> | W.(WTN).-.West.ca | not-working |
 | 129 | The Weather Network | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29293.ts) | <img height="20" src="https://www.cclmportal.ca/sites/default/files/images/2023-07/the_weather_network_the_weather_network_s_summer_2020_forecast.jpg"/> | &nbsp; | unstable |
 | 130 | Wild TV | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29304.ts) | <img height="20" src="https://media.starlite.best/wild.tv.ca.png"/> | wild.tv.ca | unstable |
 | 131 | Yes TV | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29257.ts) | <img height="20" src="https://media.starlite.best/yes.tv.ckcs.calgary.ab.ca.png"/> | Yes.TV.(CITS).Burlington.ON.ca | unstable |
 | 132 | YTV | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44194.ts) | <img height="20" src="https://media.starlite.best/ytv.youth.television.east.ca.png"/> | YTV.(Youth.Television).-.East.ca | unstable |
-| 133 | YTV West | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://media.starlite.best/ytv.youth.television.east.ca.png"/> | YTV.(Youth.Television).-.West.ca | unstable |
+| 133 | YTV West | [>](http://theariatv.github.io/channeldead.mp4) | <img height="20" src="https://media.starlite.best/ytv.youth.television.east.ca.png"/> | YTV.(Youth.Television).-.West.ca | not-working |
 | 134 | AMI-tele | [>](https://tvnow.best/api/stream/burns/burns/livetv.epg/ami.tl.ca.m3u8) | <img height="20" src="https://media.starlite.best/ami.tl.ca.png"/> | ami.tl.ca | not-working |
 | 135 | ADDIK | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29328.ts) | <img height="20" src="https://m1.quebecormedia.com/static-short/addiktv/addiktv_logo.png"/> | ami.tl.ca | unstable |
 | 136 | Canal D | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29323.ts) | <img height="20" src="https://media.starlite.best/canal.d.ca.png"/> | canal.d.ca | unstable |
@@ -149,7 +149,7 @@
 | 145 | ICI Artv | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29326.ts) | ICI Artv | artv.ca | unstable |
 | 146 | ICI Explora | [>](https://m3ufilter.media4u.top/live/media4u/media4u/3297.ts) | ICI Explora | explora.ca | not-working |
 | 147 | ICI RDI | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44245.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-rdi-ca.png"/> | rdi.news.ca | unstable |
-| 148 | ICI Tele | [>](http://204.15.194.229:5004/auto/v25.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-tele-ca.png"/> | ici.tele.ca | unstable |
+| 148 | ICI Tele | [>](http://204.15.194.229:5004/auto/v25.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-tele-ca.png"/> | ici.tele.ca | not-working |
 | 149 | LCN | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29319.ts) | <img height="20" src="https://media.starlite.best/lcn.ca.png"/> | lcn.ca | unstable |
 | 150 | MAX | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29282.ts) | <img height="20" src="https://media.starlite.best/max.ca.png"/> | max.ca | unstable |
 | 151 | Noovo | [>](http://174.91.200.77:9981/stream/channelid/866993111?profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png"/> | Noovo.(CFJP).Montreal.QC.ca | not-working |
@@ -177,9 +177,9 @@
 | 173 | Z | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29332.ts) | <img height="20" src="https://media.starlite.best/z.ca.png"/> | z.ca | unstable |
 | 174 | Zeste | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29255.ts) | <img height="20" src="https://media.starlite.best/zeste.ca.png"/> | zeste.ca | unstable |
 | 175 | Bravo | [>](http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/29370.ts) | <img height="20" src="https://media.starlite.best/bravo.canada.ca.png"/> | bravo.canada.ca | unstable |
-| 176 | CBC East | [>](http://204.15.194.229:5004/auto/v5.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png"/> | CBOT.HDTV.(CBOTHD).ca | stable |
+| 176 | CBC East | [>](http://204.15.194.229:5004/auto/v5.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png"/> | CBOT.HDTV.(CBOTHD).ca | not-working |
 | 177 | CBC West | [>](http://44.25.145.45:5004/auto/v2.1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ca.png"/> | CBUT.HDTV.(CBUTHD).ca | unstable |
-| 178 | CityTV | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.montreal.qc.ca.png"/> | CITY.Toronto.ON.ca | unstable |
+| 178 | CityTV | [>](http://204.15.194.229:5004/auto/v57.1) | <img height="20" src="https://media.starlite.best/city.montreal.qc.ca.png"/> | CITY.Toronto.ON.ca | not-working |
 | 179 | CityTV Vancouver (CKVU) | [>](http://44.25.145.45:5004/auto/v27.1) | <img height="20" src="https://media.starlite.best/city.montreal.qc.ca.png"/> | CITY.Toronto.ON.ca | not-working |
 | 180 | CTV News Channel | [>](http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass) | <img height="20" src="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CTV-News-Channel-Reverse-Screen-Logo-The-Lede-1.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1"/> | CTV.News.Channel.ca | not-working |
 | 181 | CTV Montreal (CFCF) | [>](http://174.91.200.77:9981/stream/channelid/678374472?profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png"/> | CTV.(CFCF).Montreal,.QC.ca | not-working |

@@ -7,7 +7,7 @@
 | 3 | M4 Sport HD | [>](http://94.21.17.223:9981/stream/channelid/1485032170?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m4-sport-hu.png"/> | &nbsp; | not-working |
 | 4 | Duna HD | [>](http://94.21.17.223:9981/stream/channelid/197427221?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png"/> | &nbsp; | not-working |
 | 5 | Duna World / M4 Sport+ HD | [>](http://94.21.17.223:9981/stream/channelid/1804581133?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png"/> | &nbsp; | not-working |
-| 6 | M5 HD | [>](http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m5-hu.png"/> | &nbsp; | not-working |
+| 6 | M5 HD | [>](http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m5-hu.png"/> | &nbsp; | unstable |
 | 7 | RTL HU HD | [>](http://94.21.17.223:9981/stream/channelid/1268791284?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-hu.png"/> | &nbsp; | not-working |
 | 8 | RTL KETTŐ HD | [>](http://94.21.17.223:9981/stream/channelid/1573183651?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-ketto-hu.png"/> | &nbsp; | not-working |
 | 9 | RTL HÁROM HD | [>](http://94.21.17.223:9981/stream/channelid/1395685967?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-harom-hu.png"/> | &nbsp; | not-working |
@@ -46,10 +46,9 @@
 | 42 | Travel Channel HD | [>](http://94.21.17.223:9981/stream/channelid/885087382?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/travel-channel-uk.png"/> | &nbsp; | not-working |
 | 43 | Viasat2 | [>](http://94.21.17.223:9981/stream/channelid/1677321721?profile=pass) | Viasat2 | &nbsp; | not-working |
 | 44 | Viasat Film | [>](http://94.21.17.223:9981/stream/channelid/1215676509?profile=pass) | Viasat Film | &nbsp; | not-working |
-| 45 | AXN HD | [>]( http://88.212.15.19/live/axn_hun/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/axn-hu.png"/> | &nbsp; | stable |
+| 45 | AXN HD | [>](http://88.212.15.19/live/axn_hun/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/axn-hu.png"/> | &nbsp; | stable |
 | 46 | Minimax | [>](http://88.212.15.19/live/minimax_hun/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/minimax-hu.png"/> | &nbsp; | stable |
 | 47 | Magyar Mozi TV | [>](http://94.21.17.223:9981/stream/channelid/698141438?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/magyar-mozi-tv-hu.png"/> | &nbsp; | not-working |
 | 48 | Film Mánia HD | [>](http://94.21.17.223:9981/stream/channelid/822371791?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/film-mania-ro.png"/> | &nbsp; | not-working |
 | 49 | FILMBOX+ Emotion | [>](http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8) | <img height="20" src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png"/> | &nbsp; | stable |
 | 50 | FILMBOX+ Comedy | [>](http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8) | <img height="20" src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png"/> | &nbsp; | stable |
-

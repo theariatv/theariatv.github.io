@@ -2,9 +2,9 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | 2x2_english | [>](https://mci01.nive.live/18/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/75/2x2_logo_2021.svg"/> | 2x2 | unstable |
+| 1 | 2x2_english | [>](https://mci01.nive.live/18/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/75/2x2_logo_2021.svg"/> | 2x2 | not-working |
 | 2 | Boomerang Reborn | [>](https://twitch-m3u8.bastypro112.workers.dev/boomerangrebornalt/index.m3u8) | <img height="20" src="https://file.garden/aVld1TSOlQ1xao-b/boomerangreborn.png"/> | boomerangreborn | unstable |
-| 3 | Cartoon Network/Toomani Extras | [>](https://mci01.nive.live/8/index.m3u8) | <img height="20" src="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png"/> | cnextras | not-working |
+| 3 | Cartoon Network/Toomani Extras | [>](https://mci01.nive.live/8/index.m3u8) | <img height="20" src="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png"/> | cnextras | unstable |
 | 4 | Eel Channel | [>](https://mci01.nive.live/28/index.m3u8) | <img height="20" src="https://cdn.vaughnsoft.net/profile/1781875585/eel_ch.jpg"/> | &nbsp; | stable |
 | 5 | Toon Disney | [>](https://mci01.nive.live/29/index.m3u8) | <img height="20" src="https://static.wikitide.net/indietvwiki/thumb/a/a1/TD_AGAIN.png/800px-TD_AGAIN.png"/> | &nbsp; | stable |
 | 6 | Placid | [>](https://toy.vcdn.fyi/placid/index.m3u8) | <img height="20" src="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg"/> | &nbsp; | stable |
