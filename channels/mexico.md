@@ -26,7 +26,7 @@
 | 22 | Fórmula Noticias | [>](http://38.59.135.250:8001/play/a0be/index.m3u8) | <img height="20" src="https://scontent.fyto1-2.fna.fbcdn.net/v/t39.30808-1/500411854_1554950685566620_8141146614423377567_n.jpg?stp=dst-jpg_tt6&cstp=mx2047x2047&ctp=s200x200&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=8ykyg3ofoc4Q7kNvwEjqd9x&_nc_oc=AdrH9kuIerruSajt_fHu_bAYHXBzoAUV-9xwzo7ZTkgXQfj9i39jTG9Ggf2mqKjh-uWwrkb9p0gcLqWghVPx6ksv&_nc_zt=24&_nc_ht=scontent.fyto1-2.fna&_nc_gid=wnVT4VbMRrvFc2mbNbSjHQ&_nc_ss=7b289&oh=00_AQCKxmYetcKzqHE_5pb09UkCVUbIhjDe21wx_aaC77-azw&oe=6A6307B2"/> | &nbsp; | stable |
 | 23 | TUDN | [>](http://38.59.135.250:8001/play/a0le/index.m3u8) | <img height="20" src="https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png"/> | &nbsp; | stable |
 | 24 | Video Rola | [>](http://38.59.135.250:8001/play/a0b5/index.m3u8) | <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZLiB75EyF1WW_TTZZUNmTMvR-rt9Yeb4_9SYnZEAH9A&s=10"/> | &nbsp; | stable |
-| 24 | Hola TV | [>](http://38.59.135.250:8001/play/a0db/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/tvfanon6528/images/b/b3/Hola%21_TV_%282013-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20180625185455"/> | &nbsp; | stable |
+| 25 | Hola TV | [>](http://38.59.135.250:8001/play/a0db/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/tvfanon6528/images/b/b3/Hola%21_TV_%282013-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20180625185455"/> | &nbsp; | stable |
 
 
 
