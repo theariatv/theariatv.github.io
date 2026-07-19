@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 2
+http://149.100.11.252:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 3
+http://149.100.11.252:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 4
+http://149.100.11.252:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 5
+http://149.100.11.252:8000/play/a026/index.m3u8
