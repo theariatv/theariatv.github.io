@@ -88,7 +88,7 @@ http://94.21.17.223:9981/stream/channelid/1677321721?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hungary 🇭🇺" tvg-status="not-working",Viasat Film
 http://94.21.17.223:9981/stream/channelid/1215676509?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/axn-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",AXN HD
- http://88.212.15.19/live/axn_hun/index.m3u8
+http://88.212.15.19/live/axn_hun/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/minimax-hu.png" group-title="Hungary 🇭🇺" tvg-status="stable",Minimax
 http://88.212.15.19/live/minimax_hun/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/magyar-mozi-tv-hu.png" group-title="Hungary 🇭🇺" tvg-status="not-working",Magyar Mozi TV
