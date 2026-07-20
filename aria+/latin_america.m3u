@@ -25,7 +25,7 @@ http://177.93.46.178:8001/play/a038/index.m3u8
 http://181.78.4.250:8098/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="Latin America 🌎" tvg-status="not-working",HBO
 http://181.78.4.250:8098/play/a08w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/220px-TCM_Latam_logo.svg.png" group-title="Latin America 🌎" tvg-status="not-working",TCM
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/220px-TCM_Latam_logo.svg.png" group-title="Latin America 🌎" tvg-status="unstable",TCM
 http://162.207.11.109:9981/stream/channelid/2007678241?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="Latin America 🌎" tvg-status="stable",History
 https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
@@ -105,9 +105,9 @@ http://181.78.4.250:8098/play/a08h/index.m3u8
 http://181.78.4.250:8098/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="Latin America 🌎" tvg-status="not-working",Nick Jr.
 http://181.78.4.250:8098/play/a08y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Latin America 🌎" tvg-status="not-working",TeenNick
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Latin America 🌎" tvg-status="unstable",TeenNick
 http://162.207.11.109:9981/stream/channelid/1159717502?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tooncast-br.png" group-title="Latin America 🌎" tvg-status="not-working",Tooncast
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tooncast-br.png" group-title="Latin America 🌎" tvg-status="unstable",Tooncast
 http://162.207.11.109:9981/stream/channelid/146144282?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg.png" group-title="Latin America 🌎" tvg-status="not-working",Disney Channel
 http://181.78.201.70:8000/play/a0up/index.m3u8

@@ -27,6 +27,3 @@
 | 23 | TUDN | [>](http://38.59.135.250:8001/play/a0le/index.m3u8) | <img height="20" src="https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png"/> | &nbsp; | stable |
 | 24 | Video Rola | [>](http://38.59.135.250:8001/play/a0b5/index.m3u8) | <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZLiB75EyF1WW_TTZZUNmTMvR-rt9Yeb4_9SYnZEAH9A&s=10"/> | &nbsp; | stable |
 | 25 | Hola TV | [>](http://38.59.135.250:8001/play/a0db/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/tvfanon6528/images/b/b3/Hola%21_TV_%282013-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20180625185455"/> | &nbsp; | stable |
-
-
-
