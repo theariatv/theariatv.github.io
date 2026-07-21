@@ -2,16 +2,25 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | ERT 1 | [>](http://193.92.205.210:666/stream/channelid/995341409?ticket=5B223EE0AEED416785F454C4CB195162F022E00B&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png"/> | &nbsp; | not-working |
-| 2 | ERT 2 Sport | [>](http://193.92.205.210:666/stream/channelid/1499176004?ticket=3CEE47EB35A03AC38B040489F41A614327A4E5E3&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png"/> | &nbsp; | not-working |
-| 3 | ERT 3 | [>](http://193.92.205.210:666/stream/channelid/1916392614?ticket=983AE885A07F7959E4645AA7E7A30883FAC4C048&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png"/> | &nbsp; | not-working |
-| 4 | ERT News | [>](http://193.92.205.210:666/stream/channelid/1138069875?ticket=C211F18468E6A4A472715B15EC81DF1669D1A66E&profile=pass) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/55/ERT_News_%282022%29.svg/revision/latest/scale-to-width-down/284?cb=20230818083854"/> | &nbsp; | not-working |
+| 1 | ERT 1 | [>](http://185.102.171.218/Ert1HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png"/> | &nbsp; | not-working |
+| 2 | ERT 2 Sport | [>](http://185.102.171.218/Ert21HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png"/> | &nbsp; | not-working |
+| 3 | ERT 3 | [>](http://185.102.171.218/Ert3HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png"/> | &nbsp; | not-working |
+| 4 | ERT News | [>](http://185.102.171.218/ErtNews/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/55/ERT_News_%282022%29.svg/revision/latest/scale-to-width-down/284?cb=20230818083854"/> | &nbsp; | not-working |
 | 5 | ANT1 | [>](http://193.92.205.210:666/stream/channelid/1798735192?ticket=B0E589720454D7A886243B52EE9B585997FAC6EC&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg"/> | &nbsp; | not-working |
 | 6 | Alpha | [>](http://193.92.205.210:666/stream/channelid/316270598?ticket=4EAFCB6CC543B46244367B2AF5D1F70BD8E64CB8&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png"/> | &nbsp; | not-working |
 | 7 | MAD | [>](http://193.92.205.210:666/stream/channelid/713260648?ticket=BCFE397CA2C57FDE9D15132028BBACF5C74DD066&profile=pass) | <img height="20" src="https://yt3.googleusercontent.com/LcDClj6BUrJu9GJLXYaibB9-2Dvl_lEDCx9g8nHyPQVeg-Yc82B9RwXbn388xCkXoFAxi5EcOA=s900-c-k-c0x00ffffff-no-rj"/> | &nbsp; | not-working |
 | 8 | Makedonia TV | [>](http://193.92.205.210:666/stream/channelid/1494631013?ticket=20C28E1E02AF6180CB1585886C359B3B0EB2B48E&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Makedonia_TV_2023.svg/1200px-Makedonia_TV_2023.svg.png"/> | &nbsp; | not-working |
 | 9 | Skai TV | [>](http://193.92.205.210:666/stream/channelid/991752849?ticket=784DD68DB7A77EFE467FFD867EF540E4AFF2B553&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skai_TV_logo.svg/1200px-Skai_TV_logo.svg.png"/> | &nbsp; | not-working |
 | 10 | MEGA | [>](http://193.92.205.210:666/stream/channelid/127572322?ticket=DF0DF71DE53B0CEA811D5277F60703C4BB7A80C0&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mega_channel_logo.svg/2560px-Mega_channel_logo.svg.png"/> | &nbsp; | not-working |
-| 11 | Star | [>](http://193.92.205.210:666/stream/channelid/1724988607?ticket=F0A4C6CBC94A83ACB060E01D2D6C67D13419D827&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg"/> | &nbsp; | not-working |
+| 11 | Star | [>](http://185.102.171.218/StarHD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg"/> | &nbsp; | not-working |
 | 12 | OPEN Beyond | [>](http://193.92.205.210:666/stream/channelid/2093067483?ticket=6A2C592AA031EABF9B5D2EB17874AAD15B94691B&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png"/> | &nbsp; | not-working |
-| 13 | Nickelodeon | [>](http://193.92.205.210:666/stream/channelid/332003718?ticket=5A96C45C5BD1FCCFF6A32BC17251B02524EB6183&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png"/> | &nbsp; | not-working |
+| 13 | Keedo | [>](http://185.102.171.218/Nickelodeon/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Keedoo.svg"/> | &nbsp; | not-working |
+| 14 | Disney Channel | [>](http://185.102.171.218/DisneyChannel/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1280px-2022_Disney_Channel_logo.svg.png"/> | &nbsp; | not-working |
+| 15 | FX | [>](http://185.102.171.218/FOX/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/250px-FX_Logo_2023.svg.png"/> | &nbsp; | not-working |
+| 16 | Disney Jr. | [>](http://185.102.171.218/DisneyJunior/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/2024_Disney_Jr._Logo_Second_Version.svg"/> | &nbsp; | not-working |
+| 17 | Cartoonito | [>](http://185.102.171.218/DisneyJunior/index.m3u8) | <img height="20" src="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo.png"/> | &nbsp; | not-working |
+| 18 | Smile | [>](http://185.102.171.218/DisneyJunior/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png"/> | &nbsp; | not-working |
+
+
+
+
