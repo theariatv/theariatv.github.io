@@ -12,5 +12,5 @@
 | 8 | Sofia | [>](http://line.furious-pro.cc/live/07A960/15F07A/106607.ts) | <img height="20" src="https://albaniandubs.weebly.com/uploads/5/7/8/2/57825701/sofia-albanian-dubs_orig.png"/> | &nbsp; | unstable |
 | 9 | Vizion Plus | [>](https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/vizion-plus-al.png"/> | &nbsp; | stable |
 | 10 | News 24 | [>](https://tv.balkanweb.com/news24/livestream/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/news24-al.png"/> | &nbsp; | stable |
-| 11 | A2 CNN | [>](https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/a2-cnn-al.png"/> | &nbsp; | not-working |
+| 11 | A2 CNN | [>](https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/a2-cnn-al.png"/> | &nbsp; | unstable |
 | 12 | Ora News | [>](https://live1.mediadesk.al/oranews.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/ora-news-al.png"/> | &nbsp; | unstable |

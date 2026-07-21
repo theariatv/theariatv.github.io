@@ -55,19 +55,19 @@ https://a1xs.vip/210006
 https://a1xs.vip/210007
 #EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://pixvid.org/images/2025/02/10/sky-cinema-comedy.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Sky Cinema Comedy
 https://a1xs.vip/210005
-#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoon-network-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoon-network-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Cartoon Network
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162233&extension=ts
-#EXTINF:-1 tvg-id="Boomerang.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Boomerang
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=717690&extension=ts
-#EXTINF:-1 tvg-id="Cartoonito.uk tvg-logo=" tvg-logo="tvg-logo=" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.uk tvg-logo=" tvg-logo="tvg-logo=" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Cartoonito
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162238&extension=ts
-#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nickelodeon-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nickelodeon-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Nickelodeon
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162232&extension=ts
-#EXTINF:-1 tvg-id="Nickelodeon.+1.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nickelodeon-plus-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Nickelodeon +1 UK
+#EXTINF:-1 tvg-id="Nickelodeon.+1.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nickelodeon-plus-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Nickelodeon +1 UK
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162236&extension=ts
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Nicktoons/NickAlvinnn/NickSpongeBob
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Nicktoons/NickAlvinnn/NickSpongeBob
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162241&extension=ts
-#EXTINF:-1 tvg-id="NickJr.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-jr-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Nick Jr.
+#EXTINF:-1 tvg-id="NickJr.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-jr-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Nick Jr.
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:E6:15:73&stream=162242&extension=ts
 #EXTINF:-1 tvg-id="DisneyJr.uk (src01)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/disney-jr-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="unstable",Disney Jr.
 http://benchoda.xyz:8880/live/andylilly/102369/4527693.ts

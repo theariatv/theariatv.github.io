@@ -9,10 +9,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="Argentina 🇦🇷" tvg-status="stable",GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.vaughnsoft.net/profile/1781875585/eel_ch.jpg" group-title="Aria Web Channels 📺" tvg-status="stable",Eel Channel
-https://mci01.nive.live/28/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/a/a1/TD_AGAIN.png/800px-TD_AGAIN.png" group-title="Aria Web Channels 📺" tvg-status="stable",Toon Disney
-https://mci01.nive.live/29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg" group-title="Aria Web Channels 📺" tvg-status="stable",Placid
 https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.mistweather.com/api/v1.5/image/a5dacfb2-b663-40f8-a959-9cf03326f28c?width=96&height=96&fit=inside" group-title="Aria Web Channels 📺" tvg-status="stable",Magical
@@ -797,7 +793,5 @@ http://200.115.120.1:8000/play/ca053
 http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET West
 http://40.160.24.52/BET_WEST/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-soul-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET Soul
-http://40.160.24.52/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-jams-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET Jams
 http://40.160.24.52/BET_JAMS/index.m3u8

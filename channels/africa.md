@@ -15,3 +15,7 @@
 | 11 | MBC 3 | [>](http://149.100.11.252:8000/play/a028/index.m3u8) | MBC 3 | stable | unstable |
 | 12 | MBC 4 | [>](http://149.100.11.252:8000/play/a027/index.m3u8) | MBC 4 | stable | unstable |
 | 13 | MBC 5 | [>](http://149.100.11.252:8000/play/a026/index.m3u8) | MBC 5 | stable | unstable |
+| 14 | MBC 2 | [>](http://149.100.11.252:8000/play/a02a/index.m3u8) | MBC 2 | stable | unstable |
+| 15 | MBC 3 | [>](http://149.100.11.252:8000/play/a028/index.m3u8) | MBC 3 | stable | unstable |
+| 16 | MBC 4 | [>](http://149.100.11.252:8000/play/a027/index.m3u8) | MBC 4 | stable | unstable |
+| 17 | MBC 5 | [>](http://149.100.11.252:8000/play/a026/index.m3u8) | MBC 5 | stable | unstable |

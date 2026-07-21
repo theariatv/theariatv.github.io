@@ -85,7 +85,5 @@ http://200.115.120.1:8000/play/ca053
 http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET West
 http://40.160.24.52/BET_WEST/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-soul-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET Soul
-http://40.160.24.52/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-jams-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET Jams
 http://40.160.24.52/BET_JAMS/index.m3u8

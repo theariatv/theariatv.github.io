@@ -3,11 +3,11 @@
 https://mci01.nive.live/18/index.m3u8
 #EXTINF:-1 tvg-id="boomerangreborn" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/boomerangreborn.png" group-title="Aria Web Channels 📺" tvg-status="unstable",Boomerang Reborn
 https://twitch-m3u8.bastypro112.workers.dev/boomerangrebornalt/index.m3u8
-#EXTINF:-1 tvg-id="cnextras" tvg-logo="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png" group-title="Aria Web Channels 📺" tvg-status="unstable",Cartoon Network/Toomani Extras
+#EXTINF:-1 tvg-id="cnextras" tvg-logo="https://static.wikitide.net/indietvwiki/3/33/CNExtras_Logo.png" group-title="Aria Web Channels 📺" tvg-status="not-working",Cartoon Network/Toomani Extras
 https://mci01.nive.live/8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.vaughnsoft.net/profile/1781875585/eel_ch.jpg" group-title="Aria Web Channels 📺" tvg-status="stable",Eel Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.vaughnsoft.net/profile/1781875585/eel_ch.jpg" group-title="Aria Web Channels 📺" tvg-status="not-working",Eel Channel
 https://mci01.nive.live/28/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/a/a1/TD_AGAIN.png/800px-TD_AGAIN.png" group-title="Aria Web Channels 📺" tvg-status="stable",Toon Disney
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/a/a1/TD_AGAIN.png/800px-TD_AGAIN.png" group-title="Aria Web Channels 📺" tvg-status="not-working",Toon Disney
 https://mci01.nive.live/29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg" group-title="Aria Web Channels 📺" tvg-status="stable",Placid
 https://toy.vcdn.fyi/placid/index.m3u8

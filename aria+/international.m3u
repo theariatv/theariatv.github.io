@@ -71,7 +71,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 http://185.104.253.35:9981/stream/channelid/232968588?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://telepez.github.io/imagenes/Univision.webp" group-title="International 🌍" tvg-status="not-working",Univision
 http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-312926260903.png?v=3&w=860" group-title="International 🌍" tvg-status="not-working",RTP Mundo
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-312926260903.png?v=3&w=860" group-title="International 🌍" tvg-status="unstable",RTP Mundo
 http://162.212.178.69:4242/bysid/608
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1200px-Telemundo_logo_2012.svg.png" group-title="International 🌍" tvg-status="not-working",Telemundo
 http://170.239.188.252:8000/play/a050/index.m3u8

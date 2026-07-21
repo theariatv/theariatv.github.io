@@ -4,7 +4,7 @@
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | VRT 1 | [>](http://83.85.109.250:9981/stream/channelid/624552086?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vrt-1-be.png"/> | &nbsp; | unstable |
 | 2 | VRT Canvas | [>](http://83.85.109.250:9981/stream/channelid/1344431183?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vrt-canvas-be.png"/> | &nbsp; | unstable |
-| 3 | Ketnet | [>](http://192.145.57.85:9981/stream/channelid/1372631070?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/ketnet-be.png"/> | &nbsp; | not-working |
+| 3 | Ketnet | [>](http://192.145.57.85:9981/stream/channelid/1372631070?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/ketnet-be.png"/> | &nbsp; | unstable |
 | 4 | La Une | [>](https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/la-une-be.png"/> | &nbsp; | stable |
 | 5 | La Trois | [>](http://94.140.179.76:9981/stream/channelid/1504907165?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/la-trois-be.png"/> | &nbsp; | not-working |
 | 6 | VTM | [>](https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vtm-be.png"/> | &nbsp; | not-working |
