@@ -25,6 +25,14 @@ http://149.100.11.252:8000/play/a028/index.m3u8
 http://149.100.11.252:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 5
 http://149.100.11.252:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 2
+http://149.100.11.252:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 3
+http://149.100.11.252:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 4
+http://149.100.11.252:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 5
+http://149.100.11.252:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 2
 http://149.100.11.252:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 3
@@ -1396,13 +1404,13 @@ http://178.27.12.3:9981/stream/channelid/1429480174?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nickelodeon-de.png" group-title="Germany 🇩🇪" tvg-status="unstable",Nickelodeon/Comedy Central+1
 http://178.27.12.3:9981/stream/channelid/1293845655?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",ERT 1
-http://193.92.205.210:666/stream/channelid/995341409?ticket=5B223EE0AEED416785F454C4CB195162F022E00B&profile=pass
+http://185.102.171.218/Ert1HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",ERT 2 Sport
-http://193.92.205.210:666/stream/channelid/1499176004?ticket=3CEE47EB35A03AC38B040489F41A614327A4E5E3&profile=pass
+http://185.102.171.218/Ert21HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",ERT 3
-http://193.92.205.210:666/stream/channelid/1916392614?ticket=983AE885A07F7959E4645AA7E7A30883FAC4C048&profile=pass
+http://185.102.171.218/Ert3HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/ERT_News_%282022%29.svg/revision/latest/scale-to-width-down/284?cb=20230818083854" group-title="Greece 🇬🇷" tvg-status="not-working",ERT News
-http://193.92.205.210:666/stream/channelid/1138069875?ticket=C211F18468E6A4A472715B15EC81DF1669D1A66E&profile=pass
+http://185.102.171.218/ErtNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg" group-title="Greece 🇬🇷" tvg-status="not-working",ANT1
 http://193.92.205.210:666/stream/channelid/1798735192?ticket=B0E589720454D7A886243B52EE9B585997FAC6EC&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",Alpha
@@ -1416,11 +1424,21 @@ http://193.92.205.210:666/stream/channelid/991752849?ticket=784DD68DB7A77EFE467F
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mega_channel_logo.svg/2560px-Mega_channel_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",MEGA
 http://193.92.205.210:666/stream/channelid/127572322?ticket=DF0DF71DE53B0CEA811D5277F60703C4BB7A80C0&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg" group-title="Greece 🇬🇷" tvg-status="not-working",Star
-http://193.92.205.210:666/stream/channelid/1724988607?ticket=F0A4C6CBC94A83ACB060E01D2D6C67D13419D827&profile=pass
+http://185.102.171.218/StarHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png" group-title="Greece 🇬🇷" tvg-status="not-working",OPEN Beyond
 http://193.92.205.210:666/stream/channelid/2093067483?ticket=6A2C592AA031EABF9B5D2EB17874AAD15B94691B&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",Nickelodeon
-http://193.92.205.210:666/stream/channelid/332003718?ticket=5A96C45C5BD1FCCFF6A32BC17251B02524EB6183&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Keedoo.svg" group-title="Greece 🇬🇷" tvg-status="not-working",Keedo
+http://185.102.171.218/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1280px-2022_Disney_Channel_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",Disney Channel
+http://185.102.171.218/DisneyChannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/250px-FX_Logo_2023.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",FX
+http://185.102.171.218/FOX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/2024_Disney_Jr._Logo_Second_Version.svg" group-title="Greece 🇬🇷" tvg-status="not-working",Disney Jr.
+http://185.102.171.218/DisneyJunior/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo.png" group-title="Greece 🇬🇷" tvg-status="not-working",Cartoonito
+http://185.102.171.218/DisneyJunior/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png" group-title="Greece 🇬🇷" tvg-status="not-working",Smile
+http://185.102.171.218/DisneyJunior/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",NCN
 http://live.dreamtv.gy/live/c2eds/NCN/HLS/NCN.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guyana 🇬🇾" tvg-status="stable",Guyana Learning Channel
