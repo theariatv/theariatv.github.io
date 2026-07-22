@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",ERT 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",ERT 1
 http://185.102.171.218/Ert1HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",ERT 2 Sport
 http://185.102.171.218/Ert21HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",ERT 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",ERT 3
 http://185.102.171.218/Ert3HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/ERT_News_%282022%29.svg/revision/latest/scale-to-width-down/284?cb=20230818083854" group-title="Greece 🇬🇷" tvg-status="not-working",ERT News
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/ERT_News_%282022%29.svg/revision/latest/scale-to-width-down/284?cb=20230818083854" group-title="Greece 🇬🇷" tvg-status="unstable",ERT News
 http://185.102.171.218/ErtNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg" group-title="Greece 🇬🇷" tvg-status="not-working",ANT1
 http://193.92.205.210:666/stream/channelid/1798735192?ticket=B0E589720454D7A886243B52EE9B585997FAC6EC&profile=pass
@@ -19,19 +19,19 @@ http://193.92.205.210:666/stream/channelid/1494631013?ticket=20C28E1E02AF6180CB1
 http://193.92.205.210:666/stream/channelid/991752849?ticket=784DD68DB7A77EFE467FFD867EF540E4AFF2B553&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mega_channel_logo.svg/2560px-Mega_channel_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",MEGA
 http://193.92.205.210:666/stream/channelid/127572322?ticket=DF0DF71DE53B0CEA811D5277F60703C4BB7A80C0&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg" group-title="Greece 🇬🇷" tvg-status="not-working",Star
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg" group-title="Greece 🇬🇷" tvg-status="unstable",Star
 http://185.102.171.218/StarHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png" group-title="Greece 🇬🇷" tvg-status="not-working",OPEN Beyond
 http://193.92.205.210:666/stream/channelid/2093067483?ticket=6A2C592AA031EABF9B5D2EB17874AAD15B94691B&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Keedoo.svg" group-title="Greece 🇬🇷" tvg-status="not-working",Keedo
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Keedoo.svg" group-title="Greece 🇬🇷" tvg-status="unstable",Keedo
 http://185.102.171.218/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1280px-2022_Disney_Channel_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1280px-2022_Disney_Channel_logo.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",Disney Channel
 http://185.102.171.218/DisneyChannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/250px-FX_Logo_2023.svg.png" group-title="Greece 🇬🇷" tvg-status="not-working",FX
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/250px-FX_Logo_2023.svg.png" group-title="Greece 🇬🇷" tvg-status="unstable",FX
 http://185.102.171.218/FOX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/2024_Disney_Jr._Logo_Second_Version.svg" group-title="Greece 🇬🇷" tvg-status="not-working",Disney Jr.
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/2024_Disney_Jr._Logo_Second_Version.svg" group-title="Greece 🇬🇷" tvg-status="unstable",Disney Jr.
 http://185.102.171.218/DisneyJunior/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo.png" group-title="Greece 🇬🇷" tvg-status="not-working",Cartoonito
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo.png" group-title="Greece 🇬🇷" tvg-status="unstable",Cartoonito
 http://185.102.171.218/DisneyJunior/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png" group-title="Greece 🇬🇷" tvg-status="not-working",Smile
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png" group-title="Greece 🇬🇷" tvg-status="unstable",Smile
 http://185.102.171.218/DisneyJunior/index.m3u8

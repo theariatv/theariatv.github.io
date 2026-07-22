@@ -3,8 +3,6 @@
 https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.mistweather.com/api/v1.5/image/a5dacfb2-b663-40f8-a959-9cf03326f28c?width=96&height=96&fit=inside" group-title="Aria Web Channels 📺" tvg-status="stable",Magical
 https://watch.mistweather.com/hls/magicaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikitide.net/indietvwiki/2/22/Animax_NA_logo_%282025-12-05%29-v1234.svg" group-title="Aria Web Channels 📺" tvg-status="stable",Animax_NA
-https://animax.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="C1.1.146.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="Aria Web Channels 📺" tvg-status="stable",Whiplash
 https://cdn.whiplash.cc/whiplash/index.m3u8
 #EXTINF:-1 tvg-id="C2.1.147.ersatztv.org" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png" group-title="Aria Web Channels 📺" tvg-status="stable",Whiplash 2
