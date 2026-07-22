@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ORF 1 HD+
+http://5.231.70.95/ORF1HDMax/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf-kids-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ORF Kids
 https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="ServusTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/servus-tv-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ServusTV HD+
+http://5.231.70.95/ORF1HDMax/index.m3u8
 #EXTINF:-1 tvg-id="ProSieben Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/prosieben-austria-at.png" group-title="Austria 🇦🇹" tvg-status="stable",ProSieben Austria
 http://212.95.30.186:9981/stream/channelid/719855917?profile=pass
 #EXTINF:-1 tvg-id="Kabel Eins Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/kabel-eins-austria-at.png" group-title="Austria 🇦🇹" tvg-status="stable",Kabel Eins Austria
