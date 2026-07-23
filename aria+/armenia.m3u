@@ -3,7 +3,5 @@
 http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/601/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hRQwSwnr/1000024588-removebg-preview.png" group-title="Armenia 🇦🇲" tvg-status="unstable",First Channel News
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png" group-title="Armenia 🇦🇲" tvg-status="stable",First Channel America
-https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1GhzFH2F/1000024586-removebg-preview.png" group-title="Armenia 🇦🇲" tvg-status="stable",First Channel International
-https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Shant_TV_logo.png" group-title="Armenia 🇦🇲" tvg-status="unstable",Shant TV
+http://stream.mcquack.net/37/index.m3u8
