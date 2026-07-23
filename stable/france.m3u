@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-info-fr.png" group-title="France 🇫🇷" tvg-status="stable",France Info
-http://176.65.146.138:8047/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="Chérie.25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-life-fr.png" group-title="France 🇫🇷" tvg-status="stable",RMC Life
-http://176.65.146.138:8047/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://static.s-sfr.fr/amac/BOL/Photos/image_bfm2.png" group-title="France 🇫🇷" tvg-status="stable",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8

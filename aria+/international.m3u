@@ -45,7 +45,7 @@ https://dvrfl06.bozztv.com/astv-cubavisionint/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png" group-title="International 🌍" tvg-status="not-working",France 24 Arabic
 http://185.104.253.35:9981/stream/channelid/1635083552?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg" group-title="International 🌍" tvg-status="stable",France Info
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg" group-title="International 🌍" tvg-status="not-working",France Info
 http://176.65.146.138:8047/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/HRT_International_logo.png" group-title="International 🌍" tvg-status="not-working",HRT International
 http://79.127.207.193/HRTint/playlist.m3u8

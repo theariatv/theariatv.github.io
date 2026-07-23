@@ -2,7 +2,7 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | CBS (Eastern Feed) | [>](http://98.111.243.7:5004/auto/v2.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | unstable |
+| 1 | CBS (Eastern Feed) | [>](http://98.111.243.7:5004/auto/v2.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | not-working |
 | 2 | NBC (Eastern Feed) | [>](http://98.111.243.7:5004/auto/v11.1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | not-working |
 | 3 | ABC (Eastern feed) | [>](http://104.12.67.120:9981/stream/channelid/718850180?ticket=27C93D1C96D92D9E0120CDD249B7FB9993D73402&profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | not-working |
 | 4 | FOX (Eastern Feed) | [>](http://104.12.67.120:9981/stream/channelid/1934217021?ticket=FF7E486BC7E8A184FC157ABD2205823B22CB1519&profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | not-working |

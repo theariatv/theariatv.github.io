@@ -53,7 +53,7 @@ http://62.129.183.89:9981/stream/channelid/135417969?ticket=1F39720368FA2728A7F6
 http://86.202.245.66:9981/stream/channelid/990277832?profile=pass
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/lci-fr.png" group-title="France 🇫🇷" tvg-status="not-working",LCI
 http://176.65.146.138:8047/play/a075/index.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-info-fr.png" group-title="France 🇫🇷" tvg-status="stable",France Info
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-info-fr.png" group-title="France 🇫🇷" tvg-status="not-working",France Info
 http://176.65.146.138:8047/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="CNEWS.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-news-fr.png" group-title="France 🇫🇷" tvg-status="unstable",CNEWS
 http://62.129.183.89:9981/stream/channelid/127360986?ticket=3EB1E62B6D2A5A1D9FAFED8C8C4E37D513D2941E&profile=pass
@@ -61,7 +61,7 @@ http://62.129.183.89:9981/stream/channelid/127360986?ticket=3EB1E62B6D2A5A1D9FAF
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
 #EXTINF:-1 tvg-id="AB3.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ab3-fr.png" group-title="France 🇫🇷" tvg-status="not-working",AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-dash/ab3.mpd
-#EXTINF:-1 tvg-id="Chérie.25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-life-fr.png" group-title="France 🇫🇷" tvg-status="stable",RMC Life
+#EXTINF:-1 tvg-id="Chérie.25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-life-fr.png" group-title="France 🇫🇷" tvg-status="not-working",RMC Life
 http://176.65.146.138:8047/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="BRM.TV.fr" tvg-logo="https://image.pitchbook.com/dWDSQSDJ8ecWy934fnow6ctIBBg1691505723976_200x200" group-title="France 🇫🇷" tvg-status="unstable",BFM TV
 http://62.129.183.89:9981/stream/channelid/507071864?ticket=86E99ADF197E91D5805D3A098E1BD452931F0630&profile=pass

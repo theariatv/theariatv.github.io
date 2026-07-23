@@ -63,7 +63,7 @@ http://91.146.94.234:10001/play/a09q
 https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png" group-title="Italy 🇮🇹" tvg-status="not-working",Discovery Channel [X]
 http://93.49.98.215:55555/Warner%20TV
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Italy 🇮🇹" tvg-status="not-working",Food Network [X]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Italy 🇮🇹" tvg-status="unstable",Food Network [X]
 http://93.49.98.215:55555/Food%20Network
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/motor-trend-us.png" group-title="Italy 🇮🇹" tvg-status="unstable",MotorTrend [X]
 http://93.49.98.215:55555/Motor%20Trend
