@@ -162,3 +162,4 @@
 | 158 | MGM+ | [>](http://40.160.24.52/EPIX/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png"/> | &nbsp; | unstable |
 | 159 | MGM+ Hits | [>](http://40.160.24.52/EPIX_2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-hits-us.png"/> | &nbsp; | unstable |
 | 160 | Sundance | [>](http://40.160.24.52/SUNDANCE/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-us.png"/> | &nbsp; | not-working |
+| 161 | First Channel America | [>](https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8) | <img height="20" src="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png"/> | &nbsp; | stable |
