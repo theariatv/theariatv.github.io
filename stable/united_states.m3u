@@ -79,3 +79,5 @@ http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
 http://40.160.24.52/BET_WEST/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-jams-us.png" group-title="United States 🇺🇸" tvg-status="stable",BET Jams
 http://40.160.24.52/BET_JAMS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png" group-title="United States 🇺🇸" tvg-status="stable",First Channel America
+https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8
