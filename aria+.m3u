@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 2
-http://149.100.11.252:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 3
-http://149.100.11.252:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 4
-http://149.100.11.252:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 5
-http://149.100.11.252:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://recordcaboverde.com/wp-content/uploads/2024/09/LOGO-VETORIZADO-BRANCO-HORIZONTAL-ok-1024x398.png" group-title="Africa 🌍" tvg-status="not-working",Record Cabo Verde
 http://41.74.140.96:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Africa 🌍" tvg-status="not-working",TVA
@@ -56,6 +48,14 @@ http://149.100.11.252:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 4
 http://149.100.11.252:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 5
+http://149.100.11.252:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 2
+http://149.100.11.252:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 3
+http://149.100.11.252:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 4
+http://149.100.11.252:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 5
 http://149.100.11.252:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bang_Bang_logo_2009.png" group-title="Albania 🇦🇱" tvg-status="unstable",Bang Bang
 https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?id=DAL_1_004&video_id=16377&token=142cda7d50870275a9ca7988ff001b32ab30709b&authority_instance_id=spectar-prd-digitalb&profile_id=1&application_installation_id=1&uuid=backoffice1&subscriber_id=1&application_id=backoffice1&detected_delivery_method=hls&playlist_template=nginx&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783
@@ -3148,11 +3148,11 @@ http:\\82.68.56.43:9981\stream\channelid\1021226135?profile=pass
 #EXTINF:-1 tvg-id="E4.+1.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/E4-%2B1-RGB-Colour-Positive-255x140.png?itok=B49Vws0Y" group-title="United Kingdom 🇬🇧" tvg-status="not-working",E4 +1
 http://86.180.115.121:1990/stream/channelid/1993018842?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png" group-title="United States 🇺🇸" tvg-status="not-working",CBS (Eastern Feed)
-http://98.111.243.7:5004/auto/v2.1
+http://4.30.180.36:8420/cbs/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png" group-title="United States 🇺🇸" tvg-status="not-working",NBC (Eastern Feed)
-http://98.111.243.7:5004/auto/v11.1
+http://4.30.180.36:8420/nbc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" group-title="United States 🇺🇸" tvg-status="not-working",ABC (Eastern feed)
-http://104.12.67.120:9981/stream/channelid/718850180?ticket=27C93D1C96D92D9E0120CDD249B7FB9993D73402&profile=pass
+http://4.30.180.36:8420/cbs/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" group-title="United States 🇺🇸" tvg-status="not-working",FOX (Eastern Feed)
 http://104.12.67.120:9981/stream/channelid/1934217021?ticket=FF7E486BC7E8A184FC157ABD2205823B22CB1519&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png" group-title="United States 🇺🇸" tvg-status="unstable",The CW (Eastern Feed)
@@ -3162,9 +3162,9 @@ http://68.65.124.50:5004/auto/v56.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png" group-title="United States 🇺🇸" tvg-status="stable",MeTV
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp" group-title="United States 🇺🇸" tvg-status="not-working",Univision
-http://104.12.67.120:9981/stream/channelid/1407252827?ticket=E943CDE17C58AA0318ABED5CF8A619F62CA806C2&profile=pass
+http://4.30.180.36:8420/wxtvdt/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png" group-title="United States 🇺🇸" tvg-status="not-working",Telemundo
-http://104.12.67.120:9981/stream/channelid/648549071?ticket=B4BFBE69C9C1D9B9FB627B0BF47FEA97FD648615&profile=pass
+http://4.30.180.36:8420/wnjudt/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Estrella_TV_2020_Logo.svg/1280px-Estrella_TV_2020_Logo.svg.png" group-title="United States 🇺🇸" tvg-status="not-working",Estrela TV
 http://104.12.67.120:9981/stream/channelid/313808151?ticket=4BA4C122665EFA1433B26C336084C1F69564FF7B&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/AFN_Family.jpg/revision/latest?cb=20230801175332" group-title="United States 🇺🇸" tvg-status="unstable",AFN Family
@@ -3338,9 +3338,9 @@ http://40.160.24.55/TEEN_NICK/index.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="United States 🇺🇸" tvg-status="unstable",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Cozi TV
-http://108.14.66.42:5004/auto/v4.2
+http://4.30.180.36:8420/cozitv/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/start-tv-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Start TV
-http://108.14.66.42:5004/auto/v2.2
+http://4.30.180.36:8420/starttv/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comet-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/movies-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Movies!
@@ -3356,9 +3356,9 @@ http://108.14.66.42:5004/auto/v31.3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png/v1/fit/w_2500,h_1330,al_c/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png" group-title="United States 🇺🇸" tvg-status="not-working",OUTLAW
 http://108.14.66.42:5004/auto/v48.4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png" group-title="United States 🇺🇸" tvg-status="not-working",Unimás
-http://108.14.66.42:5004/auto/v68.1
+http://4.30.180.36:8420/wfutdt/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telexitos-us.png" group-title="United States 🇺🇸" tvg-status="not-working",TeleXitos
-http://108.14.66.42:5004/auto/v47.2
+http://4.30.180.36:8420/telex/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universo-us.png" group-title="United States 🇺🇸" tvg-status="unstable",Universo
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="United States 🇺🇸" tvg-status="stable",FOX Weather
