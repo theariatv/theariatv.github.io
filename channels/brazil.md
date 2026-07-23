@@ -48,4 +48,4 @@
 | 44 | Record News | [>](http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-news-br.png"/> | Record.News.br | stable |
 | 45 | Tooncast | [>](http://170.83.49.66:8083/TOONCAST/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tooncast-br.png"/> | Tooncast.br | stable |
 | 46 | Cartoonito | [>](http://170.83.49.66:8083/BOOMERANG/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/cartoonito-br.png"/> | Cartoonito.br | stable |
-| 34 | BAND Sports | [>](http://131.196.103.111:8089/BANDSPORTS/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-sports-br.png"/> | Band.Sports.br | stable |
+| 47 | BAND Sports | [>](http://131.196.103.111:8089/BANDSPORTS/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-sports-br.png"/> | Band.Sports.br | stable |
