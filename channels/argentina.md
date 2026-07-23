@@ -3,7 +3,7 @@
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | TNT Sports Premium | [>](http://38.250.127.17:9800/play/a06g/index.m3u8) | <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6XTxBguw3sWNrLEPRO_eKRBvdu4FJ4sBx8FPww_e5w&s"/> | &nbsp; | not-working |
-| 2 | Telefe | [>](https://latam-cache-sv2-cdn.latamlive.net/TELEFE_AR_IP_ENC_LIVE/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png"/> | &nbsp; | not-working |
+| 2 | Telefe | [>](http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png"/> | &nbsp; | not-working |
 | 3 | El Trece | [>](https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png"/> | &nbsp; | stable |
 | 4 | TyC Sports | [>](https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png"/> | &nbsp; | stable |
 | 5 | GEN TV | [>](https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8) | <img height="20" src="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png"/> | &nbsp; | stable |
