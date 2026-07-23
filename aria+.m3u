@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 2
+http://149.100.11.252:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 3
+http://149.100.11.252:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 4
+http://149.100.11.252:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 5
+http://149.100.11.252:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://recordcaboverde.com/wp-content/uploads/2024/09/LOGO-VETORIZADO-BRANCO-HORIZONTAL-ok-1024x398.png" group-title="Africa 🌍" tvg-status="not-working",Record Cabo Verde
 http://41.74.140.96:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Africa 🌍" tvg-status="not-working",TVA
@@ -48,14 +56,6 @@ http://149.100.11.252:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 4
 http://149.100.11.252:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 5
-http://149.100.11.252:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 2
-http://149.100.11.252:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 3
-http://149.100.11.252:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 4
-http://149.100.11.252:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 5
 http://149.100.11.252:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bang_Bang_logo_2009.png" group-title="Albania 🇦🇱" tvg-status="unstable",Bang Bang
 https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?id=DAL_1_004&video_id=16377&token=142cda7d50870275a9ca7988ff001b32ab30709b&authority_instance_id=spectar-prd-digitalb&profile_id=1&application_installation_id=1&uuid=backoffice1&subscriber_id=1&application_id=backoffice1&detected_delivery_method=hls&playlist_template=nginx&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783
@@ -1783,6 +1783,8 @@ http://46.171.186.177:9981/stream/channelid/84900303?ticket=ABD35AA61F7BD155126A
 http://95.143.230.238:9981/stream/channelid/1167177042?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-world-pl.png" group-title="International 🌍" tvg-status="not-working",TVP World
 http://78.56.193.170:9981/stream/channelid/2017205348?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1GhzFH2F/1000024586-removebg-preview.png" group-title="International 🌍" tvg-status="stable",First Channel International
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.telewebion.com/channelsLogo/ZjMzNmU2NTJlZTIyZjU4ZjliMWI2ZmI3NjBjOGRkMTFmODA0ZWUzZGI4ODE2NmFhMmQyNDBkYjFiMDY0NzUzMw/default" group-title="Iran 🇮🇷" tvg-status="not-working",IRIB TV1
 https://stream2.removie.raha.af/live/smil:iribtv1.smil/chunklist_w1989776299_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.telewebion.com/channelsLogo/MzYyMzM1NmVhYjc5MmZlY2ZmNzJlMGY3ZmJjZjc5Y2UwNDkyODQxNDU4YzU5MjE0MzFlYjg4NWM4NDZiNzA5NA/default" group-title="Iran 🇮🇷" tvg-status="not-working",IRIB TV3
