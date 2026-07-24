@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 2
-http://149.100.11.252:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 3
-http://149.100.11.252:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 4
-http://149.100.11.252:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="",MBC 5
-http://149.100.11.252:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 2
 http://149.100.11.252:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 3
@@ -91,6 +83,44 @@ https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="Andorra 🇦🇩" tvg-status="not-working",RTVA
 https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-1-ae.png" group-title="Arab World 🌍" tvg-status="not-working",MBC
+http://149.100.11.252:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC 2
+http://149.100.11.252:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC 3
+http://149.100.11.252:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC 4
+http://149.100.11.252:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC 5
+http://149.100.11.252:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC Action
+http://149.100.11.252:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC Bollywood
+http://149.100.11.252:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC Drama
+http://149.100.11.252:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC Max
+http://149.100.11.252:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="Arab World 🌍" tvg-status="stable",Abu Dhabi TV
+http://149.100.11.252:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="Arab World 🌍" tvg-status="stable",National Geograhic Abu Dhabi
+http://185.104.253.35:9981/stream/channelid/2094368666?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png" group-title="Arab World 🌍" tvg-status="stable",Cartoon Network Arabic
+http://149.100.11.252:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Zee_Alwan_2025.jpg/250px-Zee_Alwan_2025.jpg" group-title="Arab World 🌍" tvg-status="stable",Zee Alwan
+http://149.100.11.252:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Arab World 🌍" tvg-status="not-working",Spacetoon
+http://185.104.253.35:9981/stream/channelid/976323078?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/0/05/Majid_TV_logo_2023.svg/revision/latest?cb=20250502025850" group-title="Arab World 🌍" tvg-status="stable",Majid Kids
+http://149.100.11.252:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="Arab World 🌍" tvg-status="not-working",Baraem
+http://185.104.253.35:9981/stream/channelid/553480487?profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://idsb.tmgrup.com.tr/ly/uploads/images/2025/04/04/376150.jpg" group-title="Arab World 🌍" tvg-status="not-working",TRT Arabi
+http://149.100.11.252:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" group-title="Arab World 🌍" tvg-status="stable",Palestinian Satellite Channel
+http://149.100.11.252:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pchrgaza.org/wp-content/uploads/2016/03/12.jpg" group-title="Arab World 🌍" tvg-status="stable",Palestine Today
+http://149.100.11.252:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6XTxBguw3sWNrLEPRO_eKRBvdu4FJ4sBx8FPww_e5w&s" group-title="Argentina 🇦🇷" tvg-status="not-working",TNT Sports Premium
 http://38.250.127.17:9800/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="Argentina 🇦🇷" tvg-status="unstable",Telefe
