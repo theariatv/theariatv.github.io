@@ -2995,26 +2995,6 @@ https://iptv.prosto.tv/id11/video.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 #EXTINF:-1 tvg-id="4f3dab16e904e3f934eff63263af16d5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Uncategorized" tvg-status="not-working",KBS Drama
 http://121.143.97.131:9981/stream/channelid/380321103?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="United Arab Emirates 🇦🇪" tvg-status="not-working",Abu Dhabi TV
-http://185.104.253.35:9981/stream/channelid/1880551777?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="United Arab Emirates 🇦🇪" tvg-status="not-working",Baraem
-http://185.104.253.35:9981/stream/channelid/553480487?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png" group-title="United Arab Emirates 🇦🇪" tvg-status="not-working",Cartoon Network Arabic
-http://185.104.253.35:9981/stream/channelid/955795570?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-1-ae.png" group-title="United Arab Emirates 🇦🇪" tvg-status="not-working",MBC 1
-http://185.104.253.35:9981/stream/channelid/620286514?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-2-ae.png" group-title="United Arab Emirates 🇦🇪" tvg-status="not-working",MBC 2
-http://185.104.253.35:9981/stream/channelid/457905501?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-3-ae.png" group-title="United Arab Emirates 🇦🇪" tvg-status="not-working",MBC 3
-http://185.104.253.35:9981/stream/channelid/1938078284?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-4-ae.png" group-title="United Arab Emirates 🇦🇪" tvg-status="not-working",MBC 4
-http://185.104.253.35:9981/stream/channelid/1632864303?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-4-ae.png" group-title="United Arab Emirates 🇦🇪" tvg-status="not-working",MBC Drama
-http://185.104.253.35:9981/stream/channelid/1555012233?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png" group-title="United Arab Emirates 🇦🇪" tvg-status="not-working",National Geograhic Abu Dhabi
-http://185.104.253.35:9981/stream/channelid/2094368666?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="United Arab Emirates 🇦🇪" tvg-status="not-working",Spacetoon
-http://185.104.253.35:9981/stream/channelid/976323078?profile=pass
 #EXTINF:-1 tvg-id="MTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",MTV
 https://a1xs.vip/1000037
 #EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png" group-title="United Kingdom 🇬🇧" tvg-status="not-working",Discovery
