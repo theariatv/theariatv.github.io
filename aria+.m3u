@@ -85,21 +85,21 @@ https://live1.mediadesk.al/oranews.m3u8
 https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-1-ae.png" group-title="Arab World 🌍" tvg-status="not-working",MBC
 http://149.100.11.252:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/MBC2_Logo.svg" group-title="Arab World 🌍" tvg-status="stable",MBC 2
 http://149.100.11.252:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-3-ae.png" group-title="Arab World 🌍" tvg-status="stable",MBC 3
 http://149.100.11.252:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-4-ae.png" group-title="Arab World 🌍" tvg-status="stable",MBC 4
 http://149.100.11.252:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-5-ae.png" group-title="Arab World 🌍" tvg-status="stable",MBC 5
 http://149.100.11.252:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC Action
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-action-ae.png" group-title="Arab World 🌍" tvg-status="stable",MBC Action
 http://149.100.11.252:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-bollywood-ae.png" group-title="Arab World 🌍" tvg-status="stable",MBC Bollywood
 http://149.100.11.252:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC Drama
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-bollywood-ae.png" group-title="Arab World 🌍" tvg-status="stable",MBC Drama
 http://149.100.11.252:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Arab World 🌍" tvg-status="",MBC Max
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-max-ae.png" group-title="Arab World 🌍" tvg-status="stable",MBC Max
 http://149.100.11.252:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-tv-ae.png" group-title="Arab World 🌍" tvg-status="stable",Abu Dhabi TV
 http://149.100.11.252:8000/play/a00m/index.m3u8
