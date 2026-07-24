@@ -21,4 +21,5 @@
 | 17 | TRT Arabi | [>](http://149.100.11.252:8000/play/a03v/index.m3u8) | <img height="20" src="https://idsb.tmgrup.com.tr/ly/uploads/images/2025/04/04/376150.jpg"/> | &nbsp; | not-working |
 | 18 | Palestinian Satellite Channel | [>](http://149.100.11.252:8000/play/a012/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png"/> | &nbsp; | stable |
 | 19 | Palestine Today | [>](http://149.100.11.252:8000/play/a044/index.m3u8) | <img height="20" src="https://pchrgaza.org/wp-content/uploads/2016/03/12.jpg"/> | &nbsp; | stable |
+| 20 | beJunior | [>](http://45.139.122.199:2095/live/sCy2hczQ/jt6tXnd/1509543.ts) | <img height="20" src="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/beJUNIOR-1.png"/> | &nbsp; | unstable |
 
