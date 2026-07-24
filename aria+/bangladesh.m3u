@@ -3,7 +3,7 @@
 https://playontv.online/vengardlive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",News8
 https://playontv.online/news8live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",Raat Din
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="not-working",Raat Din
 https://playontv.online/raatdinbangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",BTV
 https://playontv.online/btvlive/index.m3u8

@@ -29,9 +29,5 @@ https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Record.News.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/record-news-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Record News
 http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tooncast-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Tooncast
-http://170.83.49.66:8083/TOONCAST/index.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/cartoonito-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",Cartoonito
-http://170.83.49.66:8083/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="Band.Sports.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/band-sports-br.png" group-title="Brazil 🇧🇷" tvg-status="stable",BAND Sports
 http://131.196.103.111:8089/BANDSPORTS/index.m3u8

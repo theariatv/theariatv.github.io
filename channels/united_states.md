@@ -2,15 +2,15 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | CBS (Eastern Feed) | [>](http://4.30.180.36:8420/cbs/index.m3u8?token=test) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | not-working |
-| 2 | NBC (Eastern Feed) | [>](http://4.30.180.36:8420/nbc/index.m3u8?token=test) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | not-working |
-| 3 | ABC (Eastern feed) | [>](http://4.30.180.36:8420/cbs/index.m3u8?token=test) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | not-working |
+| 1 | CBS (Eastern Feed) | [>](http://4.30.180.36:8420/cbs/index.m3u8?token=test) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/> | &nbsp; | unstable |
+| 2 | NBC (Eastern Feed) | [>](http://4.30.180.36:8420/nbc/index.m3u8?token=test) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/960px-NBC_logo_2022.svg.png"/> | &nbsp; | unstable |
+| 3 | ABC (Eastern feed) | [>](http://4.30.180.36:8420/cbs/index.m3u8?token=test) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png"/> | &nbsp; | unstable |
 | 4 | FOX (Eastern Feed) | [>](http://104.12.67.120:9981/stream/channelid/1934217021?ticket=FF7E486BC7E8A184FC157ABD2205823B22CB1519&profile=pass) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"/> | &nbsp; | not-working |
 | 5 | The CW (Eastern Feed) | [>](http://40.160.24.52/CW/index.m3u8) | <img height="20" src="https://cdn.tvpassport.com/image/station/240x135/v2/s53098_h15_ac.png"/> | &nbsp; | unstable |
 | 6 | MyNetworkTV (Eastern Feed) | [>](http://68.65.124.50:5004/auto/v56.3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png"/> | &nbsp; | not-working |
 | 7 | MeTV | [>](https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/250px-MeTV_Logo.svg.png"/> | &nbsp; | stable |
-| 8 | Univision | [>](http://4.30.180.36:8420/wxtvdt/index.m3u8?token=test) | <img height="20" src="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp"/> | &nbsp; | not-working |
-| 9 | Telemundo | [>](http://4.30.180.36:8420/wnjudt/index.m3u8?token=test) | <img height="20" src="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png"/> | &nbsp; | not-working |
+| 8 | Univision | [>](http://4.30.180.36:8420/wxtvdt/index.m3u8?token=test) | <img height="20" src="https://www.univision.ca/wp-content/uploads/2025/05/unvision-logo-without-words.webp"/> | &nbsp; | unstable |
+| 9 | Telemundo | [>](http://4.30.180.36:8420/wnjudt/index.m3u8?token=test) | <img height="20" src="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-HD.png"/> | &nbsp; | unstable |
 | 10 | Estrela TV | [>](http://104.12.67.120:9981/stream/channelid/313808151?ticket=4BA4C122665EFA1433B26C336084C1F69564FF7B&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Estrella_TV_2020_Logo.svg/1280px-Estrella_TV_2020_Logo.svg.png"/> | &nbsp; | not-working |
 | 11 | AFN Family | [>](https://bbb.exoadash.com/TVD2810/index.mpd) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/d/d4/AFN_Family.jpg/revision/latest?cb=20230801175332"/> | &nbsp; | unstable |
 | 12 | AFN Movie | [>](https://bbb.exoadash.com/TVD2812/index.mpd) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/3a/AFN_Movie.jpg/revision/latest?cb=20230816172837"/> | &nbsp; | unstable |
@@ -87,7 +87,7 @@
 | 83 | Boomerang | [>](http://40.160.24.52/BOOMERANG/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png"/> | &nbsp; | unstable |
 | 84 | MeTV Toons | [>](http://173.229.4.240:5004/auto/v26.7) | <img height="20" src="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/metv_toons_bw.png"/> | &nbsp; | unstable |
 | 85 | PBS Kids (Eastern Feed) | [>](https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"/> | &nbsp; | stable |
-| 86 | PBS Kids (Hawaii Feed) | [>](https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"/> | &nbsp; | stable |
+| 86 | PBS Kids (Hawaii Feed) | [>](https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"/> | &nbsp; | not-working |
 | 87 | Fox News Channel | [>](http://206.212.244.63/67/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png"/> | &nbsp; | unstable |
 | 88 | MS NOW | [>](https://tvpass.org/live/MSNBC/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnow-us.png"/> | &nbsp; | not-working |
 | 89 | Newsmax | [>](https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-us.png"/> | &nbsp; | unstable |
@@ -97,8 +97,8 @@
 | 93 | C-SPAN 2 | [>](https://tvpass.org/live/CSPAN2/sd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png"/> | &nbsp; | not-working |
 | 94 | TeenNick | [>](http://40.160.24.55/TEEN_NICK/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png"/> | &nbsp; | unstable |
 | 95 | Court TV | [>](https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png"/> | CourtTV.us | unstable |
-| 96 | Cozi TV | [>](http://4.30.180.36:8420/cozitv/index.m3u8?token=test) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png"/> | &nbsp; | not-working |
-| 97 | Start TV | [>](http://4.30.180.36:8420/starttv/index.m3u8?token=test) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/start-tv-us.png"/> | &nbsp; | not-working |
+| 96 | Cozi TV | [>](http://4.30.180.36:8420/cozitv/index.m3u8?token=test) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png"/> | &nbsp; | unstable |
+| 97 | Start TV | [>](http://4.30.180.36:8420/starttv/index.m3u8?token=test) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/start-tv-us.png"/> | &nbsp; | unstable |
 | 98 | Comet | [>](https://fast-channels.sinclairstoryline.com/COMET/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comet-us.png"/> | &nbsp; | unstable |
 | 99 | Movies! | [>](https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/movies-us.png"/> | &nbsp; | unstable |
 | 100 | Catchy Comedy | [>](https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/catchy-comedy-us.png"/> | &nbsp; | unstable |
@@ -106,8 +106,8 @@
 | 102 | Heroes and Icons | [>](http://108.14.66.42:5004/auto/v9.4) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/heroes-and-icons-us.png"/> | &nbsp; | not-working |
 | 103 | Grit | [>](http://108.14.66.42:5004/auto/v31.3) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png"/> | &nbsp; | not-working |
 | 104 | OUTLAW | [>](http://108.14.66.42:5004/auto/v48.4) | <img height="20" src="https://static.wixstatic.com/media/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png/v1/fit/w_2500,h_1330,al_c/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png"/> | &nbsp; | not-working |
-| 105 | Unimás | [>](http://4.30.180.36:8420/wfutdt/index.m3u8?token=test) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png"/> | &nbsp; | not-working |
-| 106 | TeleXitos | [>](http://4.30.180.36:8420/telex/index.m3u8?token=test) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telexitos-us.png"/> | &nbsp; | not-working |
+| 105 | Unimás | [>](http://4.30.180.36:8420/wfutdt/index.m3u8?token=test) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png"/> | &nbsp; | unstable |
+| 106 | TeleXitos | [>](http://4.30.180.36:8420/telex/index.m3u8?token=test) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telexitos-us.png"/> | &nbsp; | unstable |
 | 107 | Universo | [>](http://187.102.210.46/universo/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universo-us.png"/> | &nbsp; | unstable |
 | 108 | FOX Weather | [>](https://247wlive.foxweather.com/stream/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png"/> | FoxWeather.us | stable |
 | 109 | HSN East | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png"/> | HSN.us | stable |

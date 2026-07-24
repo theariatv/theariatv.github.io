@@ -2,9 +2,9 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | ERT 1 | [>](http://185.102.171.218/Ert1HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png"/> | &nbsp; | unstable |
+| 1 | ERT 1 | [>](http://185.102.171.218/Ert1HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/250px-ERT1_logo_2020.svg.png"/> | &nbsp; | not-working |
 | 2 | ERT 2 Sport | [>](http://185.102.171.218/Ert21HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/250px-ERT2_logo_2020.svg.png"/> | &nbsp; | not-working |
-| 3 | ERT 3 | [>](http://185.102.171.218/Ert3HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png"/> | &nbsp; | unstable |
+| 3 | ERT 3 | [>](http://185.102.171.218/Ert3HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/250px-ERT3_logo_2020.svg.png"/> | &nbsp; | not-working |
 | 4 | ERT News | [>](http://185.102.171.218/ErtNews/index.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/55/ERT_News_%282022%29.svg/revision/latest/scale-to-width-down/284?cb=20230818083854"/> | &nbsp; | unstable |
 | 5 | ANT1 | [>](http://193.92.205.210:666/stream/channelid/1798735192?ticket=B0E589720454D7A886243B52EE9B585997FAC6EC&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg"/> | &nbsp; | not-working |
 | 6 | Alpha | [>](http://193.92.205.210:666/stream/channelid/316270598?ticket=4EAFCB6CC543B46244367B2AF5D1F70BD8E64CB8&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png"/> | &nbsp; | not-working |
@@ -15,8 +15,8 @@
 | 11 | Star | [>](http://185.102.171.218/StarHD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Star_Channel_Greece_logo.svg"/> | &nbsp; | unstable |
 | 12 | OPEN Beyond | [>](http://193.92.205.210:666/stream/channelid/2093067483?ticket=6A2C592AA031EABF9B5D2EB17874AAD15B94691B&profile=pass) | <img height="20" src="https://upload.wikimedia.org/wikipedia/el/e/e5/Open_TV_logo.png"/> | &nbsp; | not-working |
 | 13 | Keedo | [>](http://185.102.171.218/Nickelodeon/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Keedoo.svg"/> | &nbsp; | unstable |
-| 14 | Disney Channel | [>](http://185.102.171.218/DisneyChannel/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1280px-2022_Disney_Channel_logo.svg.png"/> | &nbsp; | unstable |
-| 15 | FX | [>](http://185.102.171.218/FOX/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/250px-FX_Logo_2023.svg.png"/> | &nbsp; | unstable |
-| 16 | Disney Jr. | [>](http://185.102.171.218/DisneyJunior/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/2024_Disney_Jr._Logo_Second_Version.svg"/> | &nbsp; | unstable |
-| 17 | Cartoonito | [>](http://185.102.171.218/DisneyJunior/index.m3u8) | <img height="20" src="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo.png"/> | &nbsp; | unstable |
-| 18 | Smile | [>](http://185.102.171.218/DisneyJunior/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png"/> | &nbsp; | unstable |
+| 14 | Disney Channel | [>](http://185.102.171.218/DisneyChannel/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1280px-2022_Disney_Channel_logo.svg.png"/> | &nbsp; | not-working |
+| 15 | FX | [>](http://185.102.171.218/FOX/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/250px-FX_Logo_2023.svg.png"/> | &nbsp; | not-working |
+| 16 | Disney Jr. | [>](http://185.102.171.218/DisneyJunior/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/2024_Disney_Jr._Logo_Second_Version.svg"/> | &nbsp; | not-working |
+| 17 | Cartoonito | [>](http://185.102.171.218/DisneyJunior/index.m3u8) | <img height="20" src="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo.png"/> | &nbsp; | not-working |
+| 18 | Smile | [>](http://185.102.171.218/DisneyJunior/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png"/> | &nbsp; | not-working |
