@@ -37,3 +37,5 @@ http://149.100.11.252:8000/play/a03v/index.m3u8
 http://149.100.11.252:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pchrgaza.org/wp-content/uploads/2016/03/12.jpg" group-title="Arab World 🌍" tvg-status="stable",Palestine Today
 http://149.100.11.252:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/beJUNIOR-1.png" group-title="Arab World 🌍" tvg-status="unstable",beJunior
+http://45.139.122.199:2095/live/sCy2hczQ/jt6tXnd/1509543.ts
