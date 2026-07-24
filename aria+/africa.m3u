@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 2
+http://149.100.11.252:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 3
+http://149.100.11.252:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 4
+http://149.100.11.252:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="stable" tvg-logo="" group-title="Africa 🌍" tvg-status="unstable",MBC 5
+http://149.100.11.252:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://recordcaboverde.com/wp-content/uploads/2024/09/LOGO-VETORIZADO-BRANCO-HORIZONTAL-ok-1024x398.png" group-title="Africa 🌍" tvg-status="not-working",Record Cabo Verde
 http://41.74.140.96:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Africa 🌍" tvg-status="not-working",TVA

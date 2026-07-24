@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bang_Bang_logo_2009.png" group-title="Albania 🇦🇱" tvg-status="stable",Bang Bang
+https://ranapkz.site/RANAPK33k/TVD/play.php?id=193
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/%C3%87ufo_logo.png" group-title="Albania 🇦🇱" tvg-status="stable",Cufo
+https://ranapkz.site/RANAPK33k/TVD/play.php?id=194
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tring_Tring_TV.png/960px-Tring_Tring_TV.png" group-title="Albania 🇦🇱" tvg-status="stable",Tring Tring
+https://ranapkz.site/RANAPK33k/TVD/play.php?id=195
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/b/b2/Tring_Kids_logo.webp/revision/latest?cb=20230804040037" group-title="Albania 🇦🇱" tvg-status="stable",Tring Kids
+https://ranapkz.site/RANAPK33k/TVD/play.php?id=196
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/vizion-plus-al.png" group-title="Albania 🇦🇱" tvg-status="stable",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/news24-al.png" group-title="Albania 🇦🇱" tvg-status="stable",News 24
@@ -41,13 +49,13 @@ https://web12.mdn.ors.at/orf/web12/qxb/manifest.m3u8
 http://212.95.30.186:9981/stream/channelid/719855917?profile=pass
 #EXTINF:-1 tvg-id="Kabel Eins Austria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/ded14cb4fe1f98bf27f4e628e1cb8622ac3c53ee/countries/austria/kabel-eins-austria-at.png" group-title="Austria 🇦🇹" tvg-status="stable",Kabel Eins Austria
 http://212.95.30.186:9981/stream/channelid/1665759621?profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",News Venguard
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News Venguard
 https://playontv.online/vengardlive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",News8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News8
 https://playontv.online/news8live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",BTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",BTV
 https://playontv.online/btvlive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",News Venguard
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News Venguard
 https://playontv.online/riddhinetworklive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/la-une-be.png" group-title="Belgium 🇧🇪" tvg-status="stable",La Une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8

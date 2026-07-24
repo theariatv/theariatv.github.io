@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",News Venguard
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News Venguard
 https://playontv.online/vengardlive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",News8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News8
 https://playontv.online/news8live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",BTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",BTV
 https://playontv.online/btvlive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh 🇧🇩" tvg-status="stable",News Venguard
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangladesh" tvg-status="stable",News Venguard
 https://playontv.online/riddhinetworklive/index.m3u8

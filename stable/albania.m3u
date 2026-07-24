@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bang_Bang_logo_2009.png" group-title="Albania 🇦🇱" tvg-status="stable",Bang Bang
+https://ranapkz.site/RANAPK33k/TVD/play.php?id=193
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/%C3%87ufo_logo.png" group-title="Albania 🇦🇱" tvg-status="stable",Cufo
+https://ranapkz.site/RANAPK33k/TVD/play.php?id=194
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tring_Tring_TV.png/960px-Tring_Tring_TV.png" group-title="Albania 🇦🇱" tvg-status="stable",Tring Tring
+https://ranapkz.site/RANAPK33k/TVD/play.php?id=195
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/b/b2/Tring_Kids_logo.webp/revision/latest?cb=20230804040037" group-title="Albania 🇦🇱" tvg-status="stable",Tring Kids
+https://ranapkz.site/RANAPK33k/TVD/play.php?id=196
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/vizion-plus-al.png" group-title="Albania 🇦🇱" tvg-status="stable",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/albania/news24-al.png" group-title="Albania 🇦🇱" tvg-status="stable",News 24
